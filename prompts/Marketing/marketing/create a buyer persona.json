@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ludo SALENNE",
+  "AuthorURL": "https://www.youtube.com/c/LudovicSalenne",
+  "Title": "创建买家角色扮演",
+  "Category": "marketing",
+  "Teaser": "点击一次即可创建完整的购买人设！",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-15T12:36:53.344Z",
+  "Help": "",
+  "ID": "1801564462646562816",
+  "PromptHint": "[你的产品或服务-你的位置]",
+  "PromptPackageID": "0",
+  "Prompt": "所有的输出都应该使用[TARGETLANGUAGE]。\n\n作为一名在[VOTREDOMAINED'ACTIVITÉ]领域专门从事市场营销和市场研究的专家，你能为一家市场位于[VOTREZONEGÉOGRAPHIQUE]地区的公司创建一个完整的买家人设吗？\n\n仅使用以下6部分结构化您的回答，并确保将它们分开：在表格中列出社会人口标准，给出买家人设的简短描述，为心理状态创建一个表格，为购买行为创建另一个表，列出5个买家人设可能遇到的关键问题，以问题形式列出我的产品是其中问题的解决方案，以及列出5个主要亮点来说服买家购买。\n\n请用分析和严肃的写作风格用法语撰写您的答案。"
+}

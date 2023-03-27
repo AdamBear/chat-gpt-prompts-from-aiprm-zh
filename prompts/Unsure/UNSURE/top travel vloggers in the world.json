@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hemant",
+  "AuthorURL": "https://digiflygoals.com/",
+  "Title": "世界顶级旅游视频博主",
+  "Category": "UNSURE",
+  "Teaser": "了解著名的旅游视频博主们。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-02T06:28:50.913Z",
+  "Help": "",
+  "ID": "1796760799960891392",
+  "PromptHint": "了解顶级旅游视频博主的文字。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是用150字或最多1000个字符总结我给您的文章。所有输出都必须是[TARGETLANGUAGE]。要总结的文本是：<<<[PROMPT]>>>"
+}

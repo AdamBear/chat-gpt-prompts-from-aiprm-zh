@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Piyush from SEO ORB",
+  "AuthorURL": "https://seoorb.com",
+  "Title": "网页优化关键词",
+  "Category": "keywords",
+  "Teaser": "根据搜索控制台的落地页输出数据，创建一个涵盖语义分析、LSI以及NLP[关键词]的列表，用于网页内优化。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T08:25:46.224Z",
+  "Help": "",
+  "ID": "1788455303403266048",
+  "PromptHint": "【您从搜索控制台导出的关键词列表】",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的请求。所有输出应该是用[TARGETLANGUAGE]，而且是分别列出的项目符号列表。假装您是SEO专家，研究此[PROMPT]列表，并从该列表中输出一份紧凑的语群、LSI和NLP关键词列表，以优化着陆页的关键词。"
+}

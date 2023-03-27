@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Piyush from SEO ORB",
+  "AuthorURL": "https://seoorb.com",
+  "Title": "重写内容以插入关键词",
+  "Category": "writing",
+  "Teaser": "将现有的内容进行改写，引入新的关键词进行页面优化。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-18T13:04:08.838Z",
+  "Help": "",
+  "ID": "1792511625765580800",
+  "PromptHint": "把1.段落重新写一遍，并且2.介绍关键词(逗号分隔)",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的提示。请使用[TARGETLANGUAGE]输出。假装你是SEO文案撰写人，使用尽可能少的编辑重新编写下面的段落，并介绍我给出的要插入的关键词。请确保保留相似的字数。[PROMPT]"
+}

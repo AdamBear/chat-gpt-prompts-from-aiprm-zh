@@ -1,0 +1,14 @@
+{
+  "AuthorName": "JJR429",
+  "AuthorURL": "https://cappstudios.com",
+  "Title": "完全优化的元描述",
+  "Category": "writing",
+  "Teaser": "创建最佳的元描述，完全优化关键字的SEO。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-11T15:25:58.561Z",
+  "Help": "",
+  "ID": "1800157463308406784",
+  "PromptHint": "请在这里放置您的关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "请您以文案写作人的身份，用目标语言撰写[PROMPT]的元描述，字数不超过150个字符，不要使用标签，需在描述中包含[PROMPT]，同时需考虑SEO目的。"
+}

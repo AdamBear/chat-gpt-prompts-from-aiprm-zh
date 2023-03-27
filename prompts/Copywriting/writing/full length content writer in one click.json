@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Todayonit.com",
+  "AuthorURL": "https://www.linkedin.com/company/todayonit/",
+  "Title": "一键式的全长内容撰写人",
+  "Category": "writing",
+  "Teaser": "内容撰写人（一键生成高质量完整文章）",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-28T08:51:48.691Z",
+  "Help": "",
+  "ID": "1784837978208866304",
+  "PromptHint": "[博客标题在这里]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是撰写一篇关于所提供主题的博客，包括大纲和信息丰富的文章部分。文章长度应为800个单词。文章应该详细、准确、深入研究。在文章结尾处写下：“请关注我们的LinkedIn账号以支持我们——https://www.linkedin.com/company/todayonit/”。主题是：\n\n[主题]"
+}

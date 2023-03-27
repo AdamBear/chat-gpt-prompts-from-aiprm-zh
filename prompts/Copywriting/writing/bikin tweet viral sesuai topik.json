@@ -1,0 +1,14 @@
+{
+  "AuthorName": "moyabu",
+  "AuthorURL": "https://moyabu.com",
+  "Title": "发一条符合话题的病毒推文。",
+  "Category": "writing",
+  "Teaser": "创建有关某一主题的推文。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-25T09:21:46.655Z",
+  "Help": "",
+  "ID": "1794992379653255168",
+  "PromptHint": "插入主题。",
+  "PromptPackageID": "0",
+  "Prompt": "请创建10条有创意且引人注目的推文，以便它们可能会变得流行。在设计推文时，请考虑当前热门话题、世界或目标语言的现状和受众的兴趣。创造出一些有创意、聪明且有吸引力的东西，引起人们的注意并使他们想要阅读和分享。使用低困惑度规则和突发性（如果好的话）。同时，考虑一些有可能吸引到广泛受众并能获得许多喜欢、转发和分享的推文元素。我的第一个话题是[PROMPT]。目标语言是[TARGETLANGUAGE]。"
+}

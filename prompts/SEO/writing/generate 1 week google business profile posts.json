@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Soma",
+  "AuthorURL": "https://rankworks.com/",
+  "Title": "生成1周谷歌商业档案帖子。",
+  "Category": "writing",
+  "Teaser": "从星期一到星期天生成一周优化的谷歌商家资料帖子。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-14T20:28:36.85Z",
+  "Help": "",
+  "ID": "1801320788289388544",
+  "PromptHint": "[提供的服务][名字和地点][受众群体][关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "模拟作为本土英语语言专家，根据要求进行详细的阐述并扩展内容。创建一周的文章（包括星期），每篇文章的字数在700到1000个字符之间。在每篇文章下添加相关的标签。我将提供业务更新，需要撰写的内容，以及业务名称、位置、受众和关键词：\n所有输出都将以[TARGETLANGUAGE]提供。\n[PROMPT]"
+}

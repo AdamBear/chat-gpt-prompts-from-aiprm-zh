@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alejandro Muñoz",
+  "AuthorURL": "http://amlfc.es",
+  "Title": "运动科学英文校对员",
+  "Category": "writing",
+  "Teaser": "重写一篇科学论文段落，作为体育科学专业校对专家。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T10:57:39.671Z",
+  "Help": "",
+  "ID": "1801539491132080128",
+  "PromptHint": "只翻译下面这句话成[TARGETLANGUAGE]，不要翻译方括号[]中的单词。\n\n[text]",
+  "PromptPackageID": "0",
+  "Prompt": "将一篇科学论文的段落重写为体育科学专业的专业校对专家。使用自信的语气和学术写作风格。删减冗余内容。如果有引文的情况下请保持不变。尽量使文本更简短，更简洁。使用句子之间的联系。输出应为[TARGETLANGUAGE]。"
+}

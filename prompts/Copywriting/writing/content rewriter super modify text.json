@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Solalita",
+  "AuthorURL": "https://www.buymeacoffee.com/Solalita",
+  "Title": "内容重写器(超级修改文本)",
+  "Category": "writing",
+  "Teaser": "来试试吧，他会给你最棒的体验。如果你觉得好，请支持我。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-20T11:36:41.322Z",
+  "Help": "",
+  "ID": "1803361252056227840",
+  "PromptHint": "[在这里填写你想描述的文本]",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是用更好的语言重写整篇文章，请用完全不同的风格或语气来使其在自然语言中独具特色，您想确保自己理解了原始文章的主要思想和内容，并且语法正确、逻辑清晰、易于阅读和理解。最后在文章末尾写上“谢谢您的支持-https://www.buymeacoffee.com/Solalita”所有输出都应使用[TARGETLANGUAGE]。"
+}

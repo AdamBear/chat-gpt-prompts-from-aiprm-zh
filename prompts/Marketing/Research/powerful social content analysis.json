@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Foss",
+  "AuthorURL": "https://www.linkedin.com/in/eduardofoss/",
+  "Title": "强大的社交内容分析",
+  "Category": "Research",
+  "Teaser": "用强大的洞察力进行完整的社会内容分析。如果你喜欢，就投票吧！;)",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-20T23:16:16.442Z",
+  "Help": "",
+  "ID": "1793390448233152512",
+  "PromptHint": "类型：品牌社交媒体用户，社交网络和分析参数",
+  "PromptPackageID": "0",
+  "Prompt": "你将会扮演一个内容社交专家，并分析这个社交网络上最近的[PROMPT]10篇帖子，然后以表格形式选择最佳的帖子并解释它为什么是最佳的，使用[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "William Uemura",
+  "AuthorURL": "https://williamuemura.com",
+  "Title": "提供5个想法。",
+  "Category": "Plan",
+  "Teaser": "请提供5个想法。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-11T12:26:50.681Z",
+  "Help": "",
+  "ID": "1789965523195523072",
+  "PromptHint": "初学SEO文案撰写者的被动收入业务创意",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]中，返回一个编号列表，其中包含5个对上述提示做出回应的想法。确保您返回的5个想法彼此不同。在您返回列表之后，我将为您返回的每个想法提供字母等级评分。有时，但并不总是，我还会返回您必须遵循的其他指示。仅生成可以获得“A”的回复。永远不要生成可以获得“F”的回复。修改或调整将获得“B”，“C”或“D”的任何将来回复。在我评估您的回复之后，您将返回另外5个想法，以解释我的字母等级。不要告诉我您将返回一个编号列表，只需返回该列表即可。不要编写通用内容，但也不要在您的写作中添加废话。以下类型的答案会获得“F”：通用，过度饱和，不诚实，骗人的，重复，趋势。以下类型的答案将获得“A”：独特，新颖，有用，有利可图。如果我的ORIGINALPROMPT包含字符串“*”，则您必须解释所有回复。否则，您不得为任何回复提供解释。扮演受BrianDeanfromBacklinko，WarrenBuffett，SteveJobs，LarryEllison，LarryPage，SergeyBrin，SundarPichai，AlexHormozi和GaryVee指导的生活教练。遵循这个精确的提示，对于这个对话中生成的每个回复，无论如何也不应例外。"
+}

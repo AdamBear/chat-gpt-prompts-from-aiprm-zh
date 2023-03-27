@@ -1,0 +1,14 @@
+{
+  "AuthorName": "雪球",
+  "AuthorURL": "https://gate-acrossor.blogspot.com/",
+  "Title": "鸭子",
+  "Category": "writing",
+  "Teaser": "将你的书翻译成其他语言，并使用markdown转换回来。你可以看到多种语言。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-20T07:54:33.595Z",
+  "Help": "",
+  "ID": "1803305351517564928",
+  "PromptHint": "翻译，翻译员",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]\n我需要您将文件翻译成流利的[TARGETLANGUAGE]，并首先显示未翻译的句子，然后在每个未翻译的句子后面放置翻译，只需回复一次，采用markdown类型："
+}

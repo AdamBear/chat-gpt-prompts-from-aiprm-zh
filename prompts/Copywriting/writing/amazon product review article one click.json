@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vishal Jaiswal",
+  "AuthorURL": "https://www.provishal.com/",
+  "Title": "亚马逊产品评论文章[一键式]",
+  "Category": "writing",
+  "Teaser": "为您的博客或产品评论网站撰写简短而有吸引力的SEO友好型产品评论文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-06T15:31:27.862Z",
+  "Help": "",
+  "ID": "1788200044932104192",
+  "PromptHint": "输入产品名称",
+  "PromptPackageID": "0",
+  "Prompt": "产品名称：[PROMPT]\n\n【提示】描述（200字）：\n要点特征（逐点）：\n优点（逐点）：\n缺点（逐点）：\n结论：\n\n将所有输出写入[TARGETLANGUAGE]。"
+}

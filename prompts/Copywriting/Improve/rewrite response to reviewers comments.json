@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Zhuofu Pan",
+  "AuthorURL": "https://github.com/zhuofupan",
+  "Title": "重写对审稿人评论的回复",
+  "Category": "Improve",
+  "Teaser": "重写您对审稿人意见的回复。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-17T09:41:24.491Z",
+  "Help": "",
+  "ID": "1802245077167497216",
+  "PromptHint": "评论人的评语和你的原始回答",
+  "PromptPackageID": "0",
+  "Prompt": "我需要回复审稿人的意见，以满足IEEETransactions期刊的出版标准。我需要您充当目标语言的翻译，拼写校对者，语法检查者和修辞改善者。我会给您审稿人的评论和我的原始回复。您的任务是用更优雅，更精致的目标语言重写我的回复，确保重新构造的句子更加友好和学术。审稿人的评论和我的原始回复如下：\n\n[PROMPT]"
+}

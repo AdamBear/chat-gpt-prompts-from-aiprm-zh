@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Daniel Peña Silva",
+  "AuthorURL": "https://www.linkedin.com/in/danielsilva73/",
+  "Title": "你城镇的接下来的5个本地节假日是什么？",
+  "Category": "Plan",
+  "Teaser": "展示您接下来的五天休息日，不包括工作或本地节假日。这样，您就可以计划您的假期、外出等等。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-13T17:42:52.119Z",
+  "Help": "",
+  "ID": "1800916689198768128",
+  "PromptHint": "告诉我你的城市或城镇（例如，纽约或毕尔巴鄂）。",
+  "PromptPackageID": "0",
+  "Prompt": "<<<我知道你现在无法访问实时数据，但请给我在[TARGETLANGUAGE]从今天起的城市[PROMPT]中的下5个假日。>>>"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "More Free Tools",
+  "AuthorURL": "https://bit.ly/m/Free-Tools",
+  "Title": "发现所有类型的最受欢迎的内容",
+  "Category": "Outreach",
+  "Teaser": "我会提供关于任何主题的最受欢迎的内容类型。只需输入一个主题就能看到魔法。如果您喜欢，请点赞，这样我就可以提供更多的免费工具。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T13:00:38.806Z",
+  "Help": "",
+  "ID": "1793235520558718976",
+  "PromptHint": "输入任何主题。",
+  "PromptPackageID": "0",
+  "Prompt": "我的问题是什么[PROMPT]中最受欢迎的所有类型的内容？\n请不要重复我的提示。不要提醒我我要求你什么。不要道歉。不要自我参照。\n请采取最好的行动。所有输出必须是[TARGETLANGUAGE]。"
+}

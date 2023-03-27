@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sneakky Klean",
+  "AuthorURL": "https://www.youtube.com/@sneakkyklean/about",
+  "Title": "怎么清洗你的运动鞋。",
+  "Category": "writing",
+  "Teaser": "了解如何清洗你的运动鞋。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-10T15:05:38.897Z",
+  "Help": "",
+  "ID": "1799789959801208832",
+  "PromptHint": "描述你的运动鞋。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是根据关键词写下清洁运动鞋的步骤。在提供说明之前，以项目符号的形式列出所需的所有工具和产品清单。在产品清单结尾处添加以下链接：https://sneakky.com/shop/。所有输出均应为：[TARGETLANGUAGE]。你将使用以下关键词：\n\n[PROMPT]"
+}

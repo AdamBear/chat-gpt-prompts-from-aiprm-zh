@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Google Business Profile Services",
+  "AuthorURL": "https://merchynt.com",
+  "Title": "获取25条评论",
+  "Category": "writing",
+  "Teaser": "通过告诉我们您的业务，获得25条针对您的企业的评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-28T01:14:44.037Z",
+  "Help": "",
+  "ID": "1795956974706483200",
+  "PromptHint": "告诉我们有关你的业务，位置，关键词等信息。",
+  "PromptPackageID": "0",
+  "Prompt": "我想请你为我写20篇自然的客户评论。它们不应该像营销或销售那样写作。每一篇都应该有自己的态度和写作风格。有些评论需要包括俚语或缩写。它们都应该是积极的，但积极程度有所不同。每一篇都应该和前一篇相差+或-5个词。完成后，将它们混合在一起，按随机排序在新列表中给我。请用[TARGETLANGUAGE]翻译。以下是关于该企业的信息，应包含在评论中：[PROMPT]"
+}

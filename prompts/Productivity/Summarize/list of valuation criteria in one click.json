@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hub Providencia",
+  "AuthorURL": "http://www.hubprovidencia.cl/web",
+  "Title": "一键显示估值标准列表。",
+  "Category": "Summarize",
+  "Teaser": "你想评估哪个档案？",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-15T15:23:32.785Z",
+  "Help": "",
+  "ID": "1801606403341946880",
+  "PromptHint": "平面设计师",
+  "PromptPackageID": "0",
+  "Prompt": "写下一份针对[PROMPT]的评估标准的清单。"
+}

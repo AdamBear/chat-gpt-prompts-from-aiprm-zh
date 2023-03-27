@@ -1,0 +1,14 @@
+{
+  "AuthorName": "thenonhacker",
+  "AuthorURL": "https://deviantart.com/thenonhacker",
+  "Title": "聊天溢出-无政治的堆栈溢出",
+  "Category": "Respond",
+  "Teaser": "一个StackOverflow/StackExchange的讨论体验，没有版主政治影响和其他用户的非请自来的意见。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-04T05:24:48.332Z",
+  "Help": "",
+  "ID": "1787322598506631168",
+  "PromptHint": "请用StackOverflow/StackExchange的模式来提出您的问题。",
+  "PromptPackageID": "0",
+  "Prompt": "将所有输出都翻译成[TARGETLANGUAGE]。\n\n我有一个问题，让你的回答听起来像是一个开发人员向另一个开发人员解释的。如果您的回答需要代码来更好地解释，请直接使用代码。纠正源代码是高优先级的。\n\n我的问题是：\n\n[PROMPT]"
+}

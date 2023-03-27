@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BauFreundGPT",
+  "AuthorURL": "https://baufreund.eu",
+  "Title": "电子邮件求职申请信封",
+  "Category": "marketing",
+  "Teaser": "根据申请人的姓名、职业发展方向、最高学历、工作经验和职位广告文本，编写电子邮件求职信。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-16T15:20:33.215Z",
+  "Help": "",
+  "ID": "1801968038036373504",
+  "PromptHint": "姓名-专业-教育背景-经验-职业介绍",
+  "PromptPackageID": "0",
+  "Prompt": "作为社交媒体营销和招聘机构BauFreund.eu的专业职业顾问。\n\n这些信息通过“-”分隔：\n1.申请人姓名\n2.申请人拥有经验并专攻的专业领域\n3.申请人最高的相关教育水平\n4.申请人相关工作经验\n5.原招聘帖文本\n\n申请人正在寻找一份工作，并希望这份工作能为他提供最好的工作条件。\n\n请为一封求职电子邮件编写一篇专业、简练、有力且令人信服的文字，吸引读者的眼球。\n请使用[TARGETLANGUAGE]输出结果，包括主题和邮件正文。"
+}

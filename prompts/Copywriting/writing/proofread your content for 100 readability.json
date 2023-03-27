@@ -1,0 +1,12 @@
+{
+  "AuthorName": "Kashyap Rathod",
+  "AuthorURL": "https://www.newzxpress.com/",
+  "Title": "校对您的内容，确保阅读性达到100%。",
+  "Category": "writing",
+  "Teaser": "用无误的内容提升您的写作水平。这些专家校对员会使您的作品更具可信度和成功。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-01T17:33:13.554Z",
+  "Help": "",
+  "ID": "1796565608134086656",
+  "Prompt": "请您像经验丰富的校对员一样校对以下提供的内容。列出所有错误并创建更好的版本。\n[TARGETLANGUAGE]\n[PROMPT]"
+}

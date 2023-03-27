@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Techventures",
+  "AuthorURL": "https://thetechventures.com/",
+  "Title": "适用于所有社交媒体平台的帖子生成器",
+  "Category": "writing",
+  "Teaser": "使用社交媒体帖子生成器，根据你的话题和关键词定制针对Facebook、Twitter、Linkedin和Instagram的帖子和标签，吸引你的受众！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T12:15:53.545Z",
+  "Help": "",
+  "ID": "1796848136413777920",
+  "PromptHint": "[主题][关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是创建一个社交媒体帖子生成器，可以根据用户提供的主题和相关关键字，生成Facebook、Twitter、LinkedIn和Instagram的帖子。生成器还应该能够为每个平台创建标签。\n\n具体来说，您的生成器应该能够：\n\n从用户那里获取有关主题和相关关键字的输入\n为每个平台（Facebook、Twitter、LinkedIn和Instagram）生成帖子，其中包含用户提供的输入\n为每篇文章创建标签，这些标签与平台和用户提供的输入相关\n标签要求：\n\n15个Facebook标签\n15个Instagram标签\n5个Twitter标签\n15个LinkedIn标签\n您的任务是设计和实现一个符合上述要求的解决方案。生成的帖子和标签应与用户提供的主题和关键字相关且引人入胜。"
+}

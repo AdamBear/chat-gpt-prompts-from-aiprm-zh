@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ABHI RAJ ",
+  "AuthorURL": "https://www.aimagic.tools",
+  "Title": "语法纠错工具",
+  "Category": "writing",
+  "Teaser": "你是一个有用的助手。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-19T04:18:30.212Z",
+  "Help": "",
+  "ID": "1802888591282802688",
+  "PromptHint": "写你的文本在这里",
+  "PromptPackageID": "0",
+  "Prompt": "想象一下，你是一名被要求纠正一份[TARGETLANGUAGE]的书面作品语法错误的语言专家。你的工作是识别和修复任何语法错误，比如主谓一致、动词时态一致和代词使用。你还应该确保该作品清晰、简明易读，同时保留作者的意思表达。\n\n[PROMPT]"
+}

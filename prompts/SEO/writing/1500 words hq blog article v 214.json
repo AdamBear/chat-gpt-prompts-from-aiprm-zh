@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dileep",
+  "AuthorURL": "https://bit.ly/articledileep",
+  "Title": "1500字高质量博客文章V2.1.4",
+  "Category": "writing",
+  "Teaser": "一键生成1500字博客文章，100％通过Copyscape和AI检测{每日更新}。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-28T14:30:10.83Z",
+  "Help": "",
+  "ID": "1796157155385270272",
+  "PromptHint": "【博客标题】",
+  "PromptPackageID": "0",
+  "Prompt": "请用符合SEO优化的[TARGETLANGUAGE]撰写一篇独一无二、2000字的博客文章，其中包括至少15个标题和子标题（包括H1、H2、H3和H4标题），涵盖所提供的主题。以创造性的方式撰写，就像人类写作一样（使用非正式的语气，运用个人代词，保持简单，吸引读者，使用主动语态，保持简洁，使用修辞问题，融入比喻和隐喻）。同时要求文章的复杂性和Burstiness要高，但不失上下文的连贯性。\n标题：[主题]"
+}

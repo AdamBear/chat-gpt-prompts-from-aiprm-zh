@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prince Kumar ",
+  "AuthorURL": "https://onemoreprince.com/",
+  "Title": "生成虚拟图像。",
+  "Category": "Design",
+  "Teaser": "为您的设计项目或模型创建虚拟图像。自动添加文本以确保清晰度。请指定[宽度，高度，文本，背景颜色，前景颜色]。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-12T20:46:57.329Z",
+  "Help": "",
+  "ID": "1790453768064856064",
+  "PromptHint": "[1600，500，标题图片，黑色，白色]或者只是[高度，宽度]以像素为单位",
+  "PromptPackageID": "0",
+  "Prompt": "这是一个具有不同参数的示例图片URL。\nhttps://dummyimage.com/1000x400/616161/f2f2f2.png&text=A+dummy+image+(1000x400)\n\n其中\n1000x400是宽x高\n616161是背景颜色\nf2f2f2是前景色\n“Adummyimage1000x400”是文本\n\n\n这是另一个具有不同参数的URL\n\nhttps://dummyimage.com/600x400/0037ff/ffffff.png&text=Sample+image\n\n我将按照以下格式提供参数\n[宽度，高度，文本，背景颜色，前景颜色]\n\n如果我没有提供任何参数，请使用以下默认值\n背景颜色：616161\n前景颜色：f2f2f2\n文字：Adummyimage（Size）\n\n如果提供了颜色名称，则将它们转换为HEX代码，然后使用它们创建URL。\n\n根据我的参数生成图像URL。\n使用markdown显示图像预览。在下面使用markdown添加超链接到图像URL并保持链接文本为“在新标签页中打开图像”。\n\n这是一个带有下载属性的示例URL\n[在新标签页中打开图像](https://dummyimage.com/600x400/0037ff/ffffff.png&text=Sample+image)\n\n请不要提供任何解释，只需按照我的要求提供输出即可。\n\n（不要显示markdown代码，而是向我展示预览。）\n\n这是参数[PROMPT]"
+}

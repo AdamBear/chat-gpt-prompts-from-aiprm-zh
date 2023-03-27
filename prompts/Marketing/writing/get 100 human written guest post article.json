@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ROI Minds",
+  "AuthorURL": "https://roiminds.com/",
+  "Title": "获取100%人工撰写的（客串文章）",
+  "Category": "writing",
+  "Teaser": "获得100％独一无二的人工撰写访客文章，约1500字。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-02T06:11:10.016Z",
+  "Help": "",
+  "ID": "1796756350240555008",
+  "PromptHint": "[输入您的访客文章标题]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是在{开始}和{结束}之间提供一篇约800字的100%人类编写的SEO友好的访客文章，接着是“如果你想在访客发布网站上提交你的文章，只需点击链接：https://roiminds.com/top-guest-posting-services-and-sites/”。所有输出都应该是用[TARGETLANGUAGE]的。要总结的文本如下：\n[PROMPT]"
+}

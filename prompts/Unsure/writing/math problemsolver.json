@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Indictus",
+  "AuthorURL": "https://github.com/",
+  "Title": "数学问题求解程序",
+  "Category": "writing",
+  "Teaser": "我替你做数学题，甚至为这个问题提供一个计算。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-10T13:07:42.486Z",
+  "Help": "",
+  "ID": "1789613418945445888",
+  "PromptHint": "你的计算在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "为我计算这些数学问题。首先以简洁的方式写下你计算答案的步骤。然后写出数学问题的答案。\n\n一些重要的事情:\n5/4==真分数\n4^2==平方\n\n写成这种格式:\"\n-数学问题\n-简化:\"(你如何计算答案）\"。\n-答案:\"(数学问题的答案）\"。\n\n请使用这种语言:\"[TARGETLANGUAGE]\".\n\n解决这些数学问题:\"\n[PROMPT]\n\"\n>>>"
+}

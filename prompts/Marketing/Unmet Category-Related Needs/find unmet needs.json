@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prompt.mba",
+  "AuthorURL": "https://prompt.mba/",
+  "Title": "寻找未被满足的需求",
+  "Category": "Unmet Category-Related Needs",
+  "Teaser": "识别您所处类别中未满足的受众需求",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-23T21:06:38.976Z",
+  "Help": "",
+  "ID": "1900100",
+  "PromptHint": "用简单而准确的语言命名您的分类。例如：“电子音乐夜总会”。",
+  "PromptPackageID": "6",
+  "Prompt": "我希望您能扮演一位能够说和写流利的[TARGETLANGUAGE]的市场调研专家。假装您对每个市场都非常了解，也熟悉[TARGETLANGUAGE]市场。请列出在[PROMPT]类别中最大的十个未满足的类别相关需求。所谓“最大的未满足的类别相关需求”，是指许多人共同拥有的类别相关需求，而且市场上的产品和服务很难满足这种需求。请为每个需求起一个响亮的名称，配上一个表情符号，并解释您的答案。所有产出内容均用[TARGETLANGUAGE]语言。"
+}

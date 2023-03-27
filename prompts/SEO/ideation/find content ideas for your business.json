@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Murthy",
+  "AuthorURL": "https://www.linkedin.com/in/murthy-venkat/",
+  "Title": "为您的业务寻找内容创意",
+  "Category": "ideation",
+  "Teaser": "获取有关你感兴趣的主题的详细信息，以便撰写文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-07T10:26:32.507Z",
+  "Help": "",
+  "ID": "1798632556753838080",
+  "PromptHint": "输入您的兴趣或关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "建议提供当前热门和流行话题的简要概述和内容大纲，以便撰写与给定兴趣或关键词短语相关的文章。同时建议提供最适合的文章标题。\n\n所有输出都将是[TARGETLANGUAGE]。待总结的文本是：[PROMPT]。"
+}

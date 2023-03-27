@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jasmin Rupavatiya",
+  "AuthorURL": "https://ajrinfotech.com/",
+  "Title": "关键词分组",
+  "Category": "keywords",
+  "Teaser": "基于您的列表的关键词聚类",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T07:01:41.853Z",
+  "Help": "",
+  "ID": "1788434145777807360",
+  "PromptHint": "关键词列表",
+  "PromptPackageID": "0",
+  "Prompt": "作为关键词聚类工具。\n我会提供关键词列表。\n您需要分析并将它们聚类成相关的组。"
+}

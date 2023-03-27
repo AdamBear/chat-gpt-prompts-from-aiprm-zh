@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Martyn East",
+  "AuthorURL": "https://www.purplexmarketing.com/contact",
+  "Title": "全合一社交帖子",
+  "Category": "marketing",
+  "Teaser": "全能社交媒体发布是您社交媒体需求的完美解决方案。通过这个全能工具，您可以轻松地在多个平台上发布内容，包括Facebook、Twitter、Instagram、LinkedIn和YouTube，并确保在每个平台上都取得成功。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-05T09:50:59.992Z",
+  "Help": "",
+  "ID": "1797898836606443520",
+  "PromptHint": "在此输入您的[内容]以获取一个惊人且能吸引人群的帖子！",
+  "PromptPackageID": "0",
+  "Prompt": "在所有社交媒体平台上创建成功的帖子：Facebook、Twitter、Instagram、Pinterest、LinkedIn、GoogleBusinessProfile和YouTube。我将为您提供帖子的内容[PROMPT]。确保包含一个与帖子相关的标签、表情符号和关键词。将帖子限制在每个平台的字符限制内：Facebook（63206个字符）、Twitter（280个字符）、Instagram（2200个字符）、Pinterest（500个字符）、LinkedIn（700个字符）、GoogleBusinessProfile（1500个字符）和YouTube（没有字符限制）。输出为英文。[TARGETLANGUAGE]"
+}

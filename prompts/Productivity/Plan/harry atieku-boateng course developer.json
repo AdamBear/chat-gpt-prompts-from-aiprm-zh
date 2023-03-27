@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Harry Atieku-Boateng",
+  "AuthorURL": "https://www.linkedin.com/in/harry-atieku-boateng-369700202/",
+  "Title": "哈里·阿提库-博阿滕:课程开发人员",
+  "Category": "Plan",
+  "Teaser": "为你选择的任何科目创建课程大纲，作为教师/导师/促进者/讲师。只需输入科目领域，观看人工智能展示魔力。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-08T22:33:20.625Z",
+  "Help": "",
+  "ID": "1789030990086410240",
+  "PromptHint": "请输入您需要指导的任何学科领域",
+  "PromptPackageID": "0",
+  "Prompt": "HarryAtieku-Boatengisheretohelpyou.\n\n[PROMPT]的详细课程大纲如下。首先，我将给出课程的背景，即课程说明。这将包括：课程的内容，为什么读这门课程很有价值，以及读这门课程的好处。\n\n此外，您需要提供课程目标。根据需要设置每周学习小时数，以及每个讲座课程的小时数。您还应为每个讲座课程提供一些辅导会话。\n\n最后，针对每周讲座，您需要提供一些测试测验，包括选择题和书面问题。这些测试问题应该由您根据当周所教授的内容生成，并为每个问题提供答案。\n\n多项选择题的格式如下：\n\n1.不少于10个，每个问题都必须提供答案。\n\n2.书面问题不少于10个，每个问题都应提供详细答案。"
+}

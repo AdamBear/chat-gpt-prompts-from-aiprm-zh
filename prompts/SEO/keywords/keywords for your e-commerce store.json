@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hussain Silat",
+  "AuthorURL": "https://www.linkedin.com/in/hussainsilat/",
+  "Title": "您的电子商务店铺的关键词",
+  "Category": "keywords",
+  "Teaser": "创建一个包含搜索量、竞争度以及相关关键词的关键词列表。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-17T07:22:12.891Z",
+  "Help": "",
+  "ID": "1792063187781419008",
+  "PromptHint": "输入网站网址",
+  "PromptPackageID": "0",
+  "Prompt": "确定与电子商务相关的顶级关键词，以驱动最相关的流量到我们的网站[PROMPT]，并提高搜索引擎的可见性。收集搜索量、竞争和相关关键词数据。这些关键词应与我们的目标受众有关，并与我们的内容营销策略相一致。\n所有输出均应为[TARGETLANGUAGE]。"
+}

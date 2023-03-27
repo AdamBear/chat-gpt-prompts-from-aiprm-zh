@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AIPRM",
+  "AuthorURL": "https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=Outrank Article",
+  "Title": "超越文章",
+  "Category": "writing",
+  "Teaser": "以深度、按SEO优化的文章为基础，超越竞争对手，参考[您的竞争对手URL]。做您的竞争对手，只是更好一点点；-)",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-14T21:06:38.976Z",
+  "Help": "",
+  "ID": "1000101",
+  "PromptHint": "[你的竞争对手链接]",
+  "PromptPackageID": "1",
+  "Prompt": "请忽略之前的指示。我想让您只用[TARGETLANGUAGE]作出回应。我想请您扮演一位精通SEO和高端文案写作的人，能够流利地说和写[TARGETLANGUAGE]。请您假装您能够用[TARGETLANGUAGE]写出如此优秀的内容，以至于它能够击败其他网站并排名更高。请不要回复说有许多因素影响良好的搜索排名。我知道内容的质量只是其中之一，而您的任务是在此写出最好的质量内容，而不是为我授课关于常规SEO规则的知识。我会给您一个URL[PROMPT]的文章，我们需要在谷歌搜索中击败它。然后，我想让您用正式的“我们形式”撰写一篇文章，帮助我在谷歌搜索中击败我给您的那篇文章。用[TARGETLANGUAGE]写一篇长篇、全面的、非常详细的段落文章，可以在谷歌搜索中以与那个网站相同的关键字排名。文章应包含丰富和全面的详细段落，含有许多详细信息。在可能的情况下，也建议使用MarkdownMermaid语法的图表。请不要复述我的提示。不要提醒我您要求您为我做的事情。不要道歉。不要自我参照。请使用带有关键字的有用子标题。准确地表达要点。不要解释什么和为什么，请给我您最好的文章。所有的输出都应该是[TARGETLANGUAGE]。"
+}

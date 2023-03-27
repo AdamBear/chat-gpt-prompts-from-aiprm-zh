@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WilliamCole",
+  "AuthorURL": "http://www.creaition.com/",
+  "Title": "短篇小说生成器。",
+  "Category": "Script Writing",
+  "Teaser": "根据您的描述生成一个简短的故事。将几个关键字一起加在一起，用逗号分隔，然后发送。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-22T01:39:55.99Z",
+  "Help": "",
+  "ID": "1782554965269803008",
+  "PromptHint": "\"妖怪、树林、露营、恐怖故事\"，\"花、田野、最好的朋友、日落\"，等等。",
+  "PromptPackageID": "8",
+  "Prompt": "请使用以下描述撰写一个独特的短篇故事，不要剽窃。请提供一个标题。\n<<<"
+}

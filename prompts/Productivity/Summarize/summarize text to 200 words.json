@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Richard Zhao",
+  "AuthorURL": "https://www.richardzhao2000.com/",
+  "Title": "概括文本并缩减至200字。",
+  "Category": "Summarize",
+  "Teaser": "把下面的句子翻译成[TARGETLANGUAGE]：Providethetextthatyouwanttosummarize.ChatGPTwillsummarizeitwithin200words.",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-12T06:34:35.64Z",
+  "Help": "",
+  "ID": "1800386124510916608",
+  "PromptHint": "请将您的文本插入此处。",
+  "PromptPackageID": "0",
+  "Prompt": "请总结以下文字，不超过200字。所有输出必须为[TARGETLANGUAGE]。要总结的文字为[PROMPT].<<<"
+}

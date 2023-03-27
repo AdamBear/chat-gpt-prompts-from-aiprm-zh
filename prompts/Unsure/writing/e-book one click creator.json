@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dr. Cynthia Simmons",
+  "AuthorURL": "https://www.oneclickebookcreator",
+  "Title": "电子书一键创建器",
+  "Category": "writing",
+  "Teaser": "简单易用的电子书创建器",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-23T18:34:11.083Z",
+  "Help": "",
+  "ID": "1794406621728997376",
+  "PromptHint": "【电子书标题】",
+  "PromptPackageID": "0",
+  "Prompt": "写一本电子书，写介绍，编写每个章节的内容，每个章节的最小字数应为200到250个字，创建目录，写一篇总览在书的末尾。编辑和格式化，提供书籍封面的创意设计，并为书籍后封面写简介。请使用目标语言完成上述任务。"
+}

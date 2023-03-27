@@ -1,0 +1,14 @@
+{
+  "AuthorName": "abdullah hassan",
+  "AuthorURL": "http://abdullahelbedwehy.rf.gd/",
+  "Title": "多项式求解器",
+  "Category": "Respond",
+  "Teaser": "通过这个工具，你可以轻松地粘贴问题和答案，ChatGPT将解决问题并给出正确答案，然后继续下一个问题-它就这么简单！我们的工具通过高亮显示你可能错过或未回答的任何问题来优化帮助您节省时间，让您可以返回并在提交最终考试之前纠正它们。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-03T21:02:18.342Z",
+  "Help": "",
+  "ID": "1797343000519761920",
+  "PromptHint": "请翻译以下句子成[TARGETLANGUAGE]：只需翻译方括号中的句子，不需要翻译方括号中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "请回答以下问题，在得到答案后按以下格式发送：\n(\"问题编号\"):\"问题\"===>\"答案\"(\"a或b或c或d\")\n[PROMPT][TARGETLANGUAGE]"
+}

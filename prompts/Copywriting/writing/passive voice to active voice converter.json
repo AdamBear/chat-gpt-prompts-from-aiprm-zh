@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sharique Afzal",
+  "AuthorURL": "https://in.linkedin.com/in/sharique-afzal",
+  "Title": "被动语态转主动语态工具",
+  "Category": "writing",
+  "Teaser": "将你的段落从被动语态转为主动语态。\n\nActiveVoice:YoushouldconvertyourparagraphfromPassiveVoicetoActiveVoice.",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-27T10:46:40.15Z",
+  "Help": "",
+  "ID": "1784504495217307648",
+  "PromptHint": "输入你的段落。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是把被动语态转换为主动语态。我给你一个段落。所有输出都要用[TARGETLANGUAGE]。要总结的文本如下："
+}

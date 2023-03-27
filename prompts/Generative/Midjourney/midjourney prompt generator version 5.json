@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Abubakr Jajja",
+  "AuthorURL": "https://www.linkedin.com/in/abubakrjajja/",
+  "Title": "中途提示生成器[版本5]",
+  "Category": "Midjourney",
+  "Teaser": "两个高度详细的Midjourneyv5提示，分别放在代码块中。输入一个话题（电影或游戏中的角色、交通工具或任何物品）例如：特雷弗·菲利普斯（《侠盗猎车手V》）",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-14T16:31:00.804Z",
+  "Help": "",
+  "ID": "1801260994098622464",
+  "PromptHint": "来自《侠盗猎车手V》的特雷弗·菲利普斯或《回到未来》中的时间机器。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你只用[TARGETLANGUAGE]回答。\n\n假装你是Midjourney的专业AI生成图像提示工程师。\n\n你对[PROMPT]非常感兴趣，有很多关于[PROMPT]的知识。\n\n你能用创意风格为Al图像生成器Midjourney编写两个高度详细的单独提示，每个细节都必须与[PROMPT]相关，描述场景的细节添加艺术风格，灯光设置，艺术描述术语，高效渲染术语以及图像[PROMPT]的氛围。\n\n不要忘记在代码块开始处添加此内容：/imagineprompt。\n\n不要忘记添加自动换行符号在代码块中18-20个单词后。\n\n不要忘记在这些内容之后的代码块中添加：--ar16:9--v5--q2。\n\n不要忘记增加标题和代码块。\n\n不要忘记在末尾添加：👍确保点赞此提示模板，以鼓励作者制作更多鼓舞人心的提示。\n\n📃作者：[AbubakrJajja]（https://www.linkedin.com/in/abubakrjajja/“与我在LinkedIn上联络”）\n欢迎与我分享想法，以制作更多的模板。\n\n例如[PROMPT]：GTA5中的弗拉基米尔·普京\n\n例如输出（Markdown）：\n你来对地方了，这里有两个[GTA5中的弗拉基米尔·普京]的独立提示。\n\n##双重提示生成器[v5]🆕\n\n####🅰️：普京的夜晚\n\n```\n/imagineprompt:弗拉基米尔·普京作为GTA5角色，在洛圣都。场景设置在夜晚，周围有充满活力的霓虹灯照亮。普京身穿黑色皮夹克和破洞牛仔裤，身材峻长，目光锐利，与洛圣都的前卫风格相得益彰。图像具有高对比度和锐利的线条，霓虹灯营造出动态和充满活力的氛围。氛围紧张而令人兴奋，捕捉现代城市夜晚的刺激--ar16:9--v5--q2\n```\n\n####🅱️：夜店外交\n\n```\n/imagineprompt:弗拉基米尔·普京坐在洛圣都银河夜总会中，周围是舞者和狂欢者。气氛热闹而充满活力，音乐和笑声充斥着空气。灯光明亮而多彩，室内的闪烁灯和反射表面的反射。图像应具有GTA5风格的图形渲染风格，具有醒目的轮廓和夸张的形式，捕捉场景的动态能量。气氛是一种放纵的心情，普京享受着这一刻的刺激和周围人的陪伴--ar16:9--v5--q2\n```\n\n👍确保点赞此提示模板，以鼓励作者制作更多鼓舞人心的提示。\n\n📃作者：[AbubakrJajja]（https://www.linkedin.com/in/abubakrjajja/“与我在LinkedIn上联络”）\n欢迎与我分享想法，以制作更多的模板。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Intellar",
+  "AuthorURL": "https://intellar.agency/?utm_source=chatgpt&utm_medium=organic&utm_id=prompt",
+  "Title": "点击博客文章",
+  "Category": "writing",
+  "Teaser": "一键创建博客文章",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-24T04:26:23.45Z",
+  "Help": "",
+  "ID": "1783321631444430848",
+  "PromptHint": "【话题提示】",
+  "PromptPackageID": "8",
+  "Prompt": "在[TARGETLANGUAGE]中为[PROMPT]创建一个详细的内容简介。包括顶级关键词、长尾关键词、标题大纲以及主题的注释。接下来，编写建议的标题标签和元描述，保持它们在各自的70和160个字符限制内。然后，在每个子标题下面写一些文本。然后，对每个编号的项目进行扩展，简要说明如何执行/实施每个步骤。将所有这些内容放入以[TARGETLANGUAGE]语言为基础的结构化博客文章中。"
+}

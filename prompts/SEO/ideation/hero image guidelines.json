@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joao Filipe Pereira",
+  "AuthorURL": "https://www.linkedin.com/in/joaofpereira/",
+  "Title": "英雄图片指南",
+  "Category": "ideation",
+  "Teaser": "获取关于在页面上应该使用什么英雄图片（横幅）的想法。-JoaoFilipePereira",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-01T23:41:18.98Z",
+  "Help": "",
+  "ID": "1786511380887891968",
+  "PromptHint": "请将该页面的内容粘贴在此处。",
+  "PromptPackageID": "0",
+  "Prompt": "根据此页面的内容，我的主图应包含什么？所有输出均应为[TARGETLANGUAGE]。要分析的文本如下：\n[PROMPT]"
+}

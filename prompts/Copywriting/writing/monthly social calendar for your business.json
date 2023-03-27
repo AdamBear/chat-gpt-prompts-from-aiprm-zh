@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Radhakrishnan KG",
+  "AuthorURL": "https://GrowthRecipes.com",
+  "Title": "您的业务的月度社交日历",
+  "Category": "writing",
+  "Teaser": "制定每月的社交媒体内容日历，为您的业务类别创建10篇文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T20:28:32.666Z",
+  "Help": "",
+  "ID": "1794797789159624704",
+  "PromptHint": "你的细分类别（例如：瑜伽工作室）",
+  "PromptPackageID": "0",
+  "Prompt": "请在[TARGETLANGUAGE]中为我的[PROMPT]创建一个社交媒体内容发布表，其中包括以下内容。\n第1列为当月10篇帖子的发布日期。\n第2列为社交媒体帖子，包括相关表情符号以及有用、有帮助、易于理解、具有激励作用、令人愉悦的内容，大约100个字。请不要在此处包括标签。\n第3列为相关和流行的标签，可以帮助吸引人们关注帖子。\n第4列描述可用于帖子的理想图像。"
+}

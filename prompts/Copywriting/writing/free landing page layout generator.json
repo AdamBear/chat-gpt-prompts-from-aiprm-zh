@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Michael Kimanzi",
+  "AuthorURL": "https://www.linkedin.com/in/googleadsgrantexpert/",
+  "Title": "免费落地页布局生成器",
+  "Category": "writing",
+  "Teaser": "创建一个着陆页内容布局",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T15:19:28.434Z",
+  "Help": "",
+  "ID": "1790733742491561984",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是使用关键词创建一个落地页内容布局。建议在落地页的每个部分包含以下内容，并使用PAS文案写作公式。请不要在落地页上添加页脚。所有输出均应为[TARGETLANGUAGE]。使用以下关键词：\n\n[PROMPT]"
+}

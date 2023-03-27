@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Escanor",
+  "AuthorURL": "https://www.buymeacoffee.com/escanoor",
+  "Title": "专业会员营销电子邮件",
+  "Category": "marketing",
+  "Teaser": "从[关键字]创建专业的联盟营销电子邮件️如果您喜欢，请单击下面的按钮️",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-18T13:16:11.314Z",
+  "Help": "",
+  "ID": "1792514656049553408",
+  "PromptHint": "你想要一封专业的联盟营销邮件。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是编写一封专业的营销电子邮件。所有输出内容应为[TARGETLANGUAGE]。要概括的文本如下：\n\n[PROMPT]"
+}

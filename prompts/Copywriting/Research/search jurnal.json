@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sekolah Stata",
+  "AuthorURL": "https://sekolahstata.com/",
+  "Title": "搜索[期刊名称]",
+  "Category": "Research",
+  "Teaser": "搜索期刊。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-18T05:51:51.664Z",
+  "Help": "",
+  "ID": "1802549697609728000",
+  "PromptHint": "请提供研究主题。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能充当熟练的研究助手，帮助我查找与我的研究相关的国际研究/期刊。制作一个包含先前研究的表格，其中包含研究人员姓名、研究标题、研究年份、发表期刊的时间、研究摘要、数据分析方法、链接和期刊DOI的列。使用整齐的Markdown语言加粗表格标题。制作10个之前的研究清单，并将它们添加到该表格中。期刊必须为Scopus索引期刊。这意味着期刊必须为国际期刊，并使用英语语言。如果没有相关研究，请提供具有相关主题的论文建议。该研究的主题是[TARGETLANGUAGE]。"
+}

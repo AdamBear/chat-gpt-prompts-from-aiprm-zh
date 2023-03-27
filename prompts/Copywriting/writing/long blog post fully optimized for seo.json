@@ -1,0 +1,14 @@
+{
+  "AuthorName": "GPBC",
+  "AuthorURL": "https://www.gp-bconsulting.es",
+  "Title": "长篇博客文章经过完全优化，以用于搜索引擎优化。",
+  "Category": "writing",
+  "Teaser": "用推荐的标题为主题，撰写一篇1500字长的博客文章，并包括元描述。文章应分章节结构，全面优化SEO，其内容应为人类编写，为独一无二的，无抄袭。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T19:59:56.451Z",
+  "Help": "",
+  "ID": "1794790590832181248",
+  "PromptHint": "【文章标题】",
+  "PromptPackageID": "0",
+  "Prompt": "请为我的博客撰写一篇1500字长的文章，带有元描述，结构化分段，并充分针对SEO进行优化。文章必须由人类撰写，独一无二，无抄袭。所有输出内容应该是[TARGETLANGUAGE]。文章的建议标题为：[PROMPT]"
+}

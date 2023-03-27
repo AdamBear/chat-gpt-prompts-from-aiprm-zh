@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alban Gabillon",
+  "AuthorURL": "https://www.upf.pf/fr/alban-gabillon",
+  "Title": "多项选择题生成器",
+  "Category": "Configuration Management",
+  "Teaser": "输入一个域名和问题的数量。",
+  "Community": "DevOps-f3e52afbf831197f",
+  "CreationTime": "2023-02-27T01:22:35.487Z",
+  "Help": "",
+  "ID": "1795596564245508096",
+  "PromptHint": "样本Bash命令的5个问题",
+  "PromptPackageID": "0",
+  "Prompt": "目标语言是[TARGETLANGUAGE]\n\n创建多项选择题：[PROMPT]。\n\n每个问题必须包括5个可能的答案：\n-一个是正确的\n-三个是错误的\n-一个是“我不知道”"
+}

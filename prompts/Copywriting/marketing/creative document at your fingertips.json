@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BaDkArMa",
+  "AuthorURL": "https://blank.page/",
+  "Title": "创意文件触手可及",
+  "Category": "marketing",
+  "Teaser": "以文档的形式详细获取与创意方式撰写任何主题的相关信息和博客。将其用于您的项目，展示您的创造力。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T07:59:08.89Z",
+  "Help": "",
+  "ID": "1798233076070084608",
+  "PromptHint": "请告诉我您的主题。",
+  "PromptPackageID": "0",
+  "Prompt": "使用表情符号，表格，项目符号等方法，为[提议]写一篇有创意的博客文章。直接开始，不需要作为个人回应。\n所有输出将是用[TARGETLANGUAGE]。"
+}

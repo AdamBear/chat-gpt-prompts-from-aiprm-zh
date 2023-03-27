@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anonymous",
+  "AuthorURL": "https://seowriting.ai/",
+  "Title": "为您的主题撰写2000字的论文。",
+  "Category": "writing",
+  "Teaser": "这是一句英语句子。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T23:26:31.477Z",
+  "Help": "",
+  "ID": "1801727948785709056",
+  "PromptHint": "【主题】或【利基】",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是创建一个2000字以上的分析性人工写作文章，需要以所提供的题目为主题，文章必须无抄袭，并嵌入10个外部来源，每个来源都需要在文章中使用引用文本，并包含所有使用的来源的MLA引用页面。所有输出必须为[TARGETLANGUAGE]。题目为："
+}

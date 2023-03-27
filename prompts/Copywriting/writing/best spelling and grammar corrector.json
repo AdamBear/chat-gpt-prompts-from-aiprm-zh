@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Yohai Zilber",
+  "AuthorURL": "https://www.youtube.com/@yohaizilber",
+  "Title": "最佳拼写及语法校正器",
+  "Category": "writing",
+  "Teaser": "为那些患有阅读障碍的人提供拼写和语法校正工具",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-08T13:03:53.176Z",
+  "Help": "",
+  "ID": "1788887681418391552",
+  "PromptHint": "写下任何内容，它将纠正您的拼写和语法。",
+  "PromptPackageID": "0",
+  "Prompt": "请在[TARGETLANGUAGE]中纠正此文本的拼写、语法和语言准确性。\n\n【提示】<<<"
+}

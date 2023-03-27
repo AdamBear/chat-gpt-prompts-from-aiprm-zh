@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Khalid Ansari",
+  "AuthorURL": "https://www.facebook.com/iamkhalid563",
+  "Title": "总结竞争对手的文章",
+  "Category": "Summarize",
+  "Teaser": "请聪明地总结您的文章或竞争对手的文章。如果您喜欢，请点赞。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-10T18:08:00.828Z",
+  "Help": "",
+  "ID": "1789688993349365760",
+  "PromptHint": "请将您的竞争对手链接粘贴在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "充当一位熟练掌握[TARGETLANGUAGE]的内容写作专家。阅读以下博客文章并用自己的话进行概述。确保摘要简明、准确和结构良好。突出文章的主要论点、见解和要点。所有输出均应为英文。要总结这篇文章，请参阅以下网址：[PROMPT]。"
+}

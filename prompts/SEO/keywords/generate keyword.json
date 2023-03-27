@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Fabmetry",
+  "AuthorURL": "http://fabmetry.com/?utm_source=Chatgpt&utm_medium=command&utm_campaign=chat_gpt&utm_id=14",
+  "Title": "生成关键字",
+  "Category": "keywords",
+  "Teaser": "生成关键词：根据您的专业领域难度，哪个关键词是在Google上排名最好的？",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T16:26:43.108Z",
+  "Help": "",
+  "ID": "1793649768065658880",
+  "PromptHint": "【关键词】，【位置】，【服务/产品】。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是基于特定的领域，在谷歌排名机会和关键词难度的基础上生成关键词。显示关键词难度级别、谷歌排名机会百分比（在10内）、仅建议高排名机会的关键词、显示关键词难度低于25%，并且在Moz工具上显示其位置、已经在谷歌上排名但DA、PA低于25，并根据我的产品/服务进行分类描绘在markdown表格中。将它们分类。[TARGETLANGUAGE]"
+}

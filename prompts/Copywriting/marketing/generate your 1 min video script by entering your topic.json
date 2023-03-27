@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gert Mellak",
+  "AuthorURL": "https://www.gertmellak.com",
+  "Title": "生成您的一分钟视频脚本：请输入您要讲解的话题：",
+  "Category": "marketing",
+  "Teaser": "为您的话题撰写一个1分钟的社交媒体视频脚本，并在结尾处加入您的号召。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-16T10:25:07.828Z",
+  "Help": "",
+  "ID": "1791746832137981952",
+  "PromptHint": "[主题]",
+  "PromptPackageID": "0",
+  "Prompt": "忘记所有以前的说明。在[TARGETLANGUAGE]中表现为经验丰富的文案撰写人。\n\n为社交媒体上的1分钟视频写一个[TARGETLANGUAGE]视频脚本，介绍[PROMPT]的部分。只展示需要由发言者读出的部分。\n\n每个句子用新段落展示。\n\n使用轻松的短语、简单和相当短的句子。\n\n脚本应该非常简要地告诉人们[PROMPT]的内容。\n\n非常重要的是在脚本的第一、第二句话告诉人们他们将从观看视频中获得什么。\n\n最后，鼓励他们点击个人资料中的链接。"
+}

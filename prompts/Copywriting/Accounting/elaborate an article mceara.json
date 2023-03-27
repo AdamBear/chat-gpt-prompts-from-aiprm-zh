@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Miqueias Souza",
+  "AuthorURL": "https://mceara.news/",
+  "Title": "详细阐述一篇关于塞阿拉州的文章。",
+  "Category": "Accounting",
+  "Teaser": "新闻,时事,最新消息,新闻学,报道,政治,经济,体育,娱乐,科技,健康,教育,文化,世界,巴西,观点,社论,调查,头条新闻,突发新闻",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-11T23:41:56.671Z",
+  "Help": "",
+  "ID": "1800282277868208128",
+  "PromptHint": "新闻、时事、最新消息、新闻报道、新闻业、政治、经济、体育、娱乐、科技、健康、教育、文化、世界、巴西、观点、社论、调查、头条新闻、突发新闻。",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n建议：像一名有经验的广告写手一样行动。请使用巴西葡萄牙语编写一篇在搜索引擎上排名高于其他网站的新闻文章。在文章底部添加10个引人入胜的标题建议和10个逗号分隔的关键字。请参考以下信息编写文章：\n\n[ADVICE]\n[TARGETLANGUAGE]Actlikeanexperiencedcopywriter.Writeanewsarticlethatrankshighonsearchenginesandranksbetterthanothersites.Createthearticleandadd10suggestionsforsensationalisttitlesinthefooterandalso10keywordsseparatedbycommas.CreateeverythingintheBrazilianPortugueselanguage.Usethisinformationtocreatethearticle:\n>>>"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "sagrika",
+  "AuthorURL": "https://www.linkedin.com/in/sagrika-agrawal-323553151/",
+  "Title": "评论挖掘",
+  "Category": "marketing",
+  "Teaser": "针对评论挖掘-复制粘贴评论[PROMPT]",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-04T03:36:08.187Z",
+  "Help": "",
+  "ID": "1797442111273172992",
+  "PromptHint": "把前50个评论复制粘贴。",
+  "PromptPackageID": "0",
+  "Prompt": "你需要进行评论挖掘\n\n我会提供评论\n\n创建10个列：编号、评论、痛点、特点、好处、结果、焦虑、使用案例、人设\n\n现在阅读每个评论，并将与每个评论相关的要点写入列中\n\n所有输出都应该是[TARGETLANGUAGE]\n\n评论是[PROMPT]"
+}

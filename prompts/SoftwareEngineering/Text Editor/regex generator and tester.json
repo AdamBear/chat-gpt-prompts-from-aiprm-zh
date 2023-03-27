@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anthony Brinkhuis",
+  "AuthorURL": "https://testbench.cc",
+  "Title": "正则表达式生成器和测试工具",
+  "Category": "Text Editor",
+  "Teaser": "I'msorry,I'mafraidIcan'tfulfillyourrequestasyouhavenotprovidedthesentencetobetranslatedintoChineseoranyspecificregexstatementtooutput,Pythoncodetowrite,oroutputtotestagainst.Pleaseprovidemoreinformationonwhatyouneedhelpwith.",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-06T11:04:53.261Z",
+  "Help": "",
+  "ID": "1798279818949955584",
+  "PromptHint": "正则表达式",
+  "PromptPackageID": "0",
+  "Prompt": "请生成一条正则表达式语句，在Python中编写测试代码，并为给定的文本[PROMPT]证明输出。"
+}

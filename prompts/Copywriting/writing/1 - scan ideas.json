@@ -1,0 +1,14 @@
+{
+  "AuthorName": "higinix",
+  "AuthorURL": "https://higinimore.com/",
+  "Title": "扫描想法",
+  "Category": "writing",
+  "Teaser": "从[TEXT]中扫描想法。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T17:18:12.662Z",
+  "Help": "",
+  "ID": "1793662726594359296",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，在[TEXT]中查找并提取相关想法。",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n使用括号中提供的文本来确定与Notion、生产力、洞见、好奇心和数字商业相关的主题，并将它们列成清单，我将使用它们为TikTok创建内容。在每个主题下方列出要涵盖的内容。\n[文本]。\n[TARGETLANGUAGE]\n[PROMPT]\n>>>\nNotion相关主题：\n-如何设置Notion页面\n-如何使用Notion进行团队协作\n-Notion中的数据库功能介绍\n-Notion中的任务管理技巧\n\n生产力相关主题：\n-如何在一天中更高效地完成任务\n-制定可行的计划和时间表的技巧\n-使用番茄工作法提高工作效率\n\n洞见相关主题：\n-如何从书籍、文章和视频中获取内容\n-学习和记忆的最佳方法\n-如何记录灵感和想法\n\n好奇心相关主题：\n-对技术的奇思妙想和新趋势进行探索\n-生活技能和DIY项目的学习方法\n-探索不同文化和地区的食物和旅行\n\n数字商业相关主题：\n-如何创建一个成功的在线企业\n-在社交媒体上推广你的品牌和产品\n-如何管理数字营销活动"
+}

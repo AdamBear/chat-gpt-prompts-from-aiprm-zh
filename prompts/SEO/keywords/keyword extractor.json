@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kwamina Dextro",
+  "AuthorURL": "https://healthtitbits.com",
+  "Title": "关键词提取器",
+  "Category": "keywords",
+  "Teaser": "从文章中提取排名关键词",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T21:45:39.644Z",
+  "Help": "",
+  "ID": "1788656602396749824",
+  "PromptHint": "把下面的句子翻译成[TARGETLANGUAGE]，不要使用拼音，也不要翻译[]里的单词。请在这里发表您的文章。",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n浏览文章[PROMPT]并选择一个关键词[TARGETLANGUAGE]，该关键词[TARGETLANGUAGE]贯穿整个文本[PROMPT]。此关键词[TARGETLANGUAGE]应基于撰写此文章[PROMPT]的主要思想而选择。\n在选择此一个关键词[TARGETLANGUAGE]时，务必仔细阅读整个文档[PROMPT]，选择该文章可能在Google排名的一个关键词[TARGETLANGUAGE]。\n>>>"
+}

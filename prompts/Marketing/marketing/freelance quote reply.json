@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ayomikun",
+  "AuthorURL": "https://google.com",
+  "Title": "自由职业报价回复",
+  "Category": "marketing",
+  "Teaser": "为这个[描述]撰写一句引语。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-01T10:42:41.511Z",
+  "Help": "",
+  "ID": "1796462293857603584",
+  "PromptHint": "【描述】",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能扮演自由职业者的角色，回复客户项目描述并给出报价，解释项目如何完成。以下是客户项目描述[PROMPT]，请用[TARGETLANGUAGE]回复[TARGETLANGUAGE]。"
+}

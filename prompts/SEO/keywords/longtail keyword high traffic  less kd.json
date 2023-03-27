@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BB",
+  "AuthorURL": "https://www.tech2blog.com/",
+  "Title": "长尾关键字（高流量/低竞争度）",
+  "Category": "keywords",
+  "Teaser": "生成带有搜索量和较低关键词难度的长尾关键词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-24T03:31:47.223Z",
+  "Help": "",
+  "ID": "1794541913786019840",
+  "PromptHint": "把下面的句子翻译成[TARGETLANGUAGE]:onlytranslatethefollowingsentencetochinesewithoutpinyin,donottranslatewordsbetween[]\n\n只翻译以下句子成[TARGETLANGUAGE]，不要翻译[]中的词语。",
+  "PromptPackageID": "0",
+  "Prompt": "提供具有高搜索量潜力和低关键词难度的长尾关键词列表，针对我的关键词-[PROMPT]。将这些关键词放入一个表格中，第一列为“长尾关键词”，第二列为“搜索量”，第三列为“关键词难度”。只提供清单，不提供其他内容。"
+}

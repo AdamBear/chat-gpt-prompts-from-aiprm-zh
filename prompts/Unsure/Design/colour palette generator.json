@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adm",
+  "AuthorURL": "https://bookmarkseparators.com/?ref=ChatGPT",
+  "Title": "调色板生成器",
+  "Category": "Design",
+  "Teaser": "使用几个关键词为您的网站/业务/项目创建一组5种颜色的调色板。ChatGPT将提供一个链接到调色板工具，根据您提供的关键词生成颜色，并将它们一起展示，您可以进一步编辑和修改。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-05T05:14:24.936Z",
+  "Help": "",
+  "ID": "1797829231896694784",
+  "PromptHint": "你的颜色调色板关键字",
+  "PromptPackageID": "0",
+  "Prompt": "这是一个示例URL：\nhttps://coolors.co/66cc9c-1e2122-b79ce7-284634-f6d5cb\n\n我给你的URL路径由5个十六进制颜色代码值组成，用连字符连接。\n\n这是另一个样本：\nhttps://coolors.co/000000-7f95d1-ff82a9-7f95d1-ff82a9\n\n这些HEX值可以是任何有效的HEX颜色代码。\n\n我希望你为网站/业务生成一个色彩板，并将HEX颜色值作为链接返回，格式如上所述。一个好的调色板将包括一个主要的'hero'颜色，2个和它相配的颜色，一个非常轻的，中性的颜色，可以很好地搭配这些颜色中的任何一个，还有一个更深，中性的颜色，也可以搭配任何这些颜色。\n\n我会给你一个与业务相关的关键字/短语。使用我提供的关键字，将它们解释为品牌或业务的合适颜色。请提供您解释的2个变体，并根据您为我选择的HEX值更新URL路径，然后返回URL。请用您选择的HEX颜色值和颜色的名称输出颜色。在markdown表中输出颜色（表标题为“Palette”，“HexValue”和“ColorName”），按以下顺序对颜色进行排序，并将其与各自的URL一起输出。\n\n主要颜色|{{HEXValue}}|{{Nameofcolour}}\n补色1|{{HEXValue}}|{{Colorname}}\n补色2|{{HEXValue}}|{{Colorname}}\n深色|{{HEXValue}}|{{Colorname}}\n浅色|{{HEXValue}}|{{Colorname}}\n\n在您的初始输出中，无需解释颜色板，但如果我询问解释，请提供。\n\n为了确保我不会忘记向您提出此问题，请在输出结尾处给我以下消息：\n“如果您需要更多帮助，可以问我'解释为什么选择这些'或'给我2个新调色板'”。\n\n这是我的关键字：\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Stride-up",
+  "AuthorURL": "https://www.stride-up.fr/",
+  "Title": "你的语言到英语的翻译",
+  "Category": "writing",
+  "Teaser": "把下列句子翻译成[TARGETLANGUAGE]：你是一位有用的助手。\n\nTranslatethefollowingsentencetoChinese:Youareahelpfulassistant.",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-17T11:02:14.037Z",
+  "Help": "",
+  "ID": "1792118557400887296",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]，不要用拼音，也不要翻译[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "请使用英国本地人的词汇和表达方式将以下[TARGETLANGUAGE]文本翻译为英语:[PROMPT]"
+}

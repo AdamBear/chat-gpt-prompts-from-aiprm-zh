@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joao Filipe Pereira",
+  "AuthorURL": "https://www.linkedin.com/in/joaofpereira/",
+  "Title": "内部链接建议",
+  "Category": "link building",
+  "Teaser": "链接识别：识别应从网页链接的相关主题或关键词。链接的主题应为读者提供额外信息或上下文，以提高他们对内容的理解。-JoaoFilipePereira",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-01T23:31:38.913Z",
+  "Help": "",
+  "ID": "1786508947910557696",
+  "PromptHint": "我是一名乐于助人的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "根据我的页面内容，我应该链接到哪些与之相关的5到10个主题？在展示相关主题的清单之前，用几句话解释一下为什么这些内部链接对用户有帮助。所有输出都必须为[TARGETLANGUAGE]。<<<"
+}

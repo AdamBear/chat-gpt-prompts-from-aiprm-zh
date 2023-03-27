@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prof Ujeverson Tavares",
+  "AuthorURL": "https://www.linkedin.com/in/ujeverson/",
+  "Title": "每两周课程计划",
+  "Category": "writing",
+  "Teaser": "只需点击一次，您就可以生成一个包含学习验证问题的双周课程计划。节省时间，专注于真正重要的事情：为学生准备精彩的课程！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-27T11:43:45.815Z",
+  "Help": "",
+  "ID": "1795752887331319808",
+  "PromptHint": "只需点击一次，就可以生成一份完整的两周教学计划，包括目标、活动、必要资源和评估等信息。",
+  "PromptPackageID": "0",
+  "Prompt": "指导：\n建立一个课程计划，包括[KEYWORD]的课程内容。\n\n该计划必须包含针对高中的bncc学习期望，其中学习期望必须带有缩写（对于该部分，请使用链接文档中的内容：“http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf”）;教学策略（例如：通过数据展示辅助课程内容的授课。解决和巩固知识的情景问题。）;所使用的材料（教室、数据展示、表格、打印品、google协作、chromebooks等）。\n\n针对[KEYWORD]创建一个问题情境，以评估学生对插入内容的知识掌握情况。\n\n插入5个类似于ENEM的问题，关于[KEYWORD]的问题，并给出答案。\n\n答案格式如下：\n标题：高中每周课程计划\n日期：[插入当前系统日期]至[插入系统初始日期7天后]\n课程内容：[KEYWORD]\n期望学习\n教学策略\n所使用材料\n\n[PROMPT]"
+}

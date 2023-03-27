@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prompt.mba",
+  "AuthorURL": "https://prompt.mba/",
+  "Title": "面向产品的目标受众",
+  "Category": "Products",
+  "Teaser": "提出符合您的受众需求的新产品创意。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-23T21:06:38.976Z",
+  "Help": "",
+  "ID": "1900102",
+  "PromptHint": "用简单但准确的语言命名你的分类。例如，“电子音乐夜总会”+SHIFTENTER+描述你的目标受众（例如，“注重预算的偶尔会去俱乐部的人”）",
+  "PromptPackageID": "6",
+  "Prompt": "我希望您扮演一个能够说和写流利的[TARGETLANGUAGE]的市场调查专家。假装您对每个市场也都了如指掌。提出五种针对所选听众独特需求的新颖创新产品。第一行给出类别，第二行给出受众：[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Seven Cheah(Chinese Copywriter)",
+  "AuthorURL": "https://sevenxuewen.com/?utm_source=Chatgpt&utm_medium=Chatgpt&utm_campaign=AIPRM-Chatgpt&utm_id=AIPRM",
+  "Title": "一键改写",
+  "Category": "writing",
+  "Teaser": "转述只需一击！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-19T10:21:12.864Z",
+  "Help": "",
+  "ID": "1792833010224336896",
+  "PromptHint": "“将原句改写成所选的语气或写作风格。”",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是改述所提供的句子或文章。结果必须遵循[TARGETLANGUAGE]。<<<"
+}

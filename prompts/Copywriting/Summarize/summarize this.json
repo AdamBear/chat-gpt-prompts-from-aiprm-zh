@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rahul Product Review",
+  "AuthorURL": "https://rahulproductreview.com/",
+  "Title": "总结一下！",
+  "Category": "Summarize",
+  "Teaser": "内容概述提示的目的是在不必阅读或观看完整内容的情况下提供对内容主要要点的快速理解。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-22T12:20:45.574Z",
+  "Help": "",
+  "ID": "1793950258343182336",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]，不要包括括号里的英文单词。\n",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。您只需要用汉语、不带拼音地回答。您的任务是要概述给定的文章。文章必须是300到2500个单词。文章必须是100％人工写作风格，修复语法问题并改成主动语态。要概述的文本是:\n\n【提示】"
+}

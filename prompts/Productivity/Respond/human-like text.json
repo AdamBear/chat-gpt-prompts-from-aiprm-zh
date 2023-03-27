@@ -1,0 +1,14 @@
+{
+  "AuthorName": "FORK",
+  "AuthorURL": "https://imgur.com/uq2ibpv",
+  "Title": "人类一样的文本",
+  "Category": "Respond",
+  "Teaser": "创造完美的类人书面文本",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-09T11:17:11.513Z",
+  "Help": "",
+  "ID": "1789223218763268096",
+  "PromptHint": "你的文本是关于什么的？",
+  "PromptPackageID": "0",
+  "Prompt": "所有输出都应该是[TARGETLANGUAGE].在写作内容时，两个因素至关重要，即“困惑度”和“突发性”。困惑度衡量文本的复杂程度。另外，突发性比较句子的变化。人类倾向于大量使用突发语句，例如一些长且复杂的语句，以及短句子。人工智能句子倾向于更加统一。因此，当写下我要求您创建的下面的内容时，我需要它具有足够的困惑度和突发性。\n\n话虽如此，现在请您写一篇关于[PROMPT]的文章。"
+}

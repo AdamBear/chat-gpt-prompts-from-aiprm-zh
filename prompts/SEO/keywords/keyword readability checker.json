@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SaldoInvoice",
+  "AuthorURL": "https://saldoinvoice.com/",
+  "Title": "关键词可读性检查器",
+  "Category": "keywords",
+  "Teaser": "优化您的内容易读性以提高SEO效果，让您的文章更加完美！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-12T09:50:59.443Z",
+  "Help": "",
+  "ID": "1800435549362978816",
+  "PromptHint": "[粘贴文本]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是计算文章的可读性。最后添加关键词可读性在文本中的百分比。所有输出都应该用[TARGETLANGUAGE]。<<<"
+}

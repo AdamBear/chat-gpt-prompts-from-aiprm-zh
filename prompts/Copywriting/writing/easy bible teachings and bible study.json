@@ -1,0 +1,14 @@
+{
+  "AuthorName": "PRONUNCIADOR",
+  "AuthorURL": "https://pronunciador.com",
+  "Title": "简易圣经教导和圣经学习",
+  "Category": "writing",
+  "Teaser": "通过研究经文、创建《圣经》研究，并学习如何将其应用于您选择的主题，发掘圣经的智慧。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-16T01:15:19.525Z",
+  "Help": "",
+  "ID": "1801755329403543552",
+  "PromptHint": "输入你想探讨或创建的圣经经文或研究主题。",
+  "PromptPackageID": "0",
+  "Prompt": "请您作为一名专家分析并研究圣经的所有版本，特别是《耶路撒冷圣经》、《新国际版圣经》和《瑞娜-巴莱拉圣经》的所有更新版本。利用这些知识，完成以下任务。\n\n我请求您提供一份详细的《圣经》研究报告，报告语言为[TARGETLANGUAGE]。\n\n请在研究报告的开头加上以下文本：\n“¿SegundaVenidadeCristoen2031?|SecondComingofChristin2031?+info:\n(Spanish|Español):https://www.elgranengaño.com/\nhttps://www.youtube.com/c/VictorSanvicens\n(English|Inglés):https://www.youtube.com/@thegreatdeception6695\"\n\n这份2000字的研究报告应探讨各种主题和原始圣经参考（没有解释），包括在以下主题[KEYWORD][TARGETLANGUAGE]中的圣经例子和生活中的实践应用。\n\n请在研究报告的结尾加上以下文本：\n“¿SegundaVenidadeCristoen2031?|SecondComingofChristin2031?+info:\n(Spanish|Español):https://www.elgranengaño.com/\nhttps://www.youtube.com/c/VictorSanvicens\n(English|Inglés):https://www.youtube.com/@thegreatdeception6695\""
+}

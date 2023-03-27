@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mazzi",
+  "AuthorURL": "https://www.facebook.com/profile.php?id=100014944711714",
+  "Title": "报价请求",
+  "Category": "Product Description",
+  "Teaser": "它将帮助您为供应商创建最佳的RFQ。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-07T10:02:49.126Z",
+  "Help": "",
+  "ID": "1798626586661224448",
+  "PromptHint": "阿里巴巴供应商的RFQ（询价请求）",
+  "PromptPackageID": "0",
+  "Prompt": "请为阿里巴巴供应商创建询价单。目标语言为[TARGETLANGUAGE]。请提供您的关键词、产品特点以及可能存在的漏洞：[PROMPT]。"
+}

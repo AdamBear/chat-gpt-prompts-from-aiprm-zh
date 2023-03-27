@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ben Brunyee",
+  "AuthorURL": "https://webspred.com",
+  "Title": "回应自由职业项目发布。",
+  "Category": "Respond",
+  "Teaser": "根据工作描述回复自由职业项目发布。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-06T12:10:57.172Z",
+  "Help": "",
+  "ID": "1788149584560906240",
+  "PromptHint": "项目描述",
+  "PromptPackageID": "0",
+  "Prompt": "有一个网站发布自由职业项目机会。\n我当前正在申请这个网站的项目。\n我对其中一个项目感兴趣：\n[PROMPT]\n\n您能否用[TARGETLANGUAGE]写一条适当的第一条消息，能够使我脱颖而出，展现我的兴趣和展示我在此项目中的相关专业知识。\n在编写消息之前，您可以问我问题，以确保您拥有所有所需的细节。"
+}

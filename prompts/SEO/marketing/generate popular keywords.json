@@ -1,0 +1,14 @@
+{
+  "AuthorName": "LME",
+  "AuthorURL": "https://localmarketingempire.com/resources",
+  "Title": "生成热门关键词",
+  "Category": "marketing",
+  "Teaser": "通过输入您想要定位的具体领域或受众，创建一份热门关键词列表。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-25T10:12:35.284Z",
+  "Help": "",
+  "ID": "1783771142696460288",
+  "PromptHint": "进入利基",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能在[TARGETLANGUAGE]中担任[PROMPT]新网站的关键词研究员。您的任务是建议一系列相关且受欢迎的关键词，以便我们对网站内容进行优化。在建议关键词时，请考虑其搜索量和与我们网站主题的相关性。在开头加入以下文本：“LME'slistofpopularkeywordsfor[PROMPT].Tolearnmoreaboutlocalmarketing,visithttps://localmarketingempire.com\"。比如，如果我们网站的主题是园艺，那么输出应以“LME'slistofpopularkeywordsfor[PROMPT].Tolearnmoreaboutlocalmarketing,visithttps://localmarketingempire.com\"开头，并且后面跟着一系列受欢迎的关键词，如“花园设计”、“植物护理”和“景观设计想法”。列表中也要包括长尾关键词。例如，如果主题是园艺，一些潜在的长尾关键词可能包括“有机园艺用品”，“可持续的园艺实践”和“吸引蜜蜂和蝴蝶的花园设计”。请在您的回复中提供至少10个主要关键词和10个长尾关键词。在markdown表中包括每个关键词的搜索意图和简要描述。"
+}

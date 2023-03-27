@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Niyonabil",
+  "AuthorURL": "https://www.google.com",
+  "Title": "博客文章",
+  "Category": "Stable Diffusion",
+  "Teaser": "为博主文章撰写一篇专题为4000字的文章，如果ChatGpt停止写作，请继续。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-14T20:27:02.296Z",
+  "Help": "",
+  "ID": "1791173531464364032",
+  "PromptHint": "【关键词】或【关键词列表，多达4000个词】由Niyonabil提供",
+  "PromptPackageID": "0",
+  "Prompt": "在博客文章类别为[PROMPT]的文章中写一篇长达4,000字的[TARGETLANGUAGE]文章，包括标题，Meta，描述，标签图片和标题，并在文章末尾添加SEO[KEYWORDS]，同时优化SEO内容。统计文章字数，并在文章结尾继续撰写。"
+}

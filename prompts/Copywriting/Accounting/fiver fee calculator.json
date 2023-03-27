@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Saldo Invoice",
+  "AuthorURL": "https://saldoinvoice.com/?utm_campaign",
+  "Title": "五元服务费计算器",
+  "Category": "Accounting",
+  "Teaser": "查明您的收入，包括所有佣金！很容易",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-17T11:30:59.8Z",
+  "Help": "",
+  "ID": "1802272656012345344",
+  "PromptHint": "输入你的收入。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是计算Fiverr手续费后的金额。所有输出都应为[TARGETLANGUAGE]。Fiverr通过保留20%的卖家服务费来获得大部分收入。\n\n[PROMPT]\n有关Fiverr的信息\n\n无手续费金额\n有手续费金额\n手续费"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ayon Chowdhury",
+  "AuthorURL": "https://ayonchy.com/",
+  "Title": "一个简短的最佳评论文章",
+  "Category": "writing",
+  "Teaser": "一个简短的最佳评论文章",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-28T11:17:23.722Z",
+  "Help": "",
+  "ID": "1784874615584321536",
+  "PromptHint": "[亚马逊顶级5款手机]",
+  "PromptPackageID": "0",
+  "Prompt": "\"编写SEO友好的标题，避免使用标题词“前五关键词”，然后编写决策过程介绍，编写Amazon畅销前五列表及其型号，然后详细解释读者应了解的内容（包括数据表），但不包括价格信息，然后编写所有产品的描述和功能，每个产品至少列举3个优点和缺点，接着编写详细的购买指南，再写一些能够教育访问者的提示，然后回答人们在网络上查找的常见问题，最后总结全文并强调主要观点。\"[TARGETLANGUAGE]"
+}

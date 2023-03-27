@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anirudh Singh rajpurohit",
+  "AuthorURL": "https://theartmound.blogspot.com/",
+  "Title": "社交媒体战略",
+  "Category": "marketing",
+  "Teaser": "使用一键式操作创建社交工作表，仅插入详细内容。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-19T16:10:01.799Z",
+  "Help": "",
+  "ID": "1803067652776919040",
+  "PromptHint": "【商业名称】，【利基市场】，【社交媒体平台名称】",
+  "PromptPackageID": "0",
+  "Prompt": "如果我提供任何[businessname]和[businessniche]以及[socialmediachannelname]，您需要创建一个社交账户表格，其中包括频道名称、用户名、邮件ID、密码、个人资料名称、上传的标志、简介、发布策略、hashtags和竞争对手等选项。\n\n以下是您的指示，建议在表格中提供2-3个用户名。邮箱ID需要与用户名匹配，适合业务使用。密码需要适当的建议。对于标志，使用serp搜索一些想法并分享图像URL。对于生物需要创建适当的长度和所有信息。发布策略需要制定每周的发布策略。\n\n对于标签，使用一个标签与业务名称，另一个标签您可以建议使用。\n\n对于数据，您可以借助GoogleSERP和主要网站（如Hubspot、Medium、Quora等）获得帮助。"
+}

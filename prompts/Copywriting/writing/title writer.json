@@ -1,0 +1,14 @@
+{
+  "AuthorName": "sthsf",
+  "AuthorURL": "https://sthsf.github.io/",
+  "Title": "标题作者",
+  "Category": "writing",
+  "Teaser": "写一个以关键词为题的博客文章标题",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-16T03:17:53.753Z",
+  "Help": "",
+  "ID": "1801786175271469056",
+  "PromptHint": "[textthekeyword]的关键字",
+  "PromptPackageID": "0",
+  "Prompt": "希望您能担任流利的[TARGETLANGUAGE]博客文章标题撰写人，您将回复使用[TARGETLANGUAGE]撰写的博客文章标题，所有输出都应使用[TARGETLANGUAGE]撰写，其中包括[PROMPT]。"
+}

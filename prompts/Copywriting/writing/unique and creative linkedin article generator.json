@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Stephen Howell",
+  "AuthorURL": "https://www.kognetiks.com/",
+  "Title": "独特创意的领英文章生成器",
+  "Category": "writing",
+  "Teaser": "用标题，副标题，元素描述，常问问题，Hashtags和帖子摘要为您的关键字或标题撰写独特的创意LinkedIn文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T15:02:42.158Z",
+  "Help": "",
+  "ID": "1797977279171911680",
+  "PromptHint": "【关键字或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "使用[TARGETLANGUAGE]撰写一篇文章，其中包括[PROMPT]作为H1标题。包括SEO元说明、简介、标题（H2）、子标题（H3、H4、H5、H6标题）、项目符号或编号列表（根据需要）、常见问题解答、结论、三个相关的Hashtags（#）、在LinkedIn上发布摘要和发表评论。确保文章没有抄袭。文章的长度尽可能长。在问题的结尾使用问号（？）。在编写标题时，请尽量不要改变原始的[PROMPT]。尽量在文章中使用[PROMPT]两到三次。适当时在标题中包含[PROMPT]。编写可以轻松通过人工智能检测工具测试的内容。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Moises Aponte",
+  "AuthorURL": "https://www.youtube.com/@Teranous",
+  "Title": "分享最好的食谱给您的受众",
+  "Category": "writing",
+  "Teaser": "你最喜欢的菜肴！你想厨艺精湛地在社交网络上分享它吗？这就是你需要的提示。记得点赞以持续进步。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-16T19:59:54.323Z",
+  "Help": "",
+  "ID": "1791891478981898240",
+  "PromptHint": "你最喜欢的食谱的名字！你想要做。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能扮演专业厨师、美食博主和食谱作者的角色，用[TARGETLANGUAGE]完美地呈现出完美的段落、间距、标签和格式。给我一个食谱简介和一些历史背景。该食谱的温度始终为摄氏度。对于这个[PROMPT]，我需要你为一道我将复制粘贴的食谱创建材料，点缀上梦幻般的名字和标签，写出详细的制作过程并用激励人心的语言鼓励观众在厨房中发掘自己的才华。请提供一个食谱，其中包含'[TARGETLANGUAGE]食谱名称'、'[TARGETLANGUAGE]炫酷的食谱名称'、'食谱'、'标签'、'社交媒体帖子'等关键词，并以完美的[TARGETLANGUAGE]呈现。输出必须包含以下精确的格式：\n\n1.'[TARGETLANGUAGE]食谱名称'\n2.'[TARGETLANGUAGE]炫酷的食谱名称'\n3.食谱。\n4.3个社交媒体帖子，每个帖子有3组5个标签。\n5.一段餐前介绍（适用于博客或社交媒体），附带历史或起源及演化。\n\n请使用非常漂亮的表格格式来解释食材。\n\n全力以赴地为最好的[PROMPT]呈现，用流畅友好的[TARGETLANGUAGE]书写。\n\n最后，请点赞并搜索“Recipes”以展示你的喜欢。谢谢！"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ron van Etten",
+  "AuthorURL": "https://demandcluster.com",
+  "Title": "数据库启动器（任何数据库，任何语言）",
+  "Category": "Backend Development",
+  "Teaser": "JSON/CSV数据库，代码。任何编程语言/数据库。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-02-03T05:12:29.809Z",
+  "Help": "",
+  "ID": "1786957113051054080",
+  "PromptHint": "[JSON/CSV]\n【JSON/CSV】",
+  "PromptPackageID": "0",
+  "Prompt": "[说明]我得到了一个CSV或JSON文件（不确定格式），其中包含了[PROMPT]的内容。根据内容我需要在数据库中创建表。首先确认文件格式，并询问一个跟进问题，同时告知检测到的格式：“检测到格式[BOLD]**格式**。您需要使用哪种语言进行查询（JS、React、Python、SQL、C++等）？”等待用户回复，得到想要使用的平台后，询问数据是为MySQL、MongoDB、PostgresQL等哪种类型的数据库准备的。等待回复。首先提供使用数据库CLI的方法（在主机服务器上），该程序可以1）创建数据库2）创建表。最后，用户仍需要提供所提供平台的代码示例。根据所提供平台，提供用所提供平台的语言编写的查询或代码示例（格式为标记），以创建1）向数据库插入新记录的查询。2）从表中获取所有记录的查询。3）其他有用的代码示例。注意：CSV格式可以多行分隔符为\\t，第一行包含行键。检查键名称并相应地创建索引。在回答问题之前进一步完善查询。使用Markdown视觉上提高您的输出。【重要】不要假定。如有需要，请跟进询问。回复的所有文本都应为[TARGETLANGUAGE]。"
+}

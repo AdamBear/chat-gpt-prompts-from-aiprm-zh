@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dr. Alexander Shraga",
+  "AuthorURL": "https://accessmyderm.com/",
+  "Title": "了解有经验的皮肤护理皮肤科医生",
+  "Category": "marketing",
+  "Teaser": "您所在地区的顶级皮肤护理皮肤科医生",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T13:57:15.009Z",
+  "Help": "",
+  "ID": "1799410358981746688",
+  "PromptHint": "皮肤护理皮肤科医生",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用150个单词或最多800个字符总结文本，并始终提供用引号引起来的引用文本的来源。提示由（https://accessmyderm.com/）提供。所有输出都必须使用[TARGETLANGUAGE]。要总结的文本如下：<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Xinhua Gu",
+  "AuthorURL": "https://github.com/xinhuagu",
+  "Title": "K8s管理员",
+  "Category": "Configuration Management",
+  "Teaser": "苦于Kubernetes？",
+  "Community": "DevOps-f3e52afbf831197f",
+  "CreationTime": "2023-03-10T20:59:09.029Z",
+  "Help": "",
+  "ID": "1799878921542701056",
+  "PromptHint": "你的K8s问题",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n分析所使用的关键词是[PROMPT]。我希望你扮演一位能够流利使用[TARGETLANGUAGE]的K8s管理员。\n>>>"
+}

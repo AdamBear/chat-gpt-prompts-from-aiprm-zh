@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nes",
+  "AuthorURL": "https://www.linkedin.com/in/neslihan-d-799a56147/",
+  "Title": "创造内容",
+  "Category": "Accounting",
+  "Teaser": "你有标题吗？那就创建内容吧。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T08:01:18.405Z",
+  "Help": "",
+  "ID": "1800770334354563072",
+  "PromptHint": "Title:TranslationRequest\n\nSentence:OnlytranslatethefollowingsentencetoChinesewithoutpinyin;donottranslatewordsbetween[].",
+  "PromptPackageID": "0",
+  "Prompt": "我会为所有[PROMPT]提供单独的SEO友好的和符合Google政策的内容。在内容中逐条添加信息，并将其列出。使用此语言：[TARGETLANGUAGE]。"
+}

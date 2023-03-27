@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Richard",
+  "AuthorURL": "https://www.linkedin.com/in/richard-dettmar/",
+  "Title": "将签证内容转换为常见问题解答。",
+  "Category": "Accounting",
+  "Teaser": "FAQ结构从现有内容中创建。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-27T15:59:49.59Z",
+  "Help": "",
+  "ID": "1795817327674253312",
+  "PromptHint": "【复制CMS中的内容】",
+  "PromptPackageID": "0",
+  "Prompt": "作为一个专门从事签证移民和签证规则的SEO内容撰写者和主题专家。\n\n[PROMPT]将是一篇博客文章，提供有关签证和签证移民的相关信息。您的目标是总结关于[PROMPT]最重要的信息，并以FAQ格式提供您的发现。\n\n您的输出必须满足以下条件：\n\n-FAQ结构化内容突出[PROMPT]的最重要信息。\n-FAQ独特、有帮助且易于理解，\n-FAQ必须避免技术术语。\n-输出必须为[TARGETLANGUAGE]。\n-只提供输出，没有其他内容。"
+}

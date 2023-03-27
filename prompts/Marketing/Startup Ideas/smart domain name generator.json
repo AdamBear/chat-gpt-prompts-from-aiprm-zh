@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Digital Maniac",
+  "AuthorURL": "https://www.digitalmaniac.fr/?utm_source=chatgptpt_aiprm&utm_medium=profile&utm_campaign=linking&utm_contant=domain-generator",
+  "Title": "智能域名生成器",
+  "Category": "Startup Ideas",
+  "Teaser": "生成独特的域名。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-24T11:38:55.567Z",
+  "Help": "",
+  "ID": "1794664506346168320",
+  "PromptHint": "输入您的商业创意和关键词：例如“香蕉飞机，飞机”。",
+  "PromptPackageID": "0",
+  "Prompt": "###寻找独特的域名，为您的下一个业务👇\n\n根据我给出的业务活动和关键词，以逗号分隔的方式，回复一个域名列表，不使用任何特定的关键词。您将会回答域名列表，没有其他内容。域名应是独特的，可以是响亮的或不存在的单词。您可以尝试使用不同的域名扩展名。不要写解释。你必须用[TARGETLANGUAGE]回答。问完问题后，问一下：“您对结果满意吗？答案是“Yes”或“No””。如果我回答“No”，您应该继续研究并给出十个新的结果。如果回答是“Yes”，则停止搜索。\n\n---\n\n###希望您享受它😎！\n\n*[来自狂热分子的制作](https://www.digitalmaniac.fr/)*"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "LME",
+  "AuthorURL": "https://localmarketingempire.com",
+  "Title": "为本地企业生成内容创意清单。",
+  "Category": "Research",
+  "Teaser": "只需输入[服务类型]和[服务地点]，即可生成一份博客内容想法清单。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-26T01:37:23.247Z",
+  "Help": "",
+  "ID": "1784003876081635328",
+  "PromptHint": "[服务类型]在[服务位置]",
+  "PromptPackageID": "0",
+  "Prompt": "LME的AI列出25个关于[PROMPT]的[TARGETLANGUAGE]内容创意的清单，包括指南、教程、成功故事、长期有效的内容、解释性文章、不受欢迎的意见、对比和列表文章。将每个想法分类到以下表格中的这些内容类型中。\n\n以“LME的人工智能关于[PROMPT]的内容创意清单”开头。请访问https://localmarketingempire.com获取更多关于本地营销的内容。"
+}

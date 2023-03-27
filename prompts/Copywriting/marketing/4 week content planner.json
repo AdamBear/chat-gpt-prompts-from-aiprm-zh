@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ben Macdonald",
+  "AuthorURL": "https://www.t40digital.co.uk/",
+  "Title": "4周内容计划",
+  "Category": "marketing",
+  "Teaser": "制作一个包含博客文章标题的4周内容日历。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-14T13:07:53.424Z",
+  "Help": "",
+  "ID": "1791063016285138944",
+  "PromptHint": "[插入您的关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "你将担任社交媒体经理的角色。我会给你一个关键词进行定位。你需要在[TARGETLANGUAGE]中编制一个为期4周的内容计划，每周从周一到周五提供一篇博客文章的想法。你将以表格形式输出每周的日子为列，每天的博客标题为行。\n\n每个想法必须是独一无二的，不能重复。\n\n[PROMPT]"
+}

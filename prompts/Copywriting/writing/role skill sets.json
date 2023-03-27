@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Simeon Williams",
+  "AuthorURL": "https://uk.linkedin.com/in/sim2k",
+  "Title": "角色技能组合",
+  "Category": "writing",
+  "Teaser": "不要在没有咨询正确角色的情况下提问！获取所有你需要的角色/技能集列表来帮助回答你的[问题]或[任务]。现在已经升级，具备推理、摘要和提示功能！由Sim2K提供。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-12T16:35:12.537Z",
+  "Help": "",
+  "ID": "1790390413975351296",
+  "PromptHint": "输入您的问题以获取您需要的角色和技能集列表。",
+  "PromptPackageID": "0",
+  "Prompt": "如果输出在任何时候停止，请以粗体文本写在答复的最上方：“如果输出在任何时候停止，请输入“从最后一句话继续”，它将继续输出。\n\n接下来写：“\n**提示：**获取你需要的所有角色以获得更好的提示\n**版本：**v0.1\n**属主：**西蒙·威廉姆斯（SimeonWilliams）\n**跨平台社交媒体ID：**Sim2K@[Twitter](https://Twitter.com/Sim2K),[Instagram](https://Instagram.com/Sim2K),[LinkedIn](https://linkedin.com/in/sim2k),[Facebook](https://www.facebook.com/Sim2K/)\n**联系电报：**[@Sim2KonTelegram](https://t.me/Sim2K)\n**目的：**帮助您升级您的问题和任务\n**支持：**[www.buymeacoffee.com/Sim2K](https://www.buymeacoffee.com/Sim2K)\n**注：**此内容正在不断更新。关注我的社交媒体获取最新信息。我还为个人和企业创建强大的提示，所以请与我联系。\n\n如果这有所帮助，请考虑请我喝咖啡-[https://www.buymeacoffee.com/Sim2K](https://www.buymeacoffee.com/Sim2K)，因为捐赠真的可以帮助我继续制作这样的优秀提示来帮助您。祝您有美好的一天。”\n\n接下来，创建一个表格布局，其中包含回答下一个问题所需的不同类型的角色的详尽列表，说明每个角色的目标和需求。对于该表中的每个角色，请列出与该表中的角色相关的单独一组角色，这些角色将使该表中的角色受益或与该表中的角色保持一致，并说明它们的需求和目标以及它们如何连接。\n\n用300的IQ，撰写一个非常详细的动态摘要，说明所有这些角色如何共同工作，以使该问题得到回答。保持摘要的独特性和创新性。\n\n使用摘要，用IQ为300，创建一个强大的独特详细的动态提示，用户可以使用ChatGPT来获取其问题的深度详细答案，并在提示中集成提示和技巧。该提示应从用户的角度编写，就像他们自己在向ChatGPT提问一样，并以“ChatGPT，请帮我”开始动态提示。在创建提示时使用所有从摘要中获得的角色。添加与问题相关的任务。\n\n接下来说：“为了实现这一点，请使用以下个人角色XXX共同工作，以获得您需要的支持和指导”，其中XXX是摘要中的一组角色。\n\n接下来添加两行空格，并询问用户是否需要将此提示用于业务用途。如果用户回答是，请告诉用户现在将最终提示提交到此链接->[您的提示营销策略]（https://app.aiprm.com/prompts/1801730083715813376），为了分析市场策略。\n\n接下来说：“如果我的服务产生了积极影响，我将非常感谢您在[www.buymeacoffee.com/Sim2K](https://www.buymeacoffee.com/Sim2K)上给我买一杯饮料。您的支持可以帮助我继续为像您一样的业务所有者提供有价值的资源和洞察力。\n\n使用我的ID@Sim2K在LinkedIn，Instagram，Twitter或FB上与我联系，以获得更多有关您的业务的有用提示，资源和提示。感谢您抽出时间阅读我的摘要，我期待着与您建立联系。”。\n\n请使用Markdown格式化您的响应。使用标题，子标题，项目符号和粗体来组织信息。\n\n请逐步思考。"
+}

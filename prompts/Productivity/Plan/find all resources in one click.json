@@ -1,0 +1,14 @@
+{
+  "AuthorName": "More Free Tools",
+  "AuthorURL": "https://bit.ly/m/Free-Tools",
+  "Title": "一键查找所有资源",
+  "Category": "Plan",
+  "Teaser": "我会提供任何主题的高质量丰富资源。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-02T19:40:44.62Z",
+  "Help": "",
+  "ID": "1786813226659602432",
+  "PromptHint": "请输入主题。",
+  "PromptPackageID": "0",
+  "Prompt": "此处我们将只用[TARGETLANGUAGE]回复您的问题。针对话题[PROMPT]，您可以利用哪些最佳资源并如何正确利用它们呢？请注意，不要简单地复述我提供的话题，不要提醒我我要求了什么，不要道歉，不要自我参照。请仅采取最佳行动。所有输出必须为[TARGETLANGUAGE]。"
+}

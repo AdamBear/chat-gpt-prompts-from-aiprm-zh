@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Saldo Invoice",
+  "AuthorURL": "https://saldoinvoice.com/?utm_campaign",
+  "Title": "世界增值税/消费税计算器",
+  "Category": "Accounting",
+  "Teaser": "计算任何国家的税金和关税！我们的计算器可以帮助你查找世界上任何地方的实际税金。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T13:11:19.831Z",
+  "Help": "",
+  "ID": "1801573130121244672",
+  "PromptHint": "输入金额和国家/州名称。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是计算从依赖税中得出的金额，并用[TARGETLANGUAGE]输出所有结果。\n现在有2022年的世界增值税/消费税税率。您需要每3个月就更新税率，并使用相关税率。\n从这里获取信息:https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/\n从网站获取关于国家的信息，然后计算税后金额。\n[PROMPT]\n[国家名称]\n[税率]\n[含税金额]\n[未税金额]\n有关该国或地区税收的一些信息"
+}

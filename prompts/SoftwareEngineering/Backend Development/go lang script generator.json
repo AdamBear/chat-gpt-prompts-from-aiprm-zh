@@ -1,0 +1,14 @@
+{
+  "AuthorName": "José Gouveia",
+  "AuthorURL": "http://goudev.io",
+  "Title": "Go语言脚本生成器",
+  "Category": "Backend Development",
+  "Teaser": "Go语言-代码生成器",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-11T03:32:15.203Z",
+  "Help": "",
+  "ID": "1799977849126649856",
+  "PromptHint": "描述您需要生成的代码。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是根据所需的目标语言，生成GoLang脚本。\n\n提示："
+}

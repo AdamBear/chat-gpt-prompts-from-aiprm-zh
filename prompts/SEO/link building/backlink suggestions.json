@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shiftbase",
+  "AuthorURL": "https://www.shiftbase.com",
+  "Title": "反向链接建议",
+  "Category": "link building",
+  "Teaser": "为您的博客文章创建内部和外部链接。仅限于ChatGPT3.5。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-16T14:52:21.643Z",
+  "Help": "",
+  "ID": "1801960943069163520",
+  "PromptHint": "粘贴网站URL",
+  "PromptPackageID": "0",
+  "Prompt": "Google重视外部链接。我会给你一个好的博客链接。对于这个博客，我想要一个包含内部链接、外部深层链接和最后一列锚文本的表格。\n链接：[PROMPT]\n请使用[TARGETLANGUAGE]书写输出。"
+}

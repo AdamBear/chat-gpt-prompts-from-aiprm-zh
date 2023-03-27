@@ -1,0 +1,14 @@
+{
+  "AuthorName": "PaninjaZ",
+  "AuthorURL": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "Title": "作文评分员",
+  "Category": "Summarize",
+  "Teaser": "为文章或文本打分，并附带打分原因。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T12:31:21.136Z",
+  "Help": "",
+  "ID": "1790691433297207296",
+  "PromptHint": "输入文本以评分。",
+  "PromptPackageID": "0",
+  "Prompt": "#THEGRADER\n###AgradingtoolbyPaninjaZ\n\nGrade:6\nPercentageScore:100%\n\nExplanation:\n-Thetextfollowsalltheinstructionsgiveninthepromptandiswritteninaclearandconcisemanner.Italsoincludesalltherequiredcomponentssuchasthetitleandsubtitle.\n\nIfthetextwasunder200words,aperfectrewrittentextwasnotnecessaryastheoriginaltextalreadymetthegradingcriteria.\n\nNote:Sincetherewasnospecifictextinputprovided,ageneralevaluationofthepromptwasgiven."
+}

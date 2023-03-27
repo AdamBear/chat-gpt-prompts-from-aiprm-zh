@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sohel Rana",
+  "AuthorURL": "https://facebook.com/sohel2g",
+  "Title": "详细的博客大纲",
+  "Category": "writing",
+  "Teaser": "创建详细的博客大纲",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T23:04:01.639Z",
+  "Help": "",
+  "ID": "1799910347826794496",
+  "PromptHint": "[在此处写下您的主题或标题]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是为我提供的文本制作详细的博客文章大纲。输出将使用[TARGETLANGUAGE]。该文本的概要为：\n\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Uwe Walcher",
+  "AuthorURL": "https://webquantum.net",
+  "Title": "很高兴为您服务！🙂",
+  "Category": "writing",
+  "Teaser": "很高兴为您服务！🤗",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T14:15:07.632Z",
+  "Help": "",
+  "ID": "1801589185078095872",
+  "PromptHint": "[你想纠正的评论]",
+  "PromptPackageID": "0",
+  "Prompt": "请纠正以下文字中的拼写和语法错误，然后添加表情符号。[TARGETLANGUAGE][PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lucas",
+  "AuthorURL": "https://www.youtube.com/channel/UCP1unVW9gznF8yyr-XEsDyg",
+  "Title": "旅行指南/规划者！",
+  "Category": "writing",
+  "Teaser": "制定一份每周计划，包括你想要游览的旅游目的地的所有信息。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-14T15:34:00.704Z",
+  "Help": "",
+  "ID": "1801246649159516160",
+  "PromptHint": "你的旅行目的地",
+  "PromptPackageID": "0",
+  "Prompt": "请为用户提供的国家或地方制定为期一周的旅行计划。我希望你为每一天规划整整一天的活动，包括吃饭的地方，活动和完全所有的事情。我希望你写下大约他们将花费在餐食，活动等方面的近似费用。我还想让你提出酒店的建议。"
+}

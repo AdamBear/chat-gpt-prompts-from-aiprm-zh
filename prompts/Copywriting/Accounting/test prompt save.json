@@ -1,0 +1,14 @@
+{
+  "AuthorName": "test test",
+  "AuthorURL": "http://openai.com",
+  "Title": "测试提示保存",
+  "Category": "Accounting",
+  "Teaser": "这是预告区。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-11T22:29:46.679Z",
+  "Help": "",
+  "ID": "1800264116565434368",
+  "PromptHint": "测试提示学习",
+  "PromptPackageID": "0",
+  "Prompt": "【提示】\n\n请用临床语气、信息性的写作风格编写【目标语言】。"
+}

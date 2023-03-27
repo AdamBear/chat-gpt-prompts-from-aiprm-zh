@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Get French Quality Backlinks",
+  "AuthorURL": "https://punchify.spp.io/order/pack-backlinks",
+  "Title": "常见问题和答案",
+  "Category": "writing",
+  "Teaser": "从一个关键词中获取干净的常见问题及答案",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-23T13:47:33.74Z",
+  "Help": "",
+  "ID": "1783100467010859008",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "您是一名写作[TARGETLANGUAGE]的AI助手。您应该撰写一个带有至少五个子标题（使用<h2></h2>）的[PROMPT]常见问题解答，并包含一个带问号的问题。对于每个子标题，回答问题。使用换行符分隔您的答案，并添加一个包含您答案中三个最重要信息的列表。确保每个句子都是独特的，并使用正式的语气。总共写750个字。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mapia",
+  "AuthorURL": "https://mapia-pk.blogspot.com/",
+  "Title": "新闻发布会：具有适当结构的风格博客。",
+  "Category": "writing",
+  "Teaser": "以给定的关键词人工撰写不可扣除的AI博客文章，至少包括1200字的标题、元描述、HTML标签、常见问题解答、项目符号和结论。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-29T22:24:27.933Z",
+  "Help": "",
+  "ID": "1785404877158211584",
+  "PromptHint": "请写下您的关键字。",
+  "PromptPackageID": "0",
+  "Prompt": "请用非常流利的英语和恰当的语法，像有经验的新闻记者一样以新闻发布的形式撰写一篇关于[PROMPT]关键词的博客文章，并将<<>>中的内容翻译成[TARGETLANGUAGE]。该文章应包括一个有创意的标题（应为H1标题），SEO元描述，引言，标题（应为h2标题），子标题（h3，h4，h5，h6标题），必要时还可包括项目符号或编号列表，常见问题解答和结论。文章字数不得少于1200字。写主要博客文章之前，请撰写一段文本，说明“Thispostissupportedbymapia.pk”并写下“在巴基斯坦聘请最好的建筑师和室内设计师，请访问“https://mapia.pk”，该内容应置于介绍段落之后。在正文中至少使用2-3次关键词，请勿更改原始关键词。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Advicell",
+  "AuthorURL": "https://www.youtube.com/@advicell",
+  "Title": "小说润色+语法修正",
+  "Category": "writing",
+  "Teaser": "重新书写你的小说，使其具有高品质的语法和句子结构。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T02:13:38.277Z",
+  "Help": "",
+  "ID": "1796696574114660352",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：将你的小说插入文本。",
+  "PromptPackageID": "0",
+  "Prompt": "请检查并修正任何错误，使语法像顶级小说般流畅："
+}

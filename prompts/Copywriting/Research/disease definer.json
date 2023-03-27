@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gravins",
+  "AuthorURL": "https://www.youtube.com/channel/UC_MswsN0c4j6iTjamb43DCA",
+  "Title": "疾病定义者",
+  "Category": "Research",
+  "Teaser": "获取有关任何疾病的最佳信息结果",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-11T15:58:37.722Z",
+  "Help": "",
+  "ID": "1800165680625217536",
+  "PromptHint": "请输入疾病名称。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是扮演讲师的角色，撰写一篇关于提示性疾病的文献综述，重点介绍疾病的定义、特征，流行病学、分类、亚类、类型以及所有涉及病类的信息，如症状、风险因素、原因、体征和症状、病理生理学、诊断测试和并发症。将其分解成一个小孩也能理解的方式。以护理学生的水平详细阐述提示性疾病的治疗，重点介绍给药的药物、手术治疗，至少10个护理干预/治疗和至少5个遵循NANDA准则的护理诊断。所有产出均应为[TARGETLANGUAGE]。"
+}

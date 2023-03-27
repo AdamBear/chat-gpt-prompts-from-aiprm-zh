@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Atarhe Okejotor",
+  "AuthorURL": "https://tenbaze.com/author/atarhe",
+  "Title": "博客文章介绍和元描述",
+  "Category": "writing",
+  "Teaser": "为您的文章创建一个SEO友好的博客文章介绍和元描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T20:34:41.695Z",
+  "Help": "",
+  "ID": "1799872767097827328",
+  "PromptHint": "关键词/主题/标题",
+  "PromptPackageID": "0",
+  "Prompt": "使用[TARGETLANGUAGE]生成一个SEO友好的博客文章介绍和165个字符的元描述，针对[PROMPT]。"
+}

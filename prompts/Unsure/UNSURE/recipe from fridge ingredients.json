@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Matt MacPherson",
+  "AuthorURL": "https://edabit.com",
+  "Title": "冰箱食材食谱",
+  "Category": "UNSURE",
+  "Teaser": "列出你冰箱中的物品（用逗号隔开），ChatGPT将生成食谱。假设您可以使用盐和胡椒粉、黄油、糖和其他常见烹饪必需品。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-18T00:31:04.703Z",
+  "Help": "",
+  "ID": "1792322109767421952",
+  "PromptHint": "面包，鸡蛋，番茄酱，面条等。",
+  "PromptPackageID": "0",
+  "Prompt": "我会给你一份我冰箱里的配料清单，你需要使用其中一些或全部的配料来制作一个食谱。\n\n假设我有盐、胡椒粉、黄油、糖、常见的香料和其他各种烹饪必需品。\n\n用[TARGETLANGUAGE]输出这个食谱。\n\n以下是配料清单：\n\n[PROMPT]"
+}

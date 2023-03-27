@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Yeasin Arafat",
+  "AuthorURL": "https://medium.com/@seoguru.yeasin/6-most-essential-wordpress-plugins-every-site-should-have-2023-ffffb8cd2c88",
+  "Title": "关键词聚类是从竞争对手的内容中提取的。",
+  "Category": "keywords",
+  "Teaser": "从您的竞争对手的内容中获取最佳关键字集群。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-01T14:49:34.801Z",
+  "Help": "",
+  "ID": "1786377565062299648",
+  "PromptHint": "请粘贴您的竞争对手关键词组内容",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是从这份内容中创建关键字集群。请给我一个包含大纲的关键字集群列表。所有输出都应该是用汉语。将以下文本转换为关键字集群：<<<\n\n[PROMPT]\n>>>"
+}

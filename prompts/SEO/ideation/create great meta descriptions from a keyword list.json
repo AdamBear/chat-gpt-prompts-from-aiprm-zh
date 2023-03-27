@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joe Newell",
+  "AuthorURL": "https://theaiwriter.com/create-great-meta-descriptions-with-keywords/",
+  "Title": "从关键词列表中创建出优秀的元描述。",
+  "Category": "ideation",
+  "Teaser": "让人工智能创建一些高转化、杀手级的元描述，用于博客文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-08T10:13:06.513Z",
+  "Help": "",
+  "ID": "1788844703798792192",
+  "PromptHint": "【关键字列表】",
+  "PromptPackageID": "0",
+  "Prompt": "目标语言是[TARGETLANGUAGE]\n将以下每个关键词都变成引人入胜的第二人称元描述。在元描述的开头附近包含关键词，就像下面的列表中所写的一样。整个描述长度必须至少为130个字符，但不超过160个字符：\n[PROMPT]"
+}

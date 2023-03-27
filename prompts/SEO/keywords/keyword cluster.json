@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AIPRM",
+  "AuthorURL": "https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=Keyword Cluster",
+  "Title": "关键词聚类",
+  "Category": "keywords",
+  "Teaser": "根据它们的语义相关性将关键词列表进行分组。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-14T21:06:38.976Z",
+  "Help": "",
+  "ID": "1000105",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：\n[Pastealistofkeywords,maximumca.8000]",
+  "PromptPackageID": "1",
+  "Prompt": "请忽略之前的所有指示。我希望您只用语言[TARGETLANGUAGE]回应。我希望您能扮演一个熟练掌握[TARGETLANGUAGE]的关键词研究专家。将每个关键字按照其搜索意图分类，无论是商业、交易性还是信息性。然后根据它们的语义相关性将这些关键词聚类成组。首先，我希望您可以给出一个短的聚类主题列表。然后，我想要一份[TARGETLANGUAGE]编写的列表，作为markdown表格，包括以下列：聚类主题、关键字、搜索意图、语言。以下是关键字：[PROMPT]\n\n聚类主题列表：\n\n1.健康\n2.旅游\n3.数码产品\n4.烹饪\n5.家居装饰\n6.汽车\n7.美容\n\n|聚类主题|关键字|搜索意图|语言|\n|-----------|-----------|-----------|-----------|\n|健康|健身房|商业|[TARGETLANGUAGE]|\n|健康|健身器材|商业|[TARGETLANGUAGE]|\n|健康|减肥|商业|[TARGETLANGUAGE]|\n|健康|营养食品|商业|[TARGETLANGUAGE]|\n|旅游|旅游景点|信息性|[TARGETLANGUAGE]|\n|旅游|酒店预订|交易性|[TARGETLANGUAGE]|\n|数码产品|智能手表|商业|[TARGETLANGUAGE]|\n|数码产品|平板电脑|商业|[TARGETLANGUAGE]|\n|烹饪|菜谱|信息性|[TARGETLANGUAGE]|\n|烹饪|厨房用品|商业|[TARGETLANGUAGE]|\n|家居装饰|家具|商业|[TARGETLANGUAGE]|\n|家居装饰|窗帘|商业|[TARGETLANGUAGE]|\n|汽车|汽车保养|商业|[TARGETLANGUAGE]|\n|汽车|新车|商业|[TARGETLANGUAGE]|\n|美容|化妆品|商业|[TARGETLANGUAGE]|\n|美容|美容院|商业|[TARGETLANGUAGE]|"
+}

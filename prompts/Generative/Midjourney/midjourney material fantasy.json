@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AIPRM",
+  "AuthorURL": "https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=Midjourney Material Fantasy",
+  "Title": "中途物质幻想",
+  "Category": "Midjourney",
+  "Teaser": "经常重复这句话！以许多不同的风格和材料创造你的想法。感到惊讶。ChatGPT建议使用中途提示。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-01-26T14:36:43.273Z",
+  "Help": "",
+  "ID": "1784200001845727232",
+  "PromptHint": "描述你想要看到什么。",
+  "PromptPackageID": "0",
+  "Prompt": "/imagineprompt:[PROMPT],[2],[3]的{night},[4],[5]{materials}。在场景中添加更多{night}，比如星光或月光，同时增加{materials}的材质细节，比如光泽或纹理。\n--stylize500\n--q2"
+}

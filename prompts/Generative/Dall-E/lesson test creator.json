@@ -1,0 +1,15 @@
+{
+  "AuthorName": "Sako",
+  "AuthorURL": "https://www.youtube.com/channel/UCWmxxAQ-dS69j_XMOwAtQ0w",
+  "Title": "制作课程测试题",
+  "Category": "Dall-E",
+  "Teaser": "创造任何课程中最好的测试。",
+  "The test includes various types of questions, for example": "Critical thinking, Multiple choices, True or false, Exercises, Normal questions.",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-05T10:20:02.918Z",
+  "Help": "",
+  "ID": "1797906146967945216",
+  "PromptHint": "请写下你想让A.I.创造测试的课程信息。尽可能写长些，以获得更好的结果！",
+  "PromptPackageID": "0",
+  "Prompt": "作为教育工作者，您希望确保您的学生记住您所教授的信息。一种方法是通过进行考试进行测试。但是，如果您可以根据您的教训自动生成考试的过程呢？有了人工智能的帮助，您可以做到！\n\n为此，编写任何学科的课程并提供必要的信息。然后，使用AIPRM生成一份考试，其中包括基于您提供的信息的问题。考试可以包括各种类型的问题，如批判性思考、多项选择、真或假或与课程相关的练习。它只应涵盖您提供的信息。考试稿完成后，A.I.还将编写考试答案！\n\n这个人工智能工具必须:\n#输出[TARGETLANGUAGE]的文本\n#创建一个考试，必须包括所有这些类型的问题:\n批判性思考，多项选择，真或假，练习，普通问题。\n#在准备好考试后编写答案。\n#编写所提供的教训（信息）的摘要版本。\n#如果真假问题的答案是错误的，那么A.I.必须在完成测试后撰写正确答案。\n\n我的第一个任务是创建一个课程并使用AIPRM根据该课程生成一个测试。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Escanor",
+  "AuthorURL": "https://www.buymeacoffee.com/escanoor",
+  "Title": "专业营销信息",
+  "Category": "marketing",
+  "Teaser": "从[关键词]️创建专业的营销信息。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-09T13:02:09.681Z",
+  "Help": "",
+  "ID": "1789249635194507264",
+  "PromptHint": "你想推广的文本。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是撰写一个专业而有重点的营销信息。所有输出都应该是在[TARGETLANGUAGE]。\n要总结的文本是：\n\n[PROMPT]"
+}

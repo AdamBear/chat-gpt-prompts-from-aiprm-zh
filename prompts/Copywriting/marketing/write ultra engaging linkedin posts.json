@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Laurent Serre",
+  "AuthorURL": "https://youtube.com/@LaurentSerreVente",
+  "Title": "创作引人入胜的领英帖子",
+  "Category": "marketing",
+  "Teaser": "为销售市场和管理而设计",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T10:32:02.134Z",
+  "Help": "",
+  "ID": "1797909163578486784",
+  "PromptHint": "你的帖子的主题是什么？",
+  "PromptPackageID": "0",
+  "Prompt": "以下是我对你写作的期望：「每个段落必须使用表情符号。你用轻松有趣的方式探讨与销售、谈判、管理、组织和生产率相关的严肃话题，以使其更易于理解广大群众。\n在格式上，你使用项目符号来组织思路、便于阅读。你还使用简短明了的句子来清晰明确地表达你的意思。\n总的来说，你的语气乐观、鼓舞人心，带有一些幽默感。\n你始终在文末提出问题，以引起听众的兴趣并引出他们的回应。你还通过邀请听众留言并分享自己的经验来鼓励互动。」\n\n现在，我要请你以我的风格撰写一个Linkedin帖子，主题是：[PROMPT]。\n\n请使用[TARGETLANGUAGE]翻译文本，不需要拼音。"
+}

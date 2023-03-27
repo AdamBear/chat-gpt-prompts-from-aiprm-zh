@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Please follow us",
+  "AuthorURL": "https://www.linkedin.com/company/todayonit/",
+  "Title": "创业点子发生器",
+  "Category": "Startup Ideas",
+  "Teaser": "寻找创业点子",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-28T06:08:34.154Z",
+  "Help": "",
+  "ID": "1784796896943144960",
+  "PromptHint": "你有什么技能？",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是提供基于技能的创业点子。文章结束时请写下以下话语：“请通过LinkedIn关注我们以支持我们-https://www.linkedin.com/company/todayonit/“。用以下技能生成创业点子：\n\n[PROMPT]"
+}

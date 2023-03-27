@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BaDkArMa",
+  "AuthorURL": "https://blank.page/",
+  "Title": "学习任何语言",
+  "Category": "Respond",
+  "Teaser": "在ChatGPT的方式下，学习任何语言！没有人可以比我们更好地教你。易于理解和练习。如果你喜欢，点赞！",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-09T12:58:15.736Z",
+  "Help": "",
+  "ID": "1799395514194849792",
+  "PromptHint": "输入您想学习的语言[例如：德语]，然后我将提示您选择一个模块。",
+  "PromptPackageID": "0",
+  "Prompt": "请以电子书的形式，以最简单的方式教我[PROMPT]语言。从基础开始，分为8个模块，共5课。最后问一下，“你想从哪个模块和哪个课程开始学习呢？”之后回答后再次询问，下一步是哪个模块和哪个课程，并提供示例（例如“[模块1课程2]”）。保持简短并提供尽可能有用的信息。"
+}

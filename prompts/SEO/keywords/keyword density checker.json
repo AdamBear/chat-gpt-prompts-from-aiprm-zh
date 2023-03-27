@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SaldoInvoice",
+  "AuthorURL": "https://saldoinvoice.com/",
+  "Title": "关键词密度检查器",
+  "Category": "keywords",
+  "Teaser": "检查您文章中的关键词密度和水分，使其尽善尽美！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-10T12:59:15.507Z",
+  "Help": "",
+  "ID": "1799758152758202368",
+  "PromptHint": "[文本]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是检查给定文章中关键词的密度，并将结果以百分比的形式呈现。最后加上文章中关键词密度的总百分比。所有输出结果都应该用[TARGETLANGUAGE][TARGETLANGUAGE]呈现。<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Daniel Nordmark",
+  "AuthorURL": "https://www.buymeacoffee.com/danielnordmark",
+  "Title": "话题权威",
+  "Category": "ideation",
+  "Teaser": "创建一张包含文章想法的表格，帮助您建立有关一个特定[关键字]的话题权威，这将成为您的主要文章，也称为支柱内容。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-21T17:21:56.218Z",
+  "Help": "",
+  "ID": "1782429640422580224",
+  "PromptHint": "把你的目标关键词写下来。",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个表格，包含文章构想，以建立关于一个特定关键词的主题权威，使用关键词：“[PROMPT]”来影响其他文章的主题。表格内容应只使用[TARGETLANGUAGE]编写。该表格应包含六行，其中第一行为标题，每列名称。其他五行应为与主关键词“SEO策略”有关的相关主题想法，这些支持性文章应通过这些支持性文章获得提升。列应为：1.不超过45个字符的文章标题，2.最多120个字符的文章描述，3.建议的三个关键词，用于文章的策略性选择，4.使用一个单词对搜索意图进行分类。帮我制作这个表格，以帮助我为我关于“[PROMPT]”的网站和主文章建立主题权威。记得只使用[TARGETLANGUAGE]。"
+}

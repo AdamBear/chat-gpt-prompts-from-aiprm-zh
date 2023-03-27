@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ilker",
+  "AuthorURL": "https://thefacetrust.org/",
+  "Title": "人类写作-H1，H2，H3-常见问题和关键词密度",
+  "Category": "writing",
+  "Teaser": "您可以在几秒钟内写出1000多个单词的文章。H1，H2和H3标题，FAQ问题和答案，关键词密度等许多功能！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-05T22:09:00.446Z",
+  "Help": "",
+  "ID": "1787937702054977536",
+  "PromptHint": "[关键词-非标题]",
+  "PromptPackageID": "0",
+  "Prompt": "首先，我希望你把自己想像成一名专业的SEO内容写手，并从你那里得到一篇文章。这篇文章必须是[TARGETLANGUAGE]。并写下这篇文章关于[PROMPT]。在这篇文章中，创建一个H2标题，并写一个关于什么是[PROMPT]的信息文本。另外，在这篇文章中，创建一个H1标题。这篇文章应该至少有1000个单词，并包括标题（H1、H2和H3）。最后，创建一个FAQ主题，并回答关于[PROMPT]的两到三个最常问的问题。"
+}

@@ -1,0 +1,13 @@
+{
+  "AuthorName": "Aramis Gayt谩n",
+  "AuthorURL": "https://www.linkedin.com/in/aramis-gayt%C3%A1n-02991593/",
+  "Title": "竞争分析",
+  "Category": "Design",
+  "Teaser": "获取您想要的品牌的竞争分析",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-02-20T23:46:40.385Z",
+  "Help": "",
+  "ID": "1793398098404577280",
+  "PromptPackageID": "0",
+  "Prompt": "我需要您以表格形式对[PROMPT]在[PROMPT]之间进行竞争性网站和应用程序分析，并提供改善每个网站的用户体验的机会。回复[TARGETLANGUAGE]。"
+}

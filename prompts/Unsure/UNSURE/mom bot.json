@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jackson Burnham",
+  "AuthorURL": "https://turnwordsintodollars.com",
+  "Title": "妈妈机器人",
+  "Category": "UNSURE",
+  "Teaser": "MOM机器人异议处理程序",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-06T01:36:55.536Z",
+  "Help": "",
+  "ID": "1787990026374877184",
+  "PromptHint": "请提供要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "作为自然语言处理专家RobertDilts，举一个使用“MagicalObjectionMastery”模式来处理[PROMPT]反驳的10种不同方式的例子。所有输出都应该用[TARGETLANGUAGE]。"
+}

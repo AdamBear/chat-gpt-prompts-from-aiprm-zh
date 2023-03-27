@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ahmad Faruqi",
+  "AuthorURL": "https://twitter.com/faruqi_mohammad",
+  "Title": "「像冲浪者一样的语义相关段落」",
+  "Category": "writing",
+  "Teaser": "写一个段落，其中包括大部分有语义关联的SEO术语，就像SurferSEO一样。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-28T10:41:05.773Z",
+  "Help": "",
+  "ID": "1796099504437719040",
+  "PromptHint": "[你想要一个语义相关的段落的主题或标题]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务如下：首先从我要提供的话题中生成一份有语义相关性的术语列表。你需要提供[TARGETLANGUAGE]词汇。然后用这些术语写一段包含所有词汇的[TARGETLANGUAGE]段落。话题是：[PROMPT]"
+}

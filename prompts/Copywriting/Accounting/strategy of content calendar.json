@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Felipe Zanoni",
+  "AuthorURL": "https://instagram.com/fe_leads",
+  "Title": "内容日历策略",
+  "Category": "Accounting",
+  "Teaser": "创建日历帖子",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T13:45:47.404Z",
+  "Help": "",
+  "ID": "1796870759898157056",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能帮我制定一个内容计划，以便我能够排名针对我的关键词的长尾关键词。在以下提示中，我将告诉您我的主要目标关键字。请只针对交易式搜索词进行定位。请为这些博客文章想出诱人的标题。请将每个博客文章标题组织在一个漂亮的表格中，使其看起来像一个日历。每周应分别放在自己的表格中。在上表中，将“关键字”用提示中提供的大写关键字替换。\n\n我要定位的关键字是：[PROMPT]\n语言：[TARGETLANGUAGE]"
+}

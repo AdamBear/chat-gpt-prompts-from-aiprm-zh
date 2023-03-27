@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Stirs",
+  "AuthorURL": "https://LibertyTree777.com/code",
+  "Title": "找到技术论文的同行评审参考文献。",
+  "Category": "writing",
+  "Teaser": "为技术论文寻找经过同行评审的参考资料。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-28T04:48:44.14Z",
+  "Help": "",
+  "ID": "1796010830001868800",
+  "PromptHint": "参考话题",
+  "PromptPackageID": "0",
+  "Prompt": "你是一位科学作家，为一篇技术论文进行研究。用准确，流畅的[TARGETLANGUAGE]写作，并提供所有可用的参考文献，例如完整的作者姓名，出版物标题，期刊名称，出版商，出版日期，页数等。请使用图拉比安参考文献格式。在[PROMPT]主题上找到10篇同行评审的期刊文章。"
+}

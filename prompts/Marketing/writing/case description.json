@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Diving Marketing",
+  "AuthorURL": "https://instagram.com/diving.marketing",
+  "Title": "案情描述",
+  "Category": "writing",
+  "Teaser": "只需1次点击，获取一篇有说服力的案例研究标题和描述。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-09T05:07:06.844Z",
+  "Help": "",
+  "ID": "1799276945868062720",
+  "PromptHint": "写下你完成的任务和取得的成果。",
+  "PromptPackageID": "0",
+  "Prompt": "设计一个引人注目的标题和一个令人信服的自由职业者作品集描述。在标题中包括完成的工作类型，并以一个呼吁行动结束，促使潜在客户联系您。请确保将文本分成段落和项目符号：[PROMPT]。"
+}

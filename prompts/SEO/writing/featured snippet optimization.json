@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sayan Dutta",
+  "AuthorURL": "https://readus247.com/about/",
+  "Title": "特色片段优化",
+  "Category": "writing",
+  "Teaser": "重新写一段文字以进行特色片段优化，这段文字可以出现在谷歌的特色片段中。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-13T08:55:29.4Z",
+  "Help": "",
+  "ID": "1800783970015903744",
+  "PromptHint": "输入以优化特别推荐文本的文本",
+  "PromptPackageID": "0",
+  "Prompt": "请使用50至60个字以内的小段落来重新撰写文章，以优化专属片段。首先直接回答问题，用“是”或者“不是”，然后描述原因。文章应在[TARGETLANGUAGE]中，使用简洁易懂的语言。从[PROMPT]获取输入。"
+}

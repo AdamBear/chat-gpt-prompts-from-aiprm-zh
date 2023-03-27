@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sekolah Stata",
+  "AuthorURL": "https://sekolahstata.com/",
+  "Title": "回归差异不敏感",
+  "Category": "writing",
+  "Teaser": "回归差异中立性",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-16T15:23:48.466Z",
+  "Help": "",
+  "ID": "1801968856978423808",
+  "PromptHint": "请写出依赖变量和DID回归结果表，例如：目标变量的变量如下：ttl_enerc，ttl_choavldf，ttl_protcnt，ttl_fat，ttl_fibtg，ttl_retol，ttl_cartb，ttl_va_rae，ttl_thia，ttl_ribf，ttl_nia，ttl_vit_b6，ttl_folate，ttl_vit_b12，ttl_vit_c，ttl_ash，ttl_ca，ttl_fe，ttl_zn。自变量/有兴趣的变量是社会部门的BPNT治疗计划。",
+  "PromptPackageID": "0",
+  "Prompt": "我是经济学博士研究员。我希望在Scopus发表有声望的期刊。我打算使用差异法(Difference-in-Difference，DID)方法解释回归结果。DID通常用于评估一个计划的影响。请您帮忙使用印度尼西亚学术期刊标准语言解释下表中的DID回归结果。"
+}

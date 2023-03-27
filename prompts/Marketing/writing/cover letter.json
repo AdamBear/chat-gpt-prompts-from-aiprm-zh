@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Justin Parker",
+  "AuthorURL": "https://www.youtube.com/channel/UCjJEWmtviRLT1BVJwjUWMZg",
+  "Title": "求職信",
+  "Category": "writing",
+  "Teaser": "从工作描述和简历中创建专业的求职信。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-15T20:50:11.554Z",
+  "Help": "",
+  "ID": "1801688606537158656",
+  "PromptHint": "您好，以下是需要翻译的句子：请将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，不要翻译[]中的单词：“enterinyour\"Resume\"and\"JobDescription\"”。",
+  "PromptPackageID": "0",
+  "Prompt": "根据工作描述和我的简历，为我撰写一封专业的求职信。"
+}

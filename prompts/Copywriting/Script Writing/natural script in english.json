@@ -1,0 +1,14 @@
+{
+  "AuthorName": "dl dl",
+  "AuthorURL": "https://youtu.be/uuiVy_YqRhw",
+  "Title": "英语中的自然手写体",
+  "Category": "Script Writing",
+  "Teaser": "请将剧本改成美国人在现实生活中说话的自然方式。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T14:05:30.864Z",
+  "Help": "",
+  "ID": "1794701396495556608",
+  "PromptHint": "把[textthatyouwanttochange]翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是把以下脚本改成美国人在生活中的自然语言。只要给我结果脚本。所有输出都必须是[TARGETLANGUAGE]。需要改变的脚本是这个：\n\n[PROMPT]"
+}

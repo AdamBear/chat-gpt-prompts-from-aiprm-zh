@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Paulo Ricardo Diniz",
+  "AuthorURL": "https://usina.online",
+  "Title": "我今天很忙，没有时间去购物了。\n\n1.哪里导致您今天很忙？\n2.您什么时候有时间去购物？\n3.您通常在哪里购物？",
+  "Category": "writing",
+  "Teaser": "创建三个客观问题，每个问题只有一个正确答案，并提供关于答案的完整解释。\n\nPossibleobjectivequestions:\n\n1.WhatisthecapitalofFrance?\nAnswer:Paris.ParisisthecapitalofFrance,locatedinthenorth-centralpartofthecountry.ItisknownforitsiconiclandmarkssuchastheEiffelTower,theLouvreMuseum,andtheArcdeTriomphe.\n\n2.Whoinventedthetelephone?\nAnswer:AlexanderGrahamBell.AlexanderGrahamBellwasaScottish-borninventor,scientist,andteacherwhoiscreditedwithinventingandpatentingthefirstpracticaltelephonein1876.Hisinventionrevolutionizedcommunicationandchangedthewayweinteractwitheachother.\n\n3.Whatisthelargestmammalonearth?\nAnswer:Thebluewhale.Thebluewhaleisthelargestmammalonearth,weighingupto200tonsandmeasuringupto100feetinlength.Itisanendangeredspeciesthatlivesintheworld'soceans,feedingmainlyonkrillandothersmallmarinelife.",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-17T01:07:56.158Z",
+  "Help": "",
+  "ID": "1802115857653170176",
+  "PromptHint": "你必须使用一个文本作为参考。将其粘贴在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "担任一名专业的测验作者，创作三个详细的问题，每个问题都有五个答案选项，但只有一个是正确的。为了让测验对广大学生都有趣和具有挑战性，请考虑[PROMPT]这个文本。您必须正确使用[TARGETLANGUAGE]。请标出正确答案并简要解释正确的回答理由。"
+}

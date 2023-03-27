@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rodolflying",
+  "AuthorURL": "https://medium.com/@rodolfo.antonio.sep",
+  "Title": "批评",
+  "Category": "Research",
+  "Teaser": "[严厉的批评者和写作建议者]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T00:52:52.115Z",
+  "Help": "",
+  "ID": "1794139532778795008",
+  "PromptHint": "将[语言]，[链接，标题，电子邮件，歌曲名，商业模式]打入批判+您自己的[PROMPT]。",
+  "PromptPackageID": "0",
+  "Prompt": "请扮演一个严厉的批评家，针对这个[关键词]提供极其诚实的反馈。说服我它为什么不好。\n请扮演一个[关键词]领域的专家，并提出对[关键词]的改进建议。\n让我们一步一步地思考。\n最后用几个要点总结答案。"
+}

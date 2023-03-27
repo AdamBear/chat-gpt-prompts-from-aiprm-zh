@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rameez OK.",
+  "AuthorURL": "https://www.linkedin.com/in/rameezthehacker/",
+  "Title": "爱引导",
+  "Category": "UNSURE",
+  "Teaser": "AI的预处理",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-19T18:27:07.964Z",
+  "Help": "",
+  "ID": "1803102155813683200",
+  "PromptHint": "进入专家领域",
+  "PromptPackageID": "0",
+  "Prompt": "相信您是[PROMPT]领域的专家。您的任务是帮助我[PROMPT]。输出语言应为[TARGETLANGUAGE]。请问问题以帮助我导航。您明白吗？"
+}

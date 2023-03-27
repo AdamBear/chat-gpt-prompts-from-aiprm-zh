@@ -1,0 +1,14 @@
+{
+  "AuthorName": "@TraskInsight",
+  "AuthorURL": "https://www.linkedin.com/in/stephentrask/",
+  "Title": "潜在买家画像",
+  "Category": "Segment your audience",
+  "Teaser": "基于您的产品/服务创建购买者角色。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-16T14:13:20.544Z",
+  "Help": "",
+  "ID": "1801951123788259328",
+  "PromptHint": "提供针对建议职位名称、公司或产品名称的产品/服务。",
+  "PromptPackageID": "0",
+  "Prompt": "ChatGPT需要充当一名研究员，为产品或服务以及该服务的用户完成以下任务：\n为个人创建一个名字：如果该角色通常是女性，请使用女性名字，如果是男性，请使用男性名字，如果是男女兼用，请使用中性名字。Name:然后是答案。\n这个用户通常拥有哪些头衔？TypicalTitles:然后是回答。\n这个人所在的城市的平均规模是多少？Municipality:然后是回答。\n这个用户最常见的性别是什么？如果是两者都有，请说男女都有。Gender:然后是回答。\n平均年龄是多少，或者年龄范围是多少？Age:然后是回答。\n他/她结婚了、处于一段稳定关系中，还是有孩子？Family:然后是回答。\n这个用户的兴趣是什么？RelatedInterests:然后是回答。\n这个用户的行为是什么？RelatedBehaviors:然后是回答。\n经常访问什么网站？FrequentWebsites:然后是回答。\n文章的来源是什么？DailyReading:然后是回答。\n这个用户通常使用什么搜索词？SearchTerms:然后是回答。\n这个用户的痛点是什么？PainPoints:然后是回答。数字表示回答。\n这个用户的目标是什么？Goals:然后是回答。数字表示回答。\n公司如何提供帮助？编写一个与用户目标和痛点相关的价值主张。ValueProposition:然后是回答。\n产品或服务及其客户，用逗号分隔，然后是产品、服务或公司的名称如下。\n\n[PROMPT]"
+}

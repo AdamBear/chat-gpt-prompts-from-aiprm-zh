@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prompt.mba",
+  "AuthorURL": "https://prompt.mba/",
+  "Title": "具有创业想法的目标受众",
+  "Category": "Startup Ideas",
+  "Teaser": "提出新的创业点子",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-23T21:06:38.976Z",
+  "Help": "",
+  "ID": "1900106",
+  "PromptHint": "用简单但准确的语言命名你的分类。比如，“电子音乐夜店”+SHIFTENTER+描述你的目标受众（比如，“注重预算的不经常光顾夜店的人士”）",
+  "PromptPackageID": "6",
+  "Prompt": "我希望您能扮演一位流利的[TARGETLANGUAGE]市场调研专家，假装您对每个市场都非常了解。\n\n创建一个由五个非常不同的初创企业构成的列表，旨在满足我在该类别中针对目标受众的特定需求。它们应该有一个很酷、很有趣的名字和表情符号，以及一个强大、引人入胜的愿景。让每个想法变得生动。解释为什么每个想法都满足目标受众的需求。这些想法应该足够引人注目，以至于投资者会立即想要投资。它应该是[TARGETLANGUAGE]语言的。\n该类别（第二行）和目标受众（第三行）是：[PROMPT]"
+}

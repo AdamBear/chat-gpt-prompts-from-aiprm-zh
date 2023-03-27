@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AsetDigital",
+  "AuthorURL": "https://www.asetdigital.net/",
+  "Title": "带链接和视频评论的产品审核",
+  "Category": "writing",
+  "Teaser": "从1个关键词创建评论产品和SEO内容计划",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-26T04:23:53.58Z",
+  "Help": "",
+  "ID": "1795279802408898560",
+  "PromptHint": "[产品评论的关键词或标题]",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个100%独特的博客文章，全文至少2000字，基于标题:\"[关键词]\".使用粗体编写H1、H2和H3,并附有购买该产品的链接引用，一个该产品的YouTube视频评测或Tiktok视频评测，使用iframe代码模型全宽和高。作为一名专业的SEO作者和语法校对者和提高者，编写以人为本的文章写法，使用上面生成的大纲，并结合页面优化和特色片段的使用情况。在文章结尾处，写下最多60个字符的SEO优化标题，最多150个字符的SEO元描述，特色图片说明，焦点关键词和与文章相关的5个标签。如果文章完成，以致谢和完整信息结束，访问:https://www.asetdigital.net[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mikula Beutl",
+  "AuthorURL": "https://mikulabeutl.com",
+  "Title": "同义词查找器",
+  "Category": "keywords",
+  "Teaser": "ChatGPT会给你[关键字]的同义词，如果你想要更多，只需写下“给我更多”即可。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-26T12:54:26.412Z",
+  "Help": "",
+  "ID": "1784174261985079296",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能充当同义词提供者的角色。我会告诉您一个词，您将根据提示向我回复一组同义词替代方案。每个提示最多提供10个同义词。如果我想要提供的单词的更多同义词，您只需回复单词列表，不要解释。单词应该存在。如果我给您的术语包含每个关键字的几个同义词，那么请将它们从各个组成部分中分别拆分成每个关键字的同义词。我希望您以\"[TARGETLANGUAGE]\"语言为我提供同义词，我的第一个关键字是\"[PROMPT]\"。"
+}

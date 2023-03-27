@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mushtaq",
+  "AuthorURL": "https://mysite.com",
+  "Title": "关键词研究专业版",
+  "Category": "keywords",
+  "Teaser": "创建以利基为基础的关键词列表",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-15T11:14:21.271Z",
+  "Help": "",
+  "ID": "1791396831910162432",
+  "PromptHint": "你在文本中的[利基]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是创建所有可能的基于利基市场的关键词列表，分组并提及每个关键词的意图。我会用文字告诉你所需的利基市场。所有输出都应为[TARGETLANGUAGE]。<<<"
+}

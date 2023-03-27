@@ -1,0 +1,14 @@
+{
+  "AuthorName": "beta",
+  "AuthorURL": "http://www.betawm.com/",
+  "Title": "没有版权风险的摘要器",
+  "Category": "Summarize",
+  "Teaser": "无版权风险的总结器，它能在不失去任何意义的情况下总结段落。结果是对段落进行概述，同时尽可能地保留所有的原始含义和上下文，让总结尽可能地简短。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-17T07:36:01.338Z",
+  "Help": "",
+  "ID": "1802213522776784896",
+  "PromptHint": "请翻译以下句子到[TARGETLANGUAGE]（不要使用拼音），不要翻译其中的[]内的单词：\n[PastetheTextthatneedstobesummarized]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的说明。我希望你只用[TARGETLANGUAGE]回答。我希望你能扮演一位讲述和书写流利的[TARGETLANGUAGE]的高级商业编辑。请假定你能够用[TARGETLANGUAGE]写出超过180个字符的清晰简洁的摘要。你的任务是通过从文本中复制句子来总结我给你的文本。所有输出都应该用[TARGETLANGUAGE]书写。需要总结的文本是:\n[PROMPT]"
+}

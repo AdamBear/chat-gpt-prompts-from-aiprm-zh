@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MUGHU",
+  "AuthorURL": "https://www.facebook.com/mughu.me",
+  "Title": "为您的博客创建欢迎信息。",
+  "Category": "writing",
+  "Teaser": "为你的博客创建一个欢迎消息。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-14T01:56:10.524Z",
+  "Help": "",
+  "ID": "1790893973670453248",
+  "PromptHint": "只翻译下面这句话成[TARGETLANGUAGE]即可，不要用拼音，也不要翻译方括号[]内的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "用[TARGETLANGUAGE]写一篇欢迎文章，其中[topic]为博客话题。\n<<<\n欢迎来到我的博客！本博客的[topic]，旨在为大家提供有价值的内容和信息。我们将分享有趣的见解和经验，并与您一起探讨[topic]的各个方面。希望您能在这里收获到满满的信息和知识！"
+}

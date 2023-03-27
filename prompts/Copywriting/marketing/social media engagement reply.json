@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kiat Media",
+  "AuthorURL": "https://kiatmedia.com/support-me/",
+  "Title": "社交媒体互动回复",
+  "Category": "marketing",
+  "Teaser": "在社交媒体上创建100％个性化的回复评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-23T01:44:30.825Z",
+  "Help": "",
+  "ID": "1782918505876951040",
+  "PromptHint": "问题或评论",
+  "PromptPackageID": "0",
+  "Prompt": "写一篇回复这条推文[PROMPT]，表达我们对[TARGETLANGUAGE]的支持。"
+}

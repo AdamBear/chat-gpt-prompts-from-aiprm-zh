@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Aamir",
+  "AuthorURL": "https://nafran.com/",
+  "Title": "时间持续计算器",
+  "Category": "Plan",
+  "Teaser": "您是否想以小时和分钟确定待办事项列表上的工作持续时间？例如，从早上10点工作到早上11点15分将计算为1小时15分钟。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-09T08:30:08.801Z",
+  "Help": "",
+  "ID": "1799328040699031552",
+  "PromptHint": "输入时间范围。",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]中，[PROMPT]之间有多少小时和分钟？"
+}

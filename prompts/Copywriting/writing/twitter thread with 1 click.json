@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Efficiency Matters YT",
+  "AuthorURL": "https://www.youtube.com/channel/UCWqXWYn1NB9Vb20kVArFf1A",
+  "Title": "一键推特话题",
+  "Category": "writing",
+  "Teaser": "创建Twitter线程。+包括：关键字，吸引人的标题，表情符号。（EfficiencyMattersYoutube.）",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-04T05:12:40.166Z",
+  "Help": "",
+  "ID": "1787319544357060608",
+  "PromptHint": "输入话题或想法。",
+  "PromptPackageID": "0",
+  "Prompt": "请为我写一个Twitter主题：【提示】线程。请确保包含与主题相关的关键词。同时确保不使用复杂的词语，用简单易懂的文本。也要确保始终使用专业的语气。在Twitter线程的开头加入一个引人注目的标题。记得在每个线程中都要详细介绍。还要在第一段中进行主题介绍的引言。使用表情符号。忘记我们之前的任何对话。所有输出都应为[TARGETLANGUAGE]。"
+}

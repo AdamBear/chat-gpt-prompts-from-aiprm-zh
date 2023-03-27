@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BadKaRmA",
+  "AuthorURL": "http://www.blankwebsite.com/",
+  "Title": "使命与愿景",
+  "Category": "writing",
+  "Teaser": "请创建一个带有任务、愿景、时间表、策略和客户群体的博客。如果您喜欢，请点赞！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T10:35:46.72Z",
+  "Help": "",
+  "ID": "1797185329829240832",
+  "PromptHint": "本月项目规划",
+  "PromptPackageID": "0",
+  "Prompt": "所有输出应以[TARGETLANGUAGE]为主。您的任务是为[PROMPT]制定任务、愿景、策略、目标、策略、日程表、客户价值和客户细分，包括表情符号、表格、项目符号和建议。请尽可能简洁、清晰地呈现。"
+}

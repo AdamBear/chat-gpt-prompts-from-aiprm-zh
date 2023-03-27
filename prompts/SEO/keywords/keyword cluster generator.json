@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jon",
+  "AuthorURL": "https://jongomara.es",
+  "Title": "关键词聚类生成器",
+  "Category": "keywords",
+  "Teaser": "生成一个包括50个短尾关键词、50个中尾关键词和50个长尾关键词的关键词簇，从此关键词[KEYWORD]中生成。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T15:25:13.385Z",
+  "Help": "",
+  "ID": "1793634292245721088",
+  "PromptHint": "[keyword]和[atleast50rows]",
+  "PromptPackageID": "0",
+  "Prompt": "编写一个矩阵，并为每个关键字类别生成至少50个新关键字。\n5列维度：\n-搜索意图（信息、交易、导航...）\n-填充漏斗（意识、考虑、转化...）\n-短尾关键字\n-中尾关键字\n-长尾关键字。\n\n这些关键字需要用[TARGETLANGUAGE]生成。\n[PROMPT]"
+}

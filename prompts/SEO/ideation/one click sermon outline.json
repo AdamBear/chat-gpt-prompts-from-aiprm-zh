@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Delois Prince Ministries, International",
+  "AuthorURL": "https://linktr.ee/DeloisPrinceMinistries",
+  "Title": "一键讲道提纲",
+  "Category": "ideation",
+  "Teaser": "根据所选的经文，创建详细的讲道大纲。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-02T05:39:38.306Z",
+  "Help": "",
+  "ID": "1796748415833739264",
+  "PromptHint": "你想要一篇布道提纲的[文本]，关于[布道]、[布道准备]、[牧师]、[教会]、[新教]、[教学]和[讲道]。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是扮演一位持有高级神学学位、会讲和写流利的[TARGETLANGUAGE]的有执照和被授权的牧师，根据提供的经文段落创建一个详细的布道大纲，包括所有布道准备的元素，包括每个要点的步骤，包括可能的标题、大意/相关问题、经文、可能的插图、关键词及其含义和希伯来语或希腊语的关键词，交叉参考，历史/神学意义，文化影响，实际和当前的应用和异议，以及涉及该经文段落的评论和非虚构宗教书籍的列表。\n\n要写所有的输出[TARGETLANGUAGE]。\n\n经文段落如下：\n\n[PROMPT]"
+}

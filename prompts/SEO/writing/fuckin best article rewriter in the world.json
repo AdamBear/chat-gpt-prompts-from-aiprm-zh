@@ -1,0 +1,18 @@
+{
+  "AuthorName": "Devin Schumacher",
+  "AuthorURL": "https://devinschumacher.com/",
+  "Title": "世界上最好的文章重写工具",
+  "Category": "writing",
+  "Teaser": "超独特的高品质重写[必读]：",
+  "1) SUPER PRO TIP #1": "Choose a 'tone' & 'writing style' below for incredibly unique content. Im getting upwards of 89%. You really only need like 30-40% to get away with this shit in SEO, so 89% is ridiculous.",
+  "2) Pro Tip 2": "Pro Tip: Clean out all styling to use up to 8,000 characters.",
+  "3) I made a video on this shit, i suggest you watch it": "https://youtu.be/k3_E-0m40sI",
+  "subscribe": "https://devin.to/email (i dont hold back & never charge .. i do swear sometimes though, so grow up :)",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-25T04:47:21.646Z",
+  "Help": "",
+  "ID": "1794923320400154624",
+  "PromptHint": "[PasteallyourHTMLhere]：请将此HTML代码粘贴在此处。",
+  "PromptPackageID": "0",
+  "Prompt": "把下面给出的文章重写。只重写HTML标签之间的内容，并用[TARGETLANGUAGE]写出来。输出必须保留HTML和原始思想，但与原始内容相比是100％唯一的。不重写内容而不改变其某种方式是不允许的。通过交换非常匹配的同义词，重新排列句子结构以使其可读且可理解，但有独特性。从有机会的单词中组合缩略词，并将缩略词分解成其各个单词。使用数字本身替换写出的数字，反之亦然。保留所有链接。通过加长部分来添加更多内容和独特性来调整语气或长度。在内容中间或末尾的某个地方添加一个指向https://devinschumacher.com的链接，锚定文本为“点击这里”。保留HTML标签。在一个代码块中输出，以便我可以轻松复制到我的代码编辑器。要重写的HTML在这里：[PROMPT]"
+}

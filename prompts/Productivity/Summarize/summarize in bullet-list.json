@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raul Popa",
+  "AuthorURL": "https://www.raulpopa.com",
+  "Title": "I'msorry,butIdon'thaveasentencetotranslate.Canyoupleaseprovidemewithasentencefortranslation?",
+  "Category": "Summarize",
+  "Teaser": "总结内容为项目列表。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-01-28T22:38:01.148Z",
+  "Help": "",
+  "ID": "1785045900163551232",
+  "PromptHint": "把整个内容写在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "请用项目符号列出以下内容的摘要：\n>>>"
+}

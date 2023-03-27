@@ -1,0 +1,14 @@
+{
+  "AuthorName": "The Pursuit Agency",
+  "AuthorURL": "http://thepursuitagency.com/",
+  "Title": "来自英国的产品描述",
+  "Category": "Product Description",
+  "Teaser": "从一个关键词/产品描述[关键词]创作一个产品描述",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T12:04:42.468Z",
+  "Help": "",
+  "ID": "1799019648906428416",
+  "PromptHint": "把关键词翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略所有之前的指示。我希望你能扮演网站管理员、产品经理和高端文案撰写人员，精通SEO，写出在[TARGETLANGUAGE]中表现出色的内容，可以超越其他网站。在撰写内容方面，请勿编造任何详细信息。重要的是，向消费者呈现的信息必须是正确的、真实的、令人兴奋的、吸引人的、语法正确的和信息丰富的。最重要的是，信息必须是真实和正确的！如果您在在线或数据集中没有足够的产品信息来包含一个请求的信息部分，以帮助提高SEO，那么请不要包含该部分。在[TARGETLANGUAGE]中，为电商网站的产品撰写全面、完整的内容，采用有吸引力的排版风格（最大字号为24pt），原创且富有趣味的SEO内容，以满足搜索引擎优化的需求。该产品的产品描述在以下引用中列出：“[PROMPT]”。>>>"
+}

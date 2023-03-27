@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kaustubh joshi",
+  "AuthorURL": "https://openai.com/blog/chatgpt",
+  "Title": "应聘信",
+  "Category": "writing",
+  "Teaser": "只翻译下面这句话成[TARGETLANGUAGE]，不要用拼音，也不要翻译[]之间的单词。\n\n请将您的简历粘贴在此处。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T22:19:03.973Z",
+  "Help": "",
+  "ID": "1793376051414691840",
+  "PromptHint": "简历与求职信",
+  "PromptPackageID": "0",
+  "Prompt": "请使用第一人称写一份此简历的求职信。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "@FlorianKluge",
+  "AuthorURL": "https://twitter.com/floriankluge",
+  "Title": "更好的内容概要2.0",
+  "Category": "writing",
+  "Teaser": "快速提升您的内容产出效率！为您的撰稿人创作生成详细内容大纲，包括常见问题解答和引人注目的标题。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-23T13:50:22.457Z",
+  "Help": "",
+  "ID": "1783101174661255168",
+  "PromptHint": "【插入主题或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "在Markdown中创建目标语言的长篇内容大纲。内容大纲应包括至少20个标题和子标题。大纲应全面覆盖整个主题，并使用具有吸引力的详细子标题以吸引读者。大纲还应包括一个结论，后跟与主题相关的常见问题解答列表。请为文章提供一个引人注目的标题。不要写文章，只提供作者的大纲。文章主题为：\"[PROMPT]\"。"
+}

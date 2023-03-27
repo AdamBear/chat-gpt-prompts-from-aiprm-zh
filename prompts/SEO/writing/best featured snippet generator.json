@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Murthy at Next99",
+  "AuthorURL": "https://next99.com/?utm_source=ChatGPT&utm_medium=ai&utm_campaign=ai_prompt",
+  "Title": "最佳特色片段生成器",
+  "Category": "writing",
+  "Teaser": "为我的搜索查询创建最佳的特色摘要",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T04:28:14.005Z",
+  "Help": "",
+  "ID": "1793468955382517760",
+  "PromptHint": "输入您的搜索查询。",
+  "PromptPackageID": "0",
+  "Prompt": "请将文本“PROMPT”在不超过50至60个字的范围内清晰简明地回答查询，并提供上下文。必要时，使用列表或表格的形式使回答易于阅读和理解。所有输出均应为[TARGETLANGUAGE]。<<<"
+}

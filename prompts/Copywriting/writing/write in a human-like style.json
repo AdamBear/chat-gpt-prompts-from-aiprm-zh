@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MM",
+  "AuthorURL": "https://tp.media/click?shmarker=402890&promo_id=7523&source_type=link&type=click&campaign_id=101&trs=203323",
+  "Title": "我很高兴能帮助您。",
+  "Category": "writing",
+  "Teaser": "用你的魔杖轻松将机器人生成的文字转化为类似人类的杰作。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-09T16:22:44.064Z",
+  "Help": "",
+  "ID": "1789300111055253504",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]但不要写拼音，也不要翻译中括号内的词语。",
+  "PromptPackageID": "0",
+  "Prompt": "请将以下由AI生成的文本改写得更贴近人类表达并通过所有AI内容检测器。[TARGETLANGUAGE]<<<"
+}

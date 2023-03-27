@@ -1,0 +1,15 @@
+{
+  "AuthorName": "MMIP",
+  "AuthorURL": "http://www.mmipbrands.com",
+  "Title": "房地产市场分析[更新]",
+  "Category": "Research",
+  "Teaser": "进行房地产投资市场分析。提供A）经济数据表，包括%变化，B）本地市场挑战和C）近期发展情况。",
+  "[note": "Due to s wide range of data sources, results may vary slightly. I'll continue to optimize over time]",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-08T02:35:07.624Z",
+  "Help": "",
+  "ID": "1798876309221543936",
+  "PromptHint": "您想分析哪个城市/城镇/地区等？",
+  "PromptPackageID": "0",
+  "Prompt": "提供2011年至2021年对[PROMPT]的市场分析，使用可信赖的来源。提供以下KPI的数据：人口增长、就业增长、家庭收入中位数、房屋价值中位数、犯罪率。\n\n使用[TARGETLANGUAGE]提供输出。提供以下输出：\n\n1）一个数据表，展示每个KPI的数据，列为年份，并显示实际数据数字，然后最后两列将显示“总时间%变化”和“平均时间%变化”。\n\n2）引用您在KPI数据中使用的[TARGETLANGUAGE]的来源。\n\n3）对该地区的独特经济、发展和/或地区性挑战的详细分析和分析。\n\n4）对该地区存在的积极的经济或发展机会进行详细和扩展的分析，特别是对投资者感兴趣的机会。除非已被指示，否则不要写出结论。"
+}

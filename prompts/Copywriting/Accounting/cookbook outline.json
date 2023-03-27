@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mahfujur Rahman",
+  "AuthorURL": "https://web.facebook.com/razu.sarker71",
+  "Title": "食谱提纲",
+  "Category": "Accounting",
+  "Teaser": "食谱大纲",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T12:15:11.899Z",
+  "Help": "",
+  "ID": "1797572737468989440",
+  "PromptHint": "烹饪书大纲",
+  "PromptPackageID": "0",
+  "Prompt": "基于所提供的标题，先生成10个类别列表，然后生成每个类别的食谱标题，每个类别至少超过10个。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mr. Khan",
+  "AuthorURL": "https://medium.com/@copymrkhan",
+  "Title": "请重新表达您的要求。",
+  "Category": "ideation",
+  "Teaser": "创造一个具有人性化品质的独特段落。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-02T14:29:49.087Z",
+  "Help": "",
+  "ID": "1796881839919730688",
+  "PromptHint": "[段落]",
+  "PromptPackageID": "0",
+  "Prompt": "重写[PROMPT]，以忽略任何形式的剽窃，同时不改变意思，添加内容或改变段落的单词或格式。"
+}

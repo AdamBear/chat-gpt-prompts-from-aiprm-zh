@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WebTantras",
+  "AuthorURL": "https://youtube.com/@webtantras?sub_confirmation=1",
+  "Title": "域名建议工具",
+  "Category": "Accounting",
+  "Teaser": "生成10个适合您的业务的域名建议列表",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T11:35:44.916Z",
+  "Help": "",
+  "ID": "1800461912547516416",
+  "PromptHint": "行业|利基|最大长度，例如食品|汉堡|6",
+  "PromptPackageID": "0",
+  "Prompt": "根据以下以|分隔的顺序输入的信息创建一个10个域名名称的建议器，第一个参数是行业，第二个是细分市场，第三个是没有扩展名的域名长度[PROMPT]。"
+}

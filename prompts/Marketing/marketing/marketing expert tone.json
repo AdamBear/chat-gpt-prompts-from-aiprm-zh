@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bevis",
+  "AuthorURL": "https://www.linkedin.com/in/bevis-lau-digital/",
+  "Title": "营销专家口气",
+  "Category": "marketing",
+  "Teaser": "营销专家风格写文章",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-04T12:09:35.816Z",
+  "Help": "",
+  "ID": "1797571327834710016",
+  "PromptHint": "营销",
+  "PromptPackageID": "0",
+  "Prompt": "所有输出应该是用[TARGETLANGUAGE]。需要总结的文本是:[PROMPT]"
+}

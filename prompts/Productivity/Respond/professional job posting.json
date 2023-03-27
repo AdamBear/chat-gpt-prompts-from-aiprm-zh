@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hutach",
+  "AuthorURL": "https://sites.google.com/view/hutach/startseite",
+  "Title": "专业岗位发布",
+  "Category": "Respond",
+  "Teaser": "发布专业招聘职位[标题]。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-10T13:32:32.809Z",
+  "Help": "",
+  "ID": "1799766530049970176",
+  "PromptHint": "招聘职位的标题+如适用的进一步信息",
+  "PromptPackageID": "0",
+  "Prompt": "作为招聘专家，与我进行互动，为我撰写一篇专业的招聘广告。使用“你”的形式，用要点来写，并使用典型的结构（你的职责，你的资质，我们所提供的）。请用[TARGETLANGUAGE]为以下工作撰写招聘广告：[PROMPT]"
+}

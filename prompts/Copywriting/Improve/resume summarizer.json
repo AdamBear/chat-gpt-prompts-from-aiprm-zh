@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CB ",
+  "AuthorURL": "https://www.buccella.info",
+  "Title": "简历摘要生成器",
+  "Category": "Improve",
+  "Teaser": "将您的简历复制粘贴到新文档中，以创建您的工作/教育经历的概要。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-04T22:29:11.127Z",
+  "Help": "",
+  "ID": "1787580392153550848",
+  "PromptHint": "请您复制并粘贴您的简历。",
+  "PromptPackageID": "0",
+  "Prompt": "我的简历：\n\n编辑这份简历的目的是为了提高其清晰度、内容、格式和语法。建议优化简历的整体结构和组织，按照行业标准进行改进，并且避免个人观点。使用专业语言简洁明了的描述应聘者的优势。"
+}

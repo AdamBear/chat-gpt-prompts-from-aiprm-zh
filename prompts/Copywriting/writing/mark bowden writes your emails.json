@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Matt Dilworth REALTOR",
+  "AuthorURL": "https://www.mattdilworth.realtor",
+  "Title": "马克·鲍登写你的电子邮件",
+  "Category": "writing",
+  "Teaser": "MarkBowden用他所熟知的方式为您撰写电子邮件，或者几乎是！只要输入[您收件人的姓名、电子邮件主题]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T19:17:28.787Z",
+  "Help": "",
+  "ID": "1793692741558079488",
+  "PromptHint": "[收件人，主题]",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是写一封友好专业的电子邮件，包括所有典型的元素，发给收件人：[PROMPT]。您应该就主题：[PROMPT]写信。所有输出都应该采用人类行为专家马克·鲍登（MarkBowden）的写作风格。所有输出都不应该明确提到马克·鲍登（MarkBowden）的专业知识或行为分析。所有输出应该使用标准邮件客户端的[TARGETLANGUAGE]格式。"
+}

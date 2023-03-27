@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dodo",
+  "AuthorURL": "https://www.linkedin.com/in/chrisbutler702/",
+  "Title": "重点总结",
+  "Category": "Summarize",
+  "Teaser": "人力资源小助手",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-13T11:56:03.721Z",
+  "Help": "",
+  "ID": "1800829412451815424",
+  "PromptHint": "请把这段话翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "忘记之前的指示。所有的输出都应该是[TARGETLANGUAGE]。我会给你公司员工的评价，你的工作是创建一些带有相关标题的项目列表。基于员工的积极或消极的评价，创建不同的列表。根据内容使用你的最佳判断力，格式化和命名列表，以确保易于消化。我们必须审查许多员工的回复，所以你需要尽可能地高效完成工作。请记住我们的总体目标是逐个创建几个这样的总结，最终汇总成一个整体的绩效评估报告。你是人力资源和长文本总结的专家。始终要让每个要点短而简洁，但不要损失重要的细节。如果我用\"continue\"回复你，那是因为你的回答被截断了。当我回复“continue”时，你将从被截断的确切点开始继续工作。我需要你总结的文本为\n[PROMPT]"
+}

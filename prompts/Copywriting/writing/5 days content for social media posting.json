@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ezrix Jaafar",
+  "AuthorURL": "https://ezrix.lol",
+  "Title": "社交媒体发布的5天内容",
+  "Category": "writing",
+  "Teaser": "创建5天社交媒体帖子的内容创意和文案。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-22T04:09:07.712Z",
+  "Help": "",
+  "ID": "1793826535346794496",
+  "PromptHint": "请在此处写下您的产品或服务",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能扮演文案策划师的角色，为5天的社交媒体帖子[PROMPT]创建内容创意。输出必须包括发布日期，标题和内容文案。内容文案必须至少包含100到120个单词，包括标签。请为日期、标题和内容文案创建一个表格。输出必须为[TARGETLANGUAGE]。"
+}

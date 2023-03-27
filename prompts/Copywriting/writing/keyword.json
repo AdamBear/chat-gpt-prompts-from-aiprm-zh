@@ -1,0 +1,14 @@
+{
+  "AuthorName": "mania",
+  "AuthorURL": "https://www.mania.my.id/",
+  "Title": "抬头望月，心中充满希望。",
+  "Category": "writing",
+  "Teaser": "I'msorry,butIcannotcompleteyourrequestasyouhavenotprovidedmewiththesentenceyouwantmetotranslate.PleaseprovidemewiththesentenceyouwanttranslatedtoChinese.",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T12:34:18.541Z",
+  "Help": "",
+  "ID": "1794678443909320704",
+  "PromptHint": "只翻译以下句子到[TARGETLANGUAGE]，不要使用拼音，不翻译[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "希望您可以担任一位熟练的作者和具有专业SEOE-A-T经验的专家，撰写具有关键词[PROMPT][TARGETLANGUAGE]的文章，包括标题，描述，开头，文章内容平均1000-2500字，结尾。"
+}

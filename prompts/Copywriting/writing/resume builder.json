@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kaustubh joshi",
+  "AuthorURL": "https://openai.com/blog/chatgpt",
+  "Title": "简历建筑师",
+  "Category": "writing",
+  "Teaser": "请将以下句子翻译成[TARGETLANGUAGE]：无拼音，请勿翻译[]内的单词，只需翻译英文句子：将招聘职位贴在此处。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T17:05:33.914Z",
+  "Help": "",
+  "ID": "1793297156308987904",
+  "PromptHint": "简历",
+  "PromptPackageID": "0",
+  "Prompt": "请看一下关于职位招聘的信息，并像专业的简历撰写人一样编写一个理想的简历，具有所需的相关技能和工作经验，以获得这份特定的工作。你明白了吗？"
+}

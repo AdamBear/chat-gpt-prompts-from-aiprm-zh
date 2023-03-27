@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Wern ER",
+  "AuthorURL": "https://www.bergheidengasse.at/",
+  "Title": "文本清理器",
+  "Category": "writing",
+  "Teaser": "提供干净的文本，消除错误和多余的换行。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-07T13:45:18.535Z",
+  "Help": "",
+  "ID": "1798682578140786688",
+  "PromptHint": "请输入要清理的文本...",
+  "PromptPackageID": "0",
+  "Prompt": "请将<<<Leavethetextunchanged,donotdeleteoraddanything,justcorrecttipos,punctuationandparagraphing!Use[TARGETLANGUAGE]anduseMarkdownforformatting.>>>翻译成[TARGETLANGUAGE]，不要翻译方括号[]中的词汇。"
+}

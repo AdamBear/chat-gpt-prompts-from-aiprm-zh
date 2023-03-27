@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Fashiontiks",
+  "AuthorURL": "https://www.fashiontiks.com/",
+  "Title": "博客标题",
+  "Category": "writing",
+  "Teaser": "博客文章标题，旨在传达信息或商业意图。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-08T20:13:22.839Z",
+  "Help": "",
+  "ID": "1788995767218991104",
+  "PromptHint": "抱歉，您没有提供需要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "请以[PROMPT]为关键词，提供15个博客文章标题及其意图。这些标题应允许我将以上关键词包含在文章中。标题应具有信息性或商业性意图，并根据标题添加有吸引力且引人注目的165字符元描述。请以Markdown表格形式展示结果并对其进行分类。"
+}

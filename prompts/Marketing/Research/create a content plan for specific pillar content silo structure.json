@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SEO Priority",
+  "AuthorURL": "https://seopriority.com",
+  "Title": "为特定的核心内容（筒状结构）创建内容计划",
+  "Category": "Research",
+  "Teaser": "为一个（1）关键词或短语创建内容策略",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-25T04:10:10.614Z",
+  "Help": "",
+  "ID": "1783679938940100608",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。假设您是一位市场总监，拥有庞大的市场团队，管理着一系列讲流利[TARGETLANGUAGE]的网站。我希望您能够假装撰写出优秀的在线内容，这些内容在[TARGETLANGUAGE]中与顶尖网站竞争，并始终高排名谷歌。使用支柱内容理念和我提供的关键词，创建详细的内容策略。提供以下内容:战略概述、目标、目标关键词、带有URL的主要竞争对手网站、建议的外展网站和反向链接、以及有关研究、规划、编写和跟踪结果的每个计划步骤的具体指导和说明。生成的字符数应不少于750个。所有输出都应为[TARGETLANGUAGE]。本次战略内容计划的主要关键词是：\n\n[PROMPT]"
+}

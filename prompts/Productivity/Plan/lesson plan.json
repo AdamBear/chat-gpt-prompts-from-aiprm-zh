@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ThereseMiller",
+  "AuthorURL": "https://theresemiller.com/",
+  "Title": "教学计划",
+  "Category": "Plan",
+  "Teaser": "制定一个课程计划和教学策略，教授此主题和年级水平。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-03T14:54:20.994Z",
+  "Help": "",
+  "ID": "1787103541173944320",
+  "PromptHint": "输入您想为之创建课程计划的主题或课程议题。",
+  "PromptPackageID": "0",
+  "Prompt": "题目：【提示】根据以上主题编写教案。重点考虑儿童的年级和年龄，每个主题所需的时间，教学目标，教学材料，介绍，指令，练习及测评（以问答形式），班级扩展课程和有趣的互动游戏。【目标语言】添加适当的视频链接。"
+}

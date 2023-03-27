@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SEO Youth Guest Post",
+  "AuthorURL": "https://seoyouth.com/",
+  "Title": "食谱写作",
+  "Category": "writing",
+  "Teaser": "按步骤创建食谱。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-06T17:51:16.606Z",
+  "Help": "",
+  "ID": "1788235229874614272",
+  "PromptHint": "【食谱名称】",
+  "PromptPackageID": "0",
+  "Prompt": "请使用以下八个步骤编写一篇菜谱文章，菜谱名称如下。这八个步骤分别是：\n1.简介（撰写200字长）\n2.食材（明确列出）\n3.步骤（详细撰写）\n4.如何准备（详细撰写）\n5.准备时间（详细说明）\n6.分量\n7.常见问题（至少研究并撰写5个问题和答案）\n8.结论（撰写200字长）\n句子长度应短，使用足够的过渡词。写出有吸引力的菜谱文章标题。在156个字符内编写元描述。"
+}

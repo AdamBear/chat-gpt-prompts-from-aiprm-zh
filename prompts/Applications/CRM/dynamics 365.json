@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lucas Bodin",
+  "AuthorURL": "https://www.linkedin.com/in/lucasbodin",
+  "Title": "动态365",
+  "Category": "CRM",
+  "Teaser": "任何与MicrosoftDynamics365CRM相关的问题，如果有良好的上下文，我可以帮助您解决。",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-02-21T20:01:15.842Z",
+  "Help": "",
+  "ID": "1793703760225366016",
+  "PromptHint": "关于MicrosoftDynamics365的问题",
+  "PromptPackageID": "0",
+  "Prompt": "在MicrosoftDynamics365CRM的背景下\n[TARGETLANGUAGE]的回应"
+}

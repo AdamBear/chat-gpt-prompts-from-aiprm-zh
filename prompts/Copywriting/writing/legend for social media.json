@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Wesley Sousa",
+  "AuthorURL": "http://www.sousasmidia.com.br",
+  "Title": "社交媒体图例",
+  "Category": "writing",
+  "Teaser": "优化社交媒体帖子的字幕",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T11:18:39.954Z",
+  "Help": "",
+  "ID": "1798283286351708160",
+  "PromptHint": "字幕、优化、触发器、通行证",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n在社交网络上使用PAS技术创作一条帖子标题，使用心理触发、PAS和品牌脚注，在SMO优化的情况下加上最佳Hashtags标签。[TARGETLANGUAGE]葡萄牙语。\n>>>"
+}

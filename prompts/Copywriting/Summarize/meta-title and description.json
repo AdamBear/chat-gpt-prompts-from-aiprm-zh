@@ -1,0 +1,14 @@
+{
+  "AuthorName": "vladonsd",
+  "AuthorURL": "https://keylama.ru",
+  "Title": "元标题及描述",
+  "Category": "Summarize",
+  "Teaser": "惟一的真正的元标记编译器，以表格显示结果。只需输入[关键词]，即可得到结果。每周更新。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-23T09:46:10.875Z",
+  "Help": "",
+  "ID": "1783039721472253952",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "8",
+  "Prompt": "我希望你只用[TARGETLANGUAGE]回应。我希望你作为一名精通[TARGETLANGUAGE]的博客文章Meta描述撰写者。我希望你为以下博客文章题目[PROMPT]生成meta标题和meta描述。标题为70-80个字符且关键字需在开头插入，描述最多160个字符且不含关键字。请创建一个包含标题和描述两列的表格，将你的结果输入其中。"
+}

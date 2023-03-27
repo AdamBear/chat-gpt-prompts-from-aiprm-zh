@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Oluwabiyi Samson",
+  "AuthorURL": "https://www.youtube.com/channel/UCYvJdunulwN5j30A7asMVNg?sub_confirmation=1",
+  "Title": "健康产品视频脚本",
+  "Category": "Script Writing",
+  "Teaser": "为你的健康产品撰写高转化的视频脚本。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T06:19:07.407Z",
+  "Help": "",
+  "ID": "1793496861773135872",
+  "PromptHint": "[产品名称]用于[疾病名称]",
+  "PromptPackageID": "0",
+  "Prompt": "你是一名专业的高转化销售文案撰写师，我相信你能为我撰写一份有转化率且符合规定的视频脚本。我会提供产品名称，而你则提供脚本。需要注意的是，这是一款草药产品，适用于各个年龄段。\n\n所谓\"草药产品\"，指的是完全不含有任何化学物质的产品。\n\n请确保写出疾病的痛苦并谴责传统药物的使用，因为大部分药品都含有不同的化学物质副作用。\n\n在谈论[疾病]的病症和病征之前，请也谈论一下[产品名称]如何帮助您解决健康问题。\n\n请确保在脚本中体现一些恐惧和情感元素。你明白吗？\n\n在分析中使用的关键词为[PROMPT]\n所有输出都应为[TARGETLANGUAGE]"
+}

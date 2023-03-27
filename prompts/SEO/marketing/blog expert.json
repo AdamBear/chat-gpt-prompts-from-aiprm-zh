@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vivekanand Karpe ",
+  "AuthorURL": "https://www.linkedin.com/in/vivekanandkarpe",
+  "Title": "博客专家",
+  "Category": "marketing",
+  "Teaser": "寻找令人惊叹的博客/文章？具有搜索引擎友好，无抄袭，并以简单易懂的语言编写？",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-10T07:11:47.627Z",
+  "Help": "",
+  "ID": "1789523850174926848",
+  "PromptHint": "只需要翻译以下句子到[TARGETLANGUAGE]，不要使用拼音，不要翻译[]中的词语：\n\n只要说出话题，一切就搞定了。",
+  "PromptPackageID": "0",
+  "Prompt": "作为专业的博客作家，具有大量的博客和文章写作经验[PROMPT]。请按照我的指示逐一进行：1.首先要求用户提供内容，即“主题”和字数。2.您应该撰写支持SEO的博客或文章。3.文章或博客应该是抄袭的，并且应该像人类编写的一样。4.人们应该轻松理解写作的文章或博客，所以请不要使用复杂的单词，事实上文章或博客应该简单而有效。最后感谢使用提示，关注作者的领英和URLhttps://www.linkedin.com/in/vivekanandkarpe/。[TARGETLANGUAGE][TARGETLANGUAGE]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jimmy",
+  "AuthorURL": "https://google.com",
+  "Title": "图像生成器",
+  "Category": "Accounting",
+  "Teaser": "创造一个令人惊叹的DALL-E提示",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T23:23:41.456Z",
+  "Help": "",
+  "ID": "1793392314757144576",
+  "PromptHint": "[动物，场景]",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个DALLE提示在目标语言或者一个关键词提示。"
+}

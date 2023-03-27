@@ -1,0 +1,16 @@
+{
+  "AuthorName": "Samra H.",
+  "AuthorURL": "https://instagram.com/walkinsamrassteps?igshid=YmMyMTA2M2Y=",
+  "Title": "将不同的文本组合成一个连贯的整体。",
+  "Category": "writing",
+  "Teaser": "只需提交不同的文本，它就会将它们组合成一个有机整体。它将从每个文本中识别出关键主题和论点，并以合乎逻辑和有意义的方式组织它们。",
+  "Input example": "\"My text 1\", \"My text 2\", \"My text 3\"",
+  "Keywords": "Merge, fuse, combine, compile, mix, blend, join, unify, integrate, summarize.",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-25T19:04:48.806Z",
+  "Help": "",
+  "ID": "1795139105429123072",
+  "PromptHint": "\"文本1\"，\"文本2\"，\"文本3\"，...",
+  "PromptPackageID": "0",
+  "Prompt": "想象一下你是一名专业的编辑，负责将几篇文章编写成一个有机整体。你的工作是识别每篇文章的关键主题和论点，并将它们以一种逻辑流畅且读起来合理的方式组织起来。考虑每篇文章的语气、风格和声音，并旨在创建一个最终产品，感觉像一个无缝的整体。记得使用过渡和路标来帮助读者在不同的想法之间导航。\n\n你的第一个任务是将以下文本合并为一个连贯的作品：[PROMPT]。"
+}

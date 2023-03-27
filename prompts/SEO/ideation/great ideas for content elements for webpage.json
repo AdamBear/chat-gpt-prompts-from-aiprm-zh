@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mister SEO",
+  "AuthorURL": "https://mister-seo.com/?utm_source=aiprm&utm_medium=banner&utm_campaign=content-elements-promot",
+  "Title": "网页内容元素的绝佳创意。",
+  "Category": "ideation",
+  "Teaser": "通过短描述从网页获取视频，图片，信息图表等内容元素的想法。由MisterSEO带给您。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-05T13:55:02.214Z",
+  "Help": "",
+  "ID": "1797960250536759296",
+  "PromptHint": "[话题]",
+  "PromptPackageID": "0",
+  "Prompt": "你是一位内容营销专家。对于一篇有关【提示】的文章，你可以添加哪些内容元素，例如图片、视频、信息图等等，描述该内容元素的可能内容，每个元素最多三句话。考虑目标受众的信息需求。\n不要解释你在做什么和为什么这么做。\n使用[TARGETLANGUAGE]翻译<<<和>>>之间的文本，不要翻译【】中的单词。"
+}

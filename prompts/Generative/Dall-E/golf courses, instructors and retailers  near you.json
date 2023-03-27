@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MJH",
+  "AuthorURL": "https://www.hamassoc.com",
+  "Title": "靠近您的高尔夫球场、教练和零售商",
+  "Category": "Dall-E",
+  "Teaser": "创建一个高尔夫球场、高尔夫教练和高尔夫零售商的清单。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-07T15:50:37.939Z",
+  "Help": "",
+  "ID": "1798714116807069696",
+  "PromptHint": "请输入邮政编码。",
+  "PromptPackageID": "0",
+  "Prompt": "生成您输入的邮编的10个公共高尔夫球场的电话号码和网址，10名高尔夫教练以及10家高尔夫零售商的列表。输出应为目标语言。<<<"
+}

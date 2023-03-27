@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Iago Gomes",
+  "AuthorURL": "https://chat.openai.com/chat#",
+  "Title": "思维导图有用。",
+  "Category": "Summarize",
+  "Teaser": "思维导图有用。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-12T03:23:37.491Z",
+  "Help": "",
+  "ID": "1800338065550729216",
+  "PromptHint": "思维导图有用",
+  "PromptPackageID": "0",
+  "Prompt": "使用缩进方式整理以下主题[PROMPT]的信息。\n使用4个缩进级别。\n回答仅包含缩进方案。\n请用[TARGETLANGUAGE]写作。"
+}

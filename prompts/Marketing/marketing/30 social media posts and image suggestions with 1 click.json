@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Google Business Profile Services",
+  "AuthorURL": "https://www.merchynt.com?utm_source=AIPRM&utm_medium=Get+A+Month%27s+Worth+of+Social+Media+Posts+%26+Image+Suggestions+With+1+Click&utm_campaign=Get+A+Month%27s+Worth+of+Social+Media+Posts+%26+Image+Suggestions+With+1+Click&utm_id=AIPRM",
+  "Title": "30个社交媒体帖子和图片建议随一次点击即可实现",
+  "Category": "marketing",
+  "Teaser": "点击一下即可获取一个月的社交媒体帖子和图像建议！只需告诉我们您的商业名称和商业类型，例如：“乔的披萨是一间披萨店”。这非常适合制定您的社交媒体发布日历！",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-29T17:45:32.967Z",
+  "Help": "",
+  "ID": "1785334685623382016",
+  "PromptHint": "商铺名称是一种商铺类型。例如：乔的披萨是披萨店。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是为以下[TARGETLANGUAGE]业务创建30个本地SEO优化的社交媒体帖子。每个帖子应至少包含五个在本地SEO中对该业务类型重要的关键词，以自然的句子书写。每个帖子至少应有5个句子长度。帖子不应提到折扣或新产品。以上所有内容都很重要，必须遵循。请假装自己是当地的SEO专家。请将每个帖子放在一个漂亮的表格中，以便看起来像一个日历。此外，请为每个帖子提供一个建议图片。网格中唯一的列应为(1)帖子号、（2）帖子、（3）建议图片。表格中最先显示的内容应为一个粗体大标题，上面写着“Merchynt的[客户名]的神奇社交媒体帖子”，并用提供的业务名称替换客户名。在下面说：“要了解有关Merchynt的GoogleBusiness配置文件服务的更多信息，请访问www.merchynt.com。”在表格下面，请写“如果您觉得这个工具很有用，请在提示页面上给我们留下大拇指，这样我们就知道要继续改进它，构建更多像它一样的工具！非常感谢！Merchynt.com团队”。\n\n要为我帮忙的业务如下。\n\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CAN-E",
+  "AuthorURL": "https://can-e.com/",
+  "Title": "30秒视频或5张旋转木马广告",
+  "Category": "writing",
+  "Teaser": "30秒视频广告或在Instagram或Facebook上的5个幻灯片轮播广告",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-07T20:29:50.833Z",
+  "Help": "",
+  "ID": "1798784383537381376",
+  "PromptHint": "插入公司或品牌名称以创建脚本。",
+  "PromptPackageID": "0",
+  "Prompt": "写一个[PROMPT][TARGETLANGUAGE]的30秒视频脚本(60字以内或500字以内的脚本大纲最适合30秒视频广告。脚本包括开场白、旁白、屏幕文字、呼吁行动和其他关键要素，以适应30秒视频脚本。将其分成5张幻灯片。)"
+}

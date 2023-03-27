@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Zain Shafiq",
+  "AuthorURL": "https://randomtools.com/",
+  "Title": "优化",
+  "Category": "writing",
+  "Teaser": "从特定关键词获取10个主题及其大纲，放入表格中。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-14T10:50:19.486Z",
+  "Help": "",
+  "ID": "1791028396759969792",
+  "PromptHint": "从特定的关键词中获取10个主题及其纲要，放置在表格中。",
+  "PromptPackageID": "0",
+  "Prompt": "从特定关键词中获取10个主题及其大纲在一张表中<<<目标语言>>>。"
+}

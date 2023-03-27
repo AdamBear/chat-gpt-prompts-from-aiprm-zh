@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gao",
+  "AuthorURL": "https://www.bilgiduzu.net/",
+  "Title": "一个月的内容日历",
+  "Category": "writing",
+  "Teaser": "获得一个策略性组织的为期4周的内容日历，旨在针对您的主要关键词。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-27T23:20:23.304Z",
+  "Help": "",
+  "ID": "1795928198706626560",
+  "PromptHint": "抱歉，我无法知道您想要翻译的句子，因为它似乎没有被提供给我。请提供句子以供翻译。",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]翻译以下文字，不要翻译[]中的单词。\n\n请帮忙规划一个为期一个月的博客内容计划，针对与我的主要关键词\"[PROMPT]\"相关的长尾关键词进行定位。我不懂其他语言，请聚焦于交易性搜索词，并为每篇博客文章创建点击标题。将每篇博客文章标题组织在一个漂亮的表中，让它看起来像个日历。用标签为\"CONTENTCALENDARFORKEYWORD\"的单独表格组织每个星期的标题，将“关键词”替换为提示中提供的大写关键词。"
+}

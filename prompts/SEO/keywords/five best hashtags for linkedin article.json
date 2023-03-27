@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Renato Gonçalves",
+  "AuthorURL": "https://www.linkedin.com/in/renatoaureliano",
+  "Title": "领英文章的五个最佳标签",
+  "Category": "keywords",
+  "Teaser": "创建5个在领英文章中使用的关键词",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-26T18:55:21.666Z",
+  "Help": "",
+  "ID": "1795499114537156608",
+  "PromptHint": "你的领英文章正文",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是基于LinkedIn标签的搜索意图编写5个关键词，以获得更好的浏览量和点击量。所有输出都应该是[TARGETLANGUAGE]。在每个关键词之前生成一个哈希(#符号)。要生成关键词的文本是：[PROMPT]。请不要翻译[]中的单词。"
+}

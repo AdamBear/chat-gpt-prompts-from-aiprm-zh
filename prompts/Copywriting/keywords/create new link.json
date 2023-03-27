@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jean Silva",
+  "AuthorURL": "https://silverteam.com.br",
+  "Title": "创建新的链接",
+  "Category": "keywords",
+  "Teaser": "创建新链接[url]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T10:38:39.347Z",
+  "Help": "",
+  "ID": "1794649338820165632",
+  "PromptHint": "创建新链接[url]",
+  "PromptPackageID": "0",
+  "Prompt": "您是一名新闻记者！请根据[URL]上提供的信息，用葡萄牙语撰写一篇完整的文章，字数限制在2000字以内。文章的第一行应注明[标题]，最后一行应列出以逗号分隔的[关键词]列表。[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Partycat",
+  "AuthorURL": "https://hutchlindsay.wixsite.com/partycat",
+  "Title": "酒吧/餐厅推荐者",
+  "Category": "UNSURE",
+  "Teaser": "获取一个你可能想尝试的5个地方的清单",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-13T15:55:11.66Z",
+  "Help": "",
+  "ID": "1800889592069750784",
+  "PromptHint": "地点-优先考虑的类型或特征。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是列出5个真实的酒吧和/或餐厅，这些餐厅可以在Google地图中找到或已经被评论过。列表应基于[PROMPT]中包含的位置和偏好信息。[PROMPT]的格式如下：\n[位置-首选的场所类型或特征]\n请在全球谨慎/披露你可用于数据的日期，以便人们了解是否会得到过时的结果。同时，列表中每个物品的地址也需要被包括进去。"
+}

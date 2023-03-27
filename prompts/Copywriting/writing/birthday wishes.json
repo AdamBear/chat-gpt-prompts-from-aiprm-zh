@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ram",
+  "AuthorURL": "https://www.buymeacoffee.com/techmantra",
+  "Title": "生日祝福",
+  "Category": "writing",
+  "Teaser": "祝您所爱之人生日快乐。附上一首印地语诗歌。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-12T17:02:47.781Z",
+  "Help": "",
+  "ID": "1790397356571889664",
+  "PromptHint": "输入你喜爱的人的名字。",
+  "PromptPackageID": "0",
+  "Prompt": "\"HelloImRam\"生日快乐祝福给[PROMPT]在[TARGETLANGUAGE]，并附上一首诗，不要翻译。加上一些可爱的生日表情符号。"
+}

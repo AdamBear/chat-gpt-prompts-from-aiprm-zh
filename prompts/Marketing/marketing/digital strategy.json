@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "数字战略",
+  "Category": "marketing",
+  "Teaser": "高水平的数字战略在几秒钟内",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-03T09:14:13.241Z",
+  "Help": "",
+  "ID": "1787017944853905408",
+  "PromptHint": "[公司名称+公司类型+目标受众]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能扮演一位市场研究和数字营销专家，能说流利的[TARGETLANGUAGE]。假装你了解每一个市场，包括[TARGETLANGUAGE]的市场。\n\n创建一个表格，列出前10个最具创新性和最具破坏性的数字营销渠道（在第一列中使用一个独特的表情符号来描述每个渠道），我应该考虑在这些渠道上帮助我的品牌参与目标受众，并增加客户获取量。请为每个动作包括一个列，并且另外一列是每个动作的关键绩效指标（KPI）。\n\n从对我的品牌和目标受众最重要的渠道开始并以对它最不重要的渠道结束来组织每个渠道。\n\n品牌（第一行）、类别（第二行）和目标受众（第三行）是：[PROMPT]。\n\n在顶部用[TARGETLANGUAGE]说“CRONUTS.DIGITAL关键词的数字策略”，并在所有大写字母之前使用一个火箭表情符号来替换“关键词”。\n\n在表格下方说：“如需了解更多信息，请访问我们的网站www.cronuts.digital”。然后，在表格下方说：“如果您喜欢这个提示，请在提示搜索页面上点赞。”"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CoinBazooka",
+  "AuthorURL": "https://coinbazooka.com",
+  "Title": "专业工作空缺描述",
+  "Category": "marketing",
+  "Teaser": "轻松创建专业的工作职位描述",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T05:08:11.547Z",
+  "Help": "",
+  "ID": "1793116623536906240",
+  "PromptHint": "[插入职位标题][插入公司名称]",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]为[公司名称]的[工作地点]撰写一份[职位名称]的专业招聘启事，以[TARGETLANGUAGE]的英语书写，附上适当的职位描述，同时注明[条件]和[具体条件]，薪资范围为[薪金金额范围]，本招聘启事为[工作类型]，简历请发至[电子邮件地址]。请访问我们的网站，为我们提供支持-https://coinbazooka.com。"
+}

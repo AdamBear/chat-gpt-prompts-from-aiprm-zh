@@ -1,0 +1,14 @@
+{
+  "AuthorName": "LAI",
+  "AuthorURL": "https://www.facebook.com/chungsen.lai",
+  "Title": "帮助你做出决定",
+  "Category": "Plan",
+  "Teaser": "创建一个思维导图的理论观点，以便您做出明确的决定。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-10T04:27:10.58Z",
+  "Help": "",
+  "ID": "1799629283073978368",
+  "PromptHint": "我应该买新的iPhone吗？",
+  "PromptPackageID": "0",
+  "Prompt": "使用思维导图理论创建有关“我是否应该[PROMPT]”的大型文本思维导图。使用表情符号和标记使其更加直观。不要使用过度描述，而要使用关键词。对于每个观点，跟随潜在的获得或损失，并引用与之相关的统计数据。再次仅使用少数单词。为每个声明添加数字。"
+}

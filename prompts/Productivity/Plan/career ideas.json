@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lucia",
+  "AuthorURL": "https://www.healthiliving.com",
+  "Title": "职业想法",
+  "Category": "Plan",
+  "Teaser": "这个提示将会根据您感兴趣的内容帮助您想出一些职业意向。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-08T20:58:00.563Z",
+  "Help": "",
+  "ID": "1799153858644279296",
+  "PromptHint": "兴趣领域",
+  "PromptPackageID": "0",
+  "Prompt": "用[TARGETLANGUAGE]翻译<<<\n用[TARGETLANGUAGE]回复。请扮演职业教练的角色，根据我对[PROMPT]的兴趣，帮助我想出一些职业选择。列出最多10个选择。选择你最喜欢的三项后，问我“选择你的前三个选择”，然后创建有关所选的三个选择内容。然后问“您是否希望进一步阐述您的前三个选择之一？如果是哪个？”，等待我的回答。如果我选择“否”，请友好地结束谈话。如果我输入我的前三个选择之一，请详细介绍所选的选择。"
+}

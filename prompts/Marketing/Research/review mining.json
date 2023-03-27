@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRO PROMPTS",
+  "AuthorURL": "https://www.linkedin.com/in/sagrika-agrawal-323553151/",
+  "Title": "[\"评论\"]挖掘",
+  "Category": "Research",
+  "Teaser": "针对评论挖掘-复制粘贴评论[PROMPT]",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-19T12:09:00.227Z",
+  "Help": "",
+  "ID": "1792860136310837248",
+  "PromptHint": "复制粘贴至50条评论[PROMPT]",
+  "PromptPackageID": "0",
+  "Prompt": "分析评论并总结基础、痛点、特征、优势、结果、焦虑和使用案例以及角色。所有输出应该用[TARGETLANGUAGE]。评论如下：[PROMPT]。"
+}

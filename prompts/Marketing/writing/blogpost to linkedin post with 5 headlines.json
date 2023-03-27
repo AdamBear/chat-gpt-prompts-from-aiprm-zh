@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brand Movers",
+  "AuthorURL": "https://www.brandmovers.dk",
+  "Title": "将博客文章转换为有五个标题的领英帖子。",
+  "Category": "writing",
+  "Teaser": "从URL创建一篇LinkedIn帖子，并包括5个具有吸引力的标题示例。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-20T12:30:46.688Z",
+  "Help": "",
+  "ID": "1793228003871031296",
+  "PromptHint": "把这本书放在书架上。",
+  "PromptPackageID": "0",
+  "Prompt": "将博客文章转化为高度吸引目标受众（CEO，CMO，营销经理及类似职位）关注的LinkedIn帖子。生成5个短小有趣的标题选项，引起用户点击“阅读更多”的兴趣。标题中不要提到目标受众。创建一个一两行的介绍，引起读者的兴趣，并让他们想继续阅读。将博客文章中最重要的信息提炼成要点，以易于消化的格式为读者提供快速见解。确保语言简单，整篇帖子易于阅读。语调应具有信息性和吸引力，呈现出博客文章的关键要点，无需读者访问博客以获取更多信息。注意：提示的输出应为[TARGETLANGUAGE]。博客文章的URL是[PROMPT]。"
+}

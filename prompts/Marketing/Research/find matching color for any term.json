@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Innovationskraft",
+  "AuthorURL": "http://www.innovations-kraft.de",
+  "Title": "为任何术语寻找匹配颜色。",
+  "Category": "Research",
+  "Teaser": "你在寻找物品、情境或情感的配色吗？这个提示会为你提供合适的十六进制代码！",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-02T15:50:21.366Z",
+  "Help": "",
+  "ID": "1796902107966865408",
+  "PromptHint": "你正在寻找匹配颜色的词语。",
+  "PromptPackageID": "0",
+  "Prompt": "请为一个类似[PROMPT]的颜色建议一个十六进制代码。插入显示此颜色的页面的链接。用文字写出颜色的名称。简要解释为什么选择这种颜色。这里是一个示例:\n颜色:#\n颜色名称:颜色名称\n链接:显示该颜色的页面链接\n原因:选择这种颜色的原因。\n\n请用[TARGETLANGUAGE]提供所有回答。"
+}

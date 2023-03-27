@@ -1,0 +1,14 @@
+{
+  "AuthorName": "fazil khan ",
+  "AuthorURL": "https://neurolatools.com/",
+  "Title": "独特的SEO优化文章，100％由人类撰写。",
+  "Category": "writing",
+  "Teaser": "请创建一篇充满SEO优化且独特的博客文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-28T04:55:21.773Z",
+  "Help": "",
+  "ID": "1796012497795547136",
+  "PromptHint": "【在此输入标题】",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是根据所给主题撰写一篇包含全部输出的博客文章或文章，所有输出应该用[TARGETLANGUAGE]写成，确保内容应进行SEO优化。<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Disha Paghdar",
+  "AuthorURL": "https://digitaldisha1.blogspot.com/",
+  "Title": "撰写职业商业传记简介",
+  "Category": "ideation",
+  "Teaser": "提供商业介绍描述",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-23T12:27:13.52Z",
+  "Help": "",
+  "ID": "1794314273376436224",
+  "PromptHint": "输入企业名称",
+  "PromptPackageID": "0",
+  "Prompt": "请提供200个字的商业简介<<<[TARGETLANGUAGE]>>>。"
+}

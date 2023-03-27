@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Saeed Ahmed",
+  "AuthorURL": "https://www.youtube.com/channel/UCM-nM5gRl8laFGnaNYuksgw/",
+  "Title": "人工撰写|1000+字|SEO优化文章",
+  "Category": "writing",
+  "Teaser": "人工撰写|1000+字|SEO优化文章",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-18T05:04:35.996Z",
+  "Help": "",
+  "ID": "1802537803956084736",
+  "PromptHint": "只翻译下面这个句子到[TARGETLANGUAGE]，不要翻译[]中的单词。\n\n人类写作",
+  "PromptPackageID": "0",
+  "Prompt": "写作内容时，\"困惑度\"和\"爆发度\"是至关重要的两个因素。困惑度衡量文本的复杂程度。另外，爆发度比较句子的变化。人类往往会更具爆发性地写作，例如，在一些较长或复杂的句子中添加一些较短的句子。AI句子往往更加统一。因此，在使用给定关键字编写以下[TARGETLANGUAGE]内容时，我需要它具有相当的困惑度和爆发度。根据先前写下的概念，使用给定关键词写文章，加上简介，每个大纲500字，具有高度的困惑度和爆发度：\n\n[PROMPT]"
+}

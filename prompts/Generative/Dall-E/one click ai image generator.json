@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Maulik Patel",
+  "AuthorURL": "https://uktripper.co.uk/",
+  "Title": "一键人工智能图像生成器",
+  "Category": "Dall-E",
+  "Teaser": "使用一个关键词轻松生成人工智能图片。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-01T13:07:18.381Z",
+  "Help": "",
+  "ID": "1796498687288139776",
+  "PromptHint": "根据关键词创建和生成独特的人工智能图像。",
+  "PromptPackageID": "0",
+  "Prompt": "根据关键词生成高质量的AI图片[TARGETLANGUAGE]\n[PROMPT]\n\n输入={focus}输出={description}\\n\n![MG](https://image.pollinations.ai/prompt/{description}){description}={focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference}\n输入=[输入您想尝试查看的内容]\n例如[宝马汽车]，记得改变\n[输入您想尝试查看的内容]\n>>>"
+}

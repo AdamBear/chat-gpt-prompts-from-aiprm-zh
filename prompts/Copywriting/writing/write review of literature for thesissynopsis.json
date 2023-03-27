@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Abdullah",
+  "AuthorURL": "http://bit.ly/3YwE4xK",
+  "Title": "撰写论文/简介文献综述",
+  "Category": "writing",
+  "Teaser": "为您的论文撰写文献综述，并引用参考文献。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T07:56:12.323Z",
+  "Help": "",
+  "ID": "1797145171897606144",
+  "PromptHint": "写下你的研究话题。",
+  "PromptPackageID": "0",
+  "Prompt": "📱DOWNLOADMYCHATGPTMOBILEAPPFROMPLAYSTORE:http://bit.ly/3YwE4xK📱\n在[PROMPT]方面撰写研究论文的研究结果，尝试从12篇研究论文中获取数据，并讨论它们的流行度和用于检测的方法，并为每篇研究撰写10行，并写下每篇文章的其他必要信息，然后在每篇文章信息的末尾写上参考文献，例如(Azeemetal.，2020)，最后写下参考书目。请用[TARGETLANGUAGE]撰写。"
+}

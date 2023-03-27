@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Loviise Antheia",
+  "AuthorURL": "https://loviiseantheia.com/",
+  "Title": "数字营销主题机",
+  "Category": "marketing",
+  "Teaser": "创建一张数字营销博客主题表，其标题具备引起点击的效果，并且为每个标题分配创意得分和SEO得分。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-03T19:03:46.928Z",
+  "Help": "",
+  "ID": "1797313173087580160",
+  "PromptHint": "请提供您希望生成的主题数量。例如：\"5\"",
+  "PromptPackageID": "0",
+  "Prompt": "使用Markdown语言创建一张[PROMPT]数字营销博客主题的点击诱饵式标题表格，并为每个主题分配创意分数和SEO分数。创意分数应反映标题的吸引力和引人注目，而SEO分数应反映标题对搜索引擎的优化程度。请在表格中还包括主题类别和标签。所有输出结果均为[TARGETLANGUAGE]。"
+}

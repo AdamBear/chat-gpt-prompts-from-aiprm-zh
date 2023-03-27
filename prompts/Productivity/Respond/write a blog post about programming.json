@@ -1,0 +1,14 @@
+{
+  "AuthorName": "studylida",
+  "AuthorURL": "https://studylida.tistory.com/",
+  "Title": "写一篇关于编程的博客文章。",
+  "Category": "Respond",
+  "Teaser": "记录下你的要求、大纲，并选择你想让ChatGPT为您创建的大纲项目。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-01T15:53:16.599Z",
+  "Help": "",
+  "ID": "1796540455081742336",
+  "PromptHint": "【要求】[你希望在大纲中写什么]【大纲】",
+  "PromptPackageID": "0",
+  "Prompt": "请使用top-p=0.01、temperature=0.01、beamwidth=100来满足以下需求，将所有输出转换为[TARGETLANGUAGE]。您需要回答以下需求：\n\n在1950个词以内详细描述每个主题，格式为markdown。如果您需要为我的博客文章编写示例代码，则请使用C++代码。在文章结尾处写\"END\"。\n\n根据我提供的概述进行回答，[PROMPT]"
+}

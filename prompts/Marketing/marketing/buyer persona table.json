@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "买家人设表格",
+  "Category": "marketing",
+  "Teaser": "在几秒钟内创建具有不同买家人物的表格。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-02T10:25:04.968Z",
+  "Help": "",
+  "ID": "1786673390023860224",
+  "PromptHint": "公司类型",
+  "PromptPackageID": "0",
+  "Prompt": "请使用[TARGETLANGUAGE]将以下文本翻译成详细的说明，其中包括买家人物轮廓的[TARGETLANGUAGE]，包括以下主题：人口统计学，目标，主要挑战，价值观和动机，购买行为，通信偏好，媒体和社交网络。请将信息组织成表格。\n\n在顶部上写上\"[TARGETLANGUAGE]下钩饵数字公司的买家人物档案\"，将\"下钩饵数字\"替换为题目中提供的大写关键字，并在开始处加上一个火箭表情符号。\n\n在表格下面的最后一行写上\"[TARGETLANGUAGE]了解更多信息，请访问www.cronuts.digital\"。然后，在表格下面说：\"如果您喜欢这个提示，请在提示搜索页面上喜欢它。\""
+}

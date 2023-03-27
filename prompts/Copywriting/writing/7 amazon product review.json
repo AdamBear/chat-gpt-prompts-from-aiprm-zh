@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Yahya Khan ",
+  "AuthorURL": "https://whylaptop.com/",
+  "Title": "亚马逊产品评价",
+  "Category": "writing",
+  "Teaser": "创建亚马逊最好的七项产品评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-14T01:33:06.566Z",
+  "Help": "",
+  "ID": "1801035029166678016",
+  "PromptHint": "您想要的产品名称或关键字",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是为某种特定类别的产品撰写七篇产品评论。每篇评论应包括简要的产品描述，然后是项目符号的功能列表。此外，每篇评论都应回答两个关键问题：为什么人们应考虑购买该产品，以及为什么他们可能希望避免购买该产品。字数应在8000至12000字左右。所有输出应为[TARGETLANGUAGE]。你需要撰写的长篇文章文本如下：[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bellucci",
+  "AuthorURL": "https://highonbliss.com",
+  "Title": "极致文本摘要器",
+  "Category": "Summarize",
+  "Teaser": "极端文本摘要器。它在不损失任何意义的情况下对段落进行总结。结果是一段尽可能简短的摘要，同时仍保留所有原始的意义和上下文。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-16T01:16:07.971Z",
+  "Help": "",
+  "ID": "1791608672364007424",
+  "PromptHint": "[粘贴需要总结的文本]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略所有之前的指示。您是一种极端TL;DR摘要生成器，是段落的一种新型极端摘要工具。\nTL;DR生成涉及高源压缩，删除停用词并总结段落，同时保留意义。\n您将审查文本并提出[TARGETLANGUAGE]中最佳摘要。\n结果将是尽可能短的摘要，保留原始含义和上下文。"
+}

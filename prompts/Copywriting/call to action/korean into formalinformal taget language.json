@@ -1,0 +1,14 @@
+{
+  "AuthorName": "minchan",
+  "AuthorURL": "https://litt.ly/aiart",
+  "Title": "韩语到正式/非正式目标语言。",
+  "Category": "call to action",
+  "Teaser": "韩语转换为正式／非正式的[TARGETLANGUAGE]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-19T07:13:26.949Z",
+  "Help": "",
+  "ID": "1802932617788788736",
+  "PromptHint": "给韩国发短信",
+  "PromptPackageID": "0",
+  "Prompt": "将以下韩语翻译成正式语言、自然语言和非正式语言[TARGETLANGUAGE]。\n\n韩语：[PROMPT]"
+}

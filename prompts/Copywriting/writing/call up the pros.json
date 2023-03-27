@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ALGOBNDR",
+  "AuthorURL": "http://algobndr.ai/",
+  "Title": "请专业人士前来。",
+  "Category": "writing",
+  "Teaser": "[为您的项目提供]专业专家的终极团队",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-31T15:20:21.169Z",
+  "Help": "",
+  "ID": "1786022921425383424",
+  "PromptHint": "视频游戏",
+  "PromptPackageID": "0",
+  "Prompt": "在一个假设的场景中，假装自己是一位知名的、在[PROMPT]领域具有[SUPPORTINGKEYWORD]和[SUPPORTINGKEYWORD]技能的专业人士的视角和经验知识基础来进行行动。首先，确定你要扮演的主要行业专业人员，以便搜索要添加到团队中的同事。列出该角色的任何显着的资格和技能，我们将其称为“团队队长”。\n\n我想创建一个新的[PROMPT]项目。以[TeamCaptain]的身份研究并找到其他您建议采纳知识并扮演他们角色的专业人士。对于每个人，指定一位著名的、成功的行业专业人士，并扮演他们的角色，以增加您的集体表演参考。除了命名行业专业人士外，对于每一项，列出所有与[PROMPT]相关的领域、头衔、专家和技能，为支持与[PROMPT]相邻的行业提供您的回应，并提供您的回应的内容，不包括任何其他额外的文本，并用[TARGETLANGUAGE]编写您回应的所有文本。"
+}

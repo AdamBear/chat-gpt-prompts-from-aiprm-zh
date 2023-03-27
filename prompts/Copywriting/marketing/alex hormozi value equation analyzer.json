@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mark Wang",
+  "AuthorURL": "https://www.salaryreplacement.com",
+  "Title": "亚历克斯·霍莫兹价值方程式分析员",
+  "Category": "marketing",
+  "Teaser": "使用AlexHormozi的价值方程式模型，从潜在客户的角度分析你的解决方案/产品的感知价值。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T05:43:01.927Z",
+  "Help": "",
+  "ID": "1798923597075701760",
+  "PromptHint": "[你的解决方案名称]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的聊天。\n\n作为一名专业的市场营销人员，您能流利地撰写[TARGETLANGUAGE]。请用[TARGETLANGUAGE]回答以下所有问题。\n\n关键词是[PROMPT]。\n\n第一行，输出“梦想结果：”，然后说明您认为人们在使用[PROMPT]时会有什么梦想结果。\n\n第二行，输出“实现可能性：”，然后说明您估计人们了解[PROMPT]解决方案后，从1-100的比例上，他们有多大可能相信他们可以通过这个解决方案实现他们的梦想结果。\n\n第三行，输出“时间延迟：”，然后估计使用[PROMPT]实现梦想结果需要多长时间。\n\n第四行，输出“付出和牺牲：”，然后估计为了通过[PROMPT]解决方案实现梦想结果，人们需要做出多大的努力和什么样的牺牲。"
+}

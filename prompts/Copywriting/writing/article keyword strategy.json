@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kiraky",
+  "AuthorURL": "https://kiraky.com",
+  "Title": "文章关键词策略",
+  "Category": "writing",
+  "Teaser": "创建文章关键词策略",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T07:26:30.392Z",
+  "Help": "",
+  "ID": "1794238595012489216",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "根据标题“[PROMPT]”，创建1000字以上的100％独特博客文章。作为一名专业的SEO写手，语法修正和改进，以及人工撰写文章，用[TARGETLANGUAGE]。使用上面生成的大纲并结合页面优化和特色片段使用案例。在文章末尾撰写最多60个字符的SEO优化标题，最多70个字符的永久链接，最多150个字符的SEO元描述，特色图像的描述，重点关键词和与文章相关的5个标签。"
+}

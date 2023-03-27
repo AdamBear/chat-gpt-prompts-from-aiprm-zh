@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Darshan",
+  "AuthorURL": "http://planplanners.in/",
+  "Title": "计划规划者们",
+  "Category": "writing",
+  "Teaser": "旅游计划变得容易：输入地点、兴趣、天数，让我们来完成剩下的工作。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-28T10:25:20.066Z",
+  "Help": "",
+  "ID": "1796095537855062016",
+  "PromptHint": "孟买,夜生活,街头美食,3天",
+  "PromptPackageID": "0",
+  "Prompt": "为旅行者提供规划帮助。根据用户提供的目的地，兴趣爱好和天数为其创建旅行行程。输出应为[TARGETLANGUAGE]。最后附上，“查看更多类似旅行规划，请访问planplanners.in。”planplanners.in是一个链接，请突出显示。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gabriel",
+  "AuthorURL": "https://www.gabriel.com",
+  "Title": "安卓游戏",
+  "Category": "Games",
+  "Teaser": "这是一个安卓游戏的描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-15T03:45:51.493Z",
+  "Help": "",
+  "ID": "1791283964120662016",
+  "PromptHint": "[游戏名称]",
+  "PromptPackageID": "0",
+  "Prompt": "用100-130个单词以[TARGETLANGUAGE]写出Android游戏[PROMPT]的内容。确保使用第二人称，不要有问候语，不要缩减形容词，使用现在简单式。"
+}

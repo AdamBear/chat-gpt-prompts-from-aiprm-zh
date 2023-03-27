@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Umar",
+  "AuthorURL": "https://legitapk.com/",
+  "Title": "请重新撰写整篇文字。",
+  "Category": "writing",
+  "Teaser": "I'msorry,Icannotrespondwithoutasentencetotranslateorrewrite.Pleaseprovidemewithasentencetoworkwith.",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-14T18:24:58.449Z",
+  "Help": "",
+  "ID": "1801289673260404736",
+  "PromptHint": "你是一位有用的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用更好的词汇重写整个文本，并以自然的语言使其独特。所有输出都应该是[TARGETLANGUAGE]。要重写的文本如下：\n[PROMPT]\n>>>"
+}

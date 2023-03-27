@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MONZU",
+  "AuthorURL": "https://techpizz.com/",
+  "Title": "最佳文章写作",
+  "Category": "ideation",
+  "Teaser": "为您的博客编写具有FAQ的经过SEO优化的100％独特长篇文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-19T18:21:07.748Z",
+  "Help": "",
+  "ID": "1803100644958277632",
+  "PromptHint": "请输入你的关键字。",
+  "PromptPackageID": "0",
+  "Prompt": "撰写一篇2000至2500字的博客文章，包含深入的大纲和5个常见问题解答。并用两段话，每段300-400个单词，详细解释每个大纲。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Fazal ali",
+  "AuthorURL": "https://expertoverseas.business.site/",
+  "Title": "留学",
+  "Category": "writing",
+  "Teaser": "寻求出国留学，但需要有关费用和其他细节的信息吗？只需输入您所需国家的名称，即可获得关于留学的综合信息，包括费用结构和其他有用的详情。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T10:57:47.002Z",
+  "Help": "",
+  "ID": "1798278031090122752",
+  "PromptHint": "留学在[CountryName]",
+  "PromptPackageID": "0",
+  "Prompt": "大学名单，费用，奖学金，可选课程列表。提供英语和目标语言的信息。"
+}

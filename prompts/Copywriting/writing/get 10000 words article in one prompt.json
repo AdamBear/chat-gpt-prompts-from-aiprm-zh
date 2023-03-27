@@ -1,0 +1,14 @@
+{
+  "AuthorName": "David",
+  "AuthorURL": "https://soft-reviewed.us/",
+  "Title": "一次性提交一万字的文章！",
+  "Category": "writing",
+  "Teaser": "在一个提示中获取10,000个单词的文章。点击“继续”进行继续写作！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T14:49:12.215Z",
+  "Help": "",
+  "ID": "1799785821356941312",
+  "PromptHint": "请给我一个主题，让我在一个提示中写一篇10000字的文章。点击“继续”继续写作！",
+  "PromptPackageID": "0",
+  "Prompt": "请使用富有关键词的锚文本添加这些内部链接，使用标题、列表和markdown格式包含以下链接：\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/europe-trip-for-family-of-4\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/300+-travel-short-captions-for-instagram\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/250-travel-quotes-with-love\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/frequently-asked-questions-about-travelling-to-the-us-and-europe\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/top-europe-travel-destinations-for-2023\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/europe-trip-on-a-budget\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/europe-travel-hashtags\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/europe-travel-list\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/one-word-captions-for-travel\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/instagram-quotes-about-friendship\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/europe-travel-places\n\nhttps://danube-delta-boat-tours.nautictour.ro/blog/best-places-for-18-year-olds-to-travel-in-europe\n\nhttps://danube-delta-boat-tours.nautictour.ro/products/short-2-4h-boat-tours-discover-the-untamed-beauty-of-the-danube-delta-with-our-boat-tours\n\nhttps://danube-delta-boat-tours.nautictour.ro/products/full-day-boat-tours-with-expert-guides-unforgettable-danube-delta-experience\n\n请执行以下步骤：\n\n第一步-生成10个有关在[TARGETLANGUAGE]中的[PROMPT]的常见问题，\n\n第二步-从第1步列表中取出第一个关键词，撰写一篇1000字的文章，\n\n第三步-从第1步列表中取出第二个关键词，撰写一篇1000字的文章，\n\n第四步-从第1步列表中取出第三个关键词，撰写一篇1000字的文章，\n\n第五步-从第1步列表中取出第四个关键词，撰写一篇1000字的文章，\n\n第六步-从第一步列表中取出第五个关键词，撰写一篇1000字的文章，\n\n第七步-从第一步列表中取出第六个关键词，撰写一篇1000字的文章，\n\n第八步-从第1步列表中取出第七个关键词，撰写一篇1000字的文章，\n\n第九步-从第1步列表中取出第八个关键词，撰写一篇1000字的文章，\n\n第十步-从第1步列表中取出第九个关键词，撰写一篇1000字的文章，\n\n第十一步-从第1步列表中取出第十个关键词，撰写一篇1000字的文章。\n\n记得使用markdown和适当的格式。"
+}

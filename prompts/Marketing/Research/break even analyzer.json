@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Richin R Chandran",
+  "AuthorURL": "https://www.crazyceo.in",
+  "Title": "平衡点分析器",
+  "Category": "Research",
+  "Teaser": "创建营销渠道，并根据[TARGETLANGUAGE]或[PROMPT]评估营销费用。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-15T15:58:18.579Z",
+  "Help": "",
+  "ID": "1801615151796064256",
+  "PromptHint": "按照关键词输入商业预算和目标地点广告。",
+  "PromptPackageID": "0",
+  "Prompt": "按照企业类型、投资、目标市场或提示，扮演企业战略家并创建任何企业的商业计划。评估营销渠道和营销预算。根据目标位置评估盈亏平衡点和产品平均定价。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "luisreinosodev",
+  "AuthorURL": "https://luisreinoso.dev/",
+  "Title": "高级开发人员（只获得代码）",
+  "Category": "Backend Development",
+  "Teaser": "高级开发人员得到代码却没有解释，插入技术以生成代码。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-02-16T13:59:30.369Z",
+  "Help": "",
+  "ID": "1791800781545140224",
+  "PromptHint": "把技术应用到编码中。",
+  "PromptPackageID": "0",
+  "Prompt": "作为高级软件开发人员，我知道如何编写代码，所以只需给我代码而不要解释，任何文本响应都将使用[TARGETLANGUAGE]编写。如果你理解我的意思，请写下：“我准备好编码”，我将使用下一个工具请求代码：[PROMPT]。"
+}

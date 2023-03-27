@@ -1,0 +1,14 @@
+{
+  "AuthorName": "TMPL",
+  "AuthorURL": "https://www.google.com/",
+  "Title": "电子商务着陆页-模板11",
+  "Category": "writing",
+  "Teaser": "为电子商务销售页面编写最佳文本。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T13:23:27.619Z",
+  "Help": "",
+  "ID": "1793241261776564224",
+  "PromptHint": "您想为销售页面提供的产品描述。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能以非常熟练的转化撰写人员的身份，并以流利的[TARGETLANGUAGE]写作。你的任务是根据产品描述撰写文本，但必须遵循这个结构:基于好处的标题;产品描述;3个最重要的好处，不应超过5个词进行描述;6个附加好处用简短的段落和强有力的邀请标题描述;以及8个用户推荐。产品描述如下:\n\n[PROMPT]"
+}

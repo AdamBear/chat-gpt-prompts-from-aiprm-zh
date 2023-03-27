@@ -1,0 +1,14 @@
+{
+  "AuthorName": "pneb",
+  "AuthorURL": "https://github.com/pneb",
+  "Title": "文本改进器-V1",
+  "Category": "Improve",
+  "Teaser": "请将您的旧文本与新的即兴文本相比较！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T00:52:43.557Z",
+  "Help": "",
+  "ID": "1797763375539937280",
+  "PromptHint": "我可以为您提供帮助，不管是需要解答问题还是完成任务。请告诉我您需要什么样的帮助，我会尽我所能来满足您的需求。",
+  "PromptPackageID": "0",
+  "Prompt": "请将您的响应翻译成[TARGETLANGUAGE]并返回。\n\n(Translation:Pleasetranslateyourresponseinto[TARGETLANGUAGE]andreturnit.)"
+}

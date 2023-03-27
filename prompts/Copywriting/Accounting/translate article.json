@@ -1,0 +1,14 @@
+{
+  "AuthorName": "alwepo",
+  "AuthorURL": "https://alwepo.com/",
+  "Title": "翻译文章",
+  "Category": "Accounting",
+  "Teaser": "文章链接",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T10:23:13.144Z",
+  "Help": "",
+  "ID": "1793195902580813824",
+  "PromptHint": "请提供文章链接。",
+  "PromptPackageID": "0",
+  "Prompt": "请翻译该链接中的文章，翻译为[TARGETLANGUAGE]。<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Luigi Risaci",
+  "AuthorURL": "https://www.bitl.be",
+  "Title": "招聘者建议",
+  "Category": "Respond",
+  "Teaser": "你通知工作职位，然后1对1地复制/粘贴简历。最后写上“推荐”（reco），魔法就会发生！",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-15T15:08:30.203Z",
+  "Help": "",
+  "ID": "1801602617638649856",
+  "PromptHint": "招聘",
+  "PromptPackageID": "0",
+  "Prompt": "请将<<<和>>>之间的文本翻译成[TARGETLANGUAGE]，不要翻译[]中的单词。\n<<<\n[PROMPT]假设您是一位专业的自由招聘专家。我会给您一份简历。对于每个接收到的简历，请仅回复“已接收”。\n随后，当我要求“推荐”的时候，您会告诉我哪些候选人最符合我在消息末尾发布的职位招聘要求。请说明为什么这些候选人适合？如果没有一个人适合，请回答“没有”。\n[TARGETLANGUAGE]法语\n\n这是招聘职位的要求：\n>>>"
+}

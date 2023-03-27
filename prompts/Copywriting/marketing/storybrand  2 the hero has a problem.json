@@ -1,0 +1,14 @@
+{
+  "AuthorName": "James Hayward",
+  "AuthorURL": "https://heypressgo.com",
+  "Title": "故事品牌：2.主人公有问题",
+  "Category": "marketing",
+  "Teaser": "根据DonaldMiller的书《故事品牌》，了解与问题相关的受众，找出你的客户可能遇到的问题。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T03:23:20.212Z",
+  "Help": "",
+  "ID": "1793090235765354496",
+  "PromptHint": "你的产品或服务是什么，具体点。我的产品或服务是……",
+  "PromptPackageID": "0",
+  "Prompt": "设定输出的目标语言为[TARGETLANGUAGE]。针对唐纳德·米勒（DonaldMiller）的《故事品牌剧本》（StoryBrandScripting），如果我的产品或服务是[PROMPT]，那么与我们的客户或主角相关：\n标题：内部问题\n1.什么是内部问题，这个恶棍是如何让我们的客户感到的？\n标题：外部问题\n2.作为与我们的产品或服务相关的外部问题，我们的客户如何应对？\n\n在思想上具有哲学性。\n标题：哲学思考\n3.为什么我们的客户承受内部和外部问题是“完全错误”的？"
+}

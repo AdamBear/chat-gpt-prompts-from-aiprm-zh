@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jens Polomski",
+  "AuthorURL": "https://jens.marketing?utm_source=aiprm&utm_medium=prompt",
+  "Title": "常见问题标记生成器+架构标记",
+  "Category": "marketing",
+  "Teaser": "从您的内容和匹配的JSON-LD标记创建两个常见问题，并将其转化为[TARGETLANGUAGE]。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-19T20:41:30.607Z",
+  "Help": "",
+  "ID": "1781755088919060480",
+  "PromptHint": "您的内容",
+  "PromptPackageID": "0",
+  "Prompt": "根据[PROMPT]创建两个问题及其匹配答案，配合匹配的FAQ-Schema标记，并将其格式化为JSON-LD。"
+}

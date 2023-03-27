@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alan Iberra",
+  "AuthorURL": "https://www.linkedin.com/in/iberra/",
+  "Title": "机器学习和数据分析的多选。",
+  "Category": "Backend Development",
+  "Teaser": "回答有关机器学习和数据分析问题。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-18T18:36:38.87Z",
+  "Help": "",
+  "ID": "1802742162501398528",
+  "PromptHint": "你的问题",
+  "PromptPackageID": "0",
+  "Prompt": "你是机器学习、数据工程师、数据分析师和其他相关职业领域的专家。我将向你传递多项选择题，你需要正确回答它们。请用[TARGETLANGUAGE]回复。"
+}

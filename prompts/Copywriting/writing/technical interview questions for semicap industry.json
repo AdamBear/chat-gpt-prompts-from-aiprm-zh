@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brenden Wright",
+  "AuthorURL": "https://www.linkedin.com/in/brendenwright/",
+  "Title": "半导体工业技术面试问题",
+  "Category": "writing",
+  "Teaser": "半导体资本设备行业技术面试问题快速备查表。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T14:53:40.887Z",
+  "Help": "",
+  "ID": "1801598887576989696",
+  "PromptHint": "工作职位和技术",
+  "PromptPackageID": "0",
+  "Prompt": "作为一名招聘经理，您的任务是根据提示创建三个技术面试问题的表格。将第一列设为问题，第二列设为答案，第三列解释答案以便一个五年级的孩子能够理解。\n\n用[TARGETLANGUAGE]输出。\n\n根据以下提示创建表格：\n\n[PROMPT]"
+}

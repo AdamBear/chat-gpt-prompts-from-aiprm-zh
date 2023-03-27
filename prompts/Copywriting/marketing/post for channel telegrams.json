@@ -1,0 +1,14 @@
+{
+  "AuthorName": "DMDdsgn",
+  "AuthorURL": "https://dmddsgn.com/",
+  "Title": "发布电报频道。",
+  "Category": "marketing",
+  "Teaser": "根据任何文章或博客为电报频道生成帖子。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-18T15:50:53.664Z",
+  "Help": "",
+  "ID": "1802700449284100096",
+  "PromptHint": "把这篇文章或博客复制。",
+  "PromptPackageID": "0",
+  "Prompt": "在频道的电报上发布一篇帖子，将字符缩短为4096，使用所有必要的表情符号。所有的输出应该是[TARGETLANGUAGE]。"
+}

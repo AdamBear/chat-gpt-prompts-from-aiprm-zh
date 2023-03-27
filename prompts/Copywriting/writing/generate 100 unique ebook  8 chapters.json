@@ -1,0 +1,14 @@
+{
+  "AuthorName": " AI MARKETING PLAN ",
+  "AuthorURL": "https://aimarketingplan.com/AIPRM",
+  "Title": "生成100%独特的电子书|8个章节",
+  "Category": "writing",
+  "Teaser": "创建一本100％独特且完整的电子书，包括介绍和8个章节，每个章节超过800个单词。非常适合写作服务、销售图书、创建产品、SEO、引导潜在客户、落地页、吸引电子邮件注册等。只需一个点击就可以轻松地写一本书。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T14:50:27.598Z",
+  "Help": "",
+  "ID": "1797974198208167936",
+  "PromptHint": "[你的关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个带有\"[PROMPT]\"关键词的引人入胜和吸引人的书名，并用[TARGETLANGUAGE]列出8个书籍章节标题。\n用所提供的标题创建详细的介绍，在[TARGETLANGUAGE]中超过400个字。\n编写第1章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第2章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第3章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第4章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第5章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第6章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第7章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。\n编写第8章，用详细的信息，在[TARGETLANGUAGE]中超过800个字。"
+}

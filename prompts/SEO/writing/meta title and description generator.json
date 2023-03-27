@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ujjaval verma",
+  "AuthorURL": "https://howtotechblogs.com/",
+  "Title": "元标题和描述生成器",
+  "Category": "writing",
+  "Teaser": "输入URL并获取元标题和描述。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-15T17:11:39.966Z",
+  "Help": "",
+  "ID": "1801633612551159808",
+  "PromptHint": "放置网址",
+  "PromptPackageID": "0",
+  "Prompt": "请为给定的URL[PROMPT]编写标题和元描述[TARGETLANGUAGE]."
+}

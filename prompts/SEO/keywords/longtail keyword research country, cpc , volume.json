@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Wakil",
+  "AuthorURL": "https://www.youtube.com/@tutorsgrip",
+  "Title": "长尾关键词研究国家,点击成本,搜索量",
+  "Category": "keywords",
+  "Teaser": "带有CPC，难度和搜索量（国家）的长尾关键词研究。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-15T10:52:04.261Z",
+  "Help": "",
+  "ID": "1791391224083775488",
+  "PromptHint": "[输入关键词或kw+，+国家]",
+  "PromptPackageID": "0",
+  "Prompt": "请根据我提供的主要关键词和用户搜索意图，为每个国家生成一个包含40个长尾相关关键词的2-5个单词的表格，包括每个关键词的CPC，难度和搜索量。同时请注明CPC的来源。"
+}

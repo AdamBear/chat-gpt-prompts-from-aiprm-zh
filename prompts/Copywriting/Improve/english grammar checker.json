@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WangJie",
+  "AuthorURL": "https://github.com/wangjiegulu",
+  "Title": "英语语法检查器",
+  "Category": "Improve",
+  "Teaser": "英文语法检查器",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-17T07:40:37.004Z",
+  "Help": "",
+  "ID": "1792067818766983168",
+  "PromptHint": "请提供待翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "由我发英文句子给你，你来检查句子的语法是否正确并使用回复，如果有错误则使用指出其中的错误及错误的原因，并给出修正后的正确英文语句和对应的翻译。"
+}

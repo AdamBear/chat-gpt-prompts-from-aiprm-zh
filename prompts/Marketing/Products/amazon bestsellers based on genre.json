@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Write Wing Media",
+  "AuthorURL": "https://www.writewing.in/",
+  "Title": "基于流派的亚马逊畅销书",
+  "Category": "Products",
+  "Teaser": "在您最喜欢的类型中寻找25个畅销的亚马逊书籍标题。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-07T15:03:20.742Z",
+  "Help": "",
+  "ID": "1798702216740339712",
+  "PromptHint": "写一个类别以生成25本畅销的亚马逊书籍标题列表。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是在[TARGETLANGUAGE]中依次列出特定类型的亚马逊畅销书籍的前25个标题。该类型的25本畅销书的标题如下：\n[PROMPT]"
+}

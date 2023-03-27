@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Liaqat Hussain",
+  "AuthorURL": "https://buildingmep.com/",
+  "Title": "入学的目的陈述",
+  "Category": "writing",
+  "Teaser": "撰写博士学位入学申请的目的陈述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-14T16:50:44.43Z",
+  "Help": "",
+  "ID": "1791119098349088768",
+  "PromptHint": "[资格],[申请的项目和大学名称],[动机和未来目标]",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]撰写博士研究生招生宣言。宣言应基于候选人的当前资格[PROMPT]和经验[PROMPT]。它应涵盖申请的计划和大学的细节。它应该将候选人的当前资格与期望的计划联系起来。还应概述候选人的未来目标以及该计划如何帮助实现这些目标。>>>"
+}

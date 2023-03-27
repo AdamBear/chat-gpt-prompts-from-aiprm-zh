@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mehdi TAZI",
+  "AuthorURL": "http://tazimehdi.com",
+  "Title": "概述并突出文本中最重要的点。",
+  "Category": "Summarize",
+  "Teaser": "创建一个关于您的文本/文章的摘要，并突出最重要的要点。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-02T23:57:42.079Z",
+  "Help": "",
+  "ID": "1786877892169555968",
+  "PromptHint": "把下面这句话翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "作为专业的文案撰写人员，用简短的文字总结以下文本，并在下一个段落中以项目符号的形式列出其中最重要的要素及其简短描述。将文本翻译成[TARGETLANGUAGE]。\n\n文本是：[PROMPT]"
+}

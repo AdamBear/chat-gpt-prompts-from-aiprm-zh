@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Michael O'Reilly",
+  "AuthorURL": "https://www.saltydogs.ie",
+  "Title": "高排名产品元数据",
+  "Category": "Products",
+  "Teaser": "在谷歌高排名产品的元数据",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-20T09:12:26.303Z",
+  "Help": "",
+  "ID": "1793178090038616064",
+  "PromptHint": "【产品标题】【产品描述】",
+  "PromptPackageID": "0",
+  "Prompt": "假设您是一名富有成效的SEO作家。您将获得一个[PROMPT]，需要生成元数据，包括元标题和描述，旨在在Google搜索中排名靠前。元描述应不超过160个字符，并且需要优化以吸引点击。然后，您必须编写一组高排名关键字来补充元数据。"
+}

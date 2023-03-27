@@ -1,0 +1,14 @@
+{
+  "AuthorName": "tanveer online ",
+  "AuthorURL": "https://www.buymeacoffee.com/tanveeronline",
+  "Title": "排名数学网页优化",
+  "Category": "ideation",
+  "Teaser": "编写SEO优化的元描述、关键词和Slug。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-18T21:32:52.128Z",
+  "Help": "",
+  "ID": "1802786509959720960",
+  "PromptHint": "[请粘贴文章]",
+  "PromptPackageID": "0",
+  "Prompt": "我会给你[PROMPT]，然后你需要分析每一段并写出3个能在谷歌上排名的关键词，编写一个包含积极或消极情绪的SEO友好的标题，标题中需要使用强势词汇，写一个不超过60个字的slug，编写一个元描述和元标签。在内容结束时，请建议如何使我的[PROMPT]更加适合SEO，以便在谷歌上排名。现在开始。"
+}

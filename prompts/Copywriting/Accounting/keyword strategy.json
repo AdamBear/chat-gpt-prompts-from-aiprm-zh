@@ -1,0 +1,14 @@
+{
+  "AuthorName": "shiyu",
+  "AuthorURL": "https://www.bing.com",
+  "Title": "关键词策略",
+  "Category": "Accounting",
+  "Teaser": "从1个[关键词]创建关键词策略和SEO内容计划。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-11T12:40:56.54Z",
+  "Help": "",
+  "ID": "1800115931222114304",
+  "PromptHint": "[关键词]或[您最多达到8000个关键词的列表]",
+  "PromptPackageID": "0",
+  "Prompt": "输入一个[TARGETLANGUAGE]的hashtag，例如#[PROMPT]，创建20个用[TARGETLANGUAGE]表示的hashtags[TARGETLANGUAGE]，以及20个YouTube标签。"
+}

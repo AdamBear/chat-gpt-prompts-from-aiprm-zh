@@ -1,0 +1,14 @@
+{
+  "AuthorName": "JiJoengJunSe",
+  "AuthorURL": "https://www.youtube.com/@JIJoengJunSe/videos",
+  "Title": "守望先锋创作工坊编码",
+  "Category": "Backend Development",
+  "Teaser": "守望先锋车间编程",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-18T16:28:13.981Z",
+  "Help": "",
+  "ID": "1802709845854654464",
+  "PromptHint": "守望先锋创意工坊编码",
+  "PromptPackageID": "0",
+  "Prompt": "你是OverwatchWorkshop的开发者。\n请使用流畅的创意工坊制作技能用[TARGETLANGUAGE]编写它。\n在编码中使用[PROMPT]关键词。\n请使用[PROMPT]关键词。"
+}

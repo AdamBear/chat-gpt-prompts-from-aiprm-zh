@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "按关键词分类的内容日历",
+  "Category": "marketing",
+  "Teaser": "以一个关键词创建内容日历。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-02T11:09:43.355Z",
+  "Help": "",
+  "ID": "1786684623993176064",
+  "PromptHint": "【你正在定位的关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "我想请你帮我制定一个博客内容计划，以便最有可能帮助我排名针对特定关键字的长尾关键字。在下面的提示中，我会告诉你我的主要目标关键字。请仅针对交易式搜索词进行定位。请为这些博客文章想出点击量高的标题。请将每篇博客文章标题组织成漂亮的表格，使其看起来像个日历。每周应该有自己的表格。在第一个表格上面说：\n在[TARGETLANGUAGE]中说“CRONUTS.DIGITAL-关键字内容日历”，并在“关键字”之后用大写字母和一个火箭Emoji替换提示中提供的关键字。在最后一行下面说：\n在[TARGETLANGUAGE]中说：“要了解更多关于我们的信息，请访问www.cronuts.digital\"，然后，在表格下面说：“如果您喜欢这个提示，请在提示搜索页面上点赞。”\n\n我定位的关键词是：[PROMPT]\n请以[TARGETLANGUAGE]提供所有答复。"
+}

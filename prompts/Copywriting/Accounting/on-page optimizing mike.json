@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Michael Slocombe",
+  "AuthorURL": "https://www.linkedin.com/in/michael-slocombe-53a669204/",
+  "Title": "页面优化（迈克）",
+  "Category": "Accounting",
+  "Teaser": "很高兴为您提供帮助。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T09:59:20.876Z",
+  "Help": "",
+  "ID": "1800800040391016448",
+  "PromptHint": "请提供需要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "作为一名SEO专家，您的任务是优化给定网页的页面SEO而不改变格式。该网页需要在搜索引擎上更具可见性，您需要确保MetaTitle包含目标关键字并不超过50个字符。您还应通过将目标关键字放在句子开头来优化MetaDescription，如果可能的话，并确保它不超过150个字符。此外，您应该在H1标题中包含目标关键字，并确保它出现在内容的前25个单词中。最后，在内容的最后25个单词中包括目标关键字，同时使内容自然且与主题相关。还应使用NLP和ML优化内容以确保可读性和相关性。所有回应都应用[TARGETLANGUAGE]。"
+}

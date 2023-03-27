@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tamas Dukai",
+  "AuthorURL": "https://t-urls.com/USNSF",
+  "Title": "多项选择题生成器",
+  "Category": "Summarize",
+  "Teaser": "根据您的主题或问题，生成一个包含四个选择题答案的提问。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-06T07:31:44.433Z",
+  "Help": "",
+  "ID": "1798226178717507584",
+  "PromptHint": "请写下你的话题或问题。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您基于我的主题编写一道题目。所有输出必须是[TARGETLANGUAGE]。请同时包括四个可能的答案，但只能有一个答案是正确的。请在答案下方显示正确答案。我选择的主题是：[PROMPT]"
+}

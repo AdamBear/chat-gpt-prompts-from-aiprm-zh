@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tonya",
+  "AuthorURL": "https://www.tonyawalker.com",
+  "Title": "市场数据分析和见解",
+  "Category": "marketing",
+  "Teaser": "市场营销人员：寻求洞见，分析客户数据并确定趋势，以帮助制定营销策略。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-07T18:45:53.026Z",
+  "Help": "",
+  "ID": "1798758220278521856",
+  "PromptHint": "[行业]",
+  "PromptPackageID": "0",
+  "Prompt": "你好，ChatGPT。假装你是一名讲流利[TARGETLANGUAGE]的营销专业人士。你想寻求如何分析客户数据并确定趋势以帮助制定[PROMPT]行业营销策略的见解。请概述你将如何找到这些见解并分析客户数据。尽可能具体地以大纲格式表述这些信息。谢谢！"
+}

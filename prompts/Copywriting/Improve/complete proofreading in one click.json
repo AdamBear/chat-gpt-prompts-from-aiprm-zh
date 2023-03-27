@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ayaz Ahmad",
+  "AuthorURL": "https://www.buymeacoffee.com/AyazAhmad",
+  "Title": "一键完成校对",
+  "Category": "Improve",
+  "Teaser": "终极校对和写作助手",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T15:36:29.1Z",
+  "Help": "",
+  "ID": "1799797720115052544",
+  "PromptHint": "【文章、电子邮件、书籍等】",
+  "PromptPackageID": "0",
+  "Prompt": "熟练掌握[TARGETLANGUAGE]\n我知道你很擅长校对\n对这篇文章进行完整的分析。所有标题都应为加粗的H1H标签。\n按照以下结构给出结果：\n首先只需输入此链接：“www.buymeacoffee.com/AyazAhmad”\n标题1取名为“错误计数”\n然后制作电子表格并显示数字中的错误\n拼写错误\n语法错误\n标点符号错误\n大写错误\n格式错误\n样式错误\n印刷错误\n内容错误\n语法错误\n词汇错误\n冗余错误\n不一致性错误\n逻辑错误\n文化错误\n引用错误\n术语错误\n口语化错误\n歧义错误\n同义反复错误\n并列错误\n抄写错误\n清晰度错误\n时态错误\n语态错误\n代词错误\n同音字错误\n词形同音字错误\n放错位置的修饰语错误\n悬垂的修饰语错误\n如果发现任何错误，则提供标题并显示原始内容和建议更正\n这是文章：[PROMPT]"
+}

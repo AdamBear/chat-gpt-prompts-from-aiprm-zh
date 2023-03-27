@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WilliamCole",
+  "AuthorURL": "http://www.creaition.com/",
+  "Title": "将故事转化为叙述性脚本。",
+  "Category": "Script Writing",
+  "Teaser": "将一个故事转化为一个完整的动作脚本或场景。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-22T01:44:08.142Z",
+  "Help": "",
+  "ID": "1782556022871953408",
+  "PromptHint": "很高兴能为您提供帮助。",
+  "PromptPackageID": "8",
+  "Prompt": "为所提供的故事生成表演剧本：[PROMPT]。请添加角色和旁白。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ai.art.spelunker",
+  "AuthorURL": "https://www.instagram.com/ai.art.spelunker/",
+  "Title": "从记录中提取健康益处",
+  "Category": "Summarize",
+  "Teaser": "\n\n列出视频/音频文本中提到的所有健康效益，以项目符号呈现。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T22:48:26.713Z",
+  "Help": "",
+  "ID": "1794470608478924800",
+  "PromptHint": "这是一个交流英语学习资源的视频，其中包括了许多实用的学习技巧和方法，帮助英语学习者更好地提高自己的英语水平。",
+  "PromptPackageID": "0",
+  "Prompt": "扮演一个关注身心健康的健康和福利专家的角色。提供一份详细的健康提示总结，包括视频中医生或专家提到的所有健康提示，详细解释每个点的好处和与整体健康的关系。将信息呈现为项目符号。最后，提到视频中是否讨论了任何菜肴、食谱或补品，供后续提问参考。[TARGETLANGUAGE]中写出所有的输出，并逐步进行。以下是部分的字幕:[PROMPT]"
+}

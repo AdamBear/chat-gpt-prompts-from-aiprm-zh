@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Khud Studios",
+  "AuthorURL": "https://www.instagram.com/khudstudios/",
+  "Title": "旋转木马帖子内容生成器",
+  "Category": "marketing",
+  "Teaser": "旋转木马帖文生成器",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T11:30:04.455Z",
+  "Help": "",
+  "ID": "1798286157356982272",
+  "PromptHint": "【业务细分市场】",
+  "PromptPackageID": "0",
+  "Prompt": "嘿，Chatgpt，扮演数字营销专家的角色。\n\n我正在制作一个Instagram走马灯帖子，展示数字营销在我们发布的业务中的使用和价值。我希望你能想出一个主帖子标题，然后是其他4个幻灯片的标题。\n\n我正在制作海报的业务是[PROMPT]。\n\n输出应为[TARGETLANGUAGE]。"
+}

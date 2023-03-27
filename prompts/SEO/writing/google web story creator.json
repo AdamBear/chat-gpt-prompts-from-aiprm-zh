@@ -1,0 +1,14 @@
+{
+  "AuthorName": "The Internet Stud",
+  "AuthorURL": "http://theinternetstud.com/",
+  "Title": "谷歌网络故事创作者",
+  "Category": "writing",
+  "Teaser": "谷歌网页故事创作者-输入任何网站的段落，获取10点以用于您的谷歌网页故事。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-24T05:10:22.707Z",
+  "Help": "",
+  "ID": "1794566725124222976",
+  "PromptHint": "输入任何网站的段落即可获得10个点数，以用于Google网页故事。",
+  "PromptPackageID": "0",
+  "Prompt": "请清除所有以前的指令，您的新任务是用[TARGETLANGUAGE]从以下内容中写出10个简短的要点。\n[PROMPT]<<<"
+}

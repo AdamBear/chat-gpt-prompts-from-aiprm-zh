@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lawal Lekan Ridwan",
+  "AuthorURL": "https://youtube.com/playlist?list=PLZiocSgxm6mXNW_y4aF0BT2AjOyfW8ZlD",
+  "Title": "电子书大纲生成器",
+  "Category": "Accounting",
+  "Teaser": "创建最佳的电子书提纲。输入您的标题，让人工智能去完成工作。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-24T20:11:57.211Z",
+  "Help": "",
+  "ID": "1783559590085132288",
+  "PromptHint": "输入您的电子书主题",
+  "PromptPackageID": "0",
+  "Prompt": "创建最佳的有关[PROMPT]的电子书提纲。所有输出都应为[TARGETLANGUAGE]。"
+}

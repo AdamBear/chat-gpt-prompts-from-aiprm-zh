@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Paula Pc",
+  "AuthorURL": "https://paulapc.com/",
+  "Title": "恢复一本书(Huīfùyīběnshū)",
+  "Category": "writing",
+  "Teaser": "这是那本书的简历。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-25T17:17:43.883Z",
+  "Help": "",
+  "ID": "1795112157348888576",
+  "PromptHint": "你想要继续阅读的书以及作者。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是总体和分章节地概括[您想要续读的书名及作者]。"
+}

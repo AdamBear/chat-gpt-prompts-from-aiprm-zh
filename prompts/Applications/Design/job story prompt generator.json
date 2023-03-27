@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Erez",
+  "AuthorURL": "https://www.midjourney.com/app/users/827209486082637856/",
+  "Title": "工作故事提示生成器",
+  "Category": "Design",
+  "Teaser": "为用户体验设计研究创建一个工作故事。输入一个移动应用程序或Web应用程序的描述，并根据需要选择特定的部分或特征。",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-02-06T18:44:52.098Z",
+  "Help": "",
+  "ID": "1788248716625571840",
+  "PromptHint": "网络玩具商店的产品页面",
+  "PromptPackageID": "0",
+  "Prompt": "以下是一个[PROMPT]应用程序的工作故事模板。\n你的任务是根据以下模板为我提供10个UX工作故事：\n当[情境]时，我想[动机]，以便我可以[期望结果]。\n\n你的答案将用[TARGETLANGUAGE]写出。"
+}

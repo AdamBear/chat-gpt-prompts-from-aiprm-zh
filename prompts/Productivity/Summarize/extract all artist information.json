@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gilberto Toxicsquall",
+  "AuthorURL": "https://www.linkedin.com/in/toxicsquall/",
+  "Title": "提取所有艺术家信息",
+  "Category": "Summarize",
+  "Teaser": "获取有关CD封面，海报，漫画卷封面，游戏封面等所有艺术信息。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-13T14:33:26.03Z",
+  "Help": "",
+  "ID": "1790722156129415168",
+  "PromptHint": "[作者乐队封面海报]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是列出[TARGETLANGUAGE]列表。你能从[PROMPT]的封面或海报中提取所有的艺术信息分析，比如封面描述、服装风格、艺术家、插画师、艺术风格、调色板方案、拍摄角度、色彩学名称、姿势和背景描述，并将其每行写在列表中吗？"
+}

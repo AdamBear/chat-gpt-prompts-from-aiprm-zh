@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ricardorg",
+  "AuthorURL": "https://www.linkedin.com/in/ricardo-rosales-ganter-03362b242/",
+  "Title": "整洁的代码",
+  "Category": "Configuration Management",
+  "Teaser": "创建干净的Next.js代码，不需要说明。",
+  "Community": "DevOps-f3e52afbf831197f",
+  "CreationTime": "2023-03-17T18:10:09.838Z",
+  "Help": "",
+  "ID": "1802373109752532992",
+  "PromptHint": "你需要创造什么？",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个完整的Next.js代码[TARGETLANGUAGE]，其中包含函数及其return()和相应的exportdefault[PROMPT]。我只需要代码，不需要描述或解释代码的文本，请尽可能优化代码。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joan Blanch",
+  "AuthorURL": "https://www.libertad-financiera.com",
+  "Title": "关键词研究西班牙语",
+  "Category": "keywords",
+  "Teaser": "制定一个关键词战略和搜索引擎优化内容计划，从一个关键词开始。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-25T14:37:10.385Z",
+  "Help": "",
+  "ID": "1795071751529689088",
+  "PromptHint": "很抱歉，我不知道\"[keyword]\"是什么意思。请问您能提供更多上下文吗？",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是从关键词[PROMPT]创建一个关键词研究。用[TARGETLANGUAGE]语言展示它。\n在表格中列出关键词并添加搜索量。为每个关键词添加搜索意图列。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Chill",
+  "AuthorURL": "https://caustinhill.com",
+  "Title": "测试有益的内容排序",
+  "Category": "Summarize",
+  "Teaser": "测试有用内容排名",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T19:14:07.682Z",
+  "Help": "",
+  "ID": "1796953388852973568",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：“Iwouldliketoorderacupofcoffee,please.”",
+  "PromptPackageID": "0",
+  "Prompt": "使用以下标准对此文章进行1-10的数字评分，每个标准都有一分评分：\n1：目标受众：您的业务或网站是否有特定的受众群体，他们会发现您的内容有用吗？\n2：表现出的专业知识：您的内容是否展示了第一手的知识和专业知识？\n3：主要焦点：您的网站是否有明确的主要目的或焦点？\n4：教育价值：读者是否会感觉他们已经学到足够的知识来实现他们的目标？\n5：用户满意度：读者是否对您的网站体验感到满意？\n6：指南：您是否遵循核心更新和产品评论的指南？\n\n[PROMPT]"
+}

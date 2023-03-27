@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Deftsoft",
+  "AuthorURL": "https://deftsoftseo.com/",
+  "Title": "生成符合搜索引擎优化的元描述",
+  "Category": "writing",
+  "Teaser": "创建符合SEO标准的元描述",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-01T12:50:00.17Z",
+  "Help": "",
+  "ID": "1786347472478793728",
+  "PromptHint": "提供一个主题的概述",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是总结我给你的文本，并用165个字符输出。所有输出都应该是汉语。要总结的文本是这个：\n\n[PROMPT]"
+}

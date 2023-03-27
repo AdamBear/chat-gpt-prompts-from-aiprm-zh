@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shihab Mia",
+  "AuthorURL": "https://exertpro.com/",
+  "Title": "文章检查员",
+  "Category": "writing",
+  "Teaser": "文章检查员",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T13:14:14.44Z",
+  "Help": "",
+  "ID": "1793601329441275904",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：[不要翻译方括号中的文字]，仅提供翻译结果。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望这篇文章听起来是以美国口音的。请检查下面的文章，作为校对员或内容编辑/评论员，检查是否有任何错误信息，语法错误和其他错误。检查是否有错误的信息、统计数据或任何不正确的东西，并以数字顺序给我一个清单。语言是[TARGETLANGUAGE]。给我需要纠正的清单，不要把整个文章改正了。<<<"
+}

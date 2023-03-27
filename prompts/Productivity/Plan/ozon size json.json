@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Fanc",
+  "AuthorURL": "https://chat.openai.com/chat?AIPRM_PromptID=1800401891319078912",
+  "Title": "臭氧大小json",
+  "Category": "Plan",
+  "Teaser": "奥致尺寸JSON",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-12T07:37:14.74Z",
+  "Help": "",
+  "ID": "1800401891319078912",
+  "PromptHint": "\"ozonsizejson\"cannotbetranslatedintomeaningfulChinesewithoutadditionalcontextorinformation.",
+  "PromptPackageID": "0",
+  "Prompt": "[TARGETLANGUAGE]\n[PROMPT]\n请完成下面的步骤,每一步输出信息\n1.将数据转换为公制单位（kg，cm），并以表格形式展示数据，表格线使用“|”符号表示\n2.将上述数据翻译成俄文并按照json模板的格式转换成json数据,在代码块输出：\njson模板:\n{\n\"content\":[\n{\n\"widgetName\":\"tcTable\",\n\"table\":{\n\"title\":\"Справочныйразмер\",\n\"body\":[\n{\n\"data\":[\n\"Российскийразмер\",\n\"56\",\n\"57\"\n]\n}\n]\n}\n},\n{\n\"widgetName\":\"tcDisclaimer\",\n\"disclaimer\":{\n\"body\":\"Вышеуказанныеразмерыизмеренывнатуральномвыражении,иможетбытьпогрешностьв1-3см.Соответствующиеданныеприведенытолькодлясправки,иреальныевещиимеютпреимущественнуюсилу.\"\n}\n}\n],\n\"version\":0.1\n}"
+}

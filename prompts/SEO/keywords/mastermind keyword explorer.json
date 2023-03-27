@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Zee S.D.",
+  "AuthorURL": "https://inceptiondomains.com",
+  "Title": "策划关键词探索器",
+  "Category": "keywords",
+  "Teaser": "主谋关键词探索器",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-14T16:54:09.615Z",
+  "Help": "",
+  "ID": "1801266819194159104",
+  "PromptHint": "种子关键词",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能像一个SEO关键字探索者一样行动。我会给你公司的产品或服务，你将根据以下内容给出前10个关键字类别：\n1.种子关键词\n2.搜索意图关键词\n3.长尾关键词（主题和支持性）\n4.低竞争关键词\n5.利基关键词\n6.品牌和非品牌关键词\n7.你的竞争对手的关键词\n8.主关键词和次关键词\n我不需要解释。你明白吗？"
+}

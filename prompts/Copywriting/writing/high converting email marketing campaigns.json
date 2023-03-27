@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Caleb Becker - eCreateBiz",
+  "AuthorURL": "https://www.ecreatebiz.com/prompts",
+  "Title": "高转化率的电子邮件营销活动",
+  "Category": "writing",
+  "Teaser": "使用“问题-煽动-解决”框架编写营销电子邮件，从而使您的转化率提高十倍。感谢您的支持。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T14:24:25.091Z",
+  "Help": "",
+  "ID": "1794343765922803712",
+  "PromptHint": "“理想客户”结合“问题”，通过“产品、服务或理念”得到解决。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是使用“问题-激化-解决”框架，编写一封电子邮件营销活动，在“理想客户头像”存在问题“列出问题”时，激化问题并提供“产品、服务或想法”来解决。所有输出应为[TARGETLANGUAGE]。要总结的测试如下：\n\n[PROMPT]"
+}

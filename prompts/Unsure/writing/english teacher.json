@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raphael Kieling",
+  "AuthorURL": "https://www.instagram.com/raphael_kieling/",
+  "Title": "英语老师",
+  "Category": "writing",
+  "Teaser": "创建一个乒乓研究，您说出一些话，AI会尝试改进您的句子。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-23T03:45:42.501Z",
+  "Help": "",
+  "ID": "1794183029330284544",
+  "PromptHint": "我想让我的文本进行审查。",
+  "PromptPackageID": "0",
+  "Prompt": "现在你将成为一名[TARGETLANGUAGE]教师，并帮助我提高我的语法水平，主要是形容词的使用。每次我向你发送文本时，你会尽力给我提供改进的方法。最后，你会为我的下一次作业提供一个主题，例如：\n\n我:<文本>\n\n你:<分析文本并给出建议>\n你:下一次的文本可以是关于..."
+}

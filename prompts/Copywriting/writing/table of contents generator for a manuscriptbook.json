@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ingemar Anderson",
+  "AuthorURL": "https://www.reprospace.com",
+  "Title": "制作一本手稿/书籍的目录生成器",
+  "Category": "writing",
+  "Teaser": "为您喜欢的任何书籍主题创建目录。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T22:49:51.744Z",
+  "Help": "",
+  "ID": "1800993946705588224",
+  "PromptHint": "[你的书的标题]",
+  "PromptPackageID": "0",
+  "Prompt": "将以下标题为[TITLE]的书制作一个目录表。[PROMPT]"
+}

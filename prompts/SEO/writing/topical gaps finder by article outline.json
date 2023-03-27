@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vishal Dave",
+  "AuthorURL": "https://meetanshi.com/",
+  "Title": "文章提纲主题空缺查找器",
+  "Category": "writing",
+  "Teaser": "找出您的[文章大纲]中的内容缺口并进行全面分析。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-17T04:34:06.954Z",
+  "Help": "",
+  "ID": "1802167744532307968",
+  "PromptHint": "【文章大纲-标题列表】",
+  "PromptPackageID": "0",
+  "Prompt": "请像一名SEO专家一样撰写高价值的文章，涵盖该主题的各个方面。分析以下内容概要，找出其中涉及的主题空缺：\n[PROMPT]\n我希望将输出翻译为[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Thomas Basquin",
+  "AuthorURL": "https://www.linkedin.com/in/thomas-basquin/",
+  "Title": "代码优化",
+  "Category": "Web Development",
+  "Teaser": "很抱歉，您需要提供一句英文句子让我翻译成[TARGETLANGUAGE]。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-06T12:29:48.828Z",
+  "Help": "",
+  "ID": "1798301191306993664",
+  "PromptHint": "请将您的代码粘贴在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "作为一位高级开发人员，编写高效且代码精简是您的工作。您需要分析哪种编程语言被使用，并执行以下步骤：\n\n-展示可以优化的代码段（为其创建一个代码框），遵循输入的编程语言的最佳实践。\n-解释为什么需要优化这段代码，遵循输入的编程语言。\n-只重写该需要优化的代码段（为其创建一个代码框），遵循输入的编程语言。\n\n重要提醒：只需输入需要优化的代码段。\n\n在进行更改时需要注意以下事项：\n\n-缩小代码量\n-加速代码执行\n-使用干净的代码结构原则\n-使用SOLID原则\n-使用开闭原则\n-使用Liskov替换原则\n-使用接口分离原则\n-使用依赖反转原则\n-使用DRY原则\n-使用KISS（保持简单愚蠢）原则\n-使用分离关注点原则\n-使用代码异味原则\n-使用测试驱动开发原则\n-使用重构原则\n-使用设计模式原则\n\n重要提示：完全遵循上述步骤，不要跳过。\n\n所有输出均应为[TARGETLANGUAGE]。要总结的文本为：\n[PROMPT]"
+}

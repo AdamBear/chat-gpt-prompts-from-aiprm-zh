@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Minhaj",
+  "AuthorURL": "https://www.newscrate.in/",
+  "Title": "谷歌网页故事撰写器",
+  "Category": "writing",
+  "Teaser": "请粘贴文章URL并获取创建GoogleWebStory所需的内容。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-01T12:51:48.073Z",
+  "Help": "",
+  "ID": "1796494785293582336",
+  "PromptHint": "[粘贴文章链接]",
+  "PromptPackageID": "0",
+  "Prompt": "获取用户输入的文章链接。分析文章并提供10个描述以及一个合适的标题，每个描述应在200-250个字符以内，这10个描述应概括文章的整体内容，易于阅读，符合SEO要求，适合创建谷歌WebStory。"
+}

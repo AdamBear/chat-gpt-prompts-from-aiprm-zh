@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ZoZhou",
+  "AuthorURL": "https://www.linkedin.com/in/zozhou/",
+  "Title": "电子邮件营销主题行",
+  "Category": "writing",
+  "Teaser": "为电子邮件营销创建适用于移动设备的主题行。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-05T06:43:48.628Z",
+  "Help": "",
+  "ID": "1787704868614692864",
+  "PromptHint": "[您的电子邮件]的副本",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前所有指示。我希望你用[TARGETLANGUAGE]回复。我想让你表现得像一位流利地写[TARGETLANGUAGE]的电子邮件营销人员。我希望你写出的内容在[TARGETLANGUAGE]上如此出色，以至于你的点击率和退订率远高于平均电子邮件营销基准。你的任务是在35个字符内编写一封电子邮件主题行，根据我给出的文本编写主题行。\n\n[PROMPT]"
+}

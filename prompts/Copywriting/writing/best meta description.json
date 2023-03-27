@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MJ Gill",
+  "AuthorURL": "https://www.ilmkiroshni.com/",
+  "Title": "最佳元描述",
+  "Category": "writing",
+  "Teaser": "创建最佳元描述以便我的内容。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-14T09:12:03.277Z",
+  "Help": "",
+  "ID": "1791003666266984448",
+  "PromptHint": "你想要元描述的文本。",
+  "PromptPackageID": "0",
+  "Prompt": "把我給的文本用不超过30个单词或140个字符的方式总结，输出为[[TARGETLANGUAGE]]。文本如下：[PROMPT]"
+}

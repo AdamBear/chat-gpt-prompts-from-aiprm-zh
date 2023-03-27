@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Google Business Profile Services",
+  "AuthorURL": "https://www.merchynt.com/google-business-pro?utm_source=AIPRM&utm_medium=Customer+Review+Response+Bot+%28Bulk%29&utm_campaign=Customer+Review+Response+Bot+%28Bulk%29&utm_id=chatgpt",
+  "Title": "顾客评价回复机器人（批量版）",
+  "Category": "writing",
+  "Teaser": "通过将每个评论[review1][review2][review3]简单地复制粘贴到下面的提示中括号中，您可以获得令人惊奇的友好的评论反应，可以在Google，Yelp和其他评论网站上使用。这将在表格中很好地组织您的答复，以便您可以轻松地复制和粘贴它们。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-24T21:03:02.449Z",
+  "Help": "",
+  "ID": "1783572446625140736",
+  "PromptHint": "[将您的评论粘贴在此处。每个评论都应用括号括起来，例如[评论1][评论2]]",
+  "PromptPackageID": "0",
+  "Prompt": "MERCHYNT’SREVIEWRESPONDINGBOT\n\n了解更多关于Merchynt的Google商务档案服务，请访问www.merchynt.com/google-business-pro。\n\n如果您发现这个工具有帮助，请在提示页面上给我们留下一个赞，这样我们就知道要继续支持它并建立更多类似的工具！非常感谢！-Merchynt.com团队\n\n顾客评价：\n\n[REVIEW1]\n\n[RESPONSE1]\n\n[REVIEW2]\n\n[RESPONSE2]\n\n[REVIEW3]\n\n[RESPONSE3]\n\n[REVIEW4]\n\n[RESPONSE4]\n\n[REVIEW5]\n\n[RESPONSE5]\n>>>"
+}

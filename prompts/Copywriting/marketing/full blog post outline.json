@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Danny Da Rocha",
+  "AuthorURL": "https://dannydarocha.com",
+  "Title": "完整的博客文章大纲",
+  "Category": "marketing",
+  "Teaser": "为您选择的话题创建一个完整且详细的博客文章大纲|全面优化|100％独特",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-28T11:01:17.792Z",
+  "Help": "",
+  "ID": "1796104588013858816",
+  "PromptHint": "写下你的博客文章主题",
+  "PromptPackageID": "0",
+  "Prompt": "一部针对SEO进行了详细优化的专家纪录片摘要。必须组织成可以转化为博客文章的形式，包含多个标题和副标题。必须包含可以在搜索引擎上良好排名的关键词。主题为：\"[PROMPT]\""
+}

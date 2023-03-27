@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jim Harper",
+  "AuthorURL": "https://playgames-id.blogspot.com",
+  "Title": "撰写一篇不少于1000字的SEO文章V.2",
+  "Category": "writing",
+  "Teaser": "撰写不少于1000字的SEO文章",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-16T01:28:54.8Z",
+  "Help": "",
+  "ID": "1791611888677945344",
+  "PromptHint": "文章标题",
+  "PromptPackageID": "0",
+  "Prompt": "请以钩子、引言和粗体标出H1、H2和H3撰写不少于1000字的SEO文章，论述[PROMPT]，最后附上结论。全部输出均为[TARGETLANGUAGE]。如需更多信息，请访问我们的网站-->https://playgames-id.blogspot.com"
+}

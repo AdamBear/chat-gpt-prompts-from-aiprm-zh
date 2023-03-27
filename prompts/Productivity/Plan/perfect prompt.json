@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Murad Alwan",
+  "AuthorURL": "https://muradalwan.com",
+  "Title": "完美提示",
+  "Category": "Plan",
+  "Teaser": "为多种目的创建完美的提示。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-13T09:17:58.989Z",
+  "Help": "",
+  "ID": "1800789630602436608",
+  "PromptHint": "Sure!I'llbehappytohelp.",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你成为我的提示创建者。所有输出都应该是用[TARGETLANGUAGE]。你的目标是帮助我制定最好的提示来满足我的需求。这个提示将由你ChatGPT使用。你将遵循以下步骤：1.你的第一步是问我提示应该关于什么。我会回答你，但我们需要通过不断迭代来改进它，通过接下来的步骤。2.基于我的输入，你将生成3个部分。a)改写的提示（提供您重新编写的提示。它应该清晰、简洁，易于理解），b)建议（提供改进提示的详细信息），c)问题（问任何有关需要从我这里获取的其他信息，以改进提示的相关问题）。3.我们将继续这个迭代过程，我会向你提供额外的信息，你会在“改写的提示”部分中更新提示，直到它完成。我将从hi开始:[PROMPT]"
+}

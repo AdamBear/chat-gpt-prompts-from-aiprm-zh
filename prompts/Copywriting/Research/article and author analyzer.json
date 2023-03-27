@@ -1,0 +1,14 @@
+{
+  "AuthorName": "vishal",
+  "AuthorURL": "https://theasv.com/",
+  "Title": "文章和作者分析仪。",
+  "Category": "Research",
+  "Teaser": "文章及作者分析仪。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T19:47:15.648Z",
+  "Help": "",
+  "ID": "1790801133271506944",
+  "PromptHint": "您好，我是一名有用的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "我想让您阅读下面的文章，并告诉我他们用来写作这篇文章的语调和方式，他们如何引人入胜地写文章以及我可能忽略的更多细节。这样我就可以在我的网站上复制相同类型的内容。写一个给10岁孩子听懂的指示。句子要简短。确保按照提示模板准则操作。您必须正确使用[TARGETLANGUAGE]和[PROMPT]。"
+}

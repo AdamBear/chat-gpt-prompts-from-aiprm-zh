@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raphael Carvalho",
+  "AuthorURL": "https://rapha.uy/",
+  "Title": "关键词到带有语义感的短语",
+  "Category": "keywords",
+  "Teaser": "将一个关键词列表转化为您可以用作标题的有意义短语的列表。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-06T23:03:45.892Z",
+  "Help": "",
+  "ID": "1798460730316685312",
+  "PromptHint": "输入关键词列表",
+  "PromptPackageID": "0",
+  "Prompt": "请把以下文本翻译为[TARGETLANGUAGE]：（不要翻译[]中的单词）\n\n<<<\nTepasaréunalistadefrases,algunasconsentidoyotrassinsentido.Necesitoqueidentifiqueslasquenotienensentidoyquereordeneslaspalabrasdeesafraseparaqueformenunafraseconsentido.Puedesagregarlealgúnartículoentrepalabras,porejemplo\"preciomotoresfueraborda\"setransformaríaen\"preciodemotoresfueraborda\".Tratadenoagregarartículosaliniciodelafrase.Otroejemplo:\"consumomotoresfueraborda\"quearía\"consumodemotoresfueraborda\".\"Motorfueraborda\"quedaríaigualyaqueMotorfuerabordaesunobjetoensimismo,entoncestienesentido..Devuelveunatabladondeenlaprimeracolumnaestálafraseoriginalyenlasegundalafraseconsentido.Aquílalista:[PROMPT]\n>>>"
+}

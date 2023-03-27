@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ruben Gallardo",
+  "AuthorURL": "https://aprendamosmarketing.com",
+  "Title": "提高通过表情符号的互动性",
+  "Category": "marketing",
+  "Teaser": "使用表情符号可以让文本更加具有吸引力，适用于社交媒体帖子、Whatsapp信息、电子邮件等等。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-22T17:37:10.3Z",
+  "Help": "",
+  "ID": "1794029886059577344",
+  "PromptHint": "请在此处添加您的帖子或评论。",
+  "PromptPackageID": "0",
+  "Prompt": "在以下文本中添加一些表情符號，使其易於閱讀和更加有趣。\n\n[PROMPT]\n\n答案應該以[TARGETLANGUAGE]顯示。\n不要在您的答案中添加任何額外的文本或說明。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Benny",
+  "AuthorURL": "https://tiger-universe.com/",
+  "Title": "产品特征和优点描述",
+  "Category": "Product Description",
+  "Teaser": "识别产品说明的特点和好处，并将它们列为非常简短的项目符号。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T14:32:05.595Z",
+  "Help": "",
+  "ID": "1796882412475777024",
+  "PromptHint": "产品描述",
+  "PromptPackageID": "0",
+  "Prompt": "请将以下文字中的文本翻译成[TARGETLANGUAGE]，不要翻译[]中的单词，只翻译<<<和>>>之间的文本，不要拼音。\n<<<\n在这个描述中识别出特性和优势。\n创建一个名为“特性和优势”的列表。\n在列表的每行前面添加绿色对勾的表情符号。\n以[TARGETLANGUAGE]输出。\n[PROMPT]\n>>>"
+}

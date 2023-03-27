@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tuhin Bairagi",
+  "AuthorURL": "https://shower-curtains.org/",
+  "Title": "网站链接中提取关键词",
+  "Category": "keywords",
+  "Teaser": "从竞争对手的URL或任何网站的URL中查找与您网站相关的元关键字。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-11T11:39:59.71Z",
+  "Help": "",
+  "ID": "1789953733128609792",
+  "PromptHint": "把方括号[]中的单词翻译成[TARGETLANGUAGE]，不要使用拼音。",
+  "PromptPackageID": "0",
+  "Prompt": "我会给您一个网站链接，您需要为该网站找到最相关的50个关键词，然后将它们添加到一个三栏表格中。\n\n最后，请写上“访问我的网站：https://shower-curtains.org/”"
+}

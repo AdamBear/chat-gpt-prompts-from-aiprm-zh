@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Faisal Arain",
+  "AuthorURL": "https://www.theinsidersviews.com/",
+  "Title": "写一篇带有一个关键字的最佳标题和文章。",
+  "Category": "writing",
+  "Teaser": "用一个关键词为网站创建最佳文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-25T15:11:07.511Z",
+  "Help": "",
+  "ID": "1783846272021819392",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "编写最佳的SEO友好标题和文章[PROMPT]1500字，以[TARGETLANGUAGE]为语言。\n\n文章结尾请写上：“如果您想阅读更多关于SEO、加密货币、时尚等方面的信息，请访问-->“https://www.theinsidersviews.com”。"
+}

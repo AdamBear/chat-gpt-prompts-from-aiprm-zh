@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ronald Soh @ Win-Pro",
+  "AuthorURL": "https://www.winpro.com.sg",
+  "Title": "内容专家思维导图生成器",
+  "Category": "Plan",
+  "Teaser": "为内容专家生成关键词研究的思维导图",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-28T00:01:50.401Z",
+  "Help": "",
+  "ID": "1795938630347517952",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "主题:[PROMPT]\n\n思维导图:在上述主题上创建一个深入研究的树形层次结构，具有洞见，相关性和全面性的思维导图。列出所有的主要分支，子分支，以帮助为内容专家和主题专家的终极指南博客进行头脑风暴，创造新的想法和思路。[TARGETLANGUAGE](温度=0.8，Top-p=0.9，Top-k=5)"
+}

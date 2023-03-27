@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ReviewGrand",
+  "AuthorURL": "https://reviewgrand.com/",
+  "Title": "大纲|标题|元描述",
+  "Category": "ideation",
+  "Teaser": "官方SEO优化|只需提供关键词即可获得大纲|标题|Meta描述",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T16:10:37.509Z",
+  "Help": "",
+  "ID": "1793645718049918976",
+  "PromptHint": "[仅限关键字]",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是从我提供的1个单词或130个字符的关键字中制作文章标题和元描述的大纲。将所有输出写在[TARGETLANGUAGE]中。回答以下问题：<<<"
+}

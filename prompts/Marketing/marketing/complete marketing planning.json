@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Marque essa opção caso você queira compartilhar o script com a comunidade. Se não for pedir demais, coloque em Author Name Diego Zanini e Author ",
+  "AuthorURL": "https://youtube.com/c/DiegoZanini",
+  "Title": "完整的市场营销策划",
+  "Category": "marketing",
+  "Teaser": "完整的市场营销计划。表格包含发帖计划、客户旅程和博客文章建议。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-17T02:28:16.82Z",
+  "Help": "",
+  "ID": "1802136076975071232",
+  "PromptHint": "输入关键词，我将为您制定市场营销计划。",
+  "PromptPackageID": "0",
+  "Prompt": "\"战略01-博客主题建议\"\n您的任务是为选择的关键词提供5个博客主题的建议。仅限于交易风格的搜索术语。请为这些博客文章创建Clickbait样式的标题。请将每个博客文章的标题整理到表格的一行中。\n\n然后获取所选的关键词，编写“战略02-发布时间表”，并创建一个发布社交媒体帖子的时间表，其中在Facebook，Instagram，Twitter和Pinterest上发布了有关所选关键词主题的建议。这些帖子类型包括提示，技巧，引用，事实，活动想法，灵感，课程计划想法，食谱和列表。还要指出这些帖子的格式是什么。可以是文本，图像或短视频。\n\n“战略03-客户旅程”\n我希望您能帮助我创建适合博客的内容时间表，以最大程度地帮助我排名长尾特定关键字，以获得选择的关键词。\n\n请详细描述购买过程的客户旅程。需要将结果以表格形式呈现，每行的列名包括：阶段，描述，接触点，要执行的营销操作和KPI。"
+}

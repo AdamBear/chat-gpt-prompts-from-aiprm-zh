@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Therese Miller",
+  "AuthorURL": "https://www.theresemiller.com/",
+  "Title": "家庭学校课程",
+  "Category": "Plan",
+  "Teaser": "用一个关键词创建一年的课程表。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-20T18:22:51.263Z",
+  "Help": "",
+  "ID": "1793316606760452096",
+  "PromptHint": "一个科目和年级等级[小学，初中，高中，大学，和大学]一次。",
+  "PromptPackageID": "0",
+  "Prompt": "创建一门关于[PROMPT]主题的[TARGETLANGUAGE]课程。\n适用年级和年龄，课程描述，课程目标，课程大纲，\n每周展示一周的课程，详细描述每个主题和评估的组合点子，然后逐步说明如何教授每个主题的班级，给出每个主题的例子和示例课程。添加评估，3本推荐教材，材料，资源，家长注意事项。\n创建一个为期1学年的计划。"
+}

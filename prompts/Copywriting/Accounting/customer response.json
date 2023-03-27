@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hugz",
+  "AuthorURL": "https://twitter.com/ZedroxYt",
+  "Title": "顾客反馈",
+  "Category": "Accounting",
+  "Teaser": "以正确和专业的方式回复您的所有信息。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T13:22:12.638Z",
+  "Help": "",
+  "ID": "1797951989536251904",
+  "PromptHint": "你的信息",
+  "PromptPackageID": "0",
+  "Prompt": "请以简明专业的方式回答这个[PROMPT]，避免出现语法错误。所有结果将为[TARGETLANGUAGE]。"
+}

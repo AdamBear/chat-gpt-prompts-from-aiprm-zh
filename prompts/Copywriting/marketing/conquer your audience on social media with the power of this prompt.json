@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Pablo Solar Frese",
+  "AuthorURL": "https://linktr.ee/pablosolar",
+  "Title": "通过这个提示的力量，在社交媒体上征服你的观众。",
+  "Category": "marketing",
+  "Teaser": "为您的受众创造无法抗拒且有效的内容（吸引-兴趣-欲望-行动）",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-03T03:25:16.788Z",
+  "Help": "",
+  "ID": "1786930131005333504",
+  "PromptHint": "写一个标题在这里",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略前面的所有指示。我希望您表现出流利地使用[TARGETLANGUAGE]的能力，像一个非常有竞争力的ElmoLewis一样。使用AIDA的解释性格式创建选项，不要重复，分开并用粗体字标出标题、吸引、兴趣、渴望和行动，要有创意，具有高度的参与度，通过提供的标题[PROMPT]写下一条内容，并在行动部分添加一个引人注目和有创意的呼吁（CTA），不要解释为什么或如何，只需编写完美的AIDA格式。我希望您能够像使用[TARGETLANGUAGE]写出同样优质的内容。请编写4个选项，并让它们以“选项1”、“标题”、“吸引”、“兴趣”、“渴望”和“行动”顺序排列，依次进行，然后是选项2、选项3和选项4。只需从选项1开始，不要写任何介绍。"
+}

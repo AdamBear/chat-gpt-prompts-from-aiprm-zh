@@ -1,0 +1,14 @@
+{
+  "AuthorName": "D. Aslam",
+  "AuthorURL": "https://www.instagram.com/dh.aslam/",
+  "Title": "改写电子邮件",
+  "Category": "UNSURE",
+  "Teaser": "请键入您的电子邮件并让ChatGPT为您制作专业且语法正确的邮件。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-02T10:09:44.151Z",
+  "Help": "",
+  "ID": "1796816388074246144",
+  "PromptHint": "重写这封电子邮件。",
+  "PromptPackageID": "0",
+  "Prompt": "请重新撰写这封电子邮件，使其显得专业并纠正语法错误。应使用[TARGETLANGUAGE]撰写。"
+}

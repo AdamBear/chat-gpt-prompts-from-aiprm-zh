@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Julien",
+  "AuthorURL": "https://www.linkedin.com/in/bienvenue-sur-le-profil-de-julien-bigot/",
+  "Title": "聚类关键词",
+  "Category": "keywords",
+  "Teaser": "聚类提示",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-09T12:47:28.24Z",
+  "Help": "",
+  "ID": "1789245938162987008",
+  "PromptHint": "[五十个关键词清单]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。我希望您只使用[TARGETLANGUAGE]回复。我希望您扮演一位懂得流利[TARGETLANGUAGE]口语和书写的关键词研究专家。我希望您能根据语义相关性将关键词分类成群组（每个群组最多两个词）。首先，我想让您给我一个找到的群组主题的简短概述列表。然后，我想要一个[TARGETLANGUAGE]的列表，作为markdown表格，其中包括以下列：群组、关键词和语言。这里是关键词："
+}

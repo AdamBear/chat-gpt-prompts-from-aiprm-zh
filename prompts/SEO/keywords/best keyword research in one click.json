@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Reddtimes",
+  "AuthorURL": "https://twitter.com/itsreddtimes",
+  "Title": "一键搜索最佳关键词",
+  "Category": "keywords",
+  "Teaser": "找出投标Google首页排名的最佳关键字。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-08T15:43:32.709Z",
+  "Help": "",
+  "ID": "1788927860891975680",
+  "PromptHint": "[话题]",
+  "PromptPackageID": "0",
+  "Prompt": "请您提供一个与“TOPIC”相关的长尾关键词列表，要求在美国每月搜索量不少于1000次。请包括信息、商业和“如何做”等类型的关键词混合，并将关键词难度用百分比表示。我希望这些关键词呈现为表格格式，包括关键词、搜索量、关键词难度和动机等列，并限制数据来自美国。"
+}

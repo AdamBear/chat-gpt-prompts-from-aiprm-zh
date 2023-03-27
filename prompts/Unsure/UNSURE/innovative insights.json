@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dániel",
+  "AuthorURL": "https://www.instagram.com/danielzapatillas_/",
+  "Title": "创新性洞察",
+  "Category": "UNSURE",
+  "Teaser": "得到1.一个破坏性的想法和2.消费者行为的洞察。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-20T12:07:01.783Z",
+  "Help": "",
+  "ID": "1803368887623086080",
+  "PromptHint": "您希望从中获得创新见解的行业、主题、产品、服务…",
+  "PromptPackageID": "0",
+  "Prompt": "1.下一个有颠覆性的[TARGETLANGUAGE]产品是什么？\n2.人们喜欢[TARGETLANGUAGE]的哪些方面？"
+}

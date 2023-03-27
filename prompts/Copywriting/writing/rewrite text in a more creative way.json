@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Abe Niang",
+  "AuthorURL": "https://wer.org/",
+  "Title": "把文本用更有创意的方式重新书写。",
+  "Category": "writing",
+  "Teaser": "重写文本以更有创意的方式。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T14:12:40.248Z",
+  "Help": "",
+  "ID": "1799776627580985344",
+  "PromptHint": "重构文本，用更有创意的方式表达。",
+  "PromptPackageID": "0",
+  "Prompt": "把这段文字以自然、人性化和友好的语气用[TARGETLANGUAGE]翻译成第五年级的阅读水平。使用优美的散文和缩略形式，同时使用一定的困惑和爆发力。保持原创和创意，把文本写在第一人称视角下，使用“我”和“你”。<<<"
+}

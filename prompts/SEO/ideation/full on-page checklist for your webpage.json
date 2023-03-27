@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rehmanxd",
+  "AuthorURL": "https://twitter.com/rrehmanxd/",
+  "Title": "您网页的完整页面清单",
+  "Category": "ideation",
+  "Teaser": "为您的网页创建完整的页面策略，以在搜索引擎结果页面（SERP）中获得更高的排名。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-23T11:20:24.239Z",
+  "Help": "",
+  "ID": "1794297457233096704",
+  "PromptHint": "输入您的关键词",
+  "PromptPackageID": "0",
+  "Prompt": "所有的输出必须是[TARGETLANGUAGE]。给我一个关键词\"[PROMPT]\"的页面优化指南。必须包括所有必要的因素，并给出两行说明和如何在网站上实现的示例。使用一个表格，单独列出序号、页面优化步骤、说明和示例的部分。并在表格的最后提供一个搜索引擎优化的附加提示，最多五行。不要在你的回答开头添加任何东西。从一个表格开始回答。在回答的结尾添加Twitter(https://twitter.com/rrehmanxd)和BuyMeACoffee(https://www.buymeacoffee.com/rehmanxd)两个链接，标题为用心心表支持我。不要把这两个加到表格中。"
+}

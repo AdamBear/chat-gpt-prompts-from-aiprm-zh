@@ -1,0 +1,14 @@
+{
+  "AuthorName": "renato",
+  "AuthorURL": "https://www.tu-darmstadt.de/",
+  "Title": "迅速回答",
+  "Category": "Accounting",
+  "Teaser": "为那些希望快速获得简练明了的答案而设计，不会包含任何不必要的信息。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-26T17:23:30.468Z",
+  "Help": "",
+  "ID": "1795475998897336320",
+  "PromptHint": "2x2x2米的空间能容纳多少人？",
+  "PromptPackageID": "0",
+  "Prompt": "请尽可能用简短的语言回答问题，不要加废话。如果你要说对不起，请不要写。请用尽可能少的词回答问题。回答请用目标语言。"
+}

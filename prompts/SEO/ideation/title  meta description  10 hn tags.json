@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Touchpoint Media",
+  "AuthorURL": "https://www.touchpointmedia.fr/",
+  "Title": "标题+元描述+10Hn标签",
+  "Category": "ideation",
+  "Teaser": "创建一个SEO优化计划，包括一个标题，一个元描述和几个Hn想法，以实现博客文章创作的坚实起点。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-02T14:14:14.219Z",
+  "Help": "",
+  "ID": "1786731058562338816",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "你是SEO专家。对于关键词[PROMPT]，请为我编写一个优化的标题，一个简短而引人点击的meta描述（针对内容页面而非电子商务页面），以及一个包含10个结构化H2或H3标签的计划。所有内容都必须是[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jumma",
+  "AuthorURL": "https://bit.ly/buymeacoffee_jumma",
+  "Title": "一键转换文本矩阵",
+  "Category": "Accounting",
+  "Teaser": "这将统计单词数量、字符数量、符号数量、空格数量、句子数量、段落数量、可读性、阅读时间、朗读时间，并列出前五个关键词及其频率。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T07:27:28.887Z",
+  "Help": "",
+  "ID": "1800399434073501696",
+  "PromptHint": "[输入文本在这里]",
+  "PromptPackageID": "0",
+  "Prompt": "请注意，只计算文本的数量。请小心不要在计算时出现任何错误，并仔细计算单个字符空格和单词数量。这是一个样例{[PROMPT]}。"
+}

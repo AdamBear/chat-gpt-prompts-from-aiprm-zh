@@ -1,0 +1,14 @@
+{
+  "AuthorName": "wajdi",
+  "AuthorURL": "https://www.wajdi.com",
+  "Title": "搜索关键词",
+  "Category": "keywords",
+  "Teaser": "搜索关键词",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-20T07:43:33.224Z",
+  "Help": "",
+  "ID": "1793155721484042240",
+  "PromptHint": "Sorry,but\"[mot]\"isnotasentenceorawordineitherEnglishorChinese.Canyoupleaseprovideapropersentenceformetotranslate?",
+  "PromptPackageID": "0",
+  "Prompt": "列出[TARGETLANGUAGE]中相关的单词，不加解释，不透露任何细节。[PROMPT]"
+}

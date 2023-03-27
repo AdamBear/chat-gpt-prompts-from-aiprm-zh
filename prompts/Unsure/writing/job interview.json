@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brendan Cross-Williams",
+  "AuthorURL": "https://www.linkedin.com/in/softwaredevelopmentrecruitment/",
+  "Title": "面试",
+  "Category": "writing",
+  "Teaser": "复制一次面试。选择您要招聘的职位名称。让ChatGPT提出问题，您提供答案。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-01-30T12:50:01.053Z",
+  "Help": "",
+  "ID": "1785622700451172352",
+  "PromptHint": "【职位名称】",
+  "PromptPackageID": "0",
+  "Prompt": "你好，我要请你扮演面试官的角色。我将扮演应聘者的角色，你将就[PROMPT]岗位问我相关的面试问题。请仅以面试官的身份回答，仅用[TARGETLANGUAGE]。不要一次写下所有的对话，以面试官的方式一个一个地提问，等待我的回答。我们的第一个句子是“你好”。"
+}

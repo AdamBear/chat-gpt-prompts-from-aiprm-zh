@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shane Brunson",
+  "AuthorURL": "https://Authority-Forge.com",
+  "Title": "通过人工智能检测的人类作家",
+  "Category": "writing",
+  "Teaser": "撰写一篇标题能够通过人工智能检测的文章",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-10T00:52:24.148Z",
+  "Help": "",
+  "ID": "1789428373223899136",
+  "PromptHint": "题目名称或主题内容",
+  "PromptPackageID": "0",
+  "Prompt": "我想让您扮演内容撰写的角色。使用流利的[TARGETLANGUAGE]口语和书写，我会提供一个主题，您将研究主题，撰写一个包含5个标题的目录，每个标题下至少有3个子标题。然后您会停下询问我是否想让您开始撰写文章。在文章中使用高度的突发性和复杂性替代词来表达复杂的概念，并在回答问题时不使用诸如“在本文章中”的字眼，同时使用高度的突发性和复杂性。每写完一个标题后您会询问我是否应该继续写下去：[PROMPT]"
+}

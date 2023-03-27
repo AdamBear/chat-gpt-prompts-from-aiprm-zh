@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Val",
+  "AuthorURL": "https://t.me/p_val",
+  "Title": "撰写谷歌地图评论",
+  "Category": "writing",
+  "Teaser": "\n\n写一篇200字的GoogleMaps评论。短描述：[PROMPT]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-05T13:28:24.433Z",
+  "Help": "",
+  "ID": "1787806688720715776",
+  "PromptHint": "餐厅的简短描述",
+  "PromptPackageID": "0",
+  "Prompt": "这家餐厅的简短描述：[待翻译]\n\n👍总体来说，这家餐厅提供的食物有一定水平。\n\n👍餐厅的位置非常方便，就在市中心。\n\n👎服务有些慢，需要等待时间较长。\n\n👎菜单上的价格偏高，性价比略低。\n\n总之，这是一家不错的餐厅，但也有些需要改进的地方。建议提升服务质量，并适当调整价格。🍴"
+}

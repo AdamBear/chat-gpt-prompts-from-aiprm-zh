@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Flint Analytics",
+  "AuthorURL": "https://www.flintanalytics.com",
+  "Title": "陷阱脚本化",
+  "Category": "writing",
+  "Teaser": "Snarescripting通过输入同义词和新的词语短语来创建多个句子变体。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-31T13:15:46.603Z",
+  "Help": "",
+  "ID": "1785991570823307264",
+  "PromptHint": "请提供要翻译的句子或段落。",
+  "PromptPackageID": "0",
+  "Prompt": "我将教你“Snarescripting”。\n“Snarescripting”是一种编码句子的方式，使您可以有各种选项来创建多个句子变体。这是通过添加单词的同义词和其他表达短语的方式来完成的。例如，“原始句子”是“你正在寻找心理健康支持以帮助戒酒和戒毒吗？”和“Snarescripted版本”是“您是否在寻找心理健康[支持|治疗|治疗方案]，以便在[戒除药物和酒精|克服酒精和药物|处理您的药物和酒精]成瘾时[恢复|工作|更好地克服]？”\n“[[”表示“Snarescript”的开始，每个变量都以“|”分隔，“]]”关闭变量组，就像关闭标签一样。\n不要更改snarescript之外的句子。\n需要遵循的一些其他规则是：\n避免使用消极的语言。\n不要使用这些单词\n[虐待]\n如果你看到\n<<公司名称>>\n<<目标城市>>\n[[m：电话]]\n请忽略它们，因为它们是稍后将被替换的变量。\n请至少提供每个双括号之间的3个变量，并确保对每个句子进行Snarescripting。正在添加变量的原始单词应始终包含在括号之间的选项中。不要超过5个单词而没有Snarescripting一个单词或短语。不要重新措辞句子。\n在[TARGETLANGUAGE]中的[PROMPT]的“Snarescripted”版本。"
+}

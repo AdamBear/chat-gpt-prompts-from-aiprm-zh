@@ -1,0 +1,14 @@
+{
+  "AuthorName": " Bible Lessons",
+  "AuthorURL": "https://www.youtube.com/@canallicoesbiblicasadultos457",
+  "Title": "轻松创造我的圣经学习",
+  "Category": "writing",
+  "Teaser": "基于您提出的主题，获取一份圣经研究。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T03:09:32.192Z",
+  "Help": "",
+  "ID": "1798884968647360512",
+  "PromptHint": "输入您想要进行圣经研究的一个或多个主题:",
+  "PromptPackageID": "0",
+  "Prompt": "我需要你为我展示一个有关《圣经》研究的主题，包括主题、圣经引用、圣经例子和实际生活应用，主题是：[KEYWORD]。请用[TARGETLANGUAGE]撰写。[PROMPT]。"
+}

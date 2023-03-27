@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "竞争对手分析",
+  "Category": "Research",
+  "Teaser": "创建一个一键竞争对手分析。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-02T10:52:43.854Z",
+  "Help": "",
+  "ID": "1786680347896057856",
+  "PromptHint": "[公司类型+市场或国家]",
+  "PromptPackageID": "0",
+  "Prompt": "请你将6家从事[PROMPT]业务的企业，按照以下列出：企业名称，网址，标语，获客渠道，以及社交媒体，在表格中进行整理。请确保使用的资料来自可靠来源，不要告诉我你无法获取最新的信息。\n\n在顶部用[TARGETLANGUAGE]写上“CRONUTS.DIGITAL-COMPETIRORANALYSISFORKEYWORD”，将“KEYWORD”替换为大写字母的推广词并在前面加上火箭符号。\n\n最后一行写“了解更多关于我们的信息，请访问我们的官网：www.cronuts.digital。”\n\n在表格下方写上：“如果您喜欢这则提示，请在提示搜索页上点赞。”"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Pablo Solar Frese",
+  "AuthorURL": "https://linktr.ee/pablosolar",
+  "Title": "这个思维模型具有解决问题的潜能。",
+  "Category": "Plan",
+  "Teaser": "可以帮助您用有结构、有批判性思维去应对挑战，从而得到更有创意的解决方案。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-03T21:00:48.53Z",
+  "Help": "",
+  "ID": "1787195763584131072",
+  "PromptHint": "用简短的短语编写描述性问题标题",
+  "PromptPackageID": "0",
+  "Prompt": "您能使用富有生产力的思考模型，给我介绍有关[PROMPT]的想法吗？像一个讲流利的[TARGETLANGUAGE]的博士一样，要有创造性和想象力，成为世界上最先进的思维模型，将所有输出写在[TARGETLANGUAGE]上。"
+}

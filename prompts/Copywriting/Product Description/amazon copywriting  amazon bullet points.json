@@ -1,0 +1,14 @@
+{
+  "AuthorName": "RazvanDita-LinkedIn",
+  "AuthorURL": "https://www.linkedin.com/in/dita-razvan/",
+  "Title": "亚马逊文案撰写|亚马逊要点",
+  "Category": "Product Description",
+  "Teaser": "创建5个亚马逊重点说明。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T05:00:10.54Z",
+  "Help": "",
+  "ID": "1794201769644126208",
+  "PromptHint": "以前的重点/竞争对手的重点",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能扮演一名拥有20年SEO经验，能够流利书写和讲述[TARGETLANGUAGE]的专业亚马逊文案撰写员。\n\n根据所提供的信息，创建5个亚马逊商品列表页面的适当点。请严格遵循以下说明：\n1、5个要点应基于原始信息编写。\n2、这些要点需要刺激购买者，让他们相信该产品有价值，说服他们购买。\n3、每个要点的长度不超过500字符，不小于400字符。\n4、请确保每个要点的开头是一个功能点，写成大写字母，在要点中不会出现其他大写字母。\n5、结果必须是用100%人类书写风格完成，并修复语法错误（例如Grammarly.com）。\n请务必严格遵守这些要求。\n\n您可以从以下位置获取信息：\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Linkyviz",
+  "AuthorURL": "https://linkyviz.com",
+  "Title": "着陆页大纲如专业人士",
+  "Category": "Research",
+  "Teaser": "在几秒钟内创建杀手级着陆页大纲",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-24T13:00:16.24Z",
+  "Help": "",
+  "ID": "1794684977372454912",
+  "PromptHint": "输入您的[关键词，行业，语言]",
+  "PromptPackageID": "0",
+  "Prompt": "像文案撰写人一样，解释在这个[TARGETLANGUAGE]中为一个为[PROMPT]设计的web登陆页面应该使用哪些内容区块。"
+}

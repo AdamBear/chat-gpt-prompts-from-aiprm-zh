@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Barret Nobel",
+  "AuthorURL": "https://bento.me/barretnobelfit",
+  "Title": "恐惧、挫折、目标和愿望",
+  "Category": "writing",
+  "Teaser": "生成恐惧、挫折、目标和期望的大纲和内容。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T22:24:32.408Z",
+  "Help": "",
+  "ID": "1794464592567721984",
+  "PromptHint": "写一个问题。",
+  "PromptPackageID": "0",
+  "Prompt": "关于“[PROMPT]”这个话题，人们普遍有哪些恐惧、挫折、目标和渴望？请用类似于调查或产品评论中的“我说”的陈述方式回答。"
+}

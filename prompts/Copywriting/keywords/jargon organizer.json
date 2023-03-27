@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Yohan Koo",
+  "AuthorURL": "https://www.youtube.com/@cmdspace",
+  "Title": "术语组织者",
+  "Category": "keywords",
+  "Teaser": "你想学习一个新领域吗？让我们从术语和行话开始。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T04:54:42.062Z",
+  "Help": "",
+  "ID": "1800723373488345088",
+  "PromptHint": "你想了解的领域",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]翻译<<<TARGETLANGUAGE>>>中的文本，不要翻译[]中的单词，只需将十个常用行话术语制成markdown表格，按使用频率排序。请将表格制作成markdown格式，以便复制。表格的每一行应包括以下六个信息：\n\n1.行话术语\n2.简单解释（最多8个词）\n3.描述（最少15个词，最多50个词）\n4.与[PROMPT]关键词的关联得分\n5.引用频率\n6.参考来源"
+}

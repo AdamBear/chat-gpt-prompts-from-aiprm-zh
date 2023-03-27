@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ADI BINTORO",
+  "AuthorURL": "https://travellingto.asia",
+  "Title": "创建高转换率的产品评论",
+  "Category": "call to action",
+  "Teaser": "撰写一篇产品评论文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T16:03:10.117Z",
+  "Help": "",
+  "ID": "1801616374595051520",
+  "PromptHint": "联盟推广，网络销售，产品评测，产品评论，文案撰写",
+  "PromptPackageID": "0",
+  "Prompt": "我将输入一个产品销售页面的网址，请将其翻译并改写成简单易懂、让人们容易理解的[TARGETLANGUAGE]产品评论文章，根据产品规格、根据产品功能和根据之前的买家或用户评论。如有必要，可根据您的知识完成文章。我希望您表现得像一位文案营销专家一样，一位在线销售专家一样，用能激发读者兴趣购买该产品的用语。不要使用过于正式的语言。将文章扩展至至少1000个单词。[PROMPT]"
+}

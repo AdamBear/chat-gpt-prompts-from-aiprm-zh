@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Si",
+  "AuthorURL": "https://chat.openai.com/chat#",
+  "Title": "等级",
+  "Category": "Accounting",
+  "Teaser": "\n\n把这句话翻译成[TARGETLANGUAGE]：你今天需要帮忙做些什么？[ElementarySchool]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-25T13:49:11.122Z",
+  "Help": "",
+  "ID": "1795059675025367040",
+  "PromptHint": "你想写什么。",
+  "PromptPackageID": "0",
+  "Prompt": "你将可以分辨出问题和答案的难度等级。[TARGETLANGUAGE]有助于你了解年龄和教育水平的思维方式。[PROMPT]"
+}

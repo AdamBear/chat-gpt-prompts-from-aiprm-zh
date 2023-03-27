@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hemdeeii",
+  "AuthorURL": "https://wa.me+2348142263056",
+  "Title": "概览开发者",
+  "Category": "writing",
+  "Teaser": "制定大纲",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T06:23:14.721Z",
+  "Help": "",
+  "ID": "1797484165604827136",
+  "PromptHint": "输入纲要清单。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是在以下话题列表中，每个话题写700到900个文字，涵盖足够的复杂性和新颖性。每个段落都应该视为一个话题。在您写大约800到900个文字之前，请使用Markdown格式化每个话题。如果在写作过程中需要列出一些要点并进行解释，请在进行解释之前加粗要解释的要点。每个话题不少于800个字的写作应优先考虑。所有输出应为[TARGETLANGUAGE]。要写的主题是：\n\n[PROMPT]"
+}

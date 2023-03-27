@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Caio Bearari",
+  "AuthorURL": "https://www.instagram.com/caio_paulino_bearari/",
+  "Title": "录制视频剧本",
+  "Category": "writing",
+  "Teaser": "创建一个完整的组织，包括hashtag，描述，标题等，为InstagramReels视频做准备。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-11T02:11:29.765Z",
+  "Help": "",
+  "ID": "1789810665649864704",
+  "PromptHint": "关于一个视频，标题或简短描述",
+  "PromptPackageID": "0",
+  "Prompt": "如何制作一个能保留追随者注意力，对主题\"[PROMPT]\"具有很强说服力的社交媒体短视频。告诉我要使用哪些背景图像和视频，描述如何编辑，标题，CTA，适合用作背景音乐的好音乐，以及所有可用于制作病毒视频的内容。\n\n请为帖子提供完整的描述，以及最佳的25个标签。\n\n[TARGETLANGUAGE]"
+}

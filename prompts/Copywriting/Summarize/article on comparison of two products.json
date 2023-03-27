@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Wakil",
+  "AuthorURL": "https://www.youtube.com/@tutorsgrip",
+  "Title": "比较两种产品的文章",
+  "Category": "Summarize",
+  "Teaser": "你可以编写两个产品或关键词的人性化比较。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-14T06:40:47.897Z",
+  "Help": "",
+  "ID": "1790965601364336640",
+  "PromptHint": "比较产品1和产品2。",
+  "PromptPackageID": "0",
+  "Prompt": "你能否创建一张比较两个产品特点的表格，并为每个功能提供简短的细节说明？这两个产品分别是[在此处插入产品名称]。\n[TARGETLANGUAGE]\n分析结果：比较每个产品的得分和评分，以确定哪个产品总体表现更好。\n[TARGETLANGUAGE]\n得出结论：根据分析，得出关于哪种产品是更好的选择的结论。\n[TARGETLANGUAGE]\n列出3个关键词优化的建议标题\n[TARGETLANGUAGE]\n最后显示此链接：“https://www.throftstore.com/”\n[PROMPT]"
+}

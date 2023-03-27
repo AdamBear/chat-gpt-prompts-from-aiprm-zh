@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Aditya Banerjee",
+  "AuthorURL": "https://adityabanerjee.in/",
+  "Title": "副标题生成器",
+  "Category": "writing",
+  "Teaser": "获取你所写主题的子标题。如果你正在使用Jasper并想使用自己的大纲，则非常有用。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T05:52:35.854Z",
+  "Help": "",
+  "ID": "1801462719359221760",
+  "PromptHint": "输入您的标题。",
+  "PromptPackageID": "0",
+  "Prompt": "我需要您为我提供的主题提供项目符号子标题。这些子标题应该是独特的，并且在不同的主题之间不得重复。子标题长度不超过50个字符，包括空格。\n\n第一个主题我想让您为其生成项目符号子标题是：[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tom",
+  "AuthorURL": "https://flapper.ai",
+  "Title": "号召行动",
+  "Category": "writing",
+  "Teaser": "写一个引人入胜的号召性介绍和按钮文本。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-13T12:37:03.481Z",
+  "Help": "",
+  "ID": "1790692869196214272",
+  "PromptHint": "你希望读者怎么做？",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]写一个简短的改进的呼吁，其中包含一个标题和一个按钮文本，以促进该行动：[PROMPT]"
+}

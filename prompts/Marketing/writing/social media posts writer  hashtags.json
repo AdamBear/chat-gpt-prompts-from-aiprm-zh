@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Daniele Pais",
+  "AuthorURL": "https://danielepais.com/journal",
+  "Title": "社交媒体帖子编写者+主题标签！",
+  "Category": "writing",
+  "Teaser": "为您的关键词列表中的每个主题创建5个即用型的高级社交媒体帖子和4个相关的标签。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-17T09:49:21.695Z",
+  "Help": "",
+  "ID": "1802247078706147328",
+  "PromptHint": "[你的关键词列表]",
+  "PromptPackageID": "0",
+  "Prompt": "根据此处列表中的关键词，创建5篇带有4个主题标签的社交媒体帖子：\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SearchMinistry",
+  "AuthorURL": "https://searchministry.co/",
+  "Title": "生成引人点击的产品名称和独特的产品描述",
+  "Category": "writing",
+  "Teaser": "基于提供的产品信息，此提示将创建一个独特且非常吸引人的产品名称和描述，鼓励在线购买。非常适合于亚马逊产品重写，用于附属营销和其他电子商务网站。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-26T12:31:57.336Z",
+  "Help": "",
+  "ID": "1784168603550212096",
+  "PromptHint": "输入您的产品描述/信息。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能表现得像一个流利的SEO和转化率优化专家，使用[TARGETLANGUAGE]进行口语和书面交流。假装你拥有有关产品最精准和最详细的信息。根据以下所提供的产品信息，创建一个独特且非常诱人的产品名称和产品描述，鼓励人们在线购买。"
+}

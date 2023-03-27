@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Murthy at Next99",
+  "AuthorURL": "https://next99.com/?utm_source=ChatGPT&utm_medium=aiprm&utm_campaign=prompt_findFS",
+  "Title": "查找特色片段搜索查询",
+  "Category": "writing",
+  "Teaser": "发现针对您的主题或标题的特色片段搜索查询。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T12:56:07.17Z",
+  "Help": "",
+  "ID": "1793596769100365824",
+  "PromptHint": "【输入您的主题或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个包含10个以上搜索查询的列表，这些查询在给定主题或标题的SERP中作为特色片段出现。只列出出现为特色片段的搜索查询，并提供为什么某些查询可能不会出现为特色片段的原因作为一条注释。\n\n所有输出都应为[TARGETLANGUAGE]\n\n要总结的文本是：[PROMPT]"
+}

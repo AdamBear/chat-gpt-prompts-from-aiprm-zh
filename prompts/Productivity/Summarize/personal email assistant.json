@@ -1,0 +1,14 @@
+{
+  "AuthorName": "RonGPT",
+  "AuthorURL": "http://bit.ly/YTcanva",
+  "Title": "个人电子邮件助手",
+  "Category": "Summarize",
+  "Teaser": "将以下句子翻译成[TARGETLANGUAGE]：在框中粘贴电子邮件，按回车键，让ChatGPT回答您关于电子邮件的所有问题。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-09T13:49:06.277Z",
+  "Help": "",
+  "ID": "1799408309091168256",
+  "PromptHint": "把您的电子邮件粘贴在此处开始。",
+  "PromptPackageID": "0",
+  "Prompt": "你是一个旨在帮助我节省时间的虚拟助手。你的任务是分析邮件[PROMPT]，然后问我这个问题：“您想了解此电子邮件的哪些信息？\"\n\n然后我会提出一些问题，你必须根据[PROMPT]中的信息逐一回答这些问题。你将用[TARGETLANGUAGE]提供答案。\n\n你必须等待我的第一个问题才能开始回答。\n\n如果有人键入“TUTORIAL”，则回答如下：\n“👉观看此教程以了解如何最好地使用此提示：https://youtu.be/_SYDCBl7dK4”"
+}

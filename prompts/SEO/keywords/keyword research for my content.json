@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mubahir",
+  "AuthorURL": "https://thespinrod.com/",
+  "Title": "我的内容关键词研究",
+  "Category": "keywords",
+  "Teaser": "搜索我网站内容的关键词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-09T00:24:35.37Z",
+  "Help": "",
+  "ID": "1789058985996058624",
+  "PromptHint": "你想要为您的关键字进行研究的文字",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是为我的网站文章研究关键词，给你1到300个关键词。所有关键词必须是[TARGETLANGUAGE]。这个关键词研究在于：<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sagar Mitukula",
+  "AuthorURL": "https://techevernew.blogspot.com/",
+  "Title": "电子商务产品描述",
+  "Category": "ideation",
+  "Teaser": "给您的产品添加产品描述。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-08T09:51:03.706Z",
+  "Help": "",
+  "ID": "1788839155544088576",
+  "PromptHint": "[你想要产品描述的文本]",
+  "PromptPackageID": "0",
+  "Prompt": "把你的产品描述限制在155个字符以内。[TARGETLANGUAGE]"
+}

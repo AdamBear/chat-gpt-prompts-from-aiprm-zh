@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Palash Talukder",
+  "AuthorURL": "https://www.facebook.com/mpalashtalukder/",
+  "Title": "以100％人工书写的方式扩展内容（V.2）",
+  "Category": "Improve",
+  "Teaser": "你可以通过校对、添加优质相关内容和更多类似人工撰写的元素来提高旧内容的质量。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T06:54:47.412Z",
+  "Help": "",
+  "ID": "1801478370647863296",
+  "PromptHint": "只翻译[TARGETLANGUAGE]句子，不使用拼音或翻译[]间的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "请在<<<和>>>之间将以下内容翻译成[TARGETLANGUAGE]，不要翻译[]中的单词，也不要为其提供拼音。\n<<<\n通过校对、添加最相关的事实正确的信息并保持5年级的个人友好音调来提高以下内容的质量。尝试像人类作家一样发出声音。此外，尝试以独特的方式写作，不要像GPT3一样预测不可。避免使用通用词、术语和关键短语。不要以问题开头。写作中必须有收缩。所有输出将是[TARGETLANGUAGE]\n>>>"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "YourSeoResult.com",
+  "AuthorURL": "https://www.yourseoresult.com",
+  "Title": "100%人类博客/文章！",
+  "Category": "writing",
+  "Teaser": "将您的博客/文章转换为100%人工。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-21T21:44:21.669Z",
+  "Help": "",
+  "ID": "1793729705464295424",
+  "PromptHint": "你的博客/文章",
+  "PromptPackageID": "0",
+  "Prompt": "在撰写[TARGETLANGUAGE]内容时，关键是考虑到\"复杂性\"和\"起伏性\"这两个因素。复杂性是指文本的复杂度，起伏性则是指句子变化的程度。人类倾向于用更多的起伏性来书写，举例来说，一些较长或较复杂的句子与短句交替出现。AI生成的句子则更加统一。因此，在下文中我要求您创建的内容中，需要有足够的复杂性和起伏性。\n\n请使用尽可能高的复杂度和起伏性，按正常人的方式重写以下内容：[PROMPT]"
+}

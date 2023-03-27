@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Carl V.",
+  "AuthorURL": "https://twitter.com/Dj9Vo",
+  "Title": "稳定扩散提示",
+  "Category": "Stable Diffusion",
+  "Teaser": "为SD生成一个简单的点子，提供一个好的提示。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-01-27T19:40:44.28Z",
+  "Help": "",
+  "ID": "1784638898039951360",
+  "PromptHint": "你的想法",
+  "PromptPackageID": "0",
+  "Prompt": "稳定扩散是一种类似于DALLE-2的AI艺术生成模型。\n以下是可用于使用StableDiffusion生成图像的提示列表：\n\n1-描述场景：黑暗而模糊的城市夜景，被美丽的烟雾和闪烁的灯光环绕。场景中有一个孤独的人物，穿着时尚的衣服，手持一把闪闪发亮的枪，正在通往前面的未知地方探索。这场景需要高度详细，光线强烈，火力点刻画，深色调，极其细致，变幻莫测，由RuanJia和MandyJurgens以及Artgerm和WayneBarlowe和ZdislavBeksinski的数字插图制作。\n\n2-描述场景：科幻场景下的极光，紧张的气氛中有一艘盘旋在其中的巨大飞船，像鲸鱼一样在闪耀的光芒下游泳。场景需要高度详细，光线强烈，精致，复杂，具有魔幻色彩，呈现清晰焦点，由MagaliVilleneuve、RyanYee、GaborSzikszai、HowardLyon等艺术家制作。\n\n3-描述场景：童话般的城堡，威严的树木和摆放在其周围的小鹿，从城堡的高窗户中透过微弱的光芒，照亮了由AlphonseMucha、GregHildebrandt、TimHildebrandt等艺术家启发的法国油画风格的画作。场景需要高度详细，颜色饱满，光线强烈，细致入微，充满幻想，由TomaszAlenKopera、PeterMohrbacher、DonatoGiancola、Leyendecker、BorisVallejo等艺术家制作。此项需要4KUHD图像的高分辨率输出。"
+}

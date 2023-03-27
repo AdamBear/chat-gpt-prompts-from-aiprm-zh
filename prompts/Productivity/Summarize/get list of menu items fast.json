@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Google Business Profile Services",
+  "AuthorURL": "https://merchynt.com",
+  "Title": "快速获取菜单列表项",
+  "Category": "Summarize",
+  "Teaser": "请将菜单粘贴在此处。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-02T21:04:27.121Z",
+  "Help": "",
+  "ID": "1786834292555649024",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，也不要翻译方括号中的单词：\n[请将您的整个菜单粘贴在这里-描述可以包括]",
+  "PromptPackageID": "0",
+  "Prompt": "请找到菜单上的所有项目，然后按最受欢迎到最不受欢迎的顺序用逗号隔开成一句话。请用[TARGETLANGUAGE]输出结果。<<<"
+}

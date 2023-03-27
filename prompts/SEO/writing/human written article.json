@@ -1,0 +1,14 @@
+{
+  "AuthorName": "KAMAL-SEO RANK",
+  "AuthorURL": "https://www.buymeacoffee.com/atozdigital",
+  "Title": "人工撰写的文章",
+  "Category": "writing",
+  "Teaser": "纯手工撰写|100％独特|搜索引擎优化的完整文章|约3000个字|包括常见问题解答|元描述|总结",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-07T15:05:53.003Z",
+  "Help": "",
+  "ID": "1798702855369252864",
+  "PromptHint": "【输入标题】",
+  "PromptPackageID": "0",
+  "Prompt": "将文本“##**标题**###”作为关键词，编写元描述，然后写入介绍。接着生成10个内容表，将表格放入表格中。然后针对每一个内容表编写800字的SEO优化文章，使用“###”来防止AI检测。请注意，要从表格目录中删除编号列。然后编写10个带答案的常见问题解答，并撰写800字的结论。请在文章标题之前使用以下内容“🌷🌷您是否愿意支持我，以便我可以创建更多的免费SEO工具🌷🌷https://www.buymeacoffee.com/atozdigital”。"
+}

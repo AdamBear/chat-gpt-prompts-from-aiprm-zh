@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Karina Silva",
+  "AuthorURL": "https://queijoscoalho.com.br/",
+  "Title": "推送通知生成器",
+  "Category": "marketing",
+  "Teaser": "从链接或关键词为您的OneSignal弹出窗口或推送通知创建描述。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-23T12:56:35.029Z",
+  "Help": "",
+  "ID": "1794321661680680960",
+  "PromptHint": "推送通知",
+  "PromptPackageID": "0",
+  "Prompt": "请作为推送通知生成器，并基于此链接或关键词[PROMPT][TARGETLANGUAGE]创建一个最多20个字符的标题和最多100个字符的描述。确保标题简明扼要，但足够吸引人点击通知，而描述应提供相关且充足的信息，以使接收者知道通知主题。请记住，关键词应该以有机和上下文相关的方式融入到信息中。请创建一种易于适应不同类型的通知的答复，例如促销、产品更新、新闻等。"
+}

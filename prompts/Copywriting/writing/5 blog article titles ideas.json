@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jun",
+  "AuthorURL": "https://www.instagram.com/nesian_heritage/",
+  "Title": "5篇博客文章标题创意",
+  "Category": "writing",
+  "Teaser": "任何给定的领域的5个Blog文章标题。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-27T04:58:50.134Z",
+  "Help": "",
+  "ID": "1795650983859322880",
+  "PromptHint": "输入您的利基",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]中。给我这个领域的5个博客文章标题想法：[PROMPT]"
+}

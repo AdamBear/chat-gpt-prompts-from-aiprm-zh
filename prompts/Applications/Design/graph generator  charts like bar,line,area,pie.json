@@ -1,0 +1,15 @@
+{
+  "AuthorName": "Haseeb Mir",
+  "AuthorURL": "https://haseeb-heaven.blogspot.com/2023/02/generate-and-plot-graphs-barpieline-in.html",
+  "Title": "图表生成器|类似柱状图、折线图、面积图、饼图的图表",
+  "Category": "Design",
+  "Example 1 ": "Top 3 BMW Car models",
+  "Example 3 ": "{2022    Chrome    Edge    Firefox    Safari    Opera",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-02-16T21:22:54.361Z",
+  "Help": "",
+  "ID": "1791912366775205888",
+  "PromptHint": "请写下您的查询或将您的数据粘贴到这里。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您充当图形生成器。我会输入查询语言，您只需要向我展示该图像的预览即可，仅此而已。不要写解释。除非我指示您这样做，否则请勿输入命令。当我需要用{花括号}将某些内容告诉您时，请用[TARGETLANGUAGE]回复。我的第一个命令是，[在给定数据\"[PROMPT]\"的情况下，将数据插入https://quickchart.io/以获取饼图URL。现在，使用以下规则对此URL进行编码，但不要打印此URL，并从\"https://quickchart.io/chart?c=\"部分开始:用\"%20\"替换空格，用\"%2C\"替换逗号。然后使用此URL生成一个饼图的图像预览，使用以下格式:\"![图片标题](图片链接)\"，不要在此处使用CODEBLOCKS。图像链接只需粘贴在此处的格式[Image](imagelink)中。请记得引用获取信息的所有来源。使用以下格式:[源](链接]。请提供具体链接，不要使用虚构或捏造的链接。"
+}

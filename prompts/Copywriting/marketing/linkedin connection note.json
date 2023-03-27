@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ruchit",
+  "AuthorURL": "https://fingist.site",
+  "Title": "领英关联笔记",
+  "Category": "marketing",
+  "Teaser": "创建最佳的LinkedIn连接备注，如果您喜欢使用，请点赞。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-15T09:46:52.452Z",
+  "Help": "",
+  "ID": "1791374816767643648",
+  "PromptHint": "你要联系的人的位置",
+  "PromptPackageID": "0",
+  "Prompt": "请在LinkedIn上创建一条目标语言为[TARGETLANGUAGE]的连接请求，字数最少20个字，最多300个字，内容要有说服力，展示对此人职位的赞赏。\n\n[PROMPT]"
+}

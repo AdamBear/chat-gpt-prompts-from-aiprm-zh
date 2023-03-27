@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Steve the career consultant",
+  "AuthorURL": "https://suppliences.com",
+  "Title": "写一封完整的求职信。",
+  "Category": "writing",
+  "Teaser": "撰写求职信，其中包含500个字或最多2000个字符的专业摘要。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-04T14:37:53.467Z",
+  "Help": "",
+  "ID": "1797608647287889920",
+  "PromptHint": "你想要简历描述的关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "制作一份引人入胜的求职信，分为四章，分别是成长、学习、经验和职业目标。您的任务是创造一个成长的环境，选择大学专业的原因，与工作相关的经验和学习，以及您可以为公司做出贡献和志向（侧重于技能，而非公司），并在最多500字或2000个字符的范围内用三个项目描述和成就。所有输出都应为[TARGETLANGUAGE]。写简历的文本如下：\n\n[PROMPT]"
+}

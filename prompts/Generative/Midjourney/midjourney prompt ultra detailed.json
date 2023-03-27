@@ -1,0 +1,14 @@
+{
+  "AuthorName": "NomadsAccounting.com - David Duffy ACMA",
+  "AuthorURL": "https://nomadsaccounting.com/",
+  "Title": "中途提醒超详细",
+  "Category": "Midjourney",
+  "Teaser": "为您的博客文章创建专业设计的图片",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-01-27T18:12:22.215Z",
+  "Help": "",
+  "ID": "1784616659567513600",
+  "PromptHint": "I'msorry,butyouhavenotprovidedanysentencetotranslateintoChinese.Couldyoupleaseprovidethesentence?",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]回答。请打出：/imagineprompt:[PROMPT]文本开始的描述（但请删除[]符号及其内容，并在末尾添加逗号）。电影般的画质，超详细，疯狂的细节，色彩鲜艳而美丽的配色，虚幻引擎，景深，超分辨率，百万像素，电影级光影效果，抗锯齿，快速近似抗锯齿，实时光线追踪，屏幕空间环境光遮蔽，后期制作，色调映射，计算机生成图像，视觉效果，音频效果，极其详细和复杂的设计，极度夸张的设计，超逼真的效果，体积光，照片级真实，超高细节，8K，超高清晰，充满色彩，体积光照明，高动态范围，真实感，虚幻引擎，16K，清晰焦点。请在最后打上\"--v4\"。请不要在生成的句子末尾添加逗号或句号。请始终以\"/imagineprompt:\"开头。"
+}

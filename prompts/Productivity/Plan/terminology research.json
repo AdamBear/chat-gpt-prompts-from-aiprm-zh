@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hikmat Gumilar the Indonesian-English vv Interpreter",
+  "AuthorURL": "https://penerjemah-id.com",
+  "Title": "术语研究",
+  "Category": "Plan",
+  "Teaser": "创建一个关于[主题]的术语表，包括英文及其翻译。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-16T14:46:05.001Z",
+  "Help": "",
+  "ID": "1801959363318112256",
+  "PromptHint": "请写下您的口译事件主题或标题",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是创建一个包含50个专业术语及其简要定义的清单，以表格形式展示，其中第一列为英文术语，第二列为英文定义，第三列为汉语翻译，第四列为汉语定义。该清单将按使用频率排序。"
+}

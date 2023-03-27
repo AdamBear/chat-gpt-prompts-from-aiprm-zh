@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Therese Miller",
+  "AuthorURL": "https://theresemiller.com/",
+  "Title": "一个社交媒体日程安排（育儿）",
+  "Category": "marketing",
+  "Teaser": "为您选择的[关键词]创建社交媒体计划。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-08T18:01:35.197Z",
+  "Help": "",
+  "ID": "1788962600164528128",
+  "PromptHint": "[关键词]或[您的广告活动的关键词列表]",
+  "PromptPackageID": "0",
+  "Prompt": "请创建一个社交媒体帖子时间表，涉及主题如[PROMPT]。表格形式，我将在Facebook、Instagram、Twitter、Pinterest、TikTok和YouTube上发布。发布的类型包括：提示、技巧、引用、事实、统计数据、活动的想法、灵感、课程计划的想法、食谱和列表。这些帖子的格式可以是文本、图片、短视频或长格式视频。"
+}

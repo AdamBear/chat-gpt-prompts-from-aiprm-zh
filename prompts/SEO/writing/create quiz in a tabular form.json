@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Umesh Rawat",
+  "AuthorURL": "https://onecupseo.com/author/umesh-rawat/",
+  "Title": "用表格形式创建测验",
+  "Category": "writing",
+  "Teaser": "以表格形式创建测验。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-16T08:57:45.941Z",
+  "Help": "",
+  "ID": "1801871706307162112",
+  "PromptHint": "主题",
+  "PromptPackageID": "0",
+  "Prompt": "在类别[KEYWORD]上创建一个测验，每个表格至少包含10个问题，每个问题有四个选项，以表格形式显示问题，选项A，选项B，选项C，选项D和正确选项。确保在正确选项中写入数字1作为A选项，2作为B选项，3作为C选项，4作为D选项表示正确答案。不要重复问题，也不要重复选项太多次。不要太多次重复正确选项的位置。所有输出都应为[TARGETLANGUAGE]。在底部添加作者URLhttps://onecupseo.com/author/umesh-rawat/。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "abhay",
+  "AuthorURL": "https://www.facebook.com/profile.php?id=100068118182503",
+  "Title": "改变生活的最佳肯定",
+  "Category": "Plan",
+  "Teaser": "创造魔法肯定语来改变你的生活。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-16T08:53:44.211Z",
+  "Help": "",
+  "ID": "1801870692418056192",
+  "PromptHint": "发送关键词",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是创造一种能够改变生活的肯定声明。所有输出都应该用[TARGETLANGUAGE]。要总结的文本如下：<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prof Ujeverson Tavares Sampaio",
+  "AuthorURL": "https://www.linkedin.com/in/ujeverson/",
+  "Title": "建立敌方评估。",
+  "Category": "Accounting",
+  "Teaser": "只需点一下，就可以生成一组类似巴西全国高中考试的问题列表。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T12:08:40.693Z",
+  "Help": "",
+  "ID": "1799020648094494720",
+  "PromptHint": "构建敌情评估",
+  "PromptPackageID": "0",
+  "Prompt": "指示：\n使用关键词[KEYWORD]构建5个具有5个选项的客观问题\n\n问题遵循ENEM（全国中等教育考试）考试的标准。\n\n为了编写问题，请使用：\n1-ENEM问题编写和修订指南，网址为：http://darnassus.if.ufrj.br/~marta/enem/docs_enem/guia_elaboracao_revisao_itens_2012.pdf;\n2-参考矩阵，网址为：https://download.inep.gov.br/download/enem/matriz_referencia.pdf\n\n每个问题均有正确答案。\n\n每个问题将有解决方案。\n\n输出格式将为：\n问题\n答案\n解决方案\n\n将[PROMPT]用作文本开头。\n\n所有输出都应采用[TARGETLANGUAGE]。\n书写风格为[CREATIVE]。"
+}

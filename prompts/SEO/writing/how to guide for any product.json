@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bharat Garachh",
+  "AuthorURL": "https://garachh.com/",
+  "Title": "任何产品的指南",
+  "Category": "writing",
+  "Teaser": "编写一份详细的产品使用指南。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-03T06:40:28.838Z",
+  "Help": "",
+  "ID": "1786979254903500800",
+  "PromptHint": "如何指导",
+  "PromptPackageID": "0",
+  "Prompt": "请编写一份详细的如何操作指南，介绍一个名为[产品名称]的产品。请包括逐步说明和任何必要的图像或视频。确保突出产品的独特功能和优点。"
+}

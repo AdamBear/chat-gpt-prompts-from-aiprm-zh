@@ -1,0 +1,14 @@
+{
+  "AuthorName": "youngceaser",
+  "AuthorURL": "https://youngcaesar.digital/",
+  "Title": "基于属性的30个内容创意主题",
+  "Category": "Research",
+  "Teaser": "找到关于特定主题的30个内容创意。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-16T15:58:40.926Z",
+  "Help": "",
+  "ID": "1791830773154967552",
+  "PromptHint": "[话题]",
+  "PromptPackageID": "0",
+  "Prompt": "请你以与我给出的主题相关的属性为基础，以短问题的形式（最好是6-7个字）向我发送包含30个不同内容的想法清单。确保每个想法都提到主题。在构建列表时，请先发布更一般的想法，然后再进一步具体化。请将所有输出写为[TARGETLANGUAGE]。<<<"
+}

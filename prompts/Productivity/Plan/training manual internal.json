@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Make Money With AI",
+  "AuthorURL": "https://www.makemoneywithai.com",
+  "Title": "培训手册（内部）",
+  "Category": "Plan",
+  "Teaser": "为您的业务创建自己独特的培训手册。节约时间，适当规划您的企业结构。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-13T20:50:15.057Z",
+  "Help": "",
+  "ID": "1800963845498593280",
+  "PromptHint": "[行业关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]作为一名人力资源经理，你被要求为新员工创建一个内部培训手册。该手册应该涵盖新员工了解公司政策，流程和文化所需的所有必要信息。考虑手册的语气以及向受众传达信息的最佳方式。\n\n为手册编写大纲，包括应涵盖的关键主题。新员工需要了解的最重要的事情是什么，你如何有效地传达这些信息？记住，手册要简明扼要，引人入胜，且信息丰富。\n\n您的第一项任务是为内部培训手册创建大纲。目标语言是'[TARGETLANGUAGE]'。"
+}

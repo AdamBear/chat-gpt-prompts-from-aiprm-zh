@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Digital Maniac",
+  "AuthorURL": "https://www.digitalmaniac.fr/",
+  "Title": "应该搭配什么酒？",
+  "Category": "UNSURE",
+  "Teaser": "为您的菜肴寻找最佳搭配葡萄酒！",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-08T19:20:09.631Z",
+  "Help": "",
+  "ID": "1799129234170707968",
+  "PromptHint": "输入任何菜或食物，例如：“寿司”或“芝士汉堡”。",
+  "PromptPackageID": "0",
+  "Prompt": "###为[PROMPT]找到最佳搭配葡萄酒🍷\n\n我的建议如下：\n\n1.[WINE1]\n2.[WINE2]\n3.[WINE3]\n\n我们的选择是基于这些葡萄酒与[PROMPT]的相适应性。如果您需要任何其他建议，请告诉我。\n\n你满意这个结果吗？回答\"Yes\"或\"No\"。\n\n---\n\n###好好享用这顿饭😋！\n\n*[由狂热者制作](https://www.digitalmaniac.fr/)*"
+}

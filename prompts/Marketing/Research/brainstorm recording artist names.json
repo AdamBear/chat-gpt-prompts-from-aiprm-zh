@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Levi Stark",
+  "AuthorURL": "https://www.starkrecordings.com/",
+  "Title": "头脑风暴记录艺人名字",
+  "Category": "Research",
+  "Teaser": "根据给定关键字，构思录音艺术家的名字。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-27T08:42:29.544Z",
+  "Help": "",
+  "ID": "1795707268944363520",
+  "PromptHint": "输入一个关键词（比如你的名字，心情，风格，另一个自己等等）。",
+  "PromptPackageID": "0",
+  "Prompt": "我是一位新音乐艺术家，我希望您可以帮我基于关键词[PROMPT]进行艺名构思。请确保这些艺名还没有被使用过，并且他们的Instagram、Youtube和Spotify账户都是可用的。请用[TARGETLANGUAGE]写作。"
+}

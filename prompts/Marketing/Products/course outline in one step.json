@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sandra Muriel-Colorado ",
+  "AuthorURL": "https://www.smcvirtualsolutions.com",
+  "Title": "课程大纲以一步完成",
+  "Category": "Products",
+  "Teaser": "创建您的在线课程大纲，包括作业，并获取一些销售页面的信息！",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-07T03:25:50.267Z",
+  "Help": "",
+  "ID": "1798526683125637120",
+  "PromptHint": "输入你的课程主题-例如-如何制作播客",
+  "PromptPackageID": "0",
+  "Prompt": "请使用[TARGETLANGUAGE]回答。您能为以下话题创建课程大纲吗：[PROMPT]包括一个吸引人的标题描述转变以及为什么需要这个课程，还要为课程介绍添加前缀，解释课程内容，包括整个课程的学习目标，另外还要包括每个模块的课程细节。对于每个课程，包括目标，每个课程的一些内容以及如何完成每个课程作业的详细说明，还请为我的销售页面提供大纲，包括：销售页面吸引人的开头，痛点，课程解决方案，以及为什么他们需要它。"
+}

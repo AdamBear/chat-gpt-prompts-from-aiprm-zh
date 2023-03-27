@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Healscure",
+  "AuthorURL": "https://www.healscure.com/",
+  "Title": "词典提示生成器",
+  "Category": "Stable Diffusion",
+  "Teaser": "输出四个极其详细的词汇、光圈提示，用于您的标题。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-24T23:23:33.265Z",
+  "Help": "",
+  "ID": "1794841831864004608",
+  "PromptHint": "[标题]",
+  "PromptPackageID": "0",
+  "Prompt": "我正在使用Lexica为[TARGETLANGUAGE]中的[PROMPT]生成人工智能图像。"
+}

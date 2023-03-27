@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kashif Saleem",
+  "AuthorURL": "https://www.linkedin.com/in/kashii-razza/",
+  "Title": "AI新闻报道员V1.6--100%准确性",
+  "Category": "writing",
+  "Teaser": "重写任何新闻的方式是100％人类报道风格|SEO优化和免抄袭文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T16:00:46.816Z",
+  "Help": "",
+  "ID": "1800528609950294016",
+  "PromptHint": "关键词--新闻改写成100％人工报道风格",
+  "PromptPackageID": "0",
+  "Prompt": "将第一个字母作为关键词，然后将输入的所有内容视为新闻文章。然后以独特的新闻报道风格为基础重新组织新闻文章，并加上一个短而独特的标题和中间的H2标签，并将关键词放在上面，并重新编写至少450字的新闻文章。每段不超过四行。所有输出应为[TARGETLANGUAGE]。"
+}

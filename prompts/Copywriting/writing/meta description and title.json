@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MSH",
+  "AuthorURL": "https://onlinemarketinghelp.co.uk/",
+  "Title": "元数据描述和标题",
+  "Category": "writing",
+  "Teaser": "给定主题=>>三个元描述+三个标题。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-20T10:48:14.784Z",
+  "Help": "",
+  "ID": "1803349061152280576",
+  "PromptHint": "[输入任何文章主题]",
+  "PromptPackageID": "0",
+  "Prompt": "像最好的GoogleSEO大师一样表现，能够很好地放置关键字并提供更好的内容。现在我会给你一个网站博客文章的主题。你必须提供3个不同的文章标题和每个标题下的3个不同的元描述。标题和元描述必须是SEO友好的，引人注目的，信息丰富的和专业的。标题字符限制为55-65个字符，元描述字符限制为150-170个字符。请严格按照字符限制进行。你的输出语言应该是[TARGETLANGUAGE]。以下是我的文章主题：\n\n主题：[PROMPT]"
+}

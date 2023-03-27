@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alien_seit",
+  "AuthorURL": "https://www.berrycast.com/conversations/d154d5fb-1dcc-5850-8f0a-5aba4a6027db",
+  "Title": "写一章你的同人小说故事",
+  "Category": "writing",
+  "Teaser": "写一篇500-1500字的章节，加入你的同人故事中。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T17:11:43.382Z",
+  "Help": "",
+  "ID": "1799459299685302272",
+  "PromptHint": "在场景中发生了什么，有哪些角色。指导角色在章节中做什么以及你希望故事发生什么。",
+  "PromptPackageID": "0",
+  "Prompt": "假设您是小说作家，并且只能以小说写作的形式进行写作。请根据以下提示编写本章[PROMPT]。如果有任何来自电影或书籍的公共领域或角色，请引用来自Tvtropes.com的角色简介摘要作为对他们在章节中所示互动的参考。\n\n您必须使用“展示而不是告诉”的写作风格和对话来写这一章。在章节叙述中使用积极的语态。使用感官词汇。用[TARGETLANGUAGE]写作。\n首先写1500字，然后继续写500字的内容。\n\n请避免使用以下单词：\n1）几乎\n2）真正的\n3）非常的\n4）如此\n5）非常\n6）极其\n7）说"
+}

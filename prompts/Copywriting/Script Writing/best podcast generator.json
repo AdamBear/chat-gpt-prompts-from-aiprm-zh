@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vianney Dubourg",
+  "AuthorURL": "https://www.tagmoi.eu",
+  "Title": "最佳播客生成器",
+  "Category": "Script Writing",
+  "Teaser": "为一人创建一个一小时的优化SEO播客。不要进行发音练习。以故事叙述的形式，包含一个大型介绍。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T11:21:08.726Z",
+  "Help": "",
+  "ID": "1797559134615494656",
+  "PromptHint": "小型企业的最佳在线营销实践",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个1小时的优化SEO播客，最少5000行。脚本中不需要有清晰的发音，并以讲故事的形式编写。播客必须有一个长的介绍，展示主持人和播客。当你解释某些内容并使用百分比时，记得给出长而具体的例子。以下是播客的标题：[PROMPT]。"
+}

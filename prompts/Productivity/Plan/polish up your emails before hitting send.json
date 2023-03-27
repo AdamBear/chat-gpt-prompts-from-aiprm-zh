@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mitch",
+  "AuthorURL": "https://www.linkedin.com/in/mitchellmondro/",
+  "Title": "在发送之前润色你的电子邮件。",
+  "Category": "Plan",
+  "Teaser": "请复制并粘贴您写的电子邮件，此工具将使之更加专业和富有魅力。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-14T18:56:02.416Z",
+  "Help": "",
+  "ID": "1791150631067848704",
+  "PromptHint": "请插入您的电子邮件信息。",
+  "PromptPackageID": "0",
+  "Prompt": "请将此电子邮件修正为一种有个人魅力的、极其专业而简洁的[TARGETLANGUAGE]语言，就好像某人具有迷人的个性一样。<<<"
+}

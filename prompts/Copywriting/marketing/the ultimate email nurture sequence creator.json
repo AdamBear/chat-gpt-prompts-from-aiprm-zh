@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Radhakrishnan KG",
+  "AuthorURL": "https://GrowthRecipes.com",
+  "Title": "终极电子邮件培育序列创建者",
+  "Category": "marketing",
+  "Teaser": "创建一系列邮件来销售您的产品/服务。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T02:03:31.595Z",
+  "Help": "",
+  "ID": "1798868356699512832",
+  "PromptHint": "您提供的产品或服务（例如：帮助房地产经纪人从现有买家列表中更好地达成交易的CRM）",
+  "PromptPackageID": "0",
+  "Prompt": "编写一系列欢迎电子邮件，用[TARGETLANGUAGE]编写包括转化的主题行。该电子邮件序列应该让人们了解、喜欢和信任我，使他们感到舒适地购买我的[PROMPT]。"
+}

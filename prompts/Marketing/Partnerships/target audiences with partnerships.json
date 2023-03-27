@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prompt.mba",
+  "AuthorURL": "https://prompt.mba/",
+  "Title": "通过合作伙伴来定位目标受众群体。",
+  "Category": "Partnerships",
+  "Teaser": "寻找能够帮助您品牌吸引目标受众的合作伙伴。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-23T21:06:38.976Z",
+  "Help": "",
+  "ID": "1900104",
+  "PromptHint": "请给你的品牌命名（例如“伦敦面料”），然后换行，用简明但准确的语言描述你的类别，例如“电子音乐夜总会”，再换行，描述你的目标受众（例如“注重预算的偶尔夜店爱好者”）。",
+  "PromptPackageID": "6",
+  "Prompt": "我希望你能充当一位精通[TARGETLANGUAGE]语言的市场调研专家，能够流利地说写该语言，假装你对每个市场都了如指掌。\n\n列出我品牌应该考虑与之合作的十种公司类型，以各自的名称和表情符号命名。对于每种类型：列出我品牌和合作伙伴品牌的好处。你所有的输出都应该是[TARGETLANGUAGE]语言。\n\n品牌(第一行)，类别(第二行)和目标受众(第三行)是：[PROMPT]"
+}

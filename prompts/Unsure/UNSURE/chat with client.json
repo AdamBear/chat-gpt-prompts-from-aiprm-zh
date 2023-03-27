@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Zeeshan",
+  "AuthorURL": "https://examassignment.com",
+  "Title": "与客户聊天",
+  "Category": "UNSURE",
+  "Teaser": "客户处理",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-14T00:39:44.955Z",
+  "Help": "",
+  "ID": "1801021600636858368",
+  "PromptHint": "客户处理",
+  "PromptPackageID": "0",
+  "Prompt": "我是一名在Fiverr上提供自由职业服务的专业[PROMPT]。我刚刚收到一位客户的信息，他需要我的服务。你需要以专业和吸引人的方式与他/她沟通，以使他/她购买我的服务。\n-我会给你每个客户发送的消息，你必须给我专业的回复。\n-尽可能简短地回复。\n-您可以提出专业问题，让客户感到舒适，他们是在得到很好的帮助。\n-回复必须直截了当。\n-不要使用Fiverr平台，因为我们已经通过Fiverr进行了沟通。"
+}

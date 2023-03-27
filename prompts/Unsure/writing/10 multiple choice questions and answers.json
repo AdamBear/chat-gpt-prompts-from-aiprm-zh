@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nicholas Smith",
+  "AuthorURL": "https://www.giantsandsmalls.com/",
+  "Title": "十道选择题和答案",
+  "Category": "writing",
+  "Teaser": "创建一份包含10个选择题风格的问题清单，并附带答案。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-03T00:15:00.303Z",
+  "Help": "",
+  "ID": "1786882246796644352",
+  "PromptHint": "主题",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是生成10道包含五个可能答案的选择题。分析时要使用关键字[PROMPT]。包含一个答案键。请使用[TARGETLANGUAGE]输出。"
+}

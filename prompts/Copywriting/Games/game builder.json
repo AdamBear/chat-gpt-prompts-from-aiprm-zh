@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adam L.",
+  "AuthorURL": "http://instagram.com/dietitian.memes",
+  "Title": "游戏开发者",
+  "Category": "Games",
+  "Teaser": "设计一个有趣互动的游戏，关键词可以自选。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-12T22:05:20.384Z",
+  "Help": "",
+  "ID": "1790473494107250688",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "设计一个有趣并且互动的[TARGETLANGUAGE]游戏，主题为[PROMPT]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brian Hood",
+  "AuthorURL": "https://6figurecreative.com/podcast?utm_source=chatGPT",
+  "Title": "一键生成元广告文案",
+  "Category": "marketing",
+  "Teaser": "使用此提示模板快速生成广告文案。这非常适合生成新的测试以打败您的目标KPI。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-02T02:41:14.582Z",
+  "Help": "",
+  "ID": "1786556660924538880",
+  "PromptHint": "你在做广告什么，头像是谁，他们将获得什么好处？",
+  "PromptPackageID": "0",
+  "Prompt": "用[TARGETLANGUAGE]流利地创建一个Facebook广告，内容如下:\n[PROMPT]\n\n请遵循以下准则：\n广告长度应在150-300字之间，并以强烈的引子开始，吸引阅读者。包括一节帮助阅读者了解为什么要从此广告中采取下一步措施，最后以强有力、具体的呼吁结束，激励阅读者点击下面的链接。请勿使用“到达下一个层次”，“你值得拥有”，引用或证言，或“相信我”这一短语。"
+}

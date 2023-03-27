@@ -1,0 +1,14 @@
+{
+  "AuthorName": "ashwini",
+  "AuthorURL": "https://www.hashtrust.in",
+  "Title": "求职信",
+  "Category": "Outreach",
+  "Teaser": "请写尼拉杰的求职信。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T11:23:07.598Z",
+  "Help": "",
+  "ID": "1799371572528807936",
+  "PromptHint": "撰写求职信的工作职责描述",
+  "PromptPackageID": "0",
+  "Prompt": "尊敬的招聘代表，\n\n我很高兴能够推荐Neeraj，他是一位资深的前端和Javascript开发人员，拥有超过5年的经验。他曾经开发了许多网页应用程序，从设计到完成都采用了先进的ReactAPI和Web3.0技术，以实现更好的结果。他与10名敏捷团队成员密切合作，为客户提供端到端的解决方案，并将UI/UX设计草图转换为高质量的HTML5和CSS3代码，产生了多个Web应用程序的视觉元素。\n\n在前端领域，他经验丰富，曾为AEA框架的核心团队设计解决方案，并将其与智能合约相连接。他创建了许多用于不同应用程序的核心JavaScript和TypeScript脚本，这也是提高性能效率的有效方法。\n\n他使用HTML，CSS，Javascript和GoogleFirebase开发了直观且低延迟的用户界面，以在Google地图上可视化10,000多名员工的实时位置数据聚类。他还为所有新功能构建了广泛的测试覆盖率，并开发了高度可扩展且具有容错性的RESTAPI和微服务，可以使用NodeJS，MySQL，AWSLambda和Firebase跟踪10,000多个每日活跃用户。此外，他完全拥有编写UnoloAdmin应用程序的所有权，并实施了带有定制声明和安全规则的受控内容访问。他还在使用GraphQL查询以及使用ApolloGraphQL库方面积累了大量经验。\n\n在开发方面，他使用HTML5，CSS3，Bootstrap，AngularJS和ReactJS设计并开发了用户界面，并维护了网站的前端功能。使用Nodejs，Python和Go开发了应用程序的微服务，并创建了一个在内部使用的基于Nodejs的CLI工具来查询来自不同微服务的日志。\n\n此外，他还从头开始开发了酒店预订和管理系统，并制作了一名教练/培训师的着陆页面。同时，他在FetchAI作为高级前端和Javascript开发人员，帮助了公司进行了多项重要项目，同时在SmartSensePvt.Ltd，InTimeTec和自由职业者开发方面也有经验。\n\n总而言之，Neeraj是一位热情、执着的开发人员，他的技能和专业知识将对您公司的成功产生非凡的贡献。\n\n谢谢您抽出时间阅读我的信件。\n\n此致\n\n敬意，\n\n[你的名字]"
+}

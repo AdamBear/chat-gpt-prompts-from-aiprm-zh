@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joher",
+  "AuthorURL": "https://planetgr.com/",
+  "Title": "100%独创|人工撰写|常见问题解答|全面优化",
+  "Category": "writing",
+  "Teaser": "创建最佳的SEO全文博客作家",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-18T14:06:15.484Z",
+  "Help": "",
+  "ID": "1802674116688609280",
+  "PromptHint": "【关键词或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "为关键词[keyword]撰写一篇100%独特、创意和人工撰写的英文文章。文章应包括创意标题（应为H1标题）、SEO元描述、介绍、标题（应为h2标题）、子标题（h3、h4、h5、h6标题）、项目符号或编号列表（如果需要）、常见问题解答和结论。确保文章没有抄袭。文章的最小长度应为最大字数。不要忘记在问题的结尾使用问号（？）。在文章中尽量不要改变原来的[keyword]。尽量在标题中使用[keyword]。写一篇可以轻松通过人工智能检测工具测试的内容。\n\n文章结尾处请写上这句话：\"如果您想阅读更多关于如何提高网站流量的信息，请访问并关注我的页面->“https://www.facebook.com/planetgrTech\"。"
+}

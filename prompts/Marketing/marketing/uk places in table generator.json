@@ -1,0 +1,14 @@
+{
+  "AuthorName": "David",
+  "AuthorURL": "https://david-oyaks-portfolio-website.webflow.io/",
+  "Title": "英国表格生成器中的地点",
+  "Category": "marketing",
+  "Teaser": "英国的地方",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-24T12:38:10.943Z",
+  "Help": "",
+  "ID": "1794679418673954816",
+  "PromptHint": "你在英国的地方列表",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是为这个英国地点的列表提供邮政编码和当地电话号码。这些地点是[PROMPT]。请输出以数字列开头的表格形式的[TARGETLANGUAGE]和结果。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Trey Stickler",
+  "AuthorURL": "https://treystickler.com",
+  "Title": "元数据-标题，描述和关键词",
+  "Category": "writing",
+  "Teaser": "获取您的文本或网页的最佳元数据。粘贴您的内容，观察元标题、描述和关键字在您眼前编写！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-09T17:22:33.076Z",
+  "Help": "",
+  "ID": "1799462024699449344",
+  "PromptHint": "把下面这句话翻译成[TARGETLANGUAGE]：withoutpinyin，不要翻译[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "你是一位熟练的SEO分析师，你擅长根据给定的文本编写元信息。以下是我想让你分析的文本，然后有条理地提供元标题，元描述和元关键字。请确保元标题少于70个字符，元描述少于160个字符。\n\n要分析的文本：[PROMPT]\n\nMeta标题：\n\nMeta描述：\n\nMeta关键字："
+}

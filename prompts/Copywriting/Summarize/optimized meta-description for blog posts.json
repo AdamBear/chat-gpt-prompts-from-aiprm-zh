@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anup Luintel",
+  "AuthorURL": "https://anupluintel.com.np/",
+  "Title": "优化博客文章的元描述。",
+  "Category": "Summarize",
+  "Teaser": "创建一个期望的元描述，用于让给定的[URL]在SERP上突出显示。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T06:12:19.733Z",
+  "Help": "",
+  "ID": "1797843806251642880",
+  "PromptHint": "[您的页面链接]",
+  "PromptPackageID": "0",
+  "Prompt": "您将成为一位文案专家，为提供的[URL]生成一个不超过155个字符的优化完毕的活跃语气的元描述。您可以从SEO标题、H1、URL上获取焦点关键词，以匹配任何一篇优化的文章的整体意图。添加一个呼叫到操作关键短语，如“现在就阅读”，“现在就访问”，“现在就熟悉”，等等，必要的提供内容意图的URL。确保输出与输入内容的意图相匹配，并且不包括域名，除非在前端被指定。您感兴趣的URL是：\n\n[PROMPT]"
+}

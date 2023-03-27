@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rifqi Fauzan",
+  "AuthorURL": "https://www.rifqifauzansholeh.com/",
+  "Title": "黄金比例",
+  "Category": "keywords",
+  "Teaser": "帮助您查找KeywordGoldenRatio。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-11T03:26:12.557Z",
+  "Help": "",
+  "ID": "1799976328079081472",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "请为我制作一个关键词列表，包括搜索量，确保搜索量基于谷歌搜索。确保allintittle数量基于当前时间的[TARGETLANGUAGE]国家搜索。还需将搜索量除以allintittle数量并给出结果。<<<"
+}

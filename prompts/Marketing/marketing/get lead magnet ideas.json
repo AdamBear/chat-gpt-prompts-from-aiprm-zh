@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Andrew Vaughan",
+  "AuthorURL": "https://www.myworkflowsolutions.com",
+  "Title": "获取引流磁铁的创意",
+  "Category": "marketing",
+  "Teaser": "为目标受众获取引领磁铁想法并搜索相关主题。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-10T15:10:57.755Z",
+  "Help": "",
+  "ID": "1799791297188597760",
+  "PromptHint": "[目标受众],[搜索词/话题]",
+  "PromptPackageID": "0",
+  "Prompt": "为[TARGETLANGUAGE]的[insertkeyword/searchtermhere]生成至少20个典型和创新的潜在客户吸引点（LeadMagnet）创意，这些潜在客户吸引点应该特别针对[inserttargetaudiencehere]。组织你的创意到一个表格中，其中包括以下列：\n\n|潜在客户吸引点|类型（电子书、白皮书、清单等）|目标受众|独特销售优势（USP）|解决什么问题\n\n请确保提供每个潜在客户吸引点的简要说明，以及其类型、目标受众和独特销售优势。USP应强调每个潜在客户吸引点对目标受众独特和引人注目的特点：\n\n[PROMPT]"
+}

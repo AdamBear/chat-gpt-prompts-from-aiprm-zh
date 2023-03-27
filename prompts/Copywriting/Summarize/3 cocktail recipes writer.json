@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Julian Stocker",
+  "AuthorURL": "https://www.linkedin.com/in/julianstocker/",
+  "Title": "三种鸡尾酒配方作者",
+  "Category": "Summarize",
+  "Teaser": "这个提示会为您写出三种鸡尾酒配方，并根据您的基酒类型添加一些额外的文字说明。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T16:30:19.916Z",
+  "Help": "",
+  "ID": "1799811271139524608",
+  "PromptHint": "[基础灵魂]",
+  "PromptPackageID": "0",
+  "Prompt": "请使用以下基酒[PROMPT]，写三个不同的鸡尾酒配方并讲述有关该鸡尾酒的小故事，以及它在[TARGETLANGUAGE]中的味道。测量单位需要以cl和oz并列。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Paul Ballardin",
+  "AuthorURL": "https://www.linkedin.com/in/paulballardin/",
+  "Title": "保罗的ChatGPt提示生成器",
+  "Category": "Improve",
+  "Teaser": "将ChatGPT变成ChatGPt提示生成器，PromptGPT。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T22:26:28.598Z",
+  "Help": "",
+  "ID": "1790841201247916032",
+  "PromptHint": "扮演一个[如何GPT聊天机器人应该表现]的角色。",
+  "PromptPackageID": "0",
+  "Prompt": "请您扮演一位市场策划师。(Givemepromptonly)"
+}

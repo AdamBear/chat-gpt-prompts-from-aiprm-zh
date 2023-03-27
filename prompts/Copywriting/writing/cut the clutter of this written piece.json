@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Webredactie blog style NL",
+  "AuthorURL": "https://www.gerbengvandijk.nl/chatgpt-prompts-seo/",
+  "Title": "去掉这篇文章中的杂乱无章。",
+  "Category": "writing",
+  "Teaser": "将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，不要翻译括号内的单词：\n“[Rewritetext][insimplerwords]”。改写文字，用更简单的话来重新表达。改写和改述一篇文章的方式，让沟通和营销专业人士可以理解。使用更简单的语言，以较为轻松、非正式的口吻重新表达现有文章，从而使许多人易于理解。使用常见的词汇，将提示中的“转换文本”，“重写内容”转化为引人入胜的文章。所以，请使用更简单的词汇来重新表达现有的文章，以增强其流畅性和连贯性。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T00:13:34.632Z",
+  "Help": "",
+  "ID": "1799565462762422272",
+  "PromptHint": "重新书写没有废话的文本。",
+  "PromptPackageID": "0",
+  "Prompt": "请用其他措辞为沟通专业人士重写一篇文章，写作风格应该与此网址上的大多数文章一致：https://www.frankwatching.com/archive/2022/04/15/communicatiewerk-organiseren-tips-tools/。输出文本应是[TARGETLANGUAGE]。输出文本的长度与输入文本几乎相同，但输出文本可能会略微变长。需要重新撰写的文本是：[PROMPT]"
+}

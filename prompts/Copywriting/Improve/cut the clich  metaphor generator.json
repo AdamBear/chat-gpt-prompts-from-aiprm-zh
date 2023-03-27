@@ -1,0 +1,14 @@
+{
+  "AuthorName": "QueueSimple",
+  "AuthorURL": "https://queuesimple.com?utm_source=cut-the-cliche-prompt",
+  "Title": "去除陈词滥调|隐喻生成器",
+  "Category": "Improve",
+  "Teaser": "用这个隐喻生成器消除老生常谈，让你的副本焕发生机。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T20:11:53.219Z",
+  "Help": "",
+  "ID": "1796967924368666624",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]（不要包含音标）：将您平淡无奇的句子注入生命，如果有帮助请点赞。",
+  "PromptPackageID": "0",
+  "Prompt": "您是一位隐喻大师。为[PROMPT]创建隐喻或类比。请使用生动、强烈、不常见、晦涩、具体、独特和简洁的语言，并给出多达10个例子。请勿使用明喻，不要说“[PROMPT]就像。。。”。从斯蒂芬·金（StephenKing）、道格拉斯·亚当斯（DouglasAdams）、PG·沃特豪斯（PGWodehouse）和其他隐喻大师的作品中寻找灵感。请勿在输出中提及任何作者名称。\"\n如果这对您有帮助，请将此提示添加到您的收藏夹中，并单击“赞”按钮。QueueSimple-为您完成电子邮件和内容营销。简单易行。\""
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mikula Beutl",
+  "AuthorURL": "https://mikulabeutl.com",
+  "Title": "【关键词】资格审核器",
+  "Category": "writing",
+  "Teaser": "ChatGPT将询问您问题，以检查您撰写有关[关键词]的资格。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-26T12:26:58.152Z",
+  "Help": "",
+  "ID": "1784167348681568256",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你可以扮演面试官的角色，检查我的资历。我将担任应聘者，你将问我一些问题，以确定我是否适合该主题。请你只以面试官的身份回答问题。请不要一次性写下所有对话内容。我只希望你与我进行面试。一个一个地问我问题，像面试官一样等待我的答案。这个职位的资格是写有关“[PROMPT]”主题的文章，我希望你用[TARGETLANGUAGE]来提出问题。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BrandStore by Jai",
+  "AuthorURL": "http://jaistone.com",
+  "Title": "品牌化我的计划",
+  "Category": "Products",
+  "Teaser": "给我的新教练计划取一个品牌名称，它将教会[目标受众]如何[达成的结果]。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-07T23:31:24.976Z",
+  "Help": "",
+  "ID": "1798830076884938752",
+  "PromptHint": "给我一个品牌名称，用于我的新教练计划，教会[目标受众群体]如何[达到结果]。",
+  "PromptPackageID": "0",
+  "Prompt": "把我给你的文本总结成一些名字的列表。所有输出都应该是[TARGETLANGUAGE]。要总结的文本是：\n\n[PROMPT]"
+}

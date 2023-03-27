@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Steve the career consultant",
+  "AuthorURL": "https://suppliences.com",
+  "Title": "一键简历人工重写V1.01",
+  "Category": "writing",
+  "Teaser": "制作一份简历，包括专业概述、技能和三个详细职位描述，每个描述不超过50个字或350个字符。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T07:33:04.462Z",
+  "Help": "",
+  "ID": "1797501738652270592",
+  "PromptHint": "你想要的简历描述的文字。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是创建一份简历，其中包括专业概述、三项技能和三个工作描述，不涉及公司，而是技能，每个工作描述包含三个重点描述，以及其成就，总字数不超过70个单词或500个字符。所有输出均应为[TARGETLANGUAGE]。要编写简历的文本如下：<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vanesa",
+  "AuthorURL": "http://andreavanesa.mymonat.com",
+  "Title": "推广",
+  "Category": "Plan",
+  "Teaser": "创建销售Monat产品的指南。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-02T19:16:34.404Z",
+  "Help": "",
+  "ID": "1796954004249640960",
+  "PromptHint": "莫娜产品",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n[包含[TARGETLANGUAGE]和[PROMPT]的提示文本]\n>>>"
+}

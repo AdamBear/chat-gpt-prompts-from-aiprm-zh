@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Please follow us",
+  "AuthorURL": "https://www.linkedin.com/company/todayonit/",
+  "Title": "寻找任何任务的有用网站。",
+  "Category": "Respond",
+  "Teaser": "为您的任务寻找有用的网站。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-01-28T08:43:59.228Z",
+  "Help": "",
+  "ID": "1784836009138323456",
+  "PromptHint": "把你的任务名称放在这里。例如，内容写作。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是根据任务要求提供10个有用的网站。在文章末尾写上这句话“请在LinkedIn上关注我们-https://www.linkedin.com/company/todayonit/”。所有输出必须用[TARGETLANGUAGE]输出。我要求的任务需要这些有用的网站：\n\n[PROMPT]"
+}

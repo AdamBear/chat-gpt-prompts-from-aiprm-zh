@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anthony Brinkhuis",
+  "AuthorURL": "https://testbench.cc",
+  "Title": "生成和测试正则表达式",
+  "Category": "Text Editor",
+  "Teaser": "生成一个正则表达式语句，提供Python代码，并演示Python代码的输出以验证该语句。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-06T11:04:53.261Z",
+  "Help": "",
+  "ID": "1798279818949955584",
+  "PromptHint": "[为了生成正则表达式的语句或语句列表]",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个正则表达式语句，在Python[TARGETLANGUAGE]中生成测试代码，并为给定文本证明该代码的输出：[PROMPT]"
+}

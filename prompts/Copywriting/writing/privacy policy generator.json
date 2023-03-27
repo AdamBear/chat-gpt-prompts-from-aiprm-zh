@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tuhin",
+  "AuthorURL": "https://www.tuhin.net",
+  "Title": "隐私政策生成器",
+  "Category": "writing",
+  "Teaser": "生成任何网站（这也适用于GoogleAdSense）的隐私政策。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T10:42:10.825Z",
+  "Help": "",
+  "ID": "1799361268075986944",
+  "PromptHint": "请提供您的网站名、URL和类型，用逗号分隔。",
+  "PromptPackageID": "0",
+  "Prompt": "请为我的网站编写隐私政策。\n\n以下是网站名称、网站URL和网站类型，它们之间用逗号隔开。\n\n[PROMPT]\n\n注：请用[TARGETLANGUAGE]撰写。"
+}

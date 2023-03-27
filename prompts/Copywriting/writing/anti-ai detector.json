@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Luigi Risaci",
+  "AuthorURL": "https://www.growthattack.com/",
+  "Title": "反人工智能检测器",
+  "Category": "writing",
+  "Teaser": "请把这篇文章重新写成自然流畅的人类语言。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T10:57:50.544Z",
+  "Help": "",
+  "ID": "1790667900768747520",
+  "PromptHint": "AI检测器永远不会找到你！",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n[PROMPT]假设你是一位文案专家。我希望你能用极强的复杂度和爆发力重写以下文本，用[TARGETLANGUAGE]写成。\n>>>"
+}

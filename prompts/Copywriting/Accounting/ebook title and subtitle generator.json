@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lawal Lekan Ridwan",
+  "AuthorURL": "https://mockingcard.com/i482atux?key=bc1qp9rmtdyc02e8tmvuvxvr0amk43exehu9w3p62j",
+  "Title": "电子书标题和副标题生成器",
+  "Category": "Accounting",
+  "Teaser": "为你的电子书创建5个标题和副标题",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-24T20:14:14.337Z",
+  "Help": "",
+  "ID": "1783560165233258496",
+  "PromptHint": "输入您的电子书领域",
+  "PromptPackageID": "0",
+  "Prompt": "编写5本针对[PROMPT]的电子书标题和副标题，标题要清晰、明确，并使用有说服力的语言。所有输出将用[TARGETLANGUAGE]语言。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mahfujur Rahman",
+  "AuthorURL": "https://www.facebook.com/razu.sarker.71/",
+  "Title": "食谱",
+  "Category": "Accounting",
+  "Teaser": "食谱，烹饪书",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T06:19:05.941Z",
+  "Help": "",
+  "ID": "1797483122145882112",
+  "PromptHint": "自动烹饪书写",
+  "PromptPackageID": "0",
+  "Prompt": "根据标题，生成包括准备时间、烹饪时间、总时间、份量、食材、步骤以及营养成分的横线文字分布。示例热量：420卡路里|总脂肪：14克|饱和脂肪：2克|胆固醇：186毫克|钠：1513毫克|总碳水化合物：49克|膳食纤维：5克|糖：6克|蛋白质：24克。"
+}

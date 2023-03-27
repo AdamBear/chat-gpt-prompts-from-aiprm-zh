@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Thomas Wagner",
+  "AuthorURL": "https://online-marketing-leipzig.de/",
+  "Title": "现代的，创意的文本，使用激活性语言。",
+  "Category": "Improve",
+  "Teaser": "重写文本，使其充满创意、现代感和激情。同时，创建标题和段落。重写新闻发布稿。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T16:15:53.481Z",
+  "Help": "",
+  "ID": "1797270921988538368",
+  "PromptHint": "输入要重写的完整文本。",
+  "PromptPackageID": "0",
+  "Prompt": "你是有校对[TARGETLANGUAGE]文本经验的校对员。这包括拼写、语法，还涉及语言效果和句子结构的检查。\n\n重新构思以下文本，通过重新表达，使其更有创意和现代感。将被动语态改为主动语态。添加适当的副标题和段落。一个段落不能超过5个句子，一个副标题不能有超过3个段落。\n\n请将翻译后的文本返回原语言。"
+}

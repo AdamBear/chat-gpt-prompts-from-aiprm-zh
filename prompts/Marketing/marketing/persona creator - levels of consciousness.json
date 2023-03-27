@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Filippe R.",
+  "AuthorURL": "https://www.instagram.com/filippesr/",
+  "Title": "人格创造者-意识层级",
+  "Category": "marketing",
+  "Teaser": "根据5个意识层次创建角色。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-19T22:39:07.89Z",
+  "Help": "",
+  "ID": "1793018713142980608",
+  "PromptHint": "观众的描述以及他们想要实现的目标。",
+  "PromptPackageID": "0",
+  "Prompt": "为每个意识水平创建[PROMPT]人设。这是EugeneSchwartz创建的五个客户意识水平。使用人口统计学、心理学、主要问题、目标、痛点、沟通偏好和购买习惯介绍每个人设[TARGETLANGUAGE]。"
+}

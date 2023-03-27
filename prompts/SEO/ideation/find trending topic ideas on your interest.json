@@ -1,0 +1,12 @@
+{
+  "AuthorName": "Murthy",
+  "AuthorURL": "https://www.linkedin.com/in/murthy-venkat/",
+  "Title": "寻找与你兴趣相关的热门话题创意",
+  "Category": "ideation",
+  "Teaser": "基于你的兴趣，获取一份详细的信息以撰写文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-07T10:26:32.507Z",
+  "Help": "",
+  "ID": "1798632556753838080",
+  "Prompt": "提示：\n请输入您感兴趣的关键词或短语。推荐一些流行和热门话题的列表，并提供简要内容概述，以便撰写有关该关键词的文章。同时，建议提供最适合的文章标题。\n\n所有输出均应为[TARGETLANGUAGE]。\n要总结的文本是：[PROMPT]"
+}

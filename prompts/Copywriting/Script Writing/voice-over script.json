@@ -1,0 +1,14 @@
+{
+  "AuthorName": "David",
+  "AuthorURL": "https://www.blockchain3r.com",
+  "Title": "解说员脚本",
+  "Category": "Script Writing",
+  "Teaser": "制作配音脚本",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-26T10:11:59.588Z",
+  "Help": "",
+  "ID": "1795367404675792896",
+  "PromptHint": "[你好！欢迎来到我们的旅游项目。今天我们将带您去参观中国的古迹和名胜，让您深入了解中国悠久的历史文化。请跟随我们的导游，开始您的奇妙之旅吧！]",
+  "PromptPackageID": "0",
+  "Prompt": "现在，我们将使用这个大纲为[TARGETLANGUAGE]编写语音配音脚本。待会儿我会要求您思考一个特定的章节。请您仅集中在这个精确的章节，不要重复自己，并且要简明扼要。可以吗？\n\n[PROMPT]"
+}

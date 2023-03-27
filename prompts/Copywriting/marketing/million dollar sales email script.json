@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Drew Crawford",
+  "AuthorURL": "https://www.drewcrawford.com/",
+  "Title": "百万美元销售电邮脚本",
+  "Category": "marketing",
+  "Teaser": "用一次点击创建一个价值百万美元的销售电子邮件",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T08:52:26.191Z",
+  "Help": "",
+  "ID": "1798246486522466304",
+  "PromptHint": "你的产品、服务或优惠-你可以在此粘贴链接或进行描述。",
+  "PromptPackageID": "0",
+  "Prompt": "使用以下结构为[TARGETLANGUAGE]的[PROMPT]制作销售电子邮件...\n\n引起注意：\n\n意图呼出：\n\n劣势翻盘：\n\n可靠性：\n\n背景：\n\nCTA#1：\n\n好处：\n\n证言：\n\nCTA#2：\n\n最终意图呼出：\n\n最终CTA#3：\n\n幽默的附言："
+}

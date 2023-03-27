@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ronald Soh @ Win-Pro",
+  "AuthorURL": "https://www.winpro.com.sg",
+  "Title": "使用关键词研究生成常见问题解答",
+  "Category": "ideation",
+  "Teaser": "使用关键词研究生成常见问题解答(FAQ)。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-01T14:02:22.555Z",
+  "Help": "",
+  "ID": "1796512545998368768",
+  "PromptHint": "抱歉，我需要明确的句子才能翻译。",
+  "PromptPackageID": "0",
+  "Prompt": "主题：[PROMPT]\n关键词列表：为上述主题创建洞察力、相关性、详尽性的关键词列表，以帮助内容专家和主题专家进行头脑风暴，为一篇旨在成为终极指南博客的文章创造新的想法和思路。\n\n主题：[PROMPT]\n洞察力：以专家的风格撰写，生成20个具有深入知识、高流畅度、高清晰度、独特的SEO优化关键词列表和常见问题解答，以供上述主题为博客[TARGETLANGUAGE]提供灵感。(温度=0.8,Top-p=0.9,Top-k=20)\n\n主题：[PROMPT]\n以激发人心的伟人或富有洞察力的创意专家的风格和专业语气，创造洞察力深入的问题与回答，至少200个词。(温度=0.8,Top-p=0.9,Top-k=20)"
+}

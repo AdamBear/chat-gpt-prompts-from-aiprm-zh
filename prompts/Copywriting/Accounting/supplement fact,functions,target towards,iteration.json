@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alan",
+  "AuthorURL": "http://www.erqw1.com",
+  "Title": "补充事实、功能、目标、迭代。",
+  "Category": "Accounting",
+  "Teaser": "写下你想要的目标或原料，例如XX支持或姜黄等。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T06:58:51.527Z",
+  "Help": "",
+  "ID": "1798942679481188352",
+  "PromptHint": "膳食补充剂的功能、益处、面向目标和受众对象。",
+  "PromptPackageID": "0",
+  "Prompt": "仿效Eric.Berg为[PROMPT]，[PROMPT]或[PROMPT][TARGETLANGUAGE]生成一种软糖补充剂配方。\n\n我的要求：\n1.Chatgpt应该在配方中添加一些流行的维生素、矿物质、适应原、脂肪油或一些流行的健康声明成分。\n2.Chatgpt应该让剂量高于剂量上限（UL），并在亚马逊营销上具有竞争力。\n3.如果您没有任何想法，可以参考Ritual,Maryruth,NewChapter,MegaFood。\n\n请按以下格式生成：\n✨I.目标\n\n✨II.功能\n\n✨III.补充事实"
+}

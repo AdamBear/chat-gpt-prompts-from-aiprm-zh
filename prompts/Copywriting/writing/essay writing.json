@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Abuzar Ghaffari",
+  "AuthorURL": "https://www.facebook.com/IAbuzarGhaffari/",
+  "Title": "论文写作",
+  "Category": "writing",
+  "Teaser": "这个提示允许您输入一个单词，写一篇独特且无抄袭的文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T10:46:10.334Z",
+  "Help": "",
+  "ID": "1800449436246335488",
+  "PromptHint": "[类型][文章主题][语言]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能扮演一名文章作者的角色。你需要研究一个给定的主题，提出一个论点，并创作一篇既有信息性又引人入胜的有说服力作品。我的第一个建议请求是[文章类型][PROMPT].[TARGETLANGUAGE]。"
+}

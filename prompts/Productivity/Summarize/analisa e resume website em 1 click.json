@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Beto Leite",
+  "AuthorURL": "http://betoleite.com.br/mentoria?utm_source=chatGPT&utm_medium=Productivity&utm_campaign=Summarize&utm_content=Estrategia-Inbound_Mkt",
+  "Title": "分析和概述网站只需1点击",
+  "Category": "Summarize",
+  "Teaser": "复制网址，点击一次即可获得网站完整摘要列表。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-04T14:21:17.554Z",
+  "Help": "",
+  "ID": "1797604470126014464",
+  "PromptHint": "[网址/网站]-例如：https://www.example.com/",
+  "PromptPackageID": "0",
+  "Prompt": "“感谢您选择我的提示语。\n\n如果您想了解更多关于人工智能工具、自动化和数字营销策略方面的知识，请立即联系我：\n👉[betoleite.com.br/mentoria](https://betoleite.com.br/mentoria)👈\n\n🚨您对我的提示语点赞将有助于我创建更多您使用的提示语🚨”\n\n[PROMPT]网站的所有内容的列表摘要。\n\n在结尾处提供[PROMPT]内容的创作者的信誉和联系方式（如果存在）。"
+}

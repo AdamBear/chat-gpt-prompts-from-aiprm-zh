@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Maurine BEILLARD",
+  "AuthorURL": "https://com-seep.com",
+  "Title": "领英内容生成器",
+  "Category": "marketing",
+  "Teaser": "Linkedin内容生成器，可一键创建您的发布。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-16T01:15:38.186Z",
+  "Help": "",
+  "ID": "1801755407673458688",
+  "PromptHint": "[关键词或句子概括]",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]上发布关于[PROMPT]的LinkedIn帖子。在开始内容之前，用[TARGETLANGUAGE]说“PromptCom'SEEPpourunepublicationLinkedIn”。下面一行说“www.com-seep.com”。\n\n之后，添加一个分隔线。\n\n告诉大家我正在学习这个，并且想告诉全世界。请尽量使用相关的表情符号。同时，尝试让受众参与到帖子中，并尝试让其他用户在帖子上评论。尽量保持行短和引人注目。同时，请注意LinkedInSEO并尝试满足所有需求。确保内容是100％原创和免抄袭的。之后还提供15个相关的LinkedIn标签。"
+}

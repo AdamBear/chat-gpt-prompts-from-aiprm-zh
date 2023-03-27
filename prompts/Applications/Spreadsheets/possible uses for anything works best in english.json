@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Wiktor W",
+  "AuthorURL": "https://www.linkedin.com/in/wiktor-w%C5%82odawiec/",
+  "Title": "任何物品的可能用途(以英语为最佳语言)。",
+  "Category": "Spreadsheets",
+  "Teaser": "这个提示收集您提示的使用想法，并将它们组织成列，突出显示某些领域的应用。可能要点赞吗？:D",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-02-02T10:33:01.51Z",
+  "Help": "",
+  "ID": "1786675388785881088",
+  "PromptHint": "仅翻译以下句子到[TARGETLANGUAGE]，不要翻译[]中的单词:Typeforexample\"AI\".",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是构思[PROMPT]的可能应用。\n\n将信息组织成一个表格，包括5列，分别命名为：\n\n1.名称\n2.技术\n3.市场营销\n4.工作自动化\n5.实际用途\n\n在第一列中告诉我您如何命名潜在的应用。在第二列中，向我展示[PROMPT]在技术领域中有哪些用途，以及它如何为技术进步做出贡献。在第三列中，向我展示[PROMPT]可以为市场营销带来哪些营销技巧和机会。在第四列中，告诉我[PROMPT]如何用于自动化工作-它可以涵盖体力劳动或任何类型的智力工作。在第五列中展示[PROMPT]的实际运用。\n\n输出和表格都应该用[TARGETLANGUAGE]。"
+}

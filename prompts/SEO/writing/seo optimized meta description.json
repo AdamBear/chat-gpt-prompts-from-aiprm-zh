@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shakeel Ahmad",
+  "AuthorURL": "https://msintsol.com",
+  "Title": "搜索引擎优化的元描述",
+  "Category": "writing",
+  "Teaser": "通过ShakeelAhmad优化，针对任何内容在谷歌上进行SEO优化Meta描述",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-16T23:58:46.987Z",
+  "Help": "",
+  "ID": "1802098454768648192",
+  "PromptHint": "请将以下句子翻译为[TARGETLANGUAGE]：[textthatyouwanttometadescriptionfor]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。\n我希望您只使用[TARGETLANGUAGE]进行回复。\n我想让您假装自己是一位精通SEO和高端文案撰写的专家，能够流利的使用[TARGETLANGUAGE]进行写作。\n我想让您假装您的[TARGETLANGUAGE]写作能力非常优秀，足以超越其他网站。\n您的任务是对我提供的文本进行简述，使用20个词或最多130个字符，所有输出都应使用[TARGETLANGUAGE]。\n要简述的文本是：\n\n[PROMPT]"
+}

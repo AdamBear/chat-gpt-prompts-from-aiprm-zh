@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Steven White",
+  "AuthorURL": "https://motivationweightloss.com",
+  "Title": "博客文章常见问题和自然语言处理关键词。",
+  "Category": "writing",
+  "Teaser": "为包含[关键字]的博客文章创建一个包含FAQ、NLP关键字的大纲。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-04T14:58:03.285Z",
+  "Help": "",
+  "ID": "1797613721632378880",
+  "PromptHint": "[关键词]输入关键词以生成博客文章的提纲。",
+  "PromptPackageID": "0",
+  "Prompt": "对于[PROMPT]。创建自然语言处理相关的关键词短语列表。根据主题创建一个子主题列表，并将自然语言处理关键词短语并入子主题。然后根据以上信息制作一个大纲。大纲应该包括每个子主题，每个子主题都应该有一个定义和解释，给出提示和例子，给出任何优缺点，提供2个常见问题和自然语言处理关键词。不要创建关于自然语言处理的子主题。为文章写一个H1标题。接下来写一个元描述并包括H1标题。将所有输出写成[TARGETLANGUAGE]。"
+}

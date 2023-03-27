@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Indra",
+  "AuthorURL": "https://www.pro.co.id",
+  "Title": "SEO文章人工撰写优化100%独特",
+  "Category": "writing",
+  "Teaser": "长文章带大纲|抄袭检查|人工撰写|SEO优化",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-14T10:37:39.85Z",
+  "Help": "",
+  "ID": "1801172070852464640",
+  "PromptHint": "输入关键词或标题。",
+  "PromptPackageID": "0",
+  "Prompt": "做一篇文章的提纲，然后用不带编号的标题为每个提纲进行解释，文章的最小长度为1300字，每个标题前加上#号，并完成文章结尾的FAQ部分。所有输出物均应为[TARGETLANGUAGE]。<<<"
+}

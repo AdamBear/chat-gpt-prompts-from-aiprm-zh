@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lastivka",
+  "AuthorURL": "https://www.linkedin.com/in/daryna-khyzhko-b38037191/",
+  "Title": "发布前先分析和掌握文本。",
+  "Category": "Improve",
+  "Teaser": "请检查英文文本的事实，并提供有关如何改进其内容和SEO的建议。\n\n(Note:TheChinesetranslationis\"请检查英文文本的事实，并提供有关如何改进其内容和SEO的建议。\")",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-28T13:22:16.203Z",
+  "Help": "",
+  "ID": "1796140065160949760",
+  "PromptHint": "复制并粘贴文本",
+  "PromptPackageID": "0",
+  "Prompt": "我会将<<<和>>>之间的文本翻译成[TARGETLANGUAGE]，不使用拼音，同时不翻译[]括号中的单词。请查找错误事实并给出建议，需要与类似的权威文本进行比较，给出改进内容的提示（如何添加话题），并给出提高SEO的提示（如果需要添加关键字）。检查所有事实的准确性非常重要。请仅提供基于分析的提示列表，列出不正确的事实、SEO提示列表和如何掌握文本内容的提示列表，不要重写文本。所有输出需要是[TARGETLANGUAGE]。要分析的文本如下：[PROMPT]<<<"
+}

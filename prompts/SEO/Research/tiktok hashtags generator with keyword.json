@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Habibur Rahman",
+  "AuthorURL": "https://hrlimon.com",
+  "Title": "抖音关键词生成器和话题生成器",
+  "Category": "Research",
+  "Teaser": "创建30个关于我的主题的TikTok标签",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-05T16:04:14.067Z",
+  "Help": "",
+  "ID": "1787845903928000512",
+  "PromptHint": "写\"TikTok话题名称\"。",
+  "PromptPackageID": "0",
+  "Prompt": "创建20个Tiktok流行标签，针对以下主题具有一定搜索量的LSI关键词：[PROMPT]。不要添加标签，用空格分隔关键字。只使用小写的专有名词。[TARGETLANGUAGE]"
+}

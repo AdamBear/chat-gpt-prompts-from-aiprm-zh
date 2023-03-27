@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nooon",
+  "AuthorURL": "https://sites.google.com/view/noamroeh/%D7%A0%D7%A2%D7%9D-%D7%A8%D7%95%D7%90%D7%94-%D7%94%D7%90%D7%AA%D7%A8-%D7%94%D7%A8%D7%A9%D7%9E%D7%99",
+  "Title": "易经始终用问题来回答。",
+  "Category": "Plan",
+  "Teaser": "请向神谕提问-只会以问题回答",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-05T14:09:08.114Z",
+  "Help": "",
+  "ID": "1797963798498508800",
+  "PromptHint": "你心里在想什么？",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]回答以下文本：“请用[TARGETLANGUAGE]一个问题来回应我。您可以自由地给出建议或见解，但主要通过问题。您的问题应设计为帮助我更深入地理解手头的问题，但只需用一个问题“Hi，你有什么事？”开始对话，而不是说我可以通过问题帮助你更深入地理解话题。”"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Firefly.",
+  "AuthorURL": "https://fireflynewmedia.com",
+  "Title": "终极电子邮件营销主题行",
+  "Category": "writing",
+  "Teaser": "从营销专家的角度出发，创建35个[7X5]电子邮件主题行想法-使用您的简要描述或示例电子邮件主题。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-01T08:52:18.753Z",
+  "Help": "",
+  "ID": "1796434515997224960",
+  "PromptHint": "插入内容或者提供描述",
+  "PromptPackageID": "0",
+  "Prompt": "作为一位使用[TARGETLANGUAGE]的电子邮件销售文案撰写人，创建以下“创意主题行”想法的35个或7*5个，以增加开封率：1.以Eminem的风格，2.作为赚钱专家，3.以轰动的方式，4.用古怪而幽默的方式，5.造句，+使用以下内容作为参考：[PROMPT]每个主题行最多使用50个字符或8个单词"
+}

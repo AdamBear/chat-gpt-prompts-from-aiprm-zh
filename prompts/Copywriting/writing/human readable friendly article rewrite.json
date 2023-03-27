@@ -1,0 +1,14 @@
+{
+  "AuthorName": "fingvo",
+  "AuthorURL": "https://fingvo.com/",
+  "Title": "人性化友好的文章改写",
+  "Category": "writing",
+  "Teaser": "请重新编写所提供的内容，以提高人类可读性。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-28T21:52:27.559Z",
+  "Help": "",
+  "ID": "1785034434660261888",
+  "PromptHint": "[改写]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是重写我给你的文本,将20～5000个单词重写成易读的人类可读性文本。"
+}

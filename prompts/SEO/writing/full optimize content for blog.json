@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Junaid",
+  "AuthorURL": "https://gettheinformation.com/",
+  "Title": "全面优化博客内容",
+  "Category": "writing",
+  "Teaser": "无抄袭，100%搜索引擎优化，撰写一篇完整的[PROMPT]博客文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-24T06:15:59.375Z",
+  "Help": "",
+  "ID": "1794583236706570240",
+  "PromptHint": "抱歉，我不知道您要求翻译的句子是什么。请提供要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用[TARGETLANGUAGE]翻译并简述介绍[PROMPT]的文字说明，文字说明不超过255个字，标题不超过60个字。然后，用[TARGETLANGUAGE]写一篇至少1000字的文章，介绍关于[PROMPT]的相关内容。文章中包括一个主标题和若干子标题，并添加至少3个关于[PROMPT]的常见问题。"
+}

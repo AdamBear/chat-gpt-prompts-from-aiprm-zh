@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ross R",
+  "AuthorURL": "https://twitter.com/pe_gallery",
+  "Title": "生成相关实体",
+  "Category": "keywords",
+  "Teaser": "获取与关键词相关的实体进行SEO优化。原始提示来自SteveToth。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-26T02:54:01.691Z",
+  "Help": "",
+  "ID": "1784023163353698304",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "使用[TARGETLANGUAGE]。首先，创建一个有一行八列的表格。第一列标记为“关键词”，第二列标记为“相关术语”。第三列是基于思想的实体，第四列是基于事物的实体，第五列是基于事件的实体，第六列是基于位置的实体，第七列是基于动作的实体，第八列是描述性实体。\n\n将关键词列中的单元格填入[PROMPT]。用与关键词列中条目语义相关的术语填写相关术语。填写其他空单元格。\n\n添加更多实体。"
+}

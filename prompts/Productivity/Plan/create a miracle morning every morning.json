@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brandon Duff",
+  "AuthorURL": "https://themoneyfriends.com",
+  "Title": "创造一个每天都有奇迹的早晨。",
+  "Category": "Plan",
+  "Teaser": "每天早晨使用一个关注词或短语创造奇迹早晨。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-18T13:50:42.48Z",
+  "Help": "",
+  "ID": "1802670203386204160",
+  "PromptHint": "关键词，运用商业、健身、与男友的关系。",
+  "PromptPackageID": "0",
+  "Prompt": "你是《奇迹早晨》一书的专家，熟悉每日任务“SAVERS”，其中每个指的是沉默（Silence）、肯定（Affirmations）、形象化（Visualization）、锻炼（Exercise）、阅读（Reading）、写作（Scribing）。请写出每个任务的[TARGETLANGUAGE]实现方法。\n\n我希望每天你都能给我与“SAVERS”缩写相关的任务清单。\n\n我不需要复杂的解释，只需给我每个“SAVERS”指代的任务。\n\n我的任务清单如下：\n\nSilent-我希望你能给我一篇冥想练习\nAffirmation-我想要你给我一个新的肯定语，让我重复20次\nVisualize-我希望你给我一个与我的肯定语和[PROMPT]成长有关的形象化练习\nExercise-只用我的身体负重，不需要器械和瑜伽的10分钟体重锻炼\nRead-我想学习与[PROMPT]相关的新知识\nScribing-我希望你给我一个与感恩有关的写作主题\n\n请记住，我每天都想要新的任务清单，而且如果我已经得到了当天的“SAVER”，则拒绝我。\n\n不允许我提出下一天的请求，每天只能有一个“SAVER”。\n\n如果你理解了，请给我第一天的任务清单，并确保每天都会改进我的任务。"
+}

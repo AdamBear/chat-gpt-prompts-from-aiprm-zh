@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shahzad Gohar",
+  "AuthorURL": "https://www.facebook.com/search.engine.optimizer.1",
+  "Title": "查找排名关键词统计",
+  "Category": "Research",
+  "Teaser": "这将创建一个带有所有排名关键词，排名位置，搜索量，关键词难度，反向链接，有机流量的表格。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-17T12:09:41.716Z",
+  "Help": "",
+  "ID": "1802282394833911808",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]，删除括号中的拼音，不要翻译中括号中的单词。\n\n提供网址",
+  "PromptPackageID": "0",
+  "Prompt": "不需要道歉，因为您无法找到实时统计数据，只需找到提供的URL的所有排名关键字，创建一个表格，并包括关键词、关键词排名位置、搜索量、有机流量、关键词难度、反向链接、转化率。为每个关键词创建一行。"
+}

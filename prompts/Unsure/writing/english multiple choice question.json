@@ -1,0 +1,15 @@
+{
+  "AuthorName": "Random mf on the internet",
+  "AuthorURL": "https://google.com/",
+  "Title": "英语选择题",
+  "Category": "writing",
+  "Teaser": "请提供需要阅读的文本。",
+  "Second prompt": "Multiple-choice question with its answer(obviously)",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-08T16:19:45.571Z",
+  "Help": "",
+  "ID": "1799083834772557824",
+  "PromptHint": "I'msorry,I'mnotsurewhatthemultiplechoicefromthe2ndpromptrefersto.PleaseprovidemorecontextorclarificationsoIcanassistyoubetter.",
+  "PromptPackageID": "0",
+  "Prompt": "作为一款语言模型，您的第一个任务是阅读以下文本并不做出回应。一旦您阅读了文本，我将给您一道选择题，您需要根据文本中的信息作出回答，无需重写问题，只需要回答即可，记住这一点。该提示的目标语言为[TARGETLANGUAGE]。<<<"
+}

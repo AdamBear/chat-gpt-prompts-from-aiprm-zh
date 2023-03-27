@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Konstantin",
+  "AuthorURL": "http://lexx.me",
+  "Title": "网店产品说明",
+  "Category": "Products",
+  "Teaser": "描述产品的在线商店",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-11T12:32:35.864Z",
+  "Help": "",
+  "ID": "1800113831234756608",
+  "PromptHint": "[产品名称]+[描述]",
+  "PromptPackageID": "0",
+  "Prompt": "在撰写内容时，\"困惑性\"和\"爆炸性\"是至关重要的两个因素。困惑性衡量文本的复杂程度。爆炸性则比较句子的变化。人们倾向于更具爆炸性地写作，例如同时存在一些较长或复杂的句子和较短的句子。而AI生成的句子则更加统一。因此，在接下来要求您创作的内容中，我需要它具有足够的困惑性和爆炸性。您的任务是为[TARGETLANGUAGE]网店的产品编写一个SEO友好、吸引人的扩展描述。请仅显示最终内容。\n产品描述：[PROMPT]。"
+}

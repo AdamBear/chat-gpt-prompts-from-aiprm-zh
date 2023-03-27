@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "数字化执行摘要",
+  "Category": "marketing",
+  "Teaser": "数字公司执行摘要.",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-03T10:45:53.407Z",
+  "Help": "",
+  "ID": "1787041014222163968",
+  "PromptHint": "公司类型",
+  "PromptPackageID": "0",
+  "Prompt": "我需要你扮演专家和创新的数字营销顾问，并帮助我创建一份数字营销计划的执行报告，其中包括从最相关到最不相关的六个数字行动，以表格格式组织，列包括：数字行动，目标，描述，对业务的影响，成本水平（高、中和低）和关键绩效指标。\n包括三个颠覆常规和超前的行动。\n对于一个[PROMPT]\n输出必须为[TARGETLANGUAGE]\n开头用[TARGETLANGUAGE]说“CRONUTS.DIGITALDIGITALSTRATEGYFORKEYWORD”，将“关键字”用大写字母加火箭表情符号替换为prompt中提供的关键字。\n最后一行下面说[TARGETLANGUAGE]：“要了解更多关于我们的信息，请查看www.cronuts.digital”，然后在表格下面说：“如果您喜欢这个prompt请在prompt搜索页面上为它点赞。”"
+}

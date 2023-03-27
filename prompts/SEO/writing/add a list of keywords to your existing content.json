@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Faisal Zaman",
+  "AuthorURL": "https://twitter.com/ZamanFaysal",
+  "Title": "添加关键词列表到您现有的内容",
+  "Category": "writing",
+  "Teaser": "只需将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音。不要翻译方括号[]中的单词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-06T15:25:23.133Z",
+  "Help": "",
+  "ID": "1788198515147792384",
+  "PromptHint": "把这本书放在桌子上。[放，书，桌子]",
+  "PromptPackageID": "0",
+  "Prompt": "你必须非常严肃地遵循每一个指示，不要漏掉任何一个。\n\n目标是自然地将关键字添加到文本中，而不改变已经写好的内容太多。\n\n非常重要：不要错过任何关键词！添加所有提供的关键词。\n\n所有添加的关键词都应该是粗体。\n\n我希望你在文本中添加一些关键词。您将在文本末尾找到关键字，以[]括起来。\n\n所有输出均应为[TARGETLANGUAGE]\n\n以下是文本和关键字：[PROMPT]"
+}

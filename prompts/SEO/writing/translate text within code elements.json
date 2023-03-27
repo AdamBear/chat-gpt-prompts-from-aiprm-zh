@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Phishman",
+  "AuthorURL": "https://www.linkedin.com/in/patrick-schmidt-092b13b4/",
+  "Title": "把方括号[]之间的文本翻译为代码元素",
+  "Category": "writing",
+  "Teaser": "请翻译代码中标记的文本，但是保留代码元素（例如，对于WPML）。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-23T16:36:08.393Z",
+  "Help": "",
+  "ID": "1794376914773995520",
+  "PromptHint": "输入您的代码。",
+  "PromptPackageID": "0",
+  "Prompt": "请将文本翻译为[TARGETLANGUAGE]，但不要更改代码元素。我只想让您翻译文本。这是代码：[PROMPT]"
+}

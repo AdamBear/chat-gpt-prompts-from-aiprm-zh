@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Paula Pc",
+  "AuthorURL": "https://paulapc.com/",
+  "Title": "概括一本书",
+  "Category": "writing",
+  "Teaser": "这是那本书的总结。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-25T17:17:43.883Z",
+  "Help": "",
+  "ID": "1795112157348888576",
+  "PromptHint": "你想要总结的书和作者",
+  "PromptPackageID": "0",
+  "Prompt": "[TARGETLANGUAGE]你的任务是总结[你想要概括的书名和作者]的整体内容以及各章节的概括。"
+}

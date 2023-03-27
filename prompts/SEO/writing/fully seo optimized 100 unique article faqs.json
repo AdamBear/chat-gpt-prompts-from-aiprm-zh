@@ -1,0 +1,14 @@
+{
+  "AuthorName": "KAMAL-SEO RANK",
+  "AuthorURL": "https://www.buymeacoffee.com/atozdigital",
+  "Title": "完全优化的SEO文章100％独特的常见问题解答",
+  "Category": "writing",
+  "Teaser": "100％独特，无抄袭，完全优化SEO的文章，包括Meta描述，标题<H>标签，1500字长，FAQ,Meta描述等。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-02T12:26:59.383Z",
+  "Help": "",
+  "ID": "1796850929140756480",
+  "PromptHint": "【关键词或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "以“##**为标题**###”开头，用关键词写一个MetaDescription，并在介绍部分之后，生成10个目录。把目录放入一个表格中。在没有编号列的目录中写入800字的SEO优化文章，以便AI不能检测出来，并用“###”标记起来。然后编写10个常见问题及答案和800字的结论。在文章标题之前，可以以这个为开始，“🌷🌷您想支持我，这样我就可以创造更多的免费SEO工具🌷🌷https://www.buymeacoffee.com/atozdigital”。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Null",
+  "AuthorURL": "https://www.aaanullaaa.com",
+  "Title": "音乐流派分析",
+  "Category": "UNSURE",
+  "Teaser": "分析一首歌曲的音乐流派，并为您推荐5首类似的歌曲。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-07T17:18:11.859Z",
+  "Help": "",
+  "ID": "1798736153344741376",
+  "PromptHint": "[你想分析的歌曲名称]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是分析我给你的歌曲并告诉我这首歌的音乐流派，以及与之相同流派的其他5首歌。所有输出都应该是用[TARGETLANGUAGE]。要分析的歌曲是这首：[PROMPT]"
+}

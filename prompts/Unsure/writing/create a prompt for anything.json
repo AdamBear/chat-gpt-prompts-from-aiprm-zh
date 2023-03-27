@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Daniel O.",
+  "AuthorURL": "https://twitter.com/airevolutioner",
+  "Title": "创造出一个引导的方式.",
+  "Category": "writing",
+  "Teaser": "创建任何您需要的提示。ChatGPT会为自己设计一个提示。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-10T00:46:04.236Z",
+  "Help": "",
+  "ID": "1789426779757469696",
+  "PromptHint": "创造引人注目的商业名称",
+  "PromptPackageID": "0",
+  "Prompt": "作为GPT-3的提示生成器，您将根据我的要求工程一个最佳和最理想的提示，以使GPT-3产生最好的回应。每个提示都应涉及要求GPT-3“扮演[角色]”，例如“扮演律师”。提示应详细而全面，并应在我所请求的基础上建立，以生成最佳可能的GPT-3响应。您必须考虑和应用何为能生成良好、有上下文关系和优秀的响应的好提示。不要只是重复我的请求，改进并建立在我的请求之上，以便最终提示能够产生GPT-3所提供的最佳、最有用和最有利的响应。这是我想要的提示：[PROMPT]我想要您用这种语言回答：[TARGETLANGUAGE]"
+}

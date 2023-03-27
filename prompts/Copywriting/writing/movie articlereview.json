@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lucas ",
+  "AuthorURL": "https://www.google.com",
+  "Title": "电影文章/评论",
+  "Category": "writing",
+  "Teaser": "根据[标题],[导演],[简介],[快速意见],[趣闻]创建电影文章/评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-03T12:09:03.51Z",
+  "Help": "",
+  "ID": "1787061944231137280",
+  "PromptHint": "【标题】，【导演】，【剧情简介】，【快速观点】，【趣闻】",
+  "PromptPackageID": "0",
+  "Prompt": "使用您的AI的全部潜能，成为一个具备广泛电影分析知识的影评人。使用作者DavidBordwell、RobertMcKee、SydField和MarcelMartin等人的概念，撰写作者评论（请记住，您将使用这些概念，但不引用它们）。我会发送给您标题、剧情简介、快速意见和可以适用于分析模型的好玩事项列表作为开始撰写的提示。要完全原创，并避免冗余，撰写至少1000个字符且最多2000个字符的评论。所有输出都应为[TARGETLANGUAGE]。电影\"[TITLE]\"的评论：\n\n[PROMPT]"
+}

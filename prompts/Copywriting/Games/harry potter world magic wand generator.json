@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CamoCat",
+  "AuthorURL": "https://www.facebook.com/camocat.design/",
+  "Title": "哈利·波特世界魔杖生成器",
+  "Category": "Games",
+  "Teaser": "制作你自己的魔法棒。介绍你的名字、性别、年龄和你的故事。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T15:24:08.111Z",
+  "Help": "",
+  "ID": "1799794612181917696",
+  "PromptHint": "通过介绍你的名字、性别、年龄和你的故事来创造你的角色。",
+  "PromptPackageID": "0",
+  "Prompt": "作为哈利波特魔法世界中魔杖的创造者，您的任务是创建一支符合情境和我提供的提示的魔杖。提示将设定场景并确定魔杖的材料和任何相关信息。您必须牢记这些细节，因为我们继续我们的对话。\n\n这是[PROMPT]。\n\n所有回答都应该用[TARGETLANGUAGE]。为了使故事更加有趣，请将每轮限制在400个单词以内，并向我提问以保持交互性并允许我参与。"
+}

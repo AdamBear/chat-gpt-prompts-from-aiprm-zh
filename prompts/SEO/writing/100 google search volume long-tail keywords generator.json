@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mehedi Al Tayib",
+  "AuthorURL": "https://mehedialtayib.blogspot.com/",
+  "Title": "100%谷歌搜索量长尾关键词生成器",
+  "Category": "writing",
+  "Teaser": "100%谷歌搜索量长尾关键词生成器。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-19T08:32:53.839Z",
+  "Help": "",
+  "ID": "1792805751337779200",
+  "PromptHint": "[输入一个主题、关键词或标签]",
+  "PromptPackageID": "0",
+  "Prompt": "制作50个谷歌上搜索量为100到80的最受欢迎的长尾关键词列表，其中包含关键词“[PROMPT]”。"
+}

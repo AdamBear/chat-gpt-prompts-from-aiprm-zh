@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Reach Relevant",
+  "AuthorURL": "https://reachrelevant.com",
+  "Title": "用关键词编写谷歌搜索广告文案",
+  "Category": "writing",
+  "Teaser": "提供关键词列表并为Google的响应式搜索广告编写15个标题和4个描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-04T09:43:52.798Z",
+  "Help": "",
+  "ID": "1797534656959344640",
+  "PromptHint": "[你的关键词清单]",
+  "PromptPackageID": "0",
+  "Prompt": "扮演谷歌搜索广告文案撰写人。以下是关键词列表。\n首先，您必须了解关键词的领域。其次，了解以下条件：\n1.回答中首字母大写。\n2.将回答分为两个部分，标题和描述。\n3.编写简洁的答案。\n尽力完成以下两项任务：\n\n1.标题：\n写出30个15个字符长的样本标题。\n2.描述：\n写出4个90字符长的样本描述。"
+}

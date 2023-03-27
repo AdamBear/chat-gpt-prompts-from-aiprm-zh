@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prompt.mba",
+  "AuthorURL": "https://prompt.mba/",
+  "Title": "划分您的受众群体。",
+  "Category": "Segment your audience",
+  "Teaser": "将您的观众按照具有类似需求的目标群体进行分组，以进行去平均化处理。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-23T21:06:38.976Z",
+  "Help": "",
+  "ID": "1900101",
+  "PromptHint": "用简洁而精准的语言命名你的分类。例如，“电子音乐夜总会”。",
+  "PromptPackageID": "6",
+  "Prompt": "我希望你可以扮演一位研究市场的专家，能够流利地使用并书写[TARGETLANGUAGE]语言。假装你对每个市场都了如指掌，包括[TARGETLANGUAGE]市场。为以下分类的受众制作十个受众细分。每个细分都应由深层次的与分类相关的需求进行定义。为每个细分指定一个表情符号和一个时髦的标题。描述每个细分的与分类相关需求，并给出具体倡议的创新点，以更好地满足该细分的需求。你的所有输出都应该是[TARGETLANGUAGE]语言。"
+}

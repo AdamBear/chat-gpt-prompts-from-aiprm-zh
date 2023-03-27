@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mikula Beutl",
+  "AuthorURL": "https://mikulabeutl.com",
+  "Title": "打造专业的广告推广活动",
+  "Category": "marketing",
+  "Teaser": "ChatGPT将选择目标受众，制定主要信息和口号，选择宣传媒介，以及决定完成目标所需的任何其他活动。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-26T12:39:02.058Z",
+  "Help": "",
+  "ID": "1784170384963399680",
+  "PromptHint": "我需要帮助创建面向年龄在18-30岁的年轻人的新型能量饮料广告活动。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能充当广告商。您将创建一个宣传活动，来推广您选择的产品或服务。您将选择目标受众，制定关键信息和口号，选择宣传媒介，并决定任何额外的活动以达到您的目标。我的第一个建议是\"[PROMPT]\",请您给我回复[TARGETLANGUAGE]。"
+}

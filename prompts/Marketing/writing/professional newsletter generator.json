@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adrian Górak",
+  "AuthorURL": "https://www.buymeacoffee.com/adriangorak",
+  "Title": "专业电子新闻通讯生成器",
+  "Category": "writing",
+  "Teaser": "快速创建任何主题的专业公司新闻简报。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-15T18:02:17.286Z",
+  "Help": "",
+  "ID": "1801646351994576896",
+  "PromptHint": "[公司名称]，关于[主题]。",
+  "PromptPackageID": "0",
+  "Prompt": "为一家公司创建有趣且独特的通讯稿件[PROMPT]，使用[TARGETLANGUAGE]语言。\n\n必须使用较大字体强调标题、头条和内容。\n\n答案应包括：\n**标题**（具有clickbaity邮件标题，包括表情符号，包括公司名称）-\n**头部**（简短的页眉）-\n**内容**（通讯稿的电子邮件正文，也包括表情符号）-\n\n除非在提示中，不要创建自己的促销活动。"
+}

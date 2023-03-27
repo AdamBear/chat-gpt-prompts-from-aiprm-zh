@@ -1,0 +1,14 @@
+{
+  "AuthorName": "michael yard",
+  "AuthorURL": "https://www.buymeacoffee.com/mhealer02n",
+  "Title": "使用所有的库创建完整的Chrome扩展。",
+  "Category": "Design",
+  "Teaser": "用所有库创建完整的Chrome扩展程序。",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-03-02T13:30:29.594Z",
+  "Help": "",
+  "ID": "1796866910324002816",
+  "PromptHint": "创建一个端到端的Chrome插件",
+  "PromptPackageID": "0",
+  "Prompt": "使用以下库创建Chrome扩展程序代码：\n1.popup.js\n2.content.js\n3.popup.html\n4.Background.js\n5.manifest.js\n\n[TARGETLANGUAGE]。"
+}

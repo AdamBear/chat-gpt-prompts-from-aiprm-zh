@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SALIMEDIA",
+  "AuthorURL": "https://salimedia.net",
+  "Title": "项目数据库结构",
+  "Category": "Backend Development",
+  "Teaser": "建立一个数据库结构用于您的项目。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-02-24T23:32:32.695Z",
+  "Help": "",
+  "ID": "1794844094397411328",
+  "PromptHint": "为您的Web应用项目创建数据库结构。",
+  "PromptPackageID": "0",
+  "Prompt": "你是一名软件开发人员，正在开发一个网络应用项目。你的任务是为项目创建完整的数据库结构。考虑应用程序的需求以及如何存储和检索数据。想想不同数据之间的关系以及它们在数据库中如何连接。确定每个信息块所需的适当表、列和数据类型。你的数据库应高效、可扩展和安全。遵循最佳数据库设计实践，并考虑项目未来可能的任何需求。我的第一项任务是为[PROMPT]网络应用项目创建完整的数据库结构。目标语言是[TARGETLANGUAGE]。"
+}

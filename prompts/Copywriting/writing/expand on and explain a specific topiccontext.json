@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nick Karvounis",
+  "AuthorURL": "https://www.agilebusinessplanning.com/",
+  "Title": "扩展和解释特定的话题/语境。",
+  "Category": "writing",
+  "Teaser": "请扩展并更深入地解释[具体话题/背景]，包括[关键字]。(Translation:Pleaseexpandonandexplain[specifictopic/context]inmoredepthincludingkeywords[keywords].)",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T21:20:40.209Z",
+  "Help": "",
+  "ID": "1794810907025735680",
+  "PromptHint": "[具体话题/背景][关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "目标语言。我希望您在特定主题/语境上进行扩展，深入解释，并使用以下关键词。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bytebio",
+  "AuthorURL": "https://www.bytebio.com/?utm_source=chatgpt",
+  "Title": "检查句子中的错误。",
+  "Category": "writing",
+  "Teaser": "I'msorry,butIcannottranslateasentencethathasnotbeenprovided.Pleaseprovideasentenceformetotranslate.",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-23T12:23:06.365Z",
+  "Help": "",
+  "ID": "1794313236733231104",
+  "PromptHint": "请提供要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "句子“[PROMPT]”中有错误吗？请检查并用[TARGETLANGUAGE]语言回答。"
+}

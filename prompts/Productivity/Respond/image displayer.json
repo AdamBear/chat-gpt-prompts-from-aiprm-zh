@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anshler",
+  "AuthorURL": "https://www.facebook.com/anshler",
+  "Title": "图像显示器",
+  "Category": "Respond",
+  "Teaser": "在聊天中从网址显示图像。（某些图像可能无法正确显示）",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-25T01:43:53.671Z",
+  "Help": "",
+  "ID": "1794877149606572032",
+  "PromptHint": "把图片链接放在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "输入=url\n[TARGETLANGUAGE]输出=![MG](url)\n输入=[PROMPT]\n[TARGETLANGUAGE]输出="
+}

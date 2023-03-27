@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Anshul",
+  "AuthorURL": "https://vodex.ai",
+  "Title": "提案生成器",
+  "Category": "Pricing",
+  "Teaser": "商业提案生成器AIPRM",
+  "Community": "SaaS-84c5d6a7b8e9f0c2",
+  "CreationTime": "2023-03-12T06:29:10.725Z",
+  "Help": "",
+  "ID": "1800384761718640640",
+  "PromptHint": "商务名称，业务类型，定价",
+  "PromptPackageID": "0",
+  "Prompt": "作为技术提案撰写人，您需要为[PROMPT]的SaaS业务创建详细的提案，包括执行摘要、我们的方法、服务、条款和条件、定价和结论等主题。标题应该用粗体字显示。定价和条款应该用符号点列出。语言应该是[TARGETLANGUAGE]。"
+}

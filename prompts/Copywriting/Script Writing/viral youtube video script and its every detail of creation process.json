@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Taha Junaid",
+  "AuthorURL": "https://a31326.myshopify.com/",
+  "Title": "病毒式的YouTube视频脚本及其创建过程中的每个细节。",
+  "Category": "Script Writing",
+  "Teaser": "制作一支病毒式的YouTube视频脚本，并在时间戳中详细介绍其制作过程。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-18T19:33:53.95Z",
+  "Help": "",
+  "ID": "1792609710034386944",
+  "PromptHint": "你需要视频脚本的标题",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是编写一份详细的YouTube视频脚本，并记录每个时间戳下的创作细节。所有输出应为[TARGETLANGUAGE]。要生成的文本如下：<<<"
+}

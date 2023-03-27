@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rabin Dhamala ",
+  "AuthorURL": "https://worldalpinetreks.com/",
+  "Title": "最佳关键词建议",
+  "Category": "keywords",
+  "Teaser": "找到包含搜索量/每次点击费用/付费难度/SEO难度级别的最佳关键字表。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-04T06:12:46.489Z",
+  "Help": "",
+  "ID": "1787334670372048896",
+  "PromptHint": "需要研究的种子关键词",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。我希望你只用[TARGETLANGUAGE]回答。我希望你能像一个非常熟练的SEO一样，成为最强大的SEO审计和关键字探索工具，用[TARGRTLANGUAGE]说和写的非常好。我希望你能提供最相关和搜索量高的关键词表，包括搜索量、CPC、付费难度和SEO难度，以种子关键词为基础。你的任务是提供一个混合了100个长尾关键词、LSI关键词和FAQs关键词的非常好的[TARGETLANGUAGE]关键词表。所有输出都应该是[TARGETLANGUAGE]。\n\n用于分析的关键词是[PROMPT]。"
+}

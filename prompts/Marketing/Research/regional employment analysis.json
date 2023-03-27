@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MMIP",
+  "AuthorURL": "https://www.mmipapartments.com",
+  "Title": "区域就业分析",
+  "Category": "Research",
+  "Teaser": "为特定地点生成就业分析报告。有助于投资规划和市场研究。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-14T20:09:34.094Z",
+  "Help": "",
+  "ID": "1801315995223326720",
+  "PromptHint": "地点，面积，城市，州，国家等。",
+  "PromptPackageID": "0",
+  "Prompt": "A)以行业为分隔，生成示表反映[PROMPT]的最大雇主。包括[PROMPT]的五大行业和每个行业的五大雇主，每个雇主都需要列出雇员数量估计，业务年限及其占总人口的百分比。将信息输出成一个表格。\n\nB)提供一个反馈，以表格的形式反映[PROMPT]中顶级行业的详细情况，包括当地人口数量和百分比，每个行业的平均薪资。\n\nC)提供一个预测，反映[PROMPT]就业前景。政治环境对此前景将产生什么影响？请具体说明最近的事件如何影响[PROMPT]的未来。"
+}

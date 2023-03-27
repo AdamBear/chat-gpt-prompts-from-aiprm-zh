@@ -1,0 +1,14 @@
+{
+  "AuthorName": "realzug",
+  "AuthorURL": "https://www.youtube.com/@realzug/videos",
+  "Title": "中途启示",
+  "Category": "Midjourney",
+  "Teaser": "Midjourney获得灵感的终极提示。该提示将根据您的主题为您提供5个提示。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-21T18:15:12.812Z",
+  "Help": "",
+  "ID": "1793677071743188992",
+  "PromptHint": "启发：（例如梵高）",
+  "PromptPackageID": "0",
+  "Prompt": "请将<<<和>>>之间的文本翻译成[TARGETLANGUAGE]，但不要翻译[]之间的单词。\n<<<\n嗨ChatGPT。从现在开始，您是我的个人专业形象提示生成器。以下说明以[TARGETLANGUAGE]语言进行。我希望您根据以下思路创建五个图像:[PROMPT]。要有创意，跳出传统，使用/imagineprompt:格式。\n\n创建一个图像提示，重点关注四个主要范畴:\n\n主题:根据[PROMPT]选择一个中心主题，比如人物、动物、物体或者风景。\n\n环境和其他细节:添加描述性的单词和短语来提供背景，并创造完整的视觉形象。使用形容词-名词的单词顺序或者特定的动词，而不是介词短语。尽量减少冗余，因为这会增加连贯性。例如，不要使用“黑曜石”，而是简单地使用“黑曜石”，因为黑曜石已经是黑色的了。另一方面，每次都尽量增加具体性。例如，不要使用“植物植物”，而是使用“植物”或者“植物”，因为植物本身就是一种植物。\n\n风格、媒体类型和艺术家:如适用，添加相关的风格或媒体类型，例如水彩或者数字艺术，并给予艺术家相应的荣誉。\n\n参数：如必要，添加任何图片的参数，如分辨率，使用“--ar”标志。例如，您可以使用“--ar16：9”来定义一个16：9的分辨率。请注意，不应在提示中提及纵横比参数，只能使用--参数。\n\n此外，考虑使用标点符号来增强提示的效果。标点符号可以是功能性的或者噪音的。唯一的功能性标点符号是双破折号、双冒号和空格。双破折号分隔参数，双冒号分隔整数（正数和负数）以进行权重计算，空格用于分隔标记。其他标点符号，例如逗号和连字符，添加了引人入胜的噪声，这对提示很有帮助。因此，建议正确使用逗号来帮助分组，就像在普通写作中一样。例如，不要使用“华丽的阴影大量的感性”，使用“华丽，阴影，大量，感性”。\n\n-使用“::”来分隔每个promptlet与其相应的weightvalue。它也应该与最后的图片感觉相符。\n-要控制每个promptlet对最终图像的影响力，给每个promptlet分配权重值。权重值越低，它的影响力就越小，而权重值越高，它的影响力就越大。如果没有分配权重值，则默认为1。\n-Promptlets从“::”符号分组，向前连接上一个“::”符号。\n-使用负权重值来减少或消除promptlet对最终图像的影响。\n-prompt的总权重是所有分配的权重值的总和。\n-使用“--ar”来指定输出图像的纵横比。\n-图像的纵横比应该是“宽：高”的格式。\n\n示例：\n\n/imagineprompt:abustlingnightmarketinaSoutheastAsiancity::2withfoodvendors,colorfullanterns,andpeoplemillingabout::1photorealisticartbyBojanJevtić::3--ar3:2\n\n/imagineprompt:asurrealdreamscape::2,withfloatingislandsandstrangecreatures::1.Theskyisfilledwithpastelcloudsandthesuncastsawarm,goldenlight::1.5.TheimageisadigitalartworkbyAlexAndreev::3--ar16:9\n\n/imagineprompt:avast,snowytundra::2,withaclearblueskyoverhead::0.5.Aherdofmajesticreindeer::1.5grazeontheicyplains,surroundedbythetoweringpeaksofdistantmountains::1.TheimageisaphotographbyMarcoMatteucci::3--ar2:3\n\n场景方法\n\n使用promptlets的一种方式是先设置场景，然后再填充。例如：\n\n咖啡馆，暮色环境::两个朋友为钱争吵::\n\n如果promptlet太不完整，AI可能无法将其转化为一个意义完整的画面。例如，“女忍者，跪拜，无限泳池::闪亮::1.5”是不起作用的，因为“闪亮”没有主题。在这种情况下，最好将所有东西放在一个简单的句子中，如“女忍者跪在一个闪亮的霓虹灯无限泳池里”。\n\n如果发现某个promptlet太弱或无法恰当地表达自己，则可以使用虚拟滑块来调整其影响力。例如：\n\n女忍者跪拜在一个闪亮的霓虹无限泳池里：：闪亮的霓虹::0.5\n\n第二个promptlet通过将它与第一个promptlet链接来连接它，使用与第一个promptlet相同的文本。这种方法非常可靠。\n\n负值对于控制最终图像的影响力非常有用。它们可以用于减少或消除数据集中某些相关性的影响，从而导致模糊或不连贯等问题。例如：\n\n拍摄，[subjectandsetting]，bokeh，chiaroscuro，softlighting::广告，广告，文本，UI，描述，名称，单词，字母，杂志，标题，说明，标签，签名，海报，公告，标志：：-0.5\n\n在这个prompt中，“bokeh”，“chiaroscuro”和“softlighting”创造了闪烁的效果。如果您不想要这种效果，可以用不同的词替换它们。负权重短语是prompt的最重要部分，因为它告诉算法减少或消除某些单词的影响，这些单词可能会削弱输出的艺术质量。\n\n即使一开始不觉得有必要，也值得尝试使用负权重来看看它们如何改变最终输出。有些提示可以通过这种技术显着变形。\n\n请记住，每个提示都应以“/imagineprompt:”开头，提示不应以“。”结尾。\n\n现在，请根据此[PROMPT]提供给我五（5）个提示。\n\n>>>"
+}

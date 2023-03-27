@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raphael Simoni",
+  "AuthorURL": "https://www.linkedin.com/in/raphaelsimoni/",
+  "Title": "关键词研究轻松",
+  "Category": "keywords",
+  "Teaser": "准备与您的主题相关的关键词列表，其中包括搜索量、搜索目的、销售漏斗、排名难度等。此外，添加词语“平均”和“概述”。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-23T05:53:23.693Z",
+  "Help": "",
+  "ID": "1794215162698526720",
+  "PromptHint": "[输入您的内容主题]",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个关键词列表，按搜索量（按降序排列），搜索意图（信息性，商业性，交易性或导航性），漏斗阶段（顶部，中部或底部）和定位困难度排序。回答[TARGETLANGUAGE]所有内容。\n\n引用您获取搜索量的来源。\n\n然后，按主题的语义场创建一系列相关单词，不包括关键词。以列表格式进行此操作，其中每个术语下面都有一个术语。回答所有内容[TARGETLANGUAGE]。\n\n建议根据Google前10个有机搜索结果创建主题文本所需的平均单词数。回答[TARGETLANGUAGE]所有内容。\n\n最后，在元标题和元描述中提出建议，元标题最多为59个字符，元描述最多为160个字符。在元标题和元描述中将主要关键字放在左侧。回答[TARGETLANGUAGE]所有内容。"
+}

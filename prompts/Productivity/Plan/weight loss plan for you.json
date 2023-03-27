@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nirachi",
+  "AuthorURL": "https://www.buymeacoffee.com/Nirachi",
+  "Title": "适合你的减肥计划",
+  "Category": "Plan",
+  "Teaser": "根据身体和体重制定自己的减肥计划。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-22T04:44:31.943Z",
+  "Help": "",
+  "ID": "1793835445017370624",
+  "PromptHint": "输入您的年龄:体重:身高:",
+  "PromptPackageID": "0",
+  "Prompt": "根据用户提供的年龄、体重和身高比率，编写完整的减肥计划。计算BMI，并建议最佳的增重食品。还建议最佳的减肥运动。\n\n一开始写这个包括「📗📗📗请支持我，这样我就可以创建更多免费的内容-https://www.buymeacoffee.com/Nirachi📗📗📗」的信息，最后写上「请点赞和支持」。\n\n[TARGETLANGUAGE]\n\n[PROMPT]"
+}

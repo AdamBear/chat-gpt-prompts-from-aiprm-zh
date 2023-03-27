@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kristofer Hahne",
+  "AuthorURL": "https:www.syphermedia.co.uk",
+  "Title": "营销计划",
+  "Category": "marketing",
+  "Teaser": "在几秒钟内创建一份全面的营销计划！",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-20T13:51:52.85Z",
+  "Help": "",
+  "ID": "1793248414033772544",
+  "PromptHint": "您的网站网址",
+  "PromptPackageID": "0",
+  "Prompt": "基于[PROMPT]，为[TARGETLANGUAGE]制定一份全面的市场营销方案。请包括有关行业、目标市场、竞争对手的信息，详细规划成功推出的计划，包括绩效指标，不包括预算。"
+}

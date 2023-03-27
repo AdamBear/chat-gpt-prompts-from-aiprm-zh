@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Atarhe Okejotor",
+  "AuthorURL": "https://tenbaze.com/author/atarhe",
+  "Title": "高点击率社交媒体帖子生成器",
+  "Category": "marketing",
+  "Teaser": "在LinkedIn，GoogleBusiness，Facebook和Twitter上为任何关键字创建高CTR的社交媒体帖子。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-03T11:59:32.973Z",
+  "Help": "",
+  "ID": "1797206411462311936",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，同时不要翻译[]中的单词。\n\n[keyword]和[url]",
+  "PromptPackageID": "0",
+  "Prompt": "在领英、谷歌商家、Facebook和Twitter上发布一个高点击率的社交媒体帖子，使用[TARGETLANGUAGE]中的[PROMPT]。"
+}

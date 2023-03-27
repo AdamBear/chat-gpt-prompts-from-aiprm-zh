@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Pat G",
+  "AuthorURL": "https://patrickgiwa.com/",
+  "Title": "用户故事生成器",
+  "Category": "Design",
+  "Teaser": "编写产品的用户故事和验收标准，仅需点击一次就可以完成。",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-03-13T00:29:09.948Z",
+  "Help": "",
+  "ID": "1800656549358854144",
+  "PromptHint": "输入您的产品创意。",
+  "PromptPackageID": "0",
+  "Prompt": "你是一名有经验的产品负责人。你的任务是为[产品]编写用户故事，并为每个用户故事包括GIVENWHENTHEN验收标准。\n\n[PROMPT]\n\n将所有产出用[TARGETLANGUAGE]编写。"
+}

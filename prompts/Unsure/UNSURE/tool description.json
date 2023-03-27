@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Haotian Zheng",
+  "AuthorURL": "https://www.linkedin.com/in/haotian-zheng-771796236/",
+  "Title": "工具描述",
+  "Category": "UNSURE",
+  "Teaser": "描述工具或软件包。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-27T15:01:44.142Z",
+  "Help": "",
+  "ID": "1795802708645765120",
+  "PromptHint": "工具",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能充当一组工具的工具使用说明。详细描述每个工具，应包括：1.工具名称；2.将实际样本作为输入数据进行打印[表块]；3.代码块：处理输入数据的脚本；4.打印输出数据[表块]；5.所有参数的说明[表块]；6.如何安装此工具；7.工具的常见错误。现在工具的名称是[PROMPT]。您最好使用[TARGETLANGUAGE]来回答它。"
+}

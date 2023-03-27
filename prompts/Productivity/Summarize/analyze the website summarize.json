@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vishnu Balraj",
+  "AuthorURL": "https://www.youtube.com/channel/UCoBwPbzAtCrEYxpmeQ67UlQ",
+  "Title": "分析该网站并总结。",
+  "Category": "Summarize",
+  "Teaser": "分析网站文章并总结。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-01-31T06:42:49.087Z",
+  "Help": "",
+  "ID": "1785892679553650688",
+  "PromptHint": "请提供要分析的网站链接。例如：https://zh.wikipedia.org/wiki/Netflix",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是分析我给你的网站并以200字汇报。所有输出都应该是[TARGETLANGUAGE]。应从此网址阅读要汇总的文本：[PROMPT]"
+}

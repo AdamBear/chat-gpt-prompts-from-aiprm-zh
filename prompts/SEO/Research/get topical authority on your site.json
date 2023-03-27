@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raymond Kuipers",
+  "AuthorURL": "https://www.facebook.com/raymond.kuipers1/",
+  "Title": "提高网站话题权威",
+  "Category": "Research",
+  "Teaser": "我希望增加我的主题权威性，这是我目前博客文章的列表：",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-06T16:07:28.388Z",
+  "Help": "",
+  "ID": "1798355967071748096",
+  "PromptHint": "话题权威[在此处放置您已经发布的网站文章的URL]",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]我想增加我的专业权威，这是我当前博客文章的清单，你能否给我10个新的专业权威博客文章的想法，并以[TARGETLANGUAGE]写下？[PROMPT]"
+}

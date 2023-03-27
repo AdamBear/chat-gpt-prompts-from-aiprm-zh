@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "商业模式画布",
+  "Category": "marketing",
+  "Teaser": "商业模式画布创始人",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-05T21:28:23.977Z",
+  "Help": "",
+  "ID": "1787927482763313152",
+  "PromptHint": "公司类型",
+  "PromptPackageID": "0",
+  "Prompt": "我需要你帮我创建一个[PROMPT]公司的商业模式画布。\n\n请把你的答案组织成一张表格，以咨询业使用的原始格式为准。\n\n我希望你能写出详细的答案，专注于提供价值，并作为数字营销专家的身份行事。\n\n请用[TARGETLANGUAGE]编写所有答案。\n\n在顶部用[TARGETLANGUAGE]写上“CRONUTS.DIGITAL关键词的数字策略”，并将“关键词”用大写字母写在“火箭”表情符号前。\n\n在表格下方写上“要了解更多关于我们的信息，请访问www.cronuts.digital”。\n\n最后一行写上“如果你喜欢这个提示，请在提示搜索页面上为它点赞”。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mr.Prince Sahani",
+  "AuthorURL": "https://tradingstar.shop/",
+  "Title": "请将此句话翻译成[TARGETLANGUAGE]：只翻译中括号[]之间的单词，不要使用拼音。",
+  "Category": "Dall-E",
+  "Teaser": "我是一位乐于助人的助手。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-04T10:38:54.435Z",
+  "Help": "",
+  "ID": "1787401644791824384",
+  "PromptHint": "我是一位乐于助人的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "ChatGPT必须使用[TARGETLANGUAGE]占位符指示以目标语言输出\n用户输入的可变数据必须使用[PROMPT]占位符插入提示中。"
+}

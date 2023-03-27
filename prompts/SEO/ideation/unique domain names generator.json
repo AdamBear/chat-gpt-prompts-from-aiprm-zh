@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Abideen : Prompt Engineer",
+  "AuthorURL": "https://www.fiverr.com/share/Q4B8ZR",
+  "Title": "独特的域名生成器",
+  "Category": "ideation",
+  "Teaser": "生成非常独特、SEO友好的域名。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-26T00:10:41.311Z",
+  "Help": "",
+  "ID": "1783982057580662784",
+  "PromptHint": "域名，域名生成器，商业名称，独特域名",
+  "PromptPackageID": "0",
+  "Prompt": "充当智能域名生成器。我会告诉你我的公司或想法的业务，你会根据我的提示回复我一个域名备选列表。你只会回复域名列表，什么也不会写。域名应该是7-8个字母，仅限.com，应该短小精悍但独特，可以是响亮的词语或不存在的词汇。请不要解释。"
+}

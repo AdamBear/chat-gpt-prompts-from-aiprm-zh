@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jimena",
+  "AuthorURL": "https://bsandco.us/",
+  "Title": "品牌声音分析",
+  "Category": "Research",
+  "Teaser": "通过回答12个品牌身份问题，在[网站]上找到任何[品牌]的声音。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-07T18:29:33.141Z",
+  "Help": "",
+  "ID": "1798754110342946816",
+  "PromptHint": "通过分析[品牌]的[网站]找到它的声音。",
+  "PromptPackageID": "0",
+  "Prompt": "你是经验丰富的B2C电子邮件营销文案撰写人员。你必须确定并撰写[PROMPT]品牌之声。前往他们的网站[PROMPT]，阅读所有页面。然后，按照此网站上的12个问题的顺序来回答，找到品牌之声https://medium.com/purple-rock-scissors/https-medium-com-heyerinb-finding-your-brand-voice-with-12-sequential-questions-101971f1dd1c.\n\n最后，就你的发现写一个简短的结论。\n\n用[TARGETLANGUAGE]写。"
+}

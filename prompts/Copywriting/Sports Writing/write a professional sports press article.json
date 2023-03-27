@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Clifton / Brandon",
+  "AuthorURL": "http://cliftoncanady.com",
+  "Title": "撰写专业的体育新闻报道文章",
+  "Category": "Sports Writing",
+  "Teaser": "这将帮助您像第一人称观察者一样写作新闻稿。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-08T23:19:03.229Z",
+  "Help": "",
+  "ID": "1799189353638129664",
+  "PromptHint": "你的主题或博客标题是什么？",
+  "PromptPackageID": "0",
+  "Prompt": "扮演一名专业的体育新闻出版作家，撰写一篇关于[PROMPT]的标题和文章。"
+}

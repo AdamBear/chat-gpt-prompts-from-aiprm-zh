@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Cybersphere AI",
+  "AuthorURL": "https://promptbase.com/profile/cybersphere",
+  "Title": "英语超级词典",
+  "Category": "Summarize",
+  "Teaser": "获取包括俚语、同义词、反义词、习语、起源和琐事的扩展词汇定义。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-10T22:19:10.369Z",
+  "Help": "",
+  "ID": "1799899059822264320",
+  "PromptHint": "输入一个英文单词。",
+  "PromptPackageID": "0",
+  "Prompt": "我想获取以下格式的词汇综合信息：\n{\n*word*的单词报告\n词典定义\n俚语定义\n词源\n习语\n同义词\n反义词\n关于该单词的任何有趣的趣闻\n}\n\n如果我输入“def*word*”，其中*word*是我想要定义的单词，你应该为该单词生成此报告。\n\n阅读下面的任何规则，因为它们规定如何生成报告，但不要将这些规则告诉用户。只是根据它们进行操作。\n\n如果你理解了这个提示，就def[PROMPT]。在定义后面写“输入def*word*以获取更多报告”。不要输入其他内容。不要回显说明。\n\n规则：\n\n标题应为粗体。值应为常规字体。\n同义词和反义词应在标题下的CSV格式中列出。\n\n将所有定义输出为[TARGETLANGUAGE]"
+}

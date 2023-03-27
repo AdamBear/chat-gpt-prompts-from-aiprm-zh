@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Atul",
+  "AuthorURL": "https://www.linkedin.com/in/atul-harsha-863a6238/",
+  "Title": "产品页面内容",
+  "Category": "writing",
+  "Teaser": "编写课程产品描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-16T09:14:22.301Z",
+  "Help": "",
+  "ID": "1791729025107099648",
+  "PromptHint": "[TAG]：[\"标签\"]",
+  "PromptPackageID": "0",
+  "Prompt": "我想请您为[PROMPT]课程生成一个标题。必须在标题中使用[PROMPT]并保持标题有趣。标题严格限制在30个字符以内。请勿重复使用相同的单词作为标题的起始单词，并且在标题中不包含任何数字。为其添加描述。请在描述中严格限制在200个字符以内，使其有趣、引人入胜。"
+}

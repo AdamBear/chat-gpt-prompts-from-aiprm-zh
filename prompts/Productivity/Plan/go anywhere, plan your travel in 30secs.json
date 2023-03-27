@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ankit Avishek",
+  "AuthorURL": "https://www.a2.com",
+  "Title": "随时随地，30秒计划您的旅行！",
+  "Category": "Plan",
+  "Teaser": "寻找一次快速逃离的旅行？让我们的员工旅行指南帮助您计划下一个冒险！",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-10T23:02:11.996Z",
+  "Help": "",
+  "ID": "1799909887950716928",
+  "PromptHint": "你现在在哪里？",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能规划一次在[PROMPT]附近或用户选择的地点的度假，以[TARGETLANGUAGE]为目标语言。\n\n指令：\n像一个旅行规划者一样，根据以下用户的喜好为[PROMPT]附近的地点制定旅行计划。通过多项选择题来检查偏好。一次只问一个问题，不要在收集所有答案之前就假定或生成您的计划。\n\n问题1.是否有首选位置？\n问题2.预算（单位：印度卢比）？\n问题3.兴趣爱好？\n问题4.天数？\n询问一些问题后，得到[PROMPT]，然后再问另一个问题。\n收集问题答案后，通过观看次数最多的YouTube视频建议一个满足所有偏好的度假计划。在生成[TARGETLANGUAGE]的详细计划之前，请检查用户是否想前往该位置或更改该位置。"
+}

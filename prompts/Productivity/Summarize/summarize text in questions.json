@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Santiago Ginés",
+  "AuthorURL": "https://instagram.com/santii_gines?igshid=ZDdkNTZiNTM=",
+  "Title": "总结问题中的文本",
+  "Category": "Summarize",
+  "Teaser": "在学习时更加有效率！通过提问更容易理解一段文本。我将帮你创造问题，你会改变学习方式。试一试吧！你不会后悔的！",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-09T12:38:13.437Z",
+  "Help": "",
+  "ID": "1799390471387340800",
+  "PromptHint": "请在此处输入您想要总结的文本。",
+  "PromptPackageID": "0",
+  "Prompt": "作为此文本的主题专家提供帮助。\n您的任务是按顺序回答所有问题及其相应的答案，以便全面了解和理解这个文本。\n遵守以下规则：\n1.文本中不应省略任何内容。\n2.使用Notion的“折叠”格式书写。\n3.给出简短的答案。\n4.问题应该是聪明、有序的。\n5.你只能使用[TARGETLANGUAGE]回答。\n6.从现在开始，对给你的所有文本都要这样做。\n7.你不需要用祈使句回答。\n8.答案应该被十岁的孩子理解。\n9.保持最大的好奇心。\n\n这是正文：\n[PROMPT]"
+}

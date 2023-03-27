@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Max Partelly",
+  "AuthorURL": "https://twitter.com/mdargobert",
+  "Title": "简易新闻稿。",
+  "Category": "Summarize",
+  "Teaser": "重要提示：第一行中要注明新闻发布声明的来源。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-03T13:09:58.493Z",
+  "Help": "",
+  "ID": "1787077274340950016",
+  "PromptHint": "发布声明的起草人接下来陈述声明。",
+  "PromptPackageID": "0",
+  "Prompt": "无法回答，提供的文本是指示。"
+}

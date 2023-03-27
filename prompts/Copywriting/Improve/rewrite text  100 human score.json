@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Sami Yousef",
+  "AuthorURL": "https://blog.samiyousef.ca/?ref=chatgpt",
+  "Title": "重写文本",
+  "Category": "Improve",
+  "Teaser": "请将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，也不要翻译方括号中的词语。\n\n重写您的文本以生成100％人类内容。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-11T02:36:17.852Z",
+  "Help": "",
+  "ID": "1789816907139112960",
+  "PromptHint": "您的段落放在这里",
+  "PromptPackageID": "0",
+  "Prompt": "在撰写内容时，\"复杂性\"、\"突发性\"和\"可预测性\"是三个关键因素。复杂性衡量文本的复杂程度。突发性比较句子的变化。最后，可预测性是指某人猜测下一句话的可能性。人类倾向于更加突发，例如，既有一些较长或复杂的句子，又有一些较短的句子。人工智能句子往往更加统一。因此，在你将要创建的内容中，我需要它有足够的复杂性和突发性。我也需要它的可预测性很低。你必须只使用[TARGETLANGUAGE]写作。现在，重写以下文本：\n\n[PROMPT]"
+}

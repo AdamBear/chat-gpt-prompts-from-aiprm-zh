@@ -1,0 +1,14 @@
+{
+  "AuthorName": "keyur shah",
+  "AuthorURL": "https://www.buymeacoffee.com/keyurshah8x",
+  "Title": "从竞争对手内容中提取关键词。",
+  "Category": "keywords",
+  "Teaser": "用这个提示从竞争对手的内容中提取关键词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-19T09:40:14.219Z",
+  "Help": "",
+  "ID": "1792822697919774720",
+  "PromptHint": "将您想要提取关键词的内容添加在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是从提供给你的内容中提取所有关键词。所有输出应该是用[TARGETLANGUAGE]输出。\n\n[PROMPT]\n>>>"
+}

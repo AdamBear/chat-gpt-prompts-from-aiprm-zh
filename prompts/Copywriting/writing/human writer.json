@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Flapper.ai",
+  "AuthorURL": "https://flapper.ai",
+  "Title": "人类作家",
+  "Category": "writing",
+  "Teaser": "使您的文本不太可能被检测出为AI生成的。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T12:59:37.464Z",
+  "Help": "",
+  "ID": "1800483020579536896",
+  "PromptHint": "让文本具有人为生成和AI检测证明功能。",
+  "PromptPackageID": "0",
+  "Prompt": "请使用高度的困惑和突发性重写以下文本，语言为[TARGETLANGUAGE]：[PROMPT]"
+}

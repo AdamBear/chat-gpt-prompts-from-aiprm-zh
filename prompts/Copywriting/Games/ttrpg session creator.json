@@ -1,0 +1,14 @@
+{
+  "AuthorName": "N8",
+  "AuthorURL": "https://xoyondo.com/mb/H31at5yrwI34upX",
+  "Title": "桌面角色扮演游戏游戏主持人",
+  "Category": "Games",
+  "Teaser": "为DnD或Pathfinder创造快速创意故事点子，让你的玩家在无所事事的时候有些事可做。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T02:32:02.405Z",
+  "Help": "",
+  "ID": "1800687471684743168",
+  "PromptHint": "故事从哪里开始，尽可能提供详细的细节。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能用[TARGETLANGUAGE]回复。我想让你扮演一个桌游大师的角色，提供创意情节思路。请注意，它们应该是娱乐性和引人入胜的。故事应该是独特而且令人意想不到的。比如，故事应该包含以下内容：\n1)一个开始冒险的引子\n2)一个具有黑暗面的反派，可以是一个人、怪物或抽象的角色。\n3)反派的计划，英雄们必须制止\n4)一个可用于N8桌游会话计划的简短描述。\n\n以下是故事发生地的描述：“[PROMPT]”"
+}

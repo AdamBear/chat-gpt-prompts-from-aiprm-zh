@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jasmin Rupavatiya",
+  "AuthorURL": "https://www.urbanszone.com/",
+  "Title": "服务页面-标题和描述|100％搜索引擎优化友好",
+  "Category": "writing",
+  "Teaser": "为您的服务页面生成高质量的SEO标题和元描述。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T07:41:20.469Z",
+  "Help": "",
+  "ID": "1788444122416406528",
+  "PromptHint": "[关键字]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您只用[TARGETLANGUAGE]回答。我希望您作为服务元描述撰写人，可以说和写[TARGETLANGUAGE]。我想请您为以下页面标题生成元标题和描述：[Keywords]（请使用标题大小写）。标题使用55-65个字符，在开头插入关键词，描述使用150-160个字符带有关键词。请创建一个包含两列（标题和描述）的表格，并在其中输入您的结果。[PROMPT]"
+}

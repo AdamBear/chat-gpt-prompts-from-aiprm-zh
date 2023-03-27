@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Palash Talukder",
+  "AuthorURL": "https://www.facebook.com/mpalashtalukder/",
+  "Title": "提高质量，像百分之百人类写的一样。",
+  "Category": "Improve",
+  "Teaser": "PROMPT将替代您的人工校对，语法检查，并提高旧内容的质量，使其100％由人类撰写。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T06:25:34.685Z",
+  "Help": "",
+  "ID": "1801471019177996288",
+  "PromptHint": "只翻译以下句子为[TARGETLANGUAGE]，不要用拼音，也不要翻译[]中的单词：Enteryouroldcontenthere...",
+  "PromptPackageID": "0",
+  "Prompt": "请通过校对、添加最相关的信息、以第一人称口吻将下述内容的阅读难度控制在五年级水平，来提高以下内容的质量。避免使用通俗语、术语和通用关键词。写作中必须使用缩写。"
+}

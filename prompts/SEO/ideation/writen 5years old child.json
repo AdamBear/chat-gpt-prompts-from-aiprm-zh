@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Marc Mulack",
+  "AuthorURL": "https://noseo.de",
+  "Title": "写的，五岁孩子",
+  "Category": "ideation",
+  "Teaser": "用一个五岁孩子的语气造一个关于[关键词]的句子。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-03T13:00:49.441Z",
+  "Help": "",
+  "ID": "1797221831686750208",
+  "PromptHint": "作为一个五岁的孩子。",
+  "PromptPackageID": "0",
+  "Prompt": "请用资深SEO经理的视角写一篇关于[PROMPT]的文本。将输出语言写成[TARGETLANGUAGE]。"
+}

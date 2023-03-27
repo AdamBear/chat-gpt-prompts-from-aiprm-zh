@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Oz",
+  "AuthorURL": "https://canvata.com",
+  "Title": "带有来源的强大事实生成器",
+  "Category": "writing",
+  "Teaser": "使用您所需的尽可能多的来源和图像获取有关任何主题的事实。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T12:18:41.109Z",
+  "Help": "",
+  "ID": "1794674512034529280",
+  "PromptHint": "请在[NUMBER]个事实中添加关键词[KEYWORD]。",
+  "PromptPackageID": "0",
+  "Prompt": "【提示】以[TARGETLANGUAGE]语言列出与[KEYWORD]有关的有趣事实列表，列出[NUMBER]条。\n\n使用H1标题“这里有[NUMBER]条关于[KEYWORD]的{棒极了|有趣|小众|惊人}事实”，并进行旋转。\n\t\n包括引用和来源，包括每个来源的链接。如果有可能，从像pixabay，unsplash和维基媒体等网站中为每个事实包括一个图像链接，以HTML格式。\n\n始终在生成的事实后包括引用链接，但确保它是一个缩短的链接。将来源放在底部，不要把它放在正文之前或之中。\n\n不要重复我的提示，不要告诉我我所要求的，不要对任何提示进行回显。不要包含任何损坏或404来源链接。只包含有效的来源链接。"
+}

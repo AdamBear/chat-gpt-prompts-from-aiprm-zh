@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MyPerfectWords",
+  "AuthorURL": "https://www.myperfectwords.com/",
+  "Title": "写我的论文，论文作家",
+  "Category": "writing",
+  "Teaser": "一键撰写文章-100％独特和可读",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T07:49:30.367Z",
+  "Help": "",
+  "ID": "1799317813165551616",
+  "PromptHint": "【写任何关键词或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "请你作为一名熟练的SEO和顶尖的文案策划人员，在流利掌握[TARGETLANGUAGE]的情况下回复。想象一下，你具备在[TARGETLANGUAGE]中创作优秀内容超越其他网站的能力。你的任务是提供以下提示的摘要，并用[TARGETLANGUAGE]完成所有输出：\n\n这个提示要求你编写一个独特的标题和介绍，接着是由多个部分组成的正文，每个部分都包括一个介绍和例子。以总结性陈述结束内容。\n\n[PROMPT]"
+}

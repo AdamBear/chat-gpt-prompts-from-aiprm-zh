@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Doc Ben",
+  "AuthorURL": "https://www.abderrahim-benmoussa.com",
+  "Title": "10个高质量的科学标题（来自摘要）",
+  "Category": "Summarize",
+  "Teaser": "根据您的摘要产生了10个吸引人且准确的科学文章标题。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-18T23:58:35.678Z",
+  "Help": "",
+  "ID": "1792676322829660160",
+  "PromptHint": "输入摘要...",
+  "PromptPackageID": "0",
+  "Prompt": "请根据这篇摘要的结果和结论提出10个专业的科学论文标题。请简洁明了，具有吸引力但仍保持专业性。不要重复说明。保持简单明了但精准。以正式的专业方式书写。让标题极具说服力并针对点击进行优化。请按照准确性和说服力对它们进行排名，最有说服力的标题排在前面。摘要:[PROMPT][TARGETLANGUAGE]"
+}

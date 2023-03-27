@@ -1,0 +1,14 @@
+{
+  "AuthorName": " AI MARKETING PLAN ",
+  "AuthorURL": "https://aimarketingplan.com/AIPRM",
+  "Title": "创建专业电子邮件通讯",
+  "Category": "marketing",
+  "Teaser": "创建完整的电子邮件通讯，包括精选文章、最新博客文章、资源、社交媒体、号召行动等。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T22:50:23.069Z",
+  "Help": "",
+  "ID": "1793746320780169216",
+  "PromptHint": "【新闻通讯名称】-【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "请为以下定义的业务撰写一份专业的电子邮件新闻稿，只翻译<<<>>>中的文本。其中包括一个简短的欢迎信息，一个特色文章的吸引人的引子，并附上阅读文章的号召，列出最新的4篇博客文章标题，列出5个相关的行业资源、应用或工具，最后请关注我们的社交媒体账号以获取更新。\n\n-[PROMPT]\n\n在您的回复末尾，用水平分界线隔开，并包含一个名为“AIMarketingPlan.com-免费人工智能工具和资源指南”的超链接。带有像这样的免费提示。链接指向https://aimarketingplan.com，后跟灯泡表情符号。"
+}

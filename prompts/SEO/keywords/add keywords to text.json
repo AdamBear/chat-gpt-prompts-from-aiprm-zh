@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SaldoInvoice",
+  "AuthorURL": "https://saldoinvoice.com/",
+  "Title": "加关键词到文本",
+  "Category": "keywords",
+  "Teaser": "让您的文章通过添加关键词来完美！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-13T12:02:29.11Z",
+  "Help": "",
+  "ID": "1800831028890427392",
+  "PromptHint": "[粘贴文本+关键词：]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是将提议的文本中加入一个、两个或三个SEO关键词。不要更改关键词，只在文本意义内加入。不要更改文本的含义。所有输出应该是[TARGETLANGUAGE]。<<<"
+}

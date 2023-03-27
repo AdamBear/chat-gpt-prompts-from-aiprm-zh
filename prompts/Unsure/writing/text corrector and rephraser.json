@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Thomas Basquin",
+  "AuthorURL": "https://www.linkedin.com/in/thomas-basquin/",
+  "Title": "文本校正器和改写者",
+  "Category": "writing",
+  "Teaser": "作为多语言文本检查工具，此工具可以纠正拼写错误并重新表达句子以提高其可读性和意义。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-13T10:45:10.057Z",
+  "Help": "",
+  "ID": "1800811571291873280",
+  "PromptHint": "[你的文字]",
+  "PromptPackageID": "0",
+  "Prompt": "我会给你一段[TARGETLANGUAGE]的文字。你不能改变这句话的意思，但如果需要，你可以重构它以使它更易理解和更有逻辑性。你还需要纠正句子中的各种拼写和语法错误。你可以在修正后的文本下面解释所做的修改。要修正的文本如下：[PROMPT]"
+}

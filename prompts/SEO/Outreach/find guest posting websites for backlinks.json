@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rehmanxd",
+  "AuthorURL": "https://twitter.com/rrehmanxd/",
+  "Title": "寻找用于构建反向链接的客座撰稿网站",
+  "Category": "Outreach",
+  "Teaser": "与您所在领域相关的高权威网站的外部链接资源。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-22T12:22:02.295Z",
+  "Help": "",
+  "ID": "1793950580138565632",
+  "PromptHint": "输入您的利基",
+  "PromptPackageID": "0",
+  "Prompt": "所有的输出都必须用[TARGETLANGUAGE]。请提供10个[PROMPT]领域内的嘉宾发布网站，只提供高权威网站和易于接受嘉宾帖子的网站。尽可能添加网站的电子邮件。将它们写在一个表格中，分别列出序号、网站的主题范围(包括它们涵盖的3个主要主题)、网站名称、邮件(仅添加邮件;不要添加链接)和每个网站的一行提示。在您的回复中只给我表格就行了。不要在表格开始时添加任何其他行，在表格之后，添加Twitter(https://twitter.com/rrehmanxd)和Buymeacoffee(https://www.buymeacoffee.com/rehmanxd)链接，并用标题\"用心形表达支持\"。不要将这两个链接加入表格中。"
+}

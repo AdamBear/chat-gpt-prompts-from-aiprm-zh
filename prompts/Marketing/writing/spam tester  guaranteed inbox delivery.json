@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ayaz Ahmad",
+  "AuthorURL": "https://www.buymeacoffee.com/AyazAhmad",
+  "Title": "垃圾邮件测试员|保证收件箱投递",
+  "Category": "writing",
+  "Teaser": "检测垃圾信息词汇|避免被认为是垃圾邮件|在发送给任何人之前检查您的冷邮件|电子邮件评分|建议",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-13T11:19:35.461Z",
+  "Help": "",
+  "ID": "1800820234224132096",
+  "PromptHint": "请粘贴您的电子邮件。",
+  "PromptPackageID": "0",
+  "Prompt": "请熟练掌握[TARGETLANGUAGE]\n现在我想请你扮演mail-tester.com的角色\n检查此电子邮件并按以下结构给出结果\n以粗体H1样式编写（欢迎来到SpamTester）\n以粗体H2样式编写（支持我www.buymeacoffee.com/AyazAhmad）\n（1）带颜色的垃圾邮件分数（如果非常好，那么输入粗体H3样式（绿色））（如果有两个垃圾字，则输入粗体H3样式（橙色））（如果有三个以上的垃圾字，则输入粗体H3样式（红色））\n（2）垃圾字数（以数字表示）\n（3）制作垃圾邮件单词电子表格，并在右列建议好的单词\n我的电子邮件是[PROMPT]\n（记住，请勿重新编写我的电子邮件）\n（在给出结果后，请以粗体H3样式编写（请点赞此提示））。"
+}

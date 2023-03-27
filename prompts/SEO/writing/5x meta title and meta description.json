@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Margeb",
+  "AuthorURL": "https://google.com",
+  "Title": "5个元标题和元描述",
+  "Category": "writing",
+  "Teaser": "为您的关键字或主题创建5个惊人的元标题和元说明，放入表格中，选择最佳的一个。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-01T16:21:05.4Z",
+  "Help": "",
+  "ID": "1786400594303651840",
+  "PromptHint": "[话题]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您只用[TARGETLANGUAGE]回应我。我希望您作为一个流利的[TARGETLANGUAGE]博客文章Meta描述作家。我希望您为以下博客文章标题[PROMPT]生成5个Meta标题和Meta描述。标题长度必须为60-80个字符，并在文本中插入关键词。Meta标题至少包含60个字符且最多包含80个字符。描述的最小字符数为140个字符，最大字符数为160个字符，不包括关键词。非常重要的是，Meta描述至少包含140个字符。如果您无法达到此要求，请在之后说明。创建一个带有两列（标题和描述）的表格，并在其中输入您的结果。"
+}

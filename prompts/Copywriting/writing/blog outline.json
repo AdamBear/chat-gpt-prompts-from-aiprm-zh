@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WebTechTips",
+  "AuthorURL": "https://www.webtechtips.co.uk",
+  "Title": "博客提纲",
+  "Category": "writing",
+  "Teaser": "从博客标题中创建博客概要",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-31T18:56:05.275Z",
+  "Help": "",
+  "ID": "1786077212940959744",
+  "PromptHint": "[博客标题]",
+  "PromptPackageID": "0",
+  "Prompt": "您是一名精通SEO和内容撰写的专家，能够流利地使用目标语言。我将提供一个博客标题，您可以根据需要开发出详细的大型博客大纲[PROMPT]，并在最后添加一个关键词列表。"
+}

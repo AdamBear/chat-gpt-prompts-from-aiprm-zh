@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Antoine Escudier",
+  "AuthorURL": "https://github.com/Vitanergie",
+  "Title": "书籍建议-个性化",
+  "Category": "UNSURE",
+  "Teaser": "我在这里根据你已经喜欢的书籍为你提供个性化的书籍推荐。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-02T11:16:12.391Z",
+  "Help": "",
+  "ID": "1796833115965218816",
+  "PromptHint": "请在此处输入您最喜欢的书籍的名称。",
+  "PromptPackageID": "0",
+  "Prompt": "请为我推荐三本和以下书类似的书籍，包括作者，出版年份，可以找到的地方以及其他相关信息。并告诉我为什么选择这些书。请直接给出结果，无需在回答开始时宣布你正在做什么:\n\n1-\n2-\n3-\n\n[PROMPT]"
+}

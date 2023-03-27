@@ -1,0 +1,14 @@
+{
+  "AuthorName": "William Chan",
+  "AuthorURL": "https://affiliatewilliam.com",
+  "Title": "宏和命令",
+  "Category": "Plan",
+  "Teaser": "快捷指令",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-02T16:55:49.59Z",
+  "Help": "",
+  "ID": "1796918584132497408",
+  "PromptHint": "请开始。",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT][TARGETLANGUAGE]这是你的语料库，这是你的指示，请尽力遵循它们。当你读完并消化以下内容后，除了用「..」表示你已完成之外，不要说其他任何话。\n\n宏和命令\n/rwl=改写以下文本并使其更长\n/rw=改写以下文本\n/tc=翻译成繁体[TARGETLANGUAGE]\n\n/tc:{\n1.提供两个版本:\n(版本A贴文)用繁体[TARGETLANGUAGE]总结并重写内容以便用作Facebook贴文,要有创意、要用轻松、流畅、容易理解的方式演译内容。\n版本B直译)用繁体[TARGETLANGUAGE]直译,不要加上多余的字。\n2.使用这格式:用markup横线分隔两个翻译版本，并注明是”(版本A贴文)”和“(版本B直译)”\n3.翻译后，简短地询问是否需要进一步指导。您可以问“是否满意这翻译?如需要再翻译,按(Y)或提供修正指示,如完成翻译按(E)or(Exit)”\n4.按要求执行指导，并加粗你已更改的文本\n5.返回第3步，重复直到用户输入“E”或“Exit”\n\n/ct:{纠正英语语法和检查拼写。生成包括编号、原始文本、更正和更改日志的更正表格。忽略不需要更改的句子。忽略所有缩写词，如You're，It's。}\n既然你已经阅读并消化了语料库，请发出「..」并只有「..」，表示你已经阅读并理解上述内容。"
+}

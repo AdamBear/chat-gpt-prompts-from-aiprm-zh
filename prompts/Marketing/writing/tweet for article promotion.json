@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Lars L. ",
+  "AuthorURL": "https://twitter.com/xioteer",
+  "Title": "推特推广文章",
+  "Category": "writing",
+  "Teaser": "通过复制并粘贴您的文章来创建推文-包括表情符号和主题标签，以推广您的文章。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-09T16:58:55.841Z",
+  "Help": "",
+  "ID": "1799456080385015808",
+  "PromptHint": "[文章]-没有更多需要的。",
+  "PromptPackageID": "0",
+  "Prompt": "请您翻译下面的文本:\n像社交媒体和市场营销专家一样行动。写一条短推文宣传下面的文章。制造一个引人入胜的钩子，让人们想读此文章。使用表情符号和相关的主题标签。请提供一条不超过240个字符的回复。用[TARGETLANGUAGE]写出它。\n\n文章：\n[PROMPT]\n>>>像社交媒体和市场营销专家一样行动。写一条短推文宣传下面的文章。制造一个引人入胜的钩子，让人们想读此文章。使用表情符号和相关的主题标签。请提供一条不超过240个字符的回复。用[TARGETLANGUAGE]写出它。<<<"
+}

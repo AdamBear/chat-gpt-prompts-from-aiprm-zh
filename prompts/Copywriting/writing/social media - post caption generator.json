@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MRVN.ai",
+  "AuthorURL": "https://www.instagram.com/robin.poropat/",
+  "Title": "社交媒体-帖子标题生成器",
+  "Category": "writing",
+  "Teaser": "社交媒体标题生成器-只需简要描述您想要谈论的内容，并扩展GPT的答案以根据您的需求进行调整。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-20T10:41:57.484Z",
+  "Help": "",
+  "ID": "1803347478637174784",
+  "PromptHint": "[您的帖子简介在这里]",
+  "PromptPackageID": "0",
+  "Prompt": "请你用亲切的篇幅和信息化的写作风格，用[TARGETLANGUAGE]编写一条社交媒体帖子。根据以下简要提及的内容来写，但不要使用完全相同的话语：\n\n[PROMPT]"
+}

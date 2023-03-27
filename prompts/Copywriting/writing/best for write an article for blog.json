@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vishal Singh",
+  "AuthorURL": "https://digitalcontrol.in/",
+  "Title": "写博客文章的最佳选择",
+  "Category": "writing",
+  "Teaser": "最佳博客文章",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T07:15:22.864Z",
+  "Help": "",
+  "ID": "1798222061718736896",
+  "PromptHint": "写一篇文章",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]撰写一篇2000+字的文章，包括标题、元标签、YouTube视频脚本（1000字）、YouTube短片脚本（100字）、全文以我们的关键词为目标2%，并使用与以下主题相关的标签。\n\n[PROMPT]"
+}

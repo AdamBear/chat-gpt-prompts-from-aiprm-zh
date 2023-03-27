@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Eduardo",
+  "AuthorURL": "https://www.google.com/",
+  "Title": "有史以来最好的编程总结工具",
+  "Category": "Web Development",
+  "Teaser": "有史以来最好的编程总结工具。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-13T11:49:13.281Z",
+  "Help": "",
+  "ID": "1800827690941677568",
+  "PromptHint": "你想总结哪种编程语言？",
+  "PromptPackageID": "0",
+  "Prompt": "你将用最简单最短的语言解释如何操作，最多用三句话。如果涉及编程，可附上'HelloWorld'示例代码。请以以下文本为例：[PROMPT]"
+}

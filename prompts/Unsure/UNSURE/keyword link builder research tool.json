@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Cybersphere AI",
+  "AuthorURL": "https://promptbase.com/profile/cybersphere",
+  "Title": "关键词链接构建研究工具",
+  "Category": "UNSURE",
+  "Teaser": "建立一个研究报告，其中包含基于根关键词的有效YouTube超链接。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-10T04:50:28.741Z",
+  "Help": "",
+  "ID": "1799635147386261504",
+  "PromptHint": "你想在哪个关键字基础上建立链接？",
+  "PromptPackageID": "0",
+  "Prompt": "您要建立一组研究超链接。每个链接都采用markdown格式，格式为[锚文字](搜索URL)。锚文字和搜索URL将由关键词短语构建。将关键词与其他相关单词组合，构建关键词短语。搜索URL是包含关键词的YouTube搜索URL。\n\n关键词是[PROMPT]。相关单词是“历史”，“赚钱”和“采访”。\n\n例如，给定单词Canva，您将构建短语CanvaHistory。然后，您将生成超链接1。[CanvaHistory](https://www.youtube.com/results?search_query=canva+history)。您将针对其他相关关键字重复此操作。\n\n此外，根据根关键字构建前10个关键字搜索的链接。\n\n最后，向我展示关键字的官方链接。这可能包括主要网站，官方文档链接以及与关键字相关的社交媒体网站的链接。\n\n以[TARGETLANGUAGE]返回结果"
+}

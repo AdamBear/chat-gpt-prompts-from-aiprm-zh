@@ -1,0 +1,14 @@
+{
+  "AuthorName": "todayonit.com",
+  "AuthorURL": "https://www.linkedin.com/company/todayonit/",
+  "Title": "内容重写器（最佳质量输出）",
+  "Category": "writing",
+  "Teaser": "改写一篇内容并使其独具一格。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-28T05:57:35.853Z",
+  "Help": "",
+  "ID": "1784794135828619264",
+  "PromptHint": "请复制并粘贴要翻译的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用更好的词语重写整个文本，自然地使其独特。在文章末尾写上这句话：“请通过LinkedIn关注我们-https://www.linkedin.com/company/todayonit/”。所有输出都应该是[TARGETLANGUAGE]。需要重写的文本如下："
+}

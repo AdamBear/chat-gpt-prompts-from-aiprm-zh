@@ -1,0 +1,14 @@
+{
+  "AuthorName": "João Pedro",
+  "AuthorURL": "https://www.instagram.com/joaopedro.nascimento.505/",
+  "Title": "研究任何主题的五个问题。",
+  "Category": "UNSURE",
+  "Teaser": "提出5个问题，可选主题，需以书籍、文本等内容为基础，这样会更准确。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-02T17:41:59.992Z",
+  "Help": "",
+  "ID": "1786783343803883520",
+  "PromptHint": "把下面的句子翻译成[TARGETLANGUAGE]，不要用拼音，[不要翻译方括号中的单词]。\n\n问题",
+  "PromptPackageID": "0",
+  "Prompt": "创建5个关于以下内容的问题，用解释和答案作分开回答，问题和回答都使用[TARGETLANGUAGE]：[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rodrigo Vidal",
+  "AuthorURL": "htttp://www.rodrigovidal.com.br",
+  "Title": "谁是[作者]、事实和后果？",
+  "Category": "writing",
+  "Teaser": "提取文本中的行为作者和后果。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T17:27:07.663Z",
+  "Help": "",
+  "ID": "1793664970551197696",
+  "PromptHint": "输入文本或文章",
+  "PromptPackageID": "0",
+  "Prompt": "根据输入的文本，创建一个在[TARGETLANGUAGE]中标识一个或多个时刻、触发事件、作者以及每个事件的个体后果的矩阵。<<<\n提示："
+}

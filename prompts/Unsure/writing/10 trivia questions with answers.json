@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AyChuck",
+  "AuthorURL": "http://www.twitter.com/AyChuck",
+  "Title": "十个带答案的小问题",
+  "Category": "writing",
+  "Teaser": "根据给定的主题编写10个问答游戏问题，包括每个问题的正确和错误答案。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-15T04:29:19.891Z",
+  "Help": "",
+  "ID": "1791294904534827008",
+  "PromptHint": "[主题]",
+  "PromptPackageID": "0",
+  "Prompt": "写出10道基于[PROMPT]的[TARGETLANGUAGE]小测验问题。请包括3个错误答案（每个答案都必须是独特的，不能重复）和1个正确答案。尽量避免出现太容易的问题。"
+}

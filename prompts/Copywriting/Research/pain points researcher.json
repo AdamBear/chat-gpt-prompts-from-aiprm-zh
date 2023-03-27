@@ -1,0 +1,14 @@
+{
+  "AuthorName": "InfoMA",
+  "AuthorURL": "https://www.google.com/",
+  "Title": "疼痛点研究员",
+  "Category": "Research",
+  "Teaser": "创建一个问题清单，其中最常与产品相关的。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-15T12:59:01.741Z",
+  "Help": "",
+  "ID": "1791423174110601216",
+  "PromptHint": "[你想研究的产品描述]",
+  "PromptPackageID": "0",
+  "Prompt": "作为研究员，以[TARGETLANGUAGE]列出人们与以下产品或服务相关的主要痛点、角度和问题清单。该产品或服务是：\n\n[PROMPT]"
+}

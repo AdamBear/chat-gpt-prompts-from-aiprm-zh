@@ -1,0 +1,14 @@
+{
+  "AuthorName": "@FlorianKluge",
+  "AuthorURL": "https://twitter.com/floriankluge",
+  "Title": "更好的内容大纲",
+  "Category": "ideation",
+  "Teaser": "通过麦肯锡的MECE框架，超级充电您的内容生产。创建详尽、有说服力的内容大纲，包括建议字数、语义FAQ列表以及不容忽视的吸引人的标题。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-23T13:50:22.457Z",
+  "Help": "",
+  "ID": "1783101174661255168",
+  "PromptHint": "[插入主题]",
+  "PromptPackageID": "0",
+  "Prompt": "请使用MECE框架，为我们的[TARGETLANGUAGE]作者创建一个详细的长形式内容大纲，主题是：“[PROMPT]”。此外，为文章提供一个简短而引人注目的标题，并估计每个小标题的字数。使用向量表示技术列出语义上相似的常见问题。以markdown格式生成输出。请不要撰写文章，只为作者撰写大纲。不要提醒我您所请求的内容。不要道歉。不要自我参照。"
+}

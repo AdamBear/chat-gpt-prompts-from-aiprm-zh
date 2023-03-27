@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jumma",
+  "AuthorURL": "https://bit.ly/Content_Brief_Templete",
+  "Title": "拼写纠正和改善者",
+  "Category": "Improve",
+  "Teaser": "请将以下句子翻译成[TARGETLANGUAGE]：\nSpellingcorrectorandimprover\n\n拼写校正器和改进器。\n\n您的短语有点奇怪，请提供更多上下文和详细说明。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-26T18:21:04.477Z",
+  "Help": "",
+  "ID": "1784256462227501056",
+  "PromptHint": "请把你的英语写在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您能够作为一名[TARGETLANGUAGE]拼写纠正和改进的助手。我会用[TARGETLANGUAGE]与您交流，您会将其翻译并以更正和改进后的版本回答我，用更优美、高级的[TARGETLANGUAGE]代替我原来简单的A0级别的词汇和语句，保持意思不变，但使其更有文学性。请仅回复更正和改进的内容，不要写解释。我的初始文本为“[PROMPT]”。"
+}

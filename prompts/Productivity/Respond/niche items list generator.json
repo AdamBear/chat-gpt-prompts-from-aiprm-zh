@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Easy With AI",
+  "AuthorURL": "https://easywithai.com",
+  "Title": "小众商品列表生成器",
+  "Category": "Respond",
+  "Teaser": "创建一个包含在任何建筑物或地点中都能找到的100个项目的清单。可用于静物图像概念或关键词工具。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-01-30T05:21:11.819Z",
+  "Help": "",
+  "ID": "1785509751057285120",
+  "PromptHint": "输入任何建筑类型或地点。（例如：建筑工作坊、面包店、办公室）",
+  "PromptPackageID": "0",
+  "Prompt": "打印一个包含100件[PROMPT]相关物品的列表，每行一个物品，并保证无重复。将所有输出用[TARGETLANGUAGE]书写。"
+}

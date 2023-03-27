@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Muhammad Faizan",
+  "AuthorURL": "https://deviceszone.com/",
+  "Title": "博客文章标题生成器",
+  "Category": "Accounting",
+  "Teaser": "写5个吸引人眼球的博客文章标题。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-25T15:45:21.123Z",
+  "Help": "",
+  "ID": "1783854885494853632",
+  "PromptHint": "请输入您的关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "用[TARGETLANGUAGE]写一个[PROMPT]相关的文章标题，风格：[信息性]，语气：[专业]。标题长度要在40到60个字符之间。"
+}

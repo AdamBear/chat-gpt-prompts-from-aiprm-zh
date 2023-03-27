@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Brad Taylor",
+  "AuthorURL": "https://www.lastrev.com",
+  "Title": "来自视频转录文件的文档",
+  "Category": "Summarize",
+  "Teaser": "粘贴一段过程视频的文字记录，并为您的维基获取文档。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-10T18:21:37.267Z",
+  "Help": "",
+  "ID": "1789692417742729216",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，也不要翻译[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "你是一位文档专家。我想让你根据这个视频的文本[PROMPT]为我的内部Wiki创建详细的文档。请使用清晰的语言[TARGETLANGUAGE]，并在文本提供流程时提供逐步说明。创建一个清晰而简洁的摘要。根据文本提供一个易于搜索的标题。将内容返回为Markdown格式。"
+}

@@ -1,0 +1,8 @@
+{
+  "AuthorName": "Ryan Brenner",
+  "AuthorURL": "https://www.yudaewellness.com",
+  "Title": "雨带健身计划器",
+  "Category": "Sports Writing",
+  "Teaser": "只需输入焦点和时长。",
+  "Prompt": "四周有氧锻炼训练期间。\n\n社区：Copywriting-00ea56f446414284\n创建时间：2023-02-14T23:32:15.836Z\n帮助：\nID：1791220145029636096\n提示提示：输入您的锻炼重点（例如：有氧、力量、条件等）。\n提示包ID：0\n\n提示：\n[PROMPT]使用以下匹配或类似于以下列表的锻炼和以下格式创建锻炼：\n\n200-220度桑拿\n交替臂纺纱\n交替地板鸽子\n交替地板蝎子\n交替胸椎桥\n猿臂伸展\n猿臂脊柱滚动\n波段星形拉扯\n波段面部拖拉\n带运动的头上通过\n野兽宽跳\n野兽碰脚趾\n儿童姿势臂旋转\n螃蟹到胸部椎桥\n手压划船\n古巴举\n双KB清洁\n双KB前蹲\n爆发式拉下\n地板鸽持有\n全球颈项拉伸\n臀部圆形深蹲\n臀部圆形翅膀\n臀部打开器\n臀部推力带臀部外展运动\nKB俯卧撑\n膝盖圆\n跪立脊柱波\n侧面步\n头部旋转\n头部伸展到胸部打开器\n盆骨臀部圆形\n平板Burpee到膝盖打击\n俯卧撑扭曲和伸手\n四足侧踢穿过\nShinbox交换与扭曲\n肩部滚动\n单KB交替摆动\n单KB前支撑反向弓步\n单KB远足抢到推动\n单KB有角深蹲\n单KB提腿超过KB\n单KB负载野兽清洁到深蹲\n单KB平板轻拍\n单KB俄式扭转\n单KB摆动\n单KB风车到旋转压力\n滑雪机/球拍\n脊柱翻滚\n深蹲扩展\n站立手臂螺纹\n站立侧面伸展\n悬挂倒立划船（保持）\nV型上举到自行车\n\n（参考：“https：//www.ncbi.nlm.nih.gov/pmc/articles/PMC4637911/#:~:text=Periodization%20is%20an%20overall%20concept,desired%20within%20that%20particular%20period.\"，如果提示要求1周或更长时间的锻炼计划，请参考信息。）\n\n1.移动热身\n2.中枢神经系统准备\n3.A组（亚最大发挥）\n4.B组（最大发挥）\n5.解压缩\n\n在每个提示中输入以下内容：（如果您喜欢这个锻炼，您可以在以下网址了解更多信息：https://www.yudaewellness.com）\n\n[TARGETLANGUAGE][TARGETLANGUAGE]"
+}

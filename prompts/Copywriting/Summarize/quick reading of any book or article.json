@@ -1,0 +1,14 @@
+{
+  "AuthorName": "chikicho",
+  "AuthorURL": "https://twitter.com/SinteticAnarCap",
+  "Title": "快速阅读任何书籍或文章。",
+  "Category": "Summarize",
+  "Teaser": "超级答案，详细页面的翻译，速读技巧",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-01T02:39:52.117Z",
+  "Help": "",
+  "ID": "1796340787412463616",
+  "PromptHint": "快速阅读任何书或文章。",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]中，清晰和详细地解释以下内容：基于所提供的文本以及你认为必要的补充内容。另外，请确保你的语言最为直接和易于理解。\n\n[PROMPT]"
+}

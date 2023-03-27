@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Andrew Lemacks",
+  "AuthorURL": "https://lemacksmedia.com",
+  "Title": "重叠语音脚本生成器",
+  "Category": "Script Writing",
+  "Teaser": "创建一个脚本来阅读描述，从而使您能够生成您选择的主题的配音。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T20:54:09.227Z",
+  "Help": "",
+  "ID": "1794441846097973248",
+  "PromptHint": "你想让你的脚本主题是什么？",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个声音脚本，长度为10分钟的[TARGETLANGUAGE]，读取和录制，使用这个主题：[PROMPT]。"
+}

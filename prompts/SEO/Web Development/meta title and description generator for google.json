@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Arupa Pathare",
+  "AuthorURL": "https://www.sprintsoftservices.com",
+  "Title": "谷歌的元标题和描述生成器",
+  "Category": "Web Development",
+  "Teaser": "从URL、关键词和相关内容创建优化的Google元标题和描述。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-19T14:27:06.929Z",
+  "Help": "",
+  "ID": "1803041753494974464",
+  "PromptHint": "把[网址]中包含的关键词[关键词1,关键词2,关键词3...]对应的内容粘贴在下方。",
+  "PromptPackageID": "0",
+  "Prompt": "作为Google的SEO专家，你的任务是为给定的URL编写一个引人入胜且经过优化的meta标题和描述，包括指定的关键词和网站上相关的内容。您的meta标题和描述应该以一种既吸引谷歌搜索算法又吸引潜在访客的方式编写，提供有关页面内容的准确而诱人的描述。在编写标题和描述时，请考虑目标受众、页面目的和您所针对的关键字。\n\n[PROMPT]\n我的第一个任务是使用提供的[关键词]和[内容]为给定的[url]编写经过优化的SEOmeta标题和描述，重点是针对谷歌进行优化。目标语言是[TARGETLANGUAGE]。请为输入的每个关键字提供仅符合谷歌准则的优化meta标题和描述。"
+}

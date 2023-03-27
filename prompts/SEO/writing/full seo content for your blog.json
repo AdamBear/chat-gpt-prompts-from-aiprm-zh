@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Fixingdone",
+  "AuthorURL": "https://www.fixingdone.com/",
+  "Title": "为您的博客制作完整的SEO内容",
+  "Category": "writing",
+  "Teaser": "从一个关键词创建关键词策略和全面的SEO内容计划",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-16T10:19:39.561Z",
+  "Help": "",
+  "ID": "1791745455286390784",
+  "PromptHint": "输入关键字名称或博客标题",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n[TARGETLANGUAGE][PROMPT]\n>>>"
+}

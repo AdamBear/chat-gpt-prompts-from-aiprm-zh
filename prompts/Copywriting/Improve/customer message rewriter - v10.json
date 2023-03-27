@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bastei",
+  "AuthorURL": "https://twitter.com/thebastei",
+  "Title": "客户留言重写-V1.0",
+  "Category": "Improve",
+  "Teaser": "将您的文字轻松地转化为专业的客户邮件。只需提供一个草图，魔法就会发生！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T09:05:52.849Z",
+  "Help": "",
+  "ID": "1800424197084938240",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：只翻译中括号[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "请将[PROMPT]重写为向客户发送的信息，使用[TARGETLANGUAGE]。>>>"
+}

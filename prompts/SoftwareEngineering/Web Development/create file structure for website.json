@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Inxx",
+  "AuthorURL": "https://www.example.com",
+  "Title": "为网站创建文件结构",
+  "Category": "Web Development",
+  "Teaser": "为网站创建最佳的文件结构。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-10T17:07:10.889Z",
+  "Help": "",
+  "ID": "1799820544632418304",
+  "PromptHint": "写下网站名称和其所提供的服务。",
+  "PromptPackageID": "0",
+  "Prompt": "你能否提供一个名为[PROMPT]的网站的项目文件结构示例？该文件结构应包括html、css、javascript、php和图像文件以及其他必要文件。请记得包括html文件。请为一个具有大量文件的完整网站定制结构。全部用[TARGETLANGUAGE]编写。"
+}

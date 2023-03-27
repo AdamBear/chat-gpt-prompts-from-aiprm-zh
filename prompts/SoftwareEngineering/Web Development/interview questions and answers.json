@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ram",
+  "AuthorURL": "https://www.buymeacoffee.com/techmantra",
+  "Title": "面试问题和答案。",
+  "Category": "Web Development",
+  "Teaser": "在你做下一次跳槽的面试准备时，快速找到并学习，轻松通过面试。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-02-12T16:19:58.221Z",
+  "Help": "",
+  "ID": "1790386579056091136",
+  "PromptHint": "请输出以下句子的[TARGETLANGUAGE]翻译：\n输入技能名称，以获取最相关的面试问题。",
+  "PromptPackageID": "0",
+  "Prompt": "<<<\n[PROMPT]的十个常见面试问题以及它们的答案。\n[TARGETLANGUAGE]\n>>>\n\n[PROMPT]的十个常见面试问题以及它们的答案。\n[TARGETLANGUAGE]"
+}

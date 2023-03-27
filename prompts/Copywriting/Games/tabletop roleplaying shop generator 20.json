@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kyle",
+  "AuthorURL": "https://www.patreon.com/GameMasterKyle",
+  "Title": "桌上角色扮演店生成器2.0",
+  "Category": "Games",
+  "Teaser": "生成一家完整的商店，出售与D&D或Pathfinder兼容的随机物品。输入商店主题，例如“奇幻炼金术”。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-15T19:26:00.204Z",
+  "Help": "",
+  "ID": "1791520559402840064",
+  "PromptHint": "店铺主题【幻想炼金术】",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个列表，列出[PROMPT]主题商店中的物品，适用于龙与地下城或Pathfinder这样的TTRPG游戏。\n\n对于列表中的每个物品，生成一个{项目名称}，{类别}，{子类别}，{简短描述}，{成本}和{数量}。\n\n[category=以下销售物品的类别。任何与幻想[PROMPT]主题商店相匹配的任何内容。]\n\n[子类别=下面出售物品的子类别或稀有度。任何您认为与[PROMPT]主题商店相匹配的子类别或稀有度。]\n\n[项目名称=出售的[PROMPT]主题物品。]\n\n[简短描述=出售物品的简短描述不超过一句话。]\n\n[成本=该物品的价值为金（gp），银（sp）和/或铜（cp），遵循此格式[数字]gp]\n\n稀有度越高，价格越高。\n\n[数量=商贩拥有该物品的数量。物品越稀有/更昂贵，商贩拥有的物品越少。]\n\n如果您认为符合主题，请生成尽可能多的类别，子类别和/或物品以创建一个完全开发的[PROMPT]主题商店，与D＆D和Pathfinder兼容。\n\n从自制，您可以想象出来的类别，子类别和/或物品，任何与主题相匹配的TTRPG系统，D＆D和/或Pathfinder中生成。\n\n用医学表格格式编写。\n\n|Category|Subcategory|ItemName|ShortDescription|Cost|Quantity|\n|----------|------------|-----------|------------------|------|----------|\n|Weapons|Swords|Lightning'sEdge|Afinely-craftedswordmadeofanunknownmetalthatcrackleswithelectricity|2500gp|1|\n|Weapons|Bows|ShadowHunter|Asleekebonybowwithsilverarrowsthatcanphasethroughobstacles|3000gp|1|\n|Armor|HeavyArmor|BlessedPlate|Shimmeringplatearmorimbuedwithdivinemagicthatprotectsagainstattacksandspells|5000gp|1|\n|Armor|LightArmor|ElvenChainmail|Lightweightchainmailcarefullycraftedbyskilledelvenartisansthatenhancesmobility|1500gp|2|\n|Potions|Healing|EssenceofLife|ApotentredpotioncapableofrestoringmassiveamountsofHPandcuringailments|750gp|5|\n|Potions|Utility|ElixirofInvisibility|Aclearpotionthatrendersthedrinkerinvisibleforashortperiodoftime|1000gp|3|\n|Scrolls|Offensive|MeteorSwarm|Apowerfulscrollthatunleashesabarrageofmeteorsdevastatingtoallinitspath|4000gp|1|\n|Scrolls|Defensive|ShieldofForce|Adefensivescrollthatcreatesanimpenetrableshieldofmagicalenergy|2500gp|2|\n|WondrousItems|Rings|RingofTeleportation|Asilverringthatallowsthewearertoteleportashortdistanceatwill|2000gp|1|\n|WondrousItems|Amulets|AmuletofFlight|Ajeweledamuletthatgrantsthewearertheabilitytoflyforalimitedtime|2500gp|1|"
+}

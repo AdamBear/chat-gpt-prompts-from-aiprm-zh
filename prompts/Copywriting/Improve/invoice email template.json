@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SaldoInvoice",
+  "AuthorURL": "https://saldoinvoice.com/blog/how-to-write-an-invoice-email/",
+  "Title": "发票电子邮件模板",
+  "Category": "Improve",
+  "Teaser": "创建过期发票电子邮件并使这个过程更加容易！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T10:14:53.782Z",
+  "Help": "",
+  "ID": "1800441565416787968",
+  "PromptHint": "[客户名称，公司名称，发票金额，发票编号]",
+  "PromptPackageID": "0",
+  "Prompt": "尊敬的[客户名称],\n\n希望您一切都好。这封电子邮件是来自[公司名称]的友好提醒，您的发票[发票ID]的支付金额[InvoiceAmount]已经过期。\n\n我们恳请您尽快付款。准时收到付款对我们维持业务运营至关重要。\n\n请告诉我们您的付款状态。如果您已经付款，请忽略此电子邮件。但是，如果您对付款有任何疑虑或问题，请随时与我们联系。\n\n感谢您关注此事并继续支持我们的业务。\n\n此致，\n\n[公司名称]"
+}

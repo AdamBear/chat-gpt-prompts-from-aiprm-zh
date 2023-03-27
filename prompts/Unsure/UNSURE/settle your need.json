@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jamil",
+  "AuthorURL": "https://space.bilibili.com/441609453",
+  "Title": "解决您的需求。",
+  "Category": "UNSURE",
+  "Teaser": "实用类",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-13T13:31:16.107Z",
+  "Help": "",
+  "ID": "1800853371935264768",
+  "PromptHint": "请告诉我您的需求。",
+  "PromptPackageID": "0",
+  "Prompt": "我的需求是[PROMPT]。请用简明的语言告诉我2个可能的解决方案，并且尽可能详细和精确地给出每个解决方案的实施步骤。请使用[TARGETLANGUAGE]输出。"
+}

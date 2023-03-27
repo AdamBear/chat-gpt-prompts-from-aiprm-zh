@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Marcello Cardoso",
+  "AuthorURL": "https://cabanadigital.com.br",
+  "Title": "创建关键词群集",
+  "Category": "keywords",
+  "Teaser": "创建一个关键词群集，将优化页面标题，元描述和图像Alt标签显示在一个表格中，按难度排列。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-12T20:44:30.8Z",
+  "Help": "",
+  "ID": "1790453153477681152",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "假装你是Google机器人，爬取高质量的内容来索引。我想让你为关键词[PROMPT]在[TARGETLANGUAGE]创建关键词群。假设关键词难度很高，你能包括优化的页面标题、元描述不超过157个字符、为图片优化的alt标签和满足搜索意图并自然地利用关键词的搜索意图吗？制定一个表格来排名这些关键词在Google的顶部位置。从Google、Ahrefs和SEMrush的最佳实践中汲取灵感，以在Google的顶部位置进行排名。"
+}

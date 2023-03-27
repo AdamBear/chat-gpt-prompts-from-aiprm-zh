@@ -1,0 +1,14 @@
+{
+  "AuthorName": "venominz",
+  "AuthorURL": "https://www.venominz.com/",
+  "Title": "寻找科学期刊标题的参考文献",
+  "Category": "Plan",
+  "Teaser": "制作科学期刊标题及其参考文献",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-04T00:50:31.906Z",
+  "Help": "",
+  "ID": "1797400435490029568",
+  "PromptHint": "输入课程名称。",
+  "PromptPackageID": "0",
+  "Prompt": "请使用现有的参考文献，以[TARGETLANGUAGE]语言撰写有关信息系统专业中[PROMPT]的若干科学期刊标题。"
+}

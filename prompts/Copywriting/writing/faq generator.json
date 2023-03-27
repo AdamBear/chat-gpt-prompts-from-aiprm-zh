@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Roocha Pradhan",
+  "AuthorURL": "https://www.linkedin.com/in/roocha-pradhan-16778826/",
+  "Title": "常见问题生成器",
+  "Category": "writing",
+  "Teaser": "只需输入主题名称，即可获得以问答形式编写的SEO友好型FAQ。使用“more”以在内容生成后获得更多FAQ。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-13T09:23:05.838Z",
+  "Help": "",
+  "ID": "1800790917620428800",
+  "PromptHint": "输入主题名称",
+  "PromptPackageID": "0",
+  "Prompt": "撰写有关[目标语言中PROMPT]的搜索引擎友好型的常见问题和答案，采用问答式样，包括与[PROMPT]相关的关键词。"
+}

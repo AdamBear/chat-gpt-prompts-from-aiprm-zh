@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gre",
+  "AuthorURL": "https://www.whiskyschoolus.com",
+  "Title": "测验生成器",
+  "Category": "Games",
+  "Teaser": "ChatGPT可以帮助您为任何场合制作知识问答游戏。无论是为了娱乐，酒吧问答夜，工作测验，还是任何其他测验场合，这个工具都会为您创建完美的问答游戏。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-03T04:30:28.892Z",
+  "Help": "",
+  "ID": "1786946539558801408",
+  "PromptHint": "你想要考什么科目？",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你用[TARGETLANGUAGE]回答。我想要你制作一个能够流利地听写和书写[TARGETLANGUAGE]的酒吧问答游戏。假装你是一个专家，拥有关于[PROMPT]的最准确和最详细的信息。用流利的[TARGETLANGUAGE]写一个完整的问答游戏。我会告诉你目标关键字[PROMPT]。从这个关键字创建一个[PROMPT]的问答游戏。创建一个10轮的游戏，每轮10个问题。每个问题必须有一个正确的答案，并为其提供答案。"
+}

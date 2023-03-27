@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Furat Jarad",
+  "AuthorURL": "https://www.linkedin.com/in/furatjarad/",
+  "Title": "提升您的电子商务网站搜索引擎优化与元标签。",
+  "Category": "writing",
+  "Teaser": "为电商产品网站创建SEO优化的标题标签和元描述，例如：“TommyHilfiger美国男装”。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-18T15:06:25.55Z",
+  "Help": "",
+  "ID": "1802689258402873344",
+  "PromptHint": "来自[你的品牌]的[你的产品或类别名称]在[你的目标市场]中。",
+  "PromptPackageID": "0",
+  "Prompt": "买家意图SEO标题标记生成器，输出内容为[TARGETLANGUAGE]。\n\n使用[PROMPT]生成20个SEO标题标记，在最大65个字符的范围内反映电子商务网站的交易意图，包括适当的呼吁行动和流行的电子商务术语，尽量在同一标题标记或元描述中包含所有插入的[PROMPT]，并考虑使用以下单词：购买，购物，在线，实惠的价格，出售，最好的，免费送货，规格，“在”+（PROMPT中提到的目标市场），“来自”+（PROMPT中提到的品牌）。还要使用相同的单词混合[PROMPT]生成20个最大长度为155个字符的元描述。输出应为标题标记和相应元描述的表格形式。\n\n不要提出国家名称，除非在其前面加上“在”。\n\n不要在同一标题或元描述中使用重复的单词。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Giuseppe Forciniti",
+  "AuthorURL": "https://gforci.com/",
+  "Title": "获取一个没有人工智能幻觉的答案。",
+  "Category": "Respond",
+  "Teaser": "得到一个没有AI幻觉的答案。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-11T06:02:07.283Z",
+  "Help": "",
+  "ID": "1789868704406958080",
+  "PromptHint": "只需将以下句子翻译成[TARGETLANGUAGE]，不要翻译[]中的单词：\n\n只要在[PROMPT]中编写您的问题，即可获得真实的答案或“我不知道”的回答。",
+  "PromptPackageID": "0",
+  "Prompt": "对不起，我不知道。<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CareManagers",
+  "AuthorURL": "https://caremanagers.co.uk",
+  "Title": "求职信",
+  "Category": "writing",
+  "Teaser": "AI助力工具，能帮助您在几分钟内撰写专业且个性化的求职信。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T00:33:56.553Z",
+  "Help": "",
+  "ID": "1790510891230556160",
+  "PromptHint": "【工作职称】",
+  "PromptPackageID": "0",
+  "Prompt": "我想让你扮演一个寻找工作的求职者。写一封[TARGETLANGUAGE]岗位的求职信。\n[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ian",
+  "AuthorURL": "https://contractorgrowthnetwork.com/",
+  "Title": "关键词策略",
+  "Category": "keywords",
+  "Teaser": "制定关键词策略",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-03T20:53:07.765Z",
+  "Help": "",
+  "ID": "1797340691232452608",
+  "PromptHint": "屋顶覆盖",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是基于【PROMPT】生成一个20个关键词的列表，然后为每个关键词生成3个博客主题。第一个博客应符合信息搜索意图，第二个博客应为比较或“如何”博客，第三个博客应关注关键词的成本。完成所有这些后，将所有内容放入表格中。所有输出应为[TARGETLANGUAGE]。"
+}

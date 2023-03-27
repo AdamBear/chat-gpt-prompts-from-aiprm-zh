@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hiam Custódio",
+  "AuthorURL": "https://www.instagram.com/hiam.ads/",
+  "Title": "关键词优化策略",
+  "Category": "keywords",
+  "Teaser": "为您的计划创建策略关键词。[关键词]",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-17T14:40:27.978Z",
+  "Help": "",
+  "ID": "1802320337606807552",
+  "PromptHint": "[关键词]或关键词列表",
+  "PromptPackageID": "0",
+  "Prompt": "创建一个表格，列出在[TARGETLANGUAGE]市场上关于[nicho][KEYWORD]的最佳关键词。提供每个关键词的详细信息，同样根据每个唯一的单词，在该语言[TARGETLANGUAGE]所在的国家中显示精确的平均每月搜索量，并按主题进行分组。请勿使用太过一般的关键词，例如“介绍”或“结论”或“网络简称”。专注于具有最高购买意向的关键词。请勿在您填写的任何列中使用单引号、双引号或任何其他分隔符号。Markdown表必须用[TARGETLANGUAGE]编写，并具备以下列：CPC、平均搜索量、关键词、搜索意图。CPC和平均搜索量必须基于[TARGETLANGUAGE]的货币和国家，平均搜索量基于精确每个关键词的Google关键词计划程序。CPC应该是顶部出价。关键词应是搜索量最大、购买意向最强的关键词。这里是重新开始的关键字：[nicho][KEYWORD]。"
+}

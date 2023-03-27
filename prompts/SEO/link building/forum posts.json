@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rao Arham Yameen",
+  "AuthorURL": "https://www.linkedin.com/in/arham-yameen-a55422224/",
+  "Title": "论坛帖子",
+  "Category": "link building",
+  "Teaser": "使用此提示发布论坛帖子。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-28T07:08:32.176Z",
+  "Help": "",
+  "ID": "1796046011974815744",
+  "PromptHint": "把[keyword]翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是撰写一篇100字的论坛帖子并以我给出的标题命名。这篇帖子的场景应该是积极向上的，并且要写成第一人称。所有输出应该用[TARGETLANGUAGE]。"
+}

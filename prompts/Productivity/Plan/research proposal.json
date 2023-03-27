@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AERTIST",
+  "AuthorURL": "https://github.com/aertist",
+  "Title": "研究计划",
+  "Category": "Plan",
+  "Teaser": "一分钟内生成基于主题的研究计划。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-10T21:50:57.558Z",
+  "Help": "",
+  "ID": "1789745099421515776",
+  "PromptHint": "研究主题",
+  "PromptPackageID": "0",
+  "Prompt": "我希望您扮演一名研究提案撰写人。我会提供给您一个通俗的研究主题，您需要撰写一个提案，概述用[TARGETLANGUAGE]研究的具体重点，将要探讨的研究问题以及用来进行研究的方法。提案还应该包括一篇文献综述，总结这个主题上已有的研究，并展示所提出研究的重要性和相关性。提案应该写得清晰，明确表达所提出的研究的价值和可能的贡献。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MAO",
+  "AuthorURL": "https://www.linkedin.com/in/%E9%A0%86%E8%B2%BF-%E5%A7%9C-85566817a/",
+  "Title": "文章中的食物和旅游景点关键词",
+  "Category": "UNSURE",
+  "Teaser": "把这句话翻译成[TARGETLANGUAGE]：请问洗手间在哪里？\n\n文章中提取的食物和旅游景点关键词：\n-食物：Food\n-旅游景点：Touristattractions",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-14T00:57:52.396Z",
+  "Help": "",
+  "ID": "1801026161695002624",
+  "PromptHint": "I'msorry,butyouhaven'tprovidedasentenceformetotranslate.CouldyoupleaseprovidemewithasentencetotranslatetoChinese?",
+  "PromptPackageID": "0",
+  "Prompt": "作为旅游博客的数据分析师，您的任务是从大量的旅游文章中提取关键信息。具体来说，您需要识别包括餐厅、旅游景点、食物和地址的完整名称的关键字，同时排除与分析无关的其他信息。\n结果应以JSON格式呈现（如果没有信息，则为''空字符串），其中关键值为餐厅的完整名称、食物项目的完整名称、旅游景点的完整名称和景点或餐厅的详细地址。不要在答案中提供任何其他信息。\n根据您的判断填写值，如果有多个地方，请使用JSON格式表示它们，例如[{{'restaurant_name':,'food_items':,'tourist_attractions':,'address':}},...]\n<<<"
+}

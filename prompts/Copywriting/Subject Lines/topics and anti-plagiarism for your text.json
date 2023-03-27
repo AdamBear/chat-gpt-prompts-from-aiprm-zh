@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Daniel Torres",
+  "AuthorURL": "https://dtweb.com.br",
+  "Title": "您的文本的主题和防抄袭。",
+  "Category": "Subject Lines",
+  "Teaser": "你的主题文本和反抄袭问题。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-01T20:14:03.549Z",
+  "Help": "",
+  "ID": "1796606083146711040",
+  "PromptHint": "[写下您的话题和反抄袭文本]",
+  "PromptPackageID": "0",
+  "Prompt": "请将您的反抄袭单词改为[TARGETLANGUAGE]并将其放入主题中重写文本：\n\n【提示】\n\n--完成提示--\n--丹尼尔托雷斯-dtweb.com.br--"
+}

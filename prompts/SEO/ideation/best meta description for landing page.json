@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Aloak Jawali",
+  "AuthorURL": "https://aloakjawali.com/?src=openapi",
+  "Title": "着陆页面的最佳元描述",
+  "Category": "ideation",
+  "Teaser": "为您的落地页创建最佳元描述",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-03T11:00:48.485Z",
+  "Help": "",
+  "ID": "1787044768451387392",
+  "PromptHint": "请翻译此英文句子：[textthatyouwantmetadescriptionforlandingpage]",
+  "PromptPackageID": "0",
+  "Prompt": "任务是元描述，将会提供155个字符。所有输出都需要翻译成[TARGETLANGUAGE]。<<<"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bramasta Digital Marketing Agency",
+  "AuthorURL": "https://www.bramasta.id",
+  "Title": "快速创作100至300字的文章。",
+  "Category": "writing",
+  "Teaser": "创建高质量且具体的文章。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T14:04:57.35Z",
+  "Help": "",
+  "ID": "1798325134583664640",
+  "PromptHint": "待创建文章的主题",
+  "PromptPackageID": "0",
+  "Prompt": "具体高质量的文章，长度需在100到300字之间。【目标语言】占位符。\n\n【提示】"
+}

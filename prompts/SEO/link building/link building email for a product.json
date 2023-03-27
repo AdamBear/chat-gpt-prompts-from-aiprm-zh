@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kate Blake",
+  "AuthorURL": "https://katherine-blake.com/",
+  "Title": "产品的链接建设电子邮件",
+  "Category": "link building",
+  "Teaser": "创建一封电子邮件，请求在博客文章中包含一个产品链接。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-16T16:25:37.462Z",
+  "Help": "",
+  "ID": "1801984413635182592",
+  "PromptHint": "输入产品名称。",
+  "PromptPackageID": "0",
+  "Prompt": "创建一封电子邮件，请求网站拥有者考虑在博客文章中包含指向某产品的链接。请将所有输出用[TARGETLANGUAGE]编写。产品名称可在[PROMPT]中找到。在电子邮件开头打招呼：“你好！”第一段中要赞美博客文章。第二段中，解释为什么该产品会是博客文章的很好补充。第三段，感谢读者的考虑。结束后签名。避免提及建立伙伴关系。"
+}

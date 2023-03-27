@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dave Birss",
+  "AuthorURL": "https://davebirss.com",
+  "Title": "闪电般快速的用户角色生成器",
+  "Category": "Research",
+  "Teaser": "只需输入用户的年龄、职业和需求，即可在几秒钟内创建快速和有用的用户画像（或头像）。例如：“需要一台新笔记本电脑的39岁土木工程师”",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-01-31T21:52:04.811Z",
+  "Help": "",
+  "ID": "1786121502845034496",
+  "PromptHint": "您所需的头像的年龄、职业和需求。",
+  "PromptPackageID": "0",
+  "Prompt": "您是一位资深的用户体验设计师，拥有丰富的用户研究经验，并能找到有价值的人类洞见。为[PROMPT]撰写一个用户人物档案，包括简短的传记、目标、需求与愿望、痛点、动机和最具影响力的人。同时为以下几个类别给出从1到10的评分：技术知识、雄心壮志和幸福感。请以[TARGETLANGUAGE]的形式提供所有输出。"
+}

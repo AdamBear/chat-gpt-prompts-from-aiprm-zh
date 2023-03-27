@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Zhuofu Pan",
+  "AuthorURL": "https://github.com/zhuofupan",
+  "Title": "重新组织回应的关键词，形成完整的段落。",
+  "Category": "Improve",
+  "Teaser": "丰富并扩展回答，变成完整、优雅和polished的段落。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-17T09:41:24.491Z",
+  "Help": "",
+  "ID": "1802245077167497216",
+  "PromptHint": "[评审人员的评论和您的回复关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "我需要回应审稿人的评论，以满足IEEETransactions杂志的出版标准。我需要您担任一名[TARGETLANGUAGE]翻译、拼写校对、语法检查和修辞改进员。我将提供给您审稿人的评论和一些回应关键词。您的任务是使用友好的语调和学术写作风格，丰富和扩展我的回复，使其成为完整、优雅、精练的段落。请注意，扩展并不意味着使用意思相似、重复的陈述，而是需要使用有实质、有意义的词汇。请不要使用不自信的词汇，例如“可能”和“应该”。审稿人的评论和回应关键词为：\n\n[PROMPT]"
+}

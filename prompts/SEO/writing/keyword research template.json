@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joao Filipe Pereira",
+  "AuthorURL": "https://www.linkedin.com/in/joaofpereira/",
+  "Title": "关键词研究模板",
+  "Category": "writing",
+  "Teaser": "JoaoFilipePereira的关键词研究模板",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-02T12:47:38.24Z",
+  "Help": "",
+  "ID": "1786709265046831104",
+  "PromptHint": "[目标关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "你是营销团队的一员，试图获取更多的有机流量到您的网站。请针对给定的主题提供以下信息：\n1.查询意图：解释我们要回答的查询类型的说明\n\n2.媒体：什么类型的信息和媒体内容将帮助用户转换\n\n3.元数据标题:信息量大且引人注目的元数据标题\n\n4.元描述:带有CTA的元描述。\n\n5.H1标签：包含有关信息但不包含Eventbrite单词的信息性H1标签\n\n6.子标题：非品牌标题建议列表，不包含Eventbrite\n\n7.注意事项：好的文案撰写实践\n\n8.内部链接：4到5个相关主题的链接列表，以便用户可以找到更多信息\n\n9.常见问题解答：四个FAQ问题的想法\n\n所有输出应为[TARGETLANGUAGE]\n\n主题：\n[PROMPT]"
+}

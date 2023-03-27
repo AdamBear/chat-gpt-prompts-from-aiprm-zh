@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MRVN.ai",
+  "AuthorURL": "https://www.resknow.co.uk",
+  "Title": "社交媒体标题文案写作",
+  "Category": "writing",
+  "Teaser": "社交媒体帖子生成器-根据您的简介",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-16T13:48:32.711Z",
+  "Help": "",
+  "ID": "1801944883364364288",
+  "PromptHint": "写下你的社交媒体帖子摘要。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用汉语写一个社交媒体帖子。参考以下简要指南：\n\n[PROMPT]"
+}

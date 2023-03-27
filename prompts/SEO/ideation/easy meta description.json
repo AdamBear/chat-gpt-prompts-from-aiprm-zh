@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ludi",
+  "AuthorURL": "https://www.thegolf.blog",
+  "Title": "简单的元描述",
+  "Category": "ideation",
+  "Teaser": "创建一个元描述，使用文章标题和主要关键字，长度不超过165个字符。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-27T06:34:58.379Z",
+  "Help": "",
+  "ID": "1784441153798795264",
+  "PromptHint": "输入文章标题，后跟逗号和文章关键字。",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。为包含[PROMPT]标题和关键词的文章编写一个长度不超过165个字符的[TARGETLANGUAGE]元描述。"
+}

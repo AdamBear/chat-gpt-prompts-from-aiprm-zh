@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Cross Border Digital",
+  "AuthorURL": "https://crossborderdigital.cn",
+  "Title": "评估产品评论内容的质量",
+  "Category": "Improve",
+  "Teaser": "根据谷歌自己的产品评论准则评估您的产品评论内容。感谢MattDiggity提供的想法。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T01:42:34.537Z",
+  "Help": "",
+  "ID": "1794152041963327488",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]，不要翻译方括号中的单词\n[在此粘贴您的产品评价内容]",
+  "PromptPackageID": "0",
+  "Prompt": "根据以下5个标准评估以下[TARGETLANGUAGE]内容。将内容根据这些标准从1-10进行排名：\n\n1.专业知识：展示您了解产品并是该领域的专家。\n2.证据：提供证据，例如视觉、音频或链接，以支持您对产品的经验，并加强评论的真实性。\n3.性能：在性能的各个方面分享定量测量结果。\n4.比较：解释将产品与竞争对手区分开来的内容，介绍可考虑的可比产品，或者解释哪种产品在某些用途或情况下最佳。\n5.优缺点：基于您自己的原始研究，讨论产品的优缺点。\n\n完成评估后询问我需要改进哪些标准。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mangaip Blog",
+  "AuthorURL": "https://www.mangaip.com",
+  "Title": "博客V1.0.0最佳大纲",
+  "Category": "writing",
+  "Teaser": "博客最佳大纲文章，100%独一无二，并包含标题，子标题和常见问题解答。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-17T05:50:25.171Z",
+  "Help": "",
+  "ID": "1792040086729383936",
+  "PromptHint": "【插入主题或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "创建markdown[TARGETLANGUAGE]的长篇内容大纲。内容大纲应包括至少20个标题和子标题。大纲应是全面的，涵盖整个主题。使用详细的子标题吸引读者。大纲还应包括一个结论，后跟与主题相关的FAQ列表。请为文章提供一个引人注目的标题。不要写文章，只提供写作者的大纲。这篇文章的主题是：[关键字]\n\n最后，请访问我的博客：https://www.mangaip.com。"
+}

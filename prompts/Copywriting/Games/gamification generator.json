@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kiat Media",
+  "AuthorURL": "https://kiatmedia.com/support-me/",
+  "Title": "游戏化生成器",
+  "Category": "Games",
+  "Teaser": "ChatGPT可以帮助您编写有趣的交互元素，例如测验、问答游戏或寻宝游戏，这将使您的营销活动更具吸引力。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-23T01:49:09.529Z",
+  "Help": "",
+  "ID": "1782919674846253056",
+  "PromptHint": "把下列句子翻译成汉语（不要使用拼音），不要翻译[]中的单词。",
+  "PromptPackageID": "8",
+  "Prompt": "编写一组以[TARGETLANGUAGE]为基础的[PROMPT]小知识问答题。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MAO",
+  "AuthorURL": "https://www.linkedin.com/in/%E9%A0%86%E8%B2%BF-%E5%A7%9C-85566817a/",
+  "Title": "在文章中查找食物和关键词",
+  "Category": "UNSURE",
+  "Teaser": "请提取文章中的美食和风景关键词。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-14T00:57:52.396Z",
+  "Help": "",
+  "ID": "1801026161695002624",
+  "PromptHint": "I'msorry,Icannotprovidetherequestedtranslationwithoutreceivingthesentencetobetranslated.PleasekindlyprovidethesentencesoIcanassistyou.",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]\n作為旅遊部落格的數據分析師，您的任務是從大量旅遊文章中提取關鍵信息。具體而言，您需要識別包括餐廳、旅遊景點、食品和地址的完整名稱的關鍵詞，而排除與分析無關的任何信息。結果應以JSON格式呈現（必要時包含NULL值），其中關鍵值為餐廳的完整名稱、食品項目的完整名稱、旅遊景點的完整名稱和景點或餐廳的詳細地址。值應根據您的判斷填寫，如果有多個值，請使用相同的JSON數組格式來表示它們。請根據相同的原則回答所有問題。"
+}

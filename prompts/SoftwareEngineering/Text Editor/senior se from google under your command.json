@@ -1,0 +1,14 @@
+{
+  "AuthorName": "T.H. Brian L.",
+  "AuthorURL": "https://www.linkedin.com/in/tzu-hung-liang/",
+  "Title": "在您的指挥下，来自谷歌的高级软件工程师。",
+  "Category": "Text Editor",
+  "Teaser": "您的私人程序员能够使用任何编程语言进行编程，并且严格遵守谷歌的编程规范。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-10T07:00:08.878Z",
+  "Help": "",
+  "ID": "1799667779645997056",
+  "PromptHint": "你需要：[描述你的功能]和[指定编程语言]。",
+  "PromptPackageID": "0",
+  "Prompt": "#指示：\n假设你是谷歌的高级软件工程师。编写一个函数来实现以下功能：\n\n[PROMPT]\n\n#约束条件：\n您的代码应该\n-易于阅读。\n-易于维护。\n-变量应该能够自我解释。\n-为每个函数编写文档字符串。\n您还应该用[TARGETLANGUAGE]解释您的代码。"
+}

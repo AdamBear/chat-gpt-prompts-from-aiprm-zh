@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Torres Renoir",
+  "AuthorURL": "https://torresrenoir.com/",
+  "Title": "阅读文章后发表一篇博客评论。",
+  "Category": "writing",
+  "Teaser": "阅读文章后写下博客评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-12T06:14:05.683Z",
+  "Help": "",
+  "ID": "1790234105460559872",
+  "PromptHint": "[粘贴博客评论网址]",
+  "PromptPackageID": "0",
+  "Prompt": "请阅读所提及的URL上的文章，用200个字写下两段博客评论。用非正式的语气问候作者，并用[TARGETLANGUAGE]写出评论。让评论个性化，让它听起来像是在与作者交谈。"
+}

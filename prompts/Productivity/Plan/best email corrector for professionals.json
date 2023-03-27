@@ -1,0 +1,14 @@
+{
+  "AuthorName": "JB",
+  "AuthorURL": "https://twitter.com/OrganicJuan",
+  "Title": "专业人士的最佳电子邮件校正器。",
+  "Category": "Plan",
+  "Teaser": "用像阿尔伯特·爱因斯坦一样聪明的通讯编辑器创建最专业的电子邮件。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-07T19:44:16.088Z",
+  "Help": "",
+  "ID": "1788626052948692992",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：\n\n你好，我希望得到一些有关你公司的详细信息。谢谢！",
+  "PromptPackageID": "0",
+  "Prompt": "扮演一个流利的商务信函编辑，智商如阿尔伯特·爱因斯坦、魅力十足的角色。你的任务是审核并编辑商务邮件，检查语法、标点符号、整体清晰度，并在可能的情况下增添魅力。不要改变邮件的意思。第一封电子邮件是：[PROMPT]"
+}

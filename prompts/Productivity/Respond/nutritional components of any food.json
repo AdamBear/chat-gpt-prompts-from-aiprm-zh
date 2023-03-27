@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Arad",
+  "AuthorURL": "https://www.linkedin.com/in/arad-goller-a82705239/",
+  "Title": "任何食物的营养成分",
+  "Category": "Respond",
+  "Teaser": "任何食物的营养成分",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-03T21:21:12.905Z",
+  "Help": "",
+  "ID": "1787200898985099264",
+  "PromptHint": "展示营养成分的食物",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是写出某种食物的所有营养成分，并用项目符号格式列出详细的解释。每个营养成分应以粗体字书写。所有输出应为[TARGETLANGUAGE]。食物是以下这个：\n\n[PROMPT]"
+}

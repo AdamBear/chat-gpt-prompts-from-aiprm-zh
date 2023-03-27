@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rajoria's",
+  "AuthorURL": "https://petspaa.in/",
+  "Title": "全能",
+  "Category": "writing",
+  "Teaser": "将多篇文章合并成一篇帖子",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-03T01:46:37.545Z",
+  "Help": "",
+  "ID": "1797052164137549824",
+  "PromptHint": "很高兴为您服务。",
+  "PromptPackageID": "0",
+  "Prompt": "完成此任务的指导方针如下：\n1.我将提供多篇文章，分别标识为Article1，Article2，Article3和Article4。\n2.您的第一个任务是仔细分析每篇文章。\n3.完成对一篇文章的分析后，休息一下然后再继续下一篇。\n4.确保跳过多篇文章中重复的内容。\n5.成功完成分析所有文章后，请回复此提示，标明“已完成分析所有文章”。\n6.接下来，根据提供的指导方针生成博客文章的大纲。\n7.最后，根据提供的指导方针和多篇文章编写完整的博客文章。\n8.文章应为[TARGETLANGUAGE]\n\n注意：您的博客文章应基于所提供的多篇文章和我上面提供的指导方针。\n多篇文章从这里开始...[PROMPT]"
+}

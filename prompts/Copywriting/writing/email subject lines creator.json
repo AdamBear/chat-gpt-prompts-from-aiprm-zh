@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jumma",
+  "AuthorURL": "https://www.buymeacoffee.com/jumma",
+  "Title": "电子邮件主题行创建器",
+  "Category": "writing",
+  "Teaser": "使用ChatGPT生成电子邮件主题行",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-14T13:57:06.516Z",
+  "Help": "",
+  "ID": "1801222262687531008",
+  "PromptHint": "写电子邮件标题。",
+  "PromptPackageID": "0",
+  "Prompt": "我要你扮演一名专业的电子邮件主题线编写者。想出引人注目、吸引人点击并阅读电子邮件的有趣标题。标题应该简短、简洁、直接。它们还应该具有创意和聪明。尝试提出意想不到和令人惊讶的标题。不要使用太通用的标题。我的第一封电子邮件是关于[PROMPT]的。请用[TARGETLANGUAGE]回复。"
+}

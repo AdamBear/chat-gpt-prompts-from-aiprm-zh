@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Todd Lannen",
+  "AuthorURL": "https://lannenslawn.com",
+  "Title": "基于电子邮件的待办清单创建",
+  "Category": "Summarize",
+  "Teaser": "使用ChatGPT从您的电子邮件中制作一个[待办事项清单]。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-22T21:24:34.813Z",
+  "Help": "",
+  "ID": "1794087115295035392",
+  "PromptHint": "过去想要概括的电子邮件。",
+  "PromptPackageID": "0",
+  "Prompt": "任务是总结并创作一份待办清单。邮件摘要不得多于100字，并且表格应从邮件文本中提取任何重要任务和待办事项。表格应标有“待办事项”，其中包括以下字段：任务简述、发件人、任务请求日期、任务截止日期、完成任务所需的行动、跟进步骤、任务备注、电子邮件类型、联系电话和发件人地址。使表格易于复制，以便我可以将字段粘贴到单元格表中。在放置信息到字段之前，请删除任何HTML链接。\n\n请用[TARGETLANGUAGE]翻译。"
+}

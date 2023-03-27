@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mahfujur Rahman",
+  "AuthorURL": "https://www.facebook.com/razu.sarker.71/",
+  "Title": "食谱概要",
+  "Category": "writing",
+  "Teaser": "菜谱大纲",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T08:27:09.04Z",
+  "Help": "",
+  "ID": "1793529080877154304",
+  "PromptHint": "菜谱大纲",
+  "PromptPackageID": "0",
+  "Prompt": "根据标题生成20个或更多类别，每个类别最少列出10个食谱清单。"
+}

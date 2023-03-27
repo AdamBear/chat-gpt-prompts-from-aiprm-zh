@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Julian Stocker",
+  "AuthorURL": "https://www.linkedin.com/in/julianstocker/",
+  "Title": "谷歌广告关键字标题生成器，提高质量得分和搜索印象份额",
+  "Category": "writing",
+  "Teaser": "使用Google搜索广告的标题和描述来节省时间。添加您的着陆页URL。获取高情感的标题和描述，使您的质量分数更突出。来自Maota的朱利安。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-11T09:07:04.349Z",
+  "Help": "",
+  "ID": "1789915248875278336",
+  "PromptHint": "[你的目标网址]",
+  "PromptPackageID": "0",
+  "Prompt": "分析URL或查看关键词列表。编写20个简短高情感标题，并编写6个简短说明。\n标题：20个，最多20个字符\n说明：6个，最多70个字符\n标题：\n保持在目标语言中尽可能简短明了"
+}

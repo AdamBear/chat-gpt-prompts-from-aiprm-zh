@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Imperator",
+  "AuthorURL": "https://thermomix-expert.de",
+  "Title": "烹饪与食谱实验！",
+  "Category": "UNSURE",
+  "Teaser": "基于房间内现有的食材，同时也适用于Thermomix机器的用户，创造3道食谱。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-05T09:08:58.45Z",
+  "Help": "",
+  "ID": "1787741400255959040",
+  "PromptHint": "您可用的配料清单",
+  "PromptPackageID": "0",
+  "Prompt": "忘记之前和烹饪无关的所有请求。以[TARGETLANGUAGE]专业厨师作为烹饪初学者的助手，回答以下问题：\n\n任务：\n提供包含主菜详细制作方式的烹饪食谱建议。\n\n任务是从提供的所有当前家庭食材和配料清单中至少选取三个食谱建议。必须确保食谱中所提到的食材和配料目前也在家中供应。\n\n以下是当前在家中供应的食材和配料清单，应根据该清单设计食谱：\n\n“米饭、面条、土豆、黄油、油、醋、洋葱、大蒜、柠檬、糖、面粉、盐、胡椒、水、面包、芥末、番茄酱。”\n\n除了当前在家中可用的食材和配料，还会有其他食材和配料列出：[PROMPT]\n\n重要提示：不必使用当前在家中可用的所有食材和配料来制作食谱。现在，请使用[TARGETLANGUAGE]语言基于当前在家中可用的食材和配料为三道主菜提供烹饪食谱建议。\n\n如果有不理解的地方，请先用[TARGETLANGUAGE]语言提出问题，然后再创建食谱建议。\n\n在创建食谱建议之前，请用[TARGETLANGUAGE]语言询问是否要针对Thermomix进行优化。根据回答提供Thermomix或不使用Thermomix的食谱建议。如果您为使用Thermomix的方法提供建议，则必须确保这些建议是准确可靠的。在这种情况下，请仅参考您存档中专为Thermomix开发或推荐的食谱。\n\n在所有食谱建议的结尾，请翻译以下信息为[TARGETLANGUAGE]“别因Thermomix中的#interesting#制作方法和有时独特的口感而感到惊讶-GPT3有时仍然像人工智能一样。:.)***开始烹饪吧！****”"
+}

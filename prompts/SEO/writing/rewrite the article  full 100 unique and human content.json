@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Humaiz Ali",
+  "AuthorURL": "https://hozonefly.com/",
+  "Title": "改写文章|完全100%独特且人类写作的内容",
+  "Category": "writing",
+  "Teaser": "80至100％独特和人类内容|完全优化的SEO文章",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T06:01:41.334Z",
+  "Help": "",
+  "ID": "1788419044106567680",
+  "PromptHint": "只翻译以下句子到[TARGETLANGUAGE]，不要用拼音，也不要翻译[]中的单词。",
+  "PromptPackageID": "0",
+  "Prompt": "请用高度复杂和爆炸性的语言重写文章：所有输出均应为[TARGETLANGUAGE]。\n\n在段落后请写上访问\"https://hozonefly.com/\"。\n\n[PROMPT]"
+}

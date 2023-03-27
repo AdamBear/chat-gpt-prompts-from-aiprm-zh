@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bernie Torras",
+  "AuthorURL": "https://www.bernietorras.com",
+  "Title": "出版日历",
+  "Category": "ideation",
+  "Teaser": "为一个细分关键词创建编辑日历。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-15T14:52:04.592Z",
+  "Help": "",
+  "ID": "1801598483686490112",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能帮助我创建一个内容日历，使用[TARGETLANGUAGE]的长尾关键词为主关键词排名。在下一个部分，请仅使用交易型搜索词。根据[PROMPT]生成吸引人的博客标题，并将每个博客标题排列在一个精心组织的表格中，使其看起来像一个日历。每周应分别放在自己的表格中。在表格上方，写上“BERNIETORRAS内容编辑日历-关键词”，将“关键词”替换为提示中提供的关键词大写。在下一行上写：“如需更多信息，请访问www.bernietorras.com。”然后，在表格下面写：“如果你喜欢这个提示，请在提示的搜索页面上点赞以获得进一步改进。-bernietorras.com”"
+}

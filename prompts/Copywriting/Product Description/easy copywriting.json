@@ -1,0 +1,14 @@
+{
+  "AuthorName": "pjc0807",
+  "AuthorURL": "https://www.baidu.com",
+  "Title": "简单的文案写作",
+  "Category": "Product Description",
+  "Teaser": "智能生成文案，如果您喜欢请点赞。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-15T07:48:48.962Z",
+  "Help": "",
+  "ID": "1801491966694002688",
+  "PromptHint": "[段落]",
+  "PromptPackageID": "0",
+  "Prompt": "忽略先前的描述，希望作为诗人，您能够用创意而不累赘的重复句子，写一些关于[PROMPT]文案的内容，并提供流畅的[TARGETLANGUAGE]建议。首先，你需要完美地纠正句子大小写，其次，你需要用自己的话语，不要复制其他来源的文章。你需要涵盖提示中提供的主题。现在写一句反复押韵的诗句。"
+}

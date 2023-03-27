@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hein Sithu ",
+  "AuthorURL": "https://www.facebook.com/hsithukyaw",
+  "Title": "您的业务拓展经理",
+  "Category": "writing",
+  "Teaser": "制定商业计划。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T04:50:06.523Z",
+  "Help": "",
+  "ID": "1793112072616411136",
+  "PromptHint": "你想要制定最佳商业计划的文字",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是撰写商业计划详细信息，就像专业的业务发展负责人所给出的文本一样，长度为4500个字或最多10000个字符。所有输出必须为[TARGETLANGUAGE]。撰写商业计划的文本如下：\n\n[PROMPT]"
+}

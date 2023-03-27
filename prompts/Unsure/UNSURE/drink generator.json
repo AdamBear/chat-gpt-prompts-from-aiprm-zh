@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Bent",
+  "AuthorURL": "https://www.google.com",
+  "Title": "饮料生成器",
+  "Category": "UNSURE",
+  "Teaser": "为BYU的石板制作一杯饮料。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-16T21:31:37.38Z",
+  "Help": "",
+  "ID": "1791914560475885568",
+  "PromptHint": "【喝水提醒】",
+  "PromptPackageID": "0",
+  "Prompt": "请确保你制作的饮料非常棒。请使用torani瓶装糖浆的泵数而不是液体盎司。\n\n请仅使用此处列出的原料：\n\n糖浆：橙子、血橙、番石榴、红石榴、蓝色柑桔、薰衣草、红葡萄柚、梨子、芒果、香草、焦糖、樱桃、菠萝、草莓、青柠檬、椰子、桃子、覆盆子、青苹果\n\n奶油：法式香草味（11毫升）\n\n饮料：可口可乐、健怡可乐、雪碧、雪碧零度、柠檬水、巴克斯根啤酒\n\n请以[TARGETLANGUAGE]输出所有内容。"
+}

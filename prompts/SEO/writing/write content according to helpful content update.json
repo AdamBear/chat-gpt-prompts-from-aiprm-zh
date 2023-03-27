@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adeel Abbas",
+  "AuthorURL": "https://www.youtube.com/@adeelabbasseo",
+  "Title": "请根据有帮助的内容更新编写内容。",
+  "Category": "writing",
+  "Teaser": "遵循Google的有益内容指南的文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-01T04:40:43.149Z",
+  "Help": "",
+  "ID": "1796371200444993536",
+  "PromptHint": "[插入主题名称]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是根据谷歌的以下准则为给定主题创建文章。所有输出结果必须是用[TARGETLANGUAGE]撰写的。\n我希望你能在[TARGETLANGUAGE]中编写内容，为访问者提供令人满意的体验。\n我希望你能创建[TARGETLANGUAGE]中的内容，使其比其他文章更具排名优势。\n根据SEO最佳实践，为观众创建内容。我希望你创建的内容能够针对受众，展示专业知识，有一个主要目的或重点，提供价值，并确保读者有一个令人满意的体验。"
+}

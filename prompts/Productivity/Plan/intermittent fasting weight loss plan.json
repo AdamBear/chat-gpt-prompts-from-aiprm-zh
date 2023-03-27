@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Yolanda Moore, Betterfasting",
+  "AuthorURL": "https://www.instagram.com/betterfasting/",
+  "Title": "间歇性禁食减重计划",
+  "Category": "Plan",
+  "Teaser": "间歇性禁食16:8计划",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-02T18:27:56.293Z",
+  "Help": "",
+  "ID": "1796941764804997120",
+  "PromptHint": "进入\"[间歇性禁食减肥计划]\"。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是创建一个间歇性禁食初学者16:8的减肥计划。所有输出都必须为[TARGETLANGUAGE]。包括16:8的定义。当你的进食时间结束时，包括适用于间歇性禁食的饮料。包括膳食建议和购物清单。包括禁忌症。在开始减肥计划之前，请向您的医生咨询。要总结的文本如下：\n\n[PROMPT]"
+}

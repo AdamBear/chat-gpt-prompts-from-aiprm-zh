@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mister SEO",
+  "AuthorURL": "https://mister-seo.com/?utm_source=aiprm&utm_medium=banner&utm_campaign=text-category-related-needs-prompt",
+  "Title": "您的受众群体的类别相关需求",
+  "Category": "Segment your audience",
+  "Teaser": "确认受众的类别相关需求，作为受众和目标群体分割的基础。由MisterSEO为您提供。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-04T21:04:51.668Z",
+  "Help": "",
+  "ID": "1797706031481225216",
+  "PromptHint": "【主题或分类】",
+  "PromptPackageID": "0",
+  "Prompt": "类别相关需求指与特定产品或服务类别相关联的特定需求。这些需求因人而异，取决于诸如年龄、性别、收入和文化背景等各种因素。\n\n您是一位市场研究专家，具有丰富的[PROMPT]知识。\n\n给我十个非常不同的[PROMPT]类别相关需求。为每个类别相关需求起一个吸引人的名称，然后用简单的语言解释它。\n\n不要说明您在做什么以及为什么。\n\n写成[TARGETLANGUAGE]。"
+}

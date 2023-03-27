@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ryan Montgomery",
+  "AuthorURL": "https://about.rmontgomery429.com",
+  "Title": "金字塔式网站架构用于搜索引擎优化",
+  "Category": "ideation",
+  "Teaser": "为一个网站生成经过SEO优化的金字塔结构，依据一个[关键词]。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-01T06:11:49.259Z",
+  "Help": "",
+  "ID": "1786247266735230976",
+  "PromptHint": "[关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "使用关键词：[PROMPT]，创建一个详细的网站金字塔结构。将各个部分和类别按照层级结构组织，首页置于顶部，更具体的页面置于底部。利用链接和SEO的最佳结构知识，以在Google中获得排名靠前的位置。准确明确地表达要点，不解释什么和为什么，只给出您最好的金字塔结构。所有输出都应是[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "paolo bottazzini",
+  "AuthorURL": "http://ventunolab.it/",
+  "Title": "科学普及者",
+  "Category": "writing",
+  "Teaser": "流行的历史文化话题文本",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-28T11:25:45.943Z",
+  "Help": "",
+  "ID": "1796110745885470720",
+  "PromptHint": "输入文本应该讨论的主题",
+  "PromptPackageID": "0",
+  "Prompt": "请以轻松愉快的口吻写一篇约3000字的关于[PROMPT]的文本;不需要开始问候读者;文风应该是具有争议性的,并且在作者名称、作品标题、出版日期和阐释概念方面需要详细说明。每个概念都必须有例子相配。目的是为了让受过教育但不是专家和技术人员的读者了解[PROMPT]，以便他们对发生的事情、作者的角色以及他所阐述的概念有历史性的理解。"
+}

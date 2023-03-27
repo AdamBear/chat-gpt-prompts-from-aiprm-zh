@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Julian Stocker",
+  "AuthorURL": "https://www.linkedin.com/in/julianstocker/",
+  "Title": "谷歌广告提示扩展",
+  "Category": "writing",
+  "Teaser": "在您的Google资产Callouts中，使用给定的字符数量最大限制达到20个Google广告标语。用几个词或一个短语宣传您的业务的流行或独特方面。——朱利安（Julian）来自Maota",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-10T15:01:45.674Z",
+  "Help": "",
+  "ID": "1789642121356251136",
+  "PromptHint": "您正在销售的产品或服务",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是仅输入有关[PROMPT]的20个标题\n这些标题在[TARGETLANGUAGE]中有一个字符限制为20\n根据此网址的内容：https://support.google.com/google-ads/answer/6079510?hl=en#:~:text=Callouts%20can%20improve%20your%20text,a%20computer%20or%20mobile%20device。"
+}

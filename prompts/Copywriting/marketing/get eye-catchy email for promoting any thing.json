@@ -1,0 +1,14 @@
+{
+  "AuthorName": "More Free Tools",
+  "AuthorURL": "https://bit.ly/m/Free-Tools",
+  "Title": "制作引人注目的电子邮件来推广任何事情。",
+  "Category": "marketing",
+  "Teaser": "我将提供促销任何产品或服务的营销电子邮件。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-04T04:33:44.61Z",
+  "Help": "",
+  "ID": "1787309748325179392",
+  "PromptHint": "输入产品或服务名称",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。我希望你只用[TARGETLANGUAGE]回复。\n写一封最好的营销邮件，宣传这个产品或服务：[PROMPT]\n不要重复我的提示。不要提醒我你要做什么。不要道歉。不要自我参照。\n只需要采取最好的行动即可。所有输出必须是[TARGETLANGUAGE]的。"
+}

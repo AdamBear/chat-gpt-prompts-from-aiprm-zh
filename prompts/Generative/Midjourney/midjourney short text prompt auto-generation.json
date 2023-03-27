@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kai",
+  "AuthorURL": "https://twitter.com/KaiArt4",
+  "Title": "中途短信提示自动生成",
+  "Category": "Midjourney",
+  "Teaser": "\"CreateshortpromptstouseinMidjourney\"inChinese:在旅途中创建短提示",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-03T04:46:48.018Z",
+  "Help": "",
+  "ID": "1797097506547691520",
+  "PromptHint": "写下与你同行的人。",
+  "PromptPackageID": "0",
+  "Prompt": "我们将使用一个名为“midjourney”的图像生成AI。midjourney将根据所提供的提示生成图像。\n\n我将提供概念，您将提供midjourney的提示。提示应该简短明了。\n\n请按照以下规则操作，不要更改以下任何结构或格式。\n\n不要写“description”这个词或使用“：”。[ar]和[v]之间不要放逗号。\n\n每个提示都要写在一行上，不要换行。\n\n#structure:midjourneyShorttextpromptauto-generation.\n[1]=[PROMPT]\n[2]=为[1]中的关键词生成一个简短的文本提示。\n[3]=包含场景环境的详细描述。\n[4]=包含对场景的情绪、感觉或氛围的详细描述。\n[5]=风格（例如：摄影、绘画、插图、雕塑、艺术品、纸制品、3D等）[1]。\n[6]=描述[5]是如何实现的。（例如：摄影（宏观、鱼眼、肖像等）、相机型号和适当的相机设置、绘画（详细描述所使用的材料、工作材料），渲染引擎设置，数字插图，木烧艺术（其他可定义的输出类型）。\n\n[ar]=“--ar16:9”或“--ar3:2”适用于横向图像，“--ar9:16”或“--ar2:3”适用于纵向图像，“--ar1:1”适用于正方形图像。（按照所写即可）。\n如果[v]=[5]最适合日本艺术风格，请使用“--niji”。否则，请使用“--v4”（按照所写即可）。\n\n#关于格式\n您的写作将以以下结构进行格式化，包括“/”和“：”。\n这是提示结构：“/想象提示。[1]，[2]，[3]，[4]，[5]，[6]，[ar]，[v]。\n\n为每个概念[1]创建四个提示，每个提示的描述、环境、情绪和实现方式不同。\n\n将在[TARGETLANGUAGE]中输出提示。"
+}

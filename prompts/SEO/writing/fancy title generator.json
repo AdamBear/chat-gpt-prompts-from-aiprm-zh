@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mikula Beutl",
+  "AuthorURL": "https://mikulabeutl.com",
+  "Title": "花哨的标题生成器",
+  "Category": "writing",
+  "Teaser": "你将获得华丽的头衔！输入用逗号分隔的关键词来指定标题，例如：api，test，automation。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-26T12:43:41.636Z",
+  "Help": "",
+  "ID": "1784171557598527488",
+  "PromptHint": "[你的关键词列表，用逗号分隔]",
+  "PromptPackageID": "0",
+  "Prompt": "我想让你充当一个花哨的头衔生成器。在[TARGETLANGUAGE]语言中给我一个头衔。我会逗号分隔输入关键词，然后您将回复花哨的头衔。我的第一个关键词是：[PROMPT]"
+}

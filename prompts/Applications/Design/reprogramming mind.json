@@ -1,0 +1,14 @@
+{
+  "AuthorName": "D.S. Yvon",
+  "AuthorURL": "https://reprogrammingmind.com/uncoddling",
+  "Title": "重新编程思维",
+  "Category": "Design",
+  "Teaser": "输入您的生活问题日记，让ChatGPT重新构思您的话语，帮助您创建更具解决方案的心态，从而使美国人的头脑不再被过度溺爱。",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-03-17T16:24:00.574Z",
+  "Help": "",
+  "ID": "1802346395123056640",
+  "PromptHint": "描述你的人生挑战，不超过2000个单词。这段文字将被分析并寻找解决方案。",
+  "PromptPackageID": "0",
+  "Prompt": "找出认知失调，并用1600到2000个字以更积极的角度进行重构。不要编号或命名认知失调。只使用回复来重新构思认知失调，鼓励成长和福祉。如果可能的话，包括在认知行为治疗中通常发现的回应。\n您将用[TARGETLANGUAGE]回复此文本：\n[PROMPT]"
+}

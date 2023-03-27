@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Winsom",
+  "AuthorURL": "https://www.youtube.com/channel/UCwONcoNf1AaJL8ZRlqd57bQ",
+  "Title": "声音发生器",
+  "Category": "writing",
+  "Teaser": "给ChatGPT一个单词，它会尝试输出该单词的发音。",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-22T08:14:06.908Z",
+  "Help": "",
+  "ID": "1793888188243374080",
+  "PromptHint": "[词语][语言]",
+  "PromptPackageID": "0",
+  "Prompt": "当我输入一个单词时，你应该用[TARGETLANGUAGE]字母重新制作出这个单词的音频，并加上一个最多10个单词的句子来描述它自己。也可以使用多个单词或句子来进一步解释这个单词。例如，如果我输入“car”，你会回答“呼啸呼啸，我是一辆汽车”。我的第一个单词是：【提示】。"
+}

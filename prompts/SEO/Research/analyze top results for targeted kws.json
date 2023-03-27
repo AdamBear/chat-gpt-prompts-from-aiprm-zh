@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SEO Priority",
+  "AuthorURL": "https://seopriority.com",
+  "Title": "分析目标关键词的顶部结果",
+  "Category": "Research",
+  "Teaser": "使用元描述和相关关键字创建SERP分析。这将识别任何与您的关键字相关的特色摘录。每次选择最多5个关键字。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-25T11:12:26.109Z",
+  "Help": "",
+  "ID": "1783786203708133376",
+  "PromptHint": "Iamhappytoassistyou.\nKeywords:happy,assist.",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的指示。只用[TARGETLANGUAGE]为[TARGETLANGUAGE]翻译这段文本。在这个问题中，您必须像一名有经验的SEO经理一样思考和行动，能够流利地使用[TARGETLANGUAGE]。请假设您是Google在[TARGETLANGUAGE]上进行SEO研究和竞争分析的专家。使用提供的关键词，创建一个SERPs分析，包括每个部分的标题、关键词、前五个竞争对手的网址，并提供每个网址的元标题和元描述。您还需要识别在Google上作为每个关键字的特色片段的任何网址，并提供与相关关键字的元数据（标题、描述）。列出最常用的标题。请用[TARGETLANGUAGE]在结尾段中包含免责声明，声明为“请记住，ChatGPT处于测试阶段，2020年以后没有可用信息。这些信息仅供历史研究之用。“所有输出都应该是[TARGETLANGUAGE]。此分析的关键词是：\n\n[PROMPT]"
+}

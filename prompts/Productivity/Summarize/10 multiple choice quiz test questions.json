@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Julian Dickie",
+  "AuthorURL": "https://www.linkedin.com/in/juliandickie/",
+  "Title": "10个选择题测验问题",
+  "Category": "Summarize",
+  "Teaser": "创建10个多项选择题，正确答案用星号标记。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-02T04:55:40.665Z",
+  "Help": "",
+  "ID": "1796737352765538304",
+  "PromptHint": "把以下句子翻译成[TARGETLANGUAGE],不包括括号中的英文单词。",
+  "PromptPackageID": "0",
+  "Prompt": "用四个选项生成10个选择题，测试对本讲座内容的理解，并用星号标识正确答案。"
+}

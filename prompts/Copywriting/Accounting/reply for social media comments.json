@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Dhananjay Vishwakarma",
+  "AuthorURL": "https://www.linkedin.com/in/dhananjayrv/",
+  "Title": "回复社交媒体评论。",
+  "Category": "Accounting",
+  "Teaser": "生成社交媒体上对任何评论的回复。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T11:52:26.53Z",
+  "Help": "",
+  "ID": "1799741337889931264",
+  "PromptHint": "生成社交媒体上对评论者的回复。",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个轻松、简短的[TARGETLANGUAGE]回复，以回应评论[PROMPT]。"
+}

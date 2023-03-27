@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jen Fitzke",
+  "AuthorURL": "https://koniknetwork.com/our-team/jennifer-fitzke-senior-technical-recruiter/",
+  "Title": "客户提交",
+  "Category": "Summarize",
+  "Teaser": "对于需要帮助撰写客户提交文件的代理招聘人员。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-14T22:25:58.903Z",
+  "Help": "",
+  "ID": "1791203464563646464",
+  "PromptHint": "输入要考虑的笔记和/或文档。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是用第三人称为工程招聘经理撰写一份提交信，包括一个介绍性陈述、四个重点突出的内容点，包括教育和成就以及一个结束陈述。请将文本翻译成[TARGETLANGUAGE]。"
+}

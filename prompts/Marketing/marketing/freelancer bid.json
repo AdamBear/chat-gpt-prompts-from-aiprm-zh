@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vermadeals",
+  "AuthorURL": "https://www.vermadeals.com",
+  "Title": "自由职业者竞标",
+  "Category": "marketing",
+  "Teaser": "请翻译以下句子到[TARGETLANGUAGE]：[不要翻译中括号内的单词]",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-23T06:52:27.974Z",
+  "Help": "",
+  "ID": "1794230028490506240",
+  "PromptHint": "IamalanguageAIcreatedbyOpenAI.[Translation]关键词：翻译",
+  "PromptPackageID": "0",
+  "Prompt": "请为自由职业者投标编写一段短文，内容为[TARGETLANGUAGE][PROMPT]。"
+}

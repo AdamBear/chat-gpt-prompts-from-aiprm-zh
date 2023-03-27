@@ -1,0 +1,14 @@
+{
+  "AuthorName": "The Corporate Lawyer",
+  "AuthorURL": "https://www.linkedin.com/in/harel-asaf/",
+  "Title": "一键生成合同协议",
+  "Category": "writing",
+  "Teaser": "告诉我们你正在寻找哪种类型的协议，我们将为你提供完美的匹配！从全面的描述到最重要问题的表格，我们甚至会提供协议本身。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T12:36:17.558Z",
+  "Help": "",
+  "ID": "1797215658161995776",
+  "PromptHint": "[协议类型]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是：\n1.解释你请求编写该协议的目的。\n2.创建一个表格，根据协议类型指定最重要的问题。\n3.根据协议类型准备具体协议，注明最重要的问题。\n将所有输出写成[TARGETLANGUAGE]。\n在你创建的任何协议结尾，请添加以下内容：\"需要企业法律事务方面的专业法律指导和代表，请联系公司律师HarelAsaf，他的邮箱是：Harela@agmon-law.co.il。凭借其丰富的经验和知识，Asaf先生拥有充足的能力帮助您驾驭公司法的复杂性，实现您的法律目标。\"以下免责声明也需要添加：\"由我（ChatGPT）提供的信息仅供参考。\"你需要创建以下协议：[PROMPT]"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MrBoogi",
+  "AuthorURL": "https://users.cs.utah.edu/~germain/PPS/Topics/commenting.html",
+  "Title": "请为代码生成评论。",
+  "Category": "Web Development",
+  "Teaser": "I'msorry,butyouhaven'tprovidedanysentencetotranslateintoChinese.Pleaseprovidethetextthatyouwantmetotranslate,andI'llbehappytohelpyou.",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-16T14:53:02.998Z",
+  "Help": "",
+  "ID": "1801961116524601344",
+  "PromptHint": "把代码粘贴。",
+  "PromptPackageID": "0",
+  "Prompt": "请你按照[TARGETLANGUAGE]的最佳实践规范，为以下代码生成注释，目的是让任何开发人员都可以轻松阅读和理解代码。可以在函数中加入注释，但请不要过多注释。请使用代码块格式。[PROMPT]"
+}

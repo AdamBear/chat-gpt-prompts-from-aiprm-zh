@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Eximind",
+  "AuthorURL": "https://www.instagram.com/exi._.mind/",
+  "Title": "文本改写器",
+  "Category": "writing",
+  "Teaser": "文本改写工具，大约有5%的相似度。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-14T17:47:30.988Z",
+  "Help": "",
+  "ID": "1801280246725742592",
+  "PromptHint": "请输入您的原始文本。",
+  "PromptPackageID": "0",
+  "Prompt": "您的角色：扮演有效的文本改写者[TARGETLANGUAGE]\n您的任务：在保持含义和避免剽窃的情况下，改写我发送给您的文本[TARGETLANGUAGE]\n您的学术技术写作风格[TARGETLANGUAGE]\n注意：原始文本和改写后的文本之间的相似率不得超过5%[TARGETLANGUAGE]\n感谢您在每次改写结束时提及相似率[TARGETLANGUAGE]\n请在与您的数据库进行比较后将此文本的剽窃百分比和相似度与原始文本一起显示\n如果这个文本是英语或其他语言，请将其翻译成法语[TARGETLANGUAGE]\n[PROMPT]"
+}

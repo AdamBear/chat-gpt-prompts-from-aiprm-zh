@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Galih Enggar",
+  "AuthorURL": "https://mtalkblog.com",
+  "Title": "批量锚文本反向链接创建者",
+  "Category": "link building",
+  "Teaser": "建立锚文本链接的工具是网站上的一个实用程序，可以批量生成HTML代码以用于链接。用户可以根据自己的需求选择属性来使用它。对于那些需要大量链接的人来说，这个工具非常有用。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-18T11:14:17.123Z",
+  "Help": "",
+  "ID": "1792483978108989440",
+  "PromptHint": "[关键词][网址][关系][目标]",
+  "PromptPackageID": "0",
+  "Prompt": "请用英文制作HTML代码以创建使用多个关键词和URL的锚文本后向链接，使用[TARGETLANGUAGE]。锚文本为[KEYWORD]，指向网站[URL]，并具有带有来自提示的[KEYWORD]和[TARGET]标题的[REL]属性。输出结果以简单的HTML代码格式呈现，如下所示：“如下所示<ahref=“网站”rel=“REL”title=“KEYWORD”target=“TARGET”>KEYWORD”</a>”\n\n'＃支持我'\n'###如果您使用过它，请点击此UPVOTE提示...'\n\n[PROMPT]"
+}

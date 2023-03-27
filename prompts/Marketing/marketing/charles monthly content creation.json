@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Charles",
+  "AuthorURL": "https://www.charlesmcdowell.com",
+  "Title": "查尔斯的月度内容创作",
+  "Category": "marketing",
+  "Teaser": "制作一个月度内容日历。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-17T15:47:46.997Z",
+  "Help": "",
+  "ID": "1802337278480351232",
+  "PromptHint": "关键词/主题",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能帮我制定一个内容计划，以使我的博客具有最大的机会为我的关键词排名。我将在下面的提示中告诉你我的主要目标关键词。请仅针对交易式搜索词进行定位。请为这些博客文章想出标题。请将每个博客文章标题组织在一个漂亮的表格中，使其看起来像一个日历。每周应分别放在自己的表中。\n\n我要定位的关键词是:[PROMPT]\n请用[TARGETLANGUAGE]提供所有回答。"
+}

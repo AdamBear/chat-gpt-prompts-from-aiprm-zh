@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hanzila",
+  "AuthorURL": "https://www.lanetwelve.com/",
+  "Title": "引人注目的博客文章标题",
+  "Category": "writing",
+  "Teaser": "创建一个有吸引力的标题列表，以适应所提供的文本。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T11:14:58.469Z",
+  "Help": "",
+  "ID": "1793208927257890816",
+  "PromptHint": "[文本]",
+  "PromptPackageID": "0",
+  "Prompt": "为所提供的文本创建一个引人注目的博客标题列表\n确保使用引人入胜的语言\n确保创建至少10个标题的编号列表\n确保在某些标题中使用数字"
+}

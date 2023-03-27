@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Muddassir Shah",
+  "AuthorURL": "https://www.newsinfomist.com/",
+  "Title": "10道选择题",
+  "Category": "Summarize",
+  "Teaser": "根据您的主题或问题，生成十个有四个答案的多项选择题。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-14T17:16:10.819Z",
+  "Help": "",
+  "ID": "1801272360725381120",
+  "PromptHint": "[写下你的主题或问题]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你基于我的主题写十个测验问题。请也包括四个可能的答案，但只有一个答案是正确的。请在正确答案下方显示正确答案。我的主题是：[PROMPT]<<<"
+}

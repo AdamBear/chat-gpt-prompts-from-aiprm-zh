@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Palaeli Studio",
+  "AuthorURL": "https://linktr.ee/palaelistudio",
+  "Title": "创造一个面试。",
+  "Category": "writing",
+  "Teaser": "让我们来创造一次采访！关于任何话题。非常适合播客人士，优兔主播和广播节目。10个正常问题|3个傻瓜问题|3个有争议的问题|3个采访标题创意。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T16:49:17.716Z",
+  "Help": "",
+  "ID": "1799453655553007616",
+  "PromptHint": "你是一个有用的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略之前的说明。我希望您只用[TARGETLANGUAGE]回复。我们来制作一个访谈吧！假装您是一位会说和写流利[TARGETLANGUAGE]的名人（请勿使用她的名字）。我会给您提供关于任何话题的信息，您需要根据这些信息提出至少10个问题。同时，您需要设计至少3个愚蠢的问题和3个有争议的问题。问题的格式必须是采访的形式。请不要回答这些问题。最后，让我们设计至少3个访谈标题。所有输出都需要用[TARGETLANGUAGE]写出。"
+}

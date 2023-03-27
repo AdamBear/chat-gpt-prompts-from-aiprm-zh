@@ -1,0 +1,14 @@
+{
+  "AuthorName": "TLD",
+  "AuthorURL": "https://thelogicdesign.com/",
+  "Title": "商务内容",
+  "Category": "writing",
+  "Teaser": "基于以上细节创建SEO基础内容。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-28T17:34:27.774Z",
+  "Help": "",
+  "ID": "1796203531569729536",
+  "PromptHint": "提供商业、服务和区域名称。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是使用商业名称，服务名称和地区名称提供内容。您必须每次在内容中使用商业名称和地区名称，使用我提供的上述数据的详细信息。将内容写成[TARGETLANGUAGE]。"
+}

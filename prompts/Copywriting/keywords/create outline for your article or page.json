@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Shahab Abbasi",
+  "AuthorURL": "https://shahababbasi.com",
+  "Title": "为您的文章或页面创建大纲",
+  "Category": "keywords",
+  "Teaser": "揭开[关键词]的秘密。使用关键词，以获得您的帖子或页面的最佳大纲，使其排在第一位。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-01T04:08:57.602Z",
+  "Help": "",
+  "ID": "1796363208001581056",
+  "PromptHint": "选择与您的主题或业务相关的关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "当然！请告诉我关键词，我将为您创建一个提示，以便您制作大纲。[TARGETLANGUAGE]\n\n[PROMPT]"
+}

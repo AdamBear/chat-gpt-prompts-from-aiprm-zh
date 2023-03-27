@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Financial App",
+  "AuthorURL": "https://saldofinanceapp.com/",
+  "Title": "每月预算计算器",
+  "Category": "Accounting",
+  "Teaser": "以50/20/30规则为基础，为一个月制定最佳预算计划！",
+  "Community": "Applications-f69b52b4213a6bd3",
+  "CreationTime": "2023-03-12T10:58:07.484Z",
+  "Help": "",
+  "ID": "1800452444191461376",
+  "PromptHint": "【月收入税后】",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是按照50/30/20规则计算每月预算。\n所有输出应该是用[TARGETLANGUAGE]。"
+}

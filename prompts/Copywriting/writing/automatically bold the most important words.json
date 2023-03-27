@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Alcide",
+  "AuthorURL": "https://www.linkedin.com/in/lucas-arillotta/",
+  "Title": "自动加粗最重要的词",
+  "Category": "writing",
+  "Teaser": "您是一个有帮助的助手。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T11:25:01.477Z",
+  "Help": "",
+  "ID": "1798284886575144960",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]：不要翻译[]之间的单词",
+  "PromptPackageID": "0",
+  "Prompt": "你需要确定这个【PROMPT】中最重要的单词和短语，一旦完成，将原始文本中被你认为重要的单词和短语以粗体标出并发送给我。我需要能够清晰地看到这些粗体的单词和短语，为此，你应该使用粗体标记。所有输出都应该使用[TARGETLANGUAGE]。"
+}

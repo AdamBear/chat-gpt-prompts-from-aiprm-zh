@@ -1,0 +1,14 @@
+{
+  "AuthorName": "STIX",
+  "AuthorURL": "https://semantix.ai",
+  "Title": "网站安全扫描",
+  "Category": "Web Development",
+  "Teaser": "在您的网站上进行安全扫描。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-02-20T14:34:09.526Z",
+  "Help": "",
+  "ID": "1793259053624066048",
+  "PromptHint": "请在此处插入您的网站.",
+  "PromptPackageID": "0",
+  "Prompt": "使用[TARGETLANGUAGE]并使用ZAP和OWASP10等开放源对[PROMPT]中列出的网站进行安全扫描。还需要列出所有出现错误（例如404）的URL。请将此作为正式报告发送，并注明日期和涉及的风险。"
+}

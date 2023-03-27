@@ -1,0 +1,14 @@
+{
+  "AuthorName": "readData",
+  "AuthorURL": "https://readdata.de",
+  "Title": "常见问题标记生成器",
+  "Category": "writing",
+  "Teaser": "创建包含问题的FAQ标记。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-21T12:59:34.377Z",
+  "Help": "",
+  "ID": "1782363614355910656",
+  "PromptHint": "请提出你的问题。",
+  "PromptPackageID": "0",
+  "Prompt": "请回答以下问题：\n\n[PROMPT]\n\n然后生成一个FAQPageSchema标记作为输出。不要解释什么是FAQPageSchema标记。不要说你不能回答问题。不要用文本回答，只用FAQPage标记回答。如果您无法回答问题，请跳过并进入下一个问题。"
+}

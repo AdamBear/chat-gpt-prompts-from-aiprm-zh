@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vicky W.",
+  "AuthorURL": "https://crouton.net/",
+  "Title": "社交媒体标题",
+  "Category": "writing",
+  "Teaser": "创建一个简短的社交媒体标题，介绍[关键词]。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-09T15:47:19.327Z",
+  "Help": "",
+  "ID": "1789291199262363648",
+  "PromptHint": "【关键词】【城市】【电话号码】【牙医姓名】",
+  "PromptPackageID": "0",
+  "Prompt": "为社交媒体生成一篇有关“[PROMPT]”的[TARGETLANGUAGE]帖子。不要列出列表。让关键词出现在第一或第二句话中。不超过150个单词。积极而友善，最后添加一个呼吁行动来预约访问[CITY]和[PHONENUMBER]。"
+}

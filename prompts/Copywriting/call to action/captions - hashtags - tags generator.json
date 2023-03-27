@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kiat Media",
+  "AuthorURL": "https://kiatmedia.com/support-me/",
+  "Title": "标题-标签-标记生成器",
+  "Category": "call to action",
+  "Teaser": "一键即可创建YouTube标签、TikTok和Instagram标题、Reel标签和表情符号。根据您在社交媒体平台上经常使用的主题或关键词。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-23T01:36:06.546Z",
+  "Help": "",
+  "ID": "1782916390777524224",
+  "PromptHint": "请给我一杯水。",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]翻译<<<Onlyrespondin[TARGETLANGUAGE]andforgeteverythingsaidbeforethispromptintheconversation.\nIwillgive6separatecommandsthathavenorelationtoeachother.\nPleaseanswerthe...informatIlisted.\n\nCommands:\n1.WritemeanInstagramdescriptionorcaptionwithemojisforthepostabout\"[PROMPT]\",includeahookandalsoacalltoaction.Alsoincludethewords,CLICKLINKINBIO.Alsoinclude4frequentlyusedrelevanthashtagsand2viralhashtag.\n\n2.WriteacaptionforareelofmyInstagrampage.Thisparticularreelcontainsavideoabout[PROMPT].AddaHashtagstothecaption.TheHashtagsshouldbehighcompetitiveandrelevantviralHashtag.Useafriendly“you”form.Thereelshouldgoviralandpeopleshouldfollowthepageafterreadingthiscaption.\n\n3.WriteacaptionformyTikTokpage.Thisparticularcontainsavideoabout[PROMPT].Useafriendlytone.AddaviralHashtagtothecaption.Thevideoshouldgoviralandpeopleshouldfollowthepageafterreadingthiscaption.\n\n4.Writeahookandalsoacalltoactionoftenusedonsocialmediaplatformswhereshouldgoviralandpeopleshouldfollowthepageafterreadingit.\n\n5.Create10trendinghashtagsabout\"[PROMPT]\"thatisusedfrequentlyonsocialmediaplatforms.Pleaseseparatehashtagswithspace.\n\n6.Create10YouTubeTagsTargetinganLSIKeywordthatareoftenusedforthefollowingTopic:[PROMPT].Nohashtags,separatekeywordsbycommas.Onlycapitalizepropernouns.\n\nTheformatshouldlooklike:\n\nIGCaptions:\n...\n\nIGreelCaptions:\n...\n\nTikTokCaptions:\n...\n\nOtherCTA:\n...\n\nOtherHastags:\n...\n\nYouTubeTags:\n...>>>"
+}

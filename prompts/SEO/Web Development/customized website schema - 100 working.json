@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Asish",
+  "AuthorURL": "https://in.linkedin.com/in/digitalexpertasish",
+  "Title": "定制化的网站架构-100%正常运行",
+  "Category": "Web Development",
+  "Teaser": "这种模式标记将帮助您排名网站并创建富媒体片段。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-03T12:53:29.941Z",
+  "Help": "",
+  "ID": "1787073128053346304",
+  "PromptHint": "提交您的页面网址。",
+  "PromptPackageID": "0",
+  "Prompt": "编写此URL的模式标记[PROMPT]。模式标记应对Google友好，并通过schema.org进行验证[TARGETLANGUAGE]。"
+}

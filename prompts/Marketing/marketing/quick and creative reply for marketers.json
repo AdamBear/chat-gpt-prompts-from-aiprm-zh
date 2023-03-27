@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kashif Saleem",
+  "AuthorURL": "https://weeklyhodl.com/",
+  "Title": "营销人员的快速创意回复",
+  "Category": "marketing",
+  "Teaser": "在秒内获得一个富有创意的回应，提高你的生产力。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-11T22:53:00.125Z",
+  "Help": "",
+  "ID": "1800269961101578240",
+  "PromptHint": "只翻译下面的句子到[TARGETLANGUAGE]，不要用拼音，不要翻译[]中的单词。\n输入信息以获得创意回复。",
+  "PromptPackageID": "0",
+  "Prompt": "我刚收到一条信息[PROMPT]，你能为我提供一个有创意的回复建议吗？所有输出都应该是[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "PrompBase",
+  "AuthorURL": "https://prompbase.com/",
+  "Title": "中途3D角色提示",
+  "Category": "Midjourney",
+  "Teaser": "为3D人物图像生成“Midjourney”提示",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-13T13:14:27.101Z",
+  "Help": "",
+  "ID": "1790702279620554752",
+  "PromptHint": "输入角色的名称，例如：忍者",
+  "PromptPackageID": "0",
+  "Prompt": "小巧可爱的立体性角色玩具，柔和的光线，柔和的粉彩色调，斯科蒂·扬（SkottieYoung）的3DBlender渲染，多边形数，模块化构成主义，流行超现实主义，物理渲染，正方形图像。请用[PROMPT]替换我的句子中的[TARGETLANGUAGE]。"
+}

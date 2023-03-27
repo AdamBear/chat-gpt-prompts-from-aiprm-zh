@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Walzos",
+  "AuthorURL": "https://www.facebook.com/walzos/",
+  "Title": "最佳音乐歌词和和弦",
+  "Category": "Plan",
+  "Teaser": "最佳音乐歌词和和弦",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-16T04:58:41.122Z",
+  "Help": "",
+  "ID": "1791664679538647040",
+  "PromptHint": "把歌曲的标题放上去",
+  "PromptPackageID": "0",
+  "Prompt": "给我这首流行歌曲的和弦进行和五个和弦进行建议，包括音阶转换和和弦变化，使用罗马数字表示：[PROMPT]\n告诉我这首歌曲[PROMPT]为什么会成为一首热门歌曲，它涵盖了哪些主题\n还请您创作5首主题相似的歌曲副歌\n最后请向我推荐5首类似于[PROMPT]的歌曲\n请使用[TARGETLANGUAGE]回答。"
+}

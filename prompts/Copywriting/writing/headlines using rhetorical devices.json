@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rob Hampton",
+  "AuthorURL": "https://www.raincitybrands.com",
+  "Title": "使用修辞手法的标题。",
+  "Category": "writing",
+  "Teaser": "使用修辞手法编写标题",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T18:12:06.514Z",
+  "Help": "",
+  "ID": "1793676290352734208",
+  "PromptHint": "你想要修辞手法的文本",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是根据我提供的文本编写5个项目符号或标题。项目符号或标题应使用以下修辞设备之一编写：平行句、对照、Scesisonomaton、Polyptoton、Asyndeton。项目符号或标题将用于营销目的，并应用于直接应答营销。所有输出都应用[TARGETLANGUAGE]编写。文本为：[PROMPT]"
+}

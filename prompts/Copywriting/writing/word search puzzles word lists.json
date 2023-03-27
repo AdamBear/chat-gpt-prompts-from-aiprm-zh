@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Subha",
+  "AuthorURL": "https://lowcontentprofits.com/create-word-search-puzzles-chatgpt/",
+  "Title": "寻字谜（单词列表）",
+  "Category": "writing",
+  "Teaser": "创建一个按照字母顺序排列的单词列表，供您的字谜书使用！如果您对结果感到满意，请点击“赞”按钮！",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-01T14:34:41.485Z",
+  "Help": "",
+  "ID": "1796520678460223488",
+  "PromptHint": "写下你想要单词列表的主题。",
+  "PromptPackageID": "0",
+  "Prompt": "我想让您按字母顺序创建一个包含最多100个单词的[TARGETLANGUAGE]语言有序列表。同时，请确保不会重复添加任何单词。请根据以下提示，创建一个单词列表：[PROMPT]。"
+}

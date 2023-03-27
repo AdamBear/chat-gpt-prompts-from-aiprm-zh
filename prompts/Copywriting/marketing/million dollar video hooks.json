@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Drew Crawford",
+  "AuthorURL": "https://www.drewcrawford.com/",
+  "Title": "百萬美元的視頻吸睛",
+  "Category": "marketing",
+  "Teaser": "在数秒内创建价值1000万美元的视频钩子。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-14T07:09:30.971Z",
+  "Help": "",
+  "ID": "1801119688697319424",
+  "PromptHint": "请将以下句子翻译成汉语：[您的产品，服务或报价-您可以在此粘贴链接或进行描述]",
+  "PromptPackageID": "0",
+  "Prompt": "创作10个针对[PROMPT]的痛点和问题的问题形式的病毒式视频引子，只使用问题而不是陈述句；不要使用引号。"
+}

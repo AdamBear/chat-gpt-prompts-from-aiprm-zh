@@ -1,0 +1,14 @@
+{
+  "AuthorName": "BertrandB",
+  "AuthorURL": "https://github.com/BertrandBorel/Code_comment_generation",
+  "Title": "代码注释生成",
+  "Category": "Backend Development",
+  "Teaser": "把任何要注释的代码放在您选择的语言中。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-17T13:32:54.772Z",
+  "Help": "",
+  "ID": "1802303337228656640",
+  "PromptHint": "[codetobecommented]的翻译",
+  "PromptPackageID": "0",
+  "Prompt": "在[TARGETLANGUAGE]自动注释[PROMPT]提供的代码。注释应该清晰明了，充分解释代码的作用。只编写注释代码，不要写其他内容，快速回复。您的答案采用markdown格式编写。当您编写完注释代码后，任务就完成了：不要在此之后写任何其他内容。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Andy",
+  "AuthorURL": "https://www.bluehoneymedia.org/",
+  "Title": "五种不同的写作风格",
+  "Category": "writing",
+  "Teaser": "这将生成5种不同字体风格的表格。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-02T05:44:01.034Z",
+  "Help": "",
+  "ID": "1786602657558032384",
+  "PromptHint": "你是一个有用的助手。",
+  "PromptPackageID": "0",
+  "Prompt": "生成一个表格，其中包含5种不同的写作风格的建议，这些建议与左列数字相关联，供我选择。请用[TARGETLANGUAGE]写出所有的输出。"
+}

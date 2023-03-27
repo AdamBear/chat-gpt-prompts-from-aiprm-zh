@@ -1,0 +1,21 @@
+{
+  "AuthorName": "ELI5 Education",
+  "AuthorURL": "https://www.eli5.education",
+  "Title": "高度优化的常见问题页面-允许您使用关键词包括在您的常见问题列表中。",
+  "Category": "writing",
+  "Teaser": "重要提示：请勿翻译[]之间的单词。",
+  "Place keywords in parenthesis and format like this": "",
+  "Example": "(KEYWORDS: dog, blue cat, pig). ",
+  "If you want the prompt to generate random questions around a specific topic, type \"TOPIC": "[your topic]\". ",
+  "If you want to include your own specific questions, type \"QUESTIONS": "[list your questions and separate with a line break]\".",
+  "(KEYWORDS": "dog, blue cat, pig) ",
+  "QUESTIONS": "",
+  "TOPIC": "Pets",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-02T07:41:34.214Z",
+  "Help": "",
+  "ID": "1786632240739115008",
+  "PromptHint": "什么是拥有宠物的好处？什么是最好的宠物？",
+  "PromptPackageID": "0",
+  "Prompt": "这里是用户生成的输入：\n\n[PROMPT]\n\n使用用户输入的内容，确定用户是否包含了关键词\"KEYWORDS\"。将答案存储为变量名叫KEYWORDS的TRUE或FALSE。\n确定用户是否包含了词语\"TOPIC\"。将答案存储为变量名叫TOPIC的TRUE或FALSE。\n确定用户是否包含了词语\"QUESTIONS\"。将答案存储为变量名叫QUESTIONS的TRUE或FALSE。不要向我显示这些变量（TOPIC、QUESTIONS、KEYWORDS），只需记住它们。\n\n以标题“您要创建一个FAQ页面”开始+（如果KEYWORD=TRUE，则插入“使用关键词”+包括关键词列表）+（如果TOPIC=TRUE，则插入“围绕主题”+输入的主题）+“。”。\n\n然后，在[TARGETLANGUAGE]中创建一个FAQ页面。将每个问题加粗显示。如果QUESTIONS=TRUE，则使用FAQ列表中的问题。如果TOPIC=TRUE，则基于给定的主题创建FAQ列表。如果KEYWORDS=TRUE，则确保完全按照FAQ列表答案中给出的关键词列表中的每个单词来设置。如果QUESTION=FALSE，则尝试提出8个问题。\n\n对于答案，尽可能详细。"
+}

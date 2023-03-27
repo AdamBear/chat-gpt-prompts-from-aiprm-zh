@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ghulam Mustafa",
+  "AuthorURL": "https://digitalmustafa.com",
+  "Title": "点击产品描述",
+  "Category": "Product Description",
+  "Teaser": "通过输入您的[关键词或产品名称]，仅需1次点击即可创建出色的产品描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T12:27:52.839Z",
+  "Help": "",
+  "ID": "1793227274695471104",
+  "PromptHint": "[关键词或产品名称]",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT][TARGETLANGUAGE]"
+}

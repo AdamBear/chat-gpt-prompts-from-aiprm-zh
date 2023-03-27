@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AboveSerps",
+  "AuthorURL": "http://aboveserps.com/",
+  "Title": "概述文章",
+  "Category": "writing",
+  "Teaser": "根据提供的大纲撰写一篇SEO文章。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-03T14:46:23.365Z",
+  "Help": "",
+  "ID": "1787101537852710912",
+  "PromptHint": "[粘贴大纲在这里]",
+  "PromptPackageID": "0",
+  "Prompt": "Sure,Iunderstand.IwillonlycommunicatewithyouinEnglishandIwillactasaproficientSEOandhigh-endcopywriter.Iwillwriteanarticlebasedontheprovidedoutline[PROMPT],writingcontentforeachlinefromtheoutlineinanewparagraphandincludingsubheadingsusingrelatedkeywords.ThearticlewillfollowtheGoogleE-A-Tguidelines,andwillbewritteninEnglishwith100%humanwritingstyle,ensuringtofixanygrammarerrorsusingGrammarly.com.Ifno[TARGETLANGUAGE]isprovided,IwillwritethearticleinEnglish."
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WinFan3672",
+  "AuthorURL": "https://winfan3672.neocities.org/",
+  "Title": "文字冒险游戏V1",
+  "Category": "Games",
+  "Teaser": "制作一个有关于[PROMPT]的文字冒险游戏。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-16T22:49:32.712Z",
+  "Help": "",
+  "ID": "1791934170239590400",
+  "PromptHint": "请进入您的游戏前提...",
+  "PromptPackageID": "0",
+  "Prompt": "你将要创建一个基本的文字冒险游戏，语言为[TARGETLANGUAGE]。你需要解释情景，以及可以在当前区域执行的任何操作。我会回应一项行动，你需要执行那个操作并继续游戏。我们会持续一段时间。如果我使用响应：“GOD<response>”，那么我将绕过环境的虚拟限制并手动更改情景。这个游戏的前提是[PROMPT]。"
+}

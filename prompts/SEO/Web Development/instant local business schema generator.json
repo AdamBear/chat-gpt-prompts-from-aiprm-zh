@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AI Prompt Engineering",
+  "AuthorURL": "https://prompt-engineering.ai/",
+  "Title": "即时本地业务模式生成器",
+  "Category": "Web Development",
+  "Teaser": "立即为您的本地网站创建谷歌喜爱的完美本地企业schema！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-07T00:44:15.234Z",
+  "Help": "",
+  "ID": "1788339158973157376",
+  "PromptHint": "\"分类\",\"名称\",\"描述\",\"地址\",\"国家\",\"营业时间\",\"电话号码\"",
+  "PromptPackageID": "0",
+  "Prompt": "请复制以下方案：\n<scripttype='application/ld+json'>\n{\n\"@context\":\"http://www.schema.org\",\n\"@type\":\"Category\",\n\"name\":\"企业名称\",\n\"description\":\"企业描述\",\n\"address\":{\n\"@type\":\"PostalAddress\",\n\"streetAddress\":\"街道地址\",\n\"addressLocality\":\"城市\",\n\"addressRegion\":\"省/州\",\n\"postalCode\":\"邮编\",\n\"addressCountry\":\"美国\"\n},\n\"openingHours\":\"周一，周二，周三，周四，周五，周六，周日08:00-20:00\",\n\"contactPoint\":{\n\"@type\":\"ContactPoint\",\n\"contactType\":\"预订\",\n\"telephone\":\"+1(111)111-1111\"\n}\n}\n</script>\n\n在表格上方说“PromptEngineeringAI本地企业模式（模板）-'Name'”，并将“Name”更改为大写的“Name”提示中提供的名称。在下一行上说“要了解有关PromptEngineeringAI本地SEO工具、技术和课程的更多信息，请访问https://prompt-engineering.ai/。”然后，在表格下面说：“如果您喜欢这个提示，请在提示搜索页面上为它点赞，以便我们知道要继续加强它。”"
+}

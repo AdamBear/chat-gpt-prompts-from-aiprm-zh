@@ -1,0 +1,14 @@
+{
+  "AuthorName": "advo craetes",
+  "AuthorURL": "https://advocatesarts.blogspot.com/",
+  "Title": "生成100%人为高排名博客",
+  "Category": "Respond",
+  "Teaser": "撰写一篇内容为100%由人手书写的高质量博客。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-02-28T19:38:18.828Z",
+  "Help": "",
+  "ID": "1796234699669245952",
+  "PromptHint": "您想要撰写的博客主题需为100％人类内容。",
+  "PromptPackageID": "0",
+  "Prompt": "撰写一篇100%人工撰写的SEO高排名博客。\n\n全面改述博客内容，应删除代词。\n\n博客内容应为新内容，不能由任何其他人工智能或人类生成，并且它应该具有更多的信息、细节和解释。\n\n让它成为一篇长的、准确的、信息丰富的、高度详细的高排名博客，并具有合理的结尾和结论。\n\n准确把握何时编写编号、概述、编译、缩短或延长博客。\n\n[TARGETLANGUAGE]长达2000字或更长。\n\n[PROMPT]所有部分的图像脚本应详细准确地生成来自蓝柳ai。\n\n结论应该足够美丽，以至于读者会想从我的网站上读更多内容。"
+}

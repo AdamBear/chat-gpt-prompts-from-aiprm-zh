@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Céline BIERNACKI",
+  "AuthorURL": "https://celine-biernacki.fr/?utm_source=ChatGPT-AIPRM&utm_medium=prompt",
+  "Title": "谷歌广告展示-响应式广告",
+  "Category": "writing",
+  "Teaser": "生成10个最多30个字符的短标题和5个最多90个字符的长标题，并优化为最多90个字符的10个描述，以用于Google广告展示活动（前身为Adwords）。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-22T14:52:22.359Z",
+  "Help": "",
+  "ID": "1793988413029081088",
+  "PromptHint": "【公告组主题】",
+  "PromptPackageID": "0",
+  "Prompt": "生成10个最多30个字符长度的短标题和5个最多90个字符长度的长标题。然后生成最多90个字符长度的10个描述。这些文本将被优化用于谷歌广告展示的活动-使用以下主题[PROMPT]-翻译为[[TARGETLANGUAGE]]。"
+}

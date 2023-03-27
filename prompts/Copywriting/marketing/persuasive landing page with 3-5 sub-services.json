@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Prabu",
+  "AuthorURL": "https://praburajasekaran.com",
+  "Title": "有说服力的着陆页面，包括3-5个子服务。",
+  "Category": "marketing",
+  "Teaser": "创作一個具有說服力的落地頁面。如果你喜歡它，請點贊。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-19T13:33:26.724Z",
+  "Help": "",
+  "ID": "1803028246976270336",
+  "PromptHint": "我的服务可提供帮助（可在结尾加上公司名称）。",
+  "PromptPackageID": "0",
+  "Prompt": "为[PROMPT]编写一个落地页。\n使用痛苦-激发-解决公式，提供3个标题选项。\n采用以下段落结构：\n-解释问题-1个简短段落\n-解释问题的原因-3-4个短段落或原因\n-解释可能的解决方案-1个段落\n-服务：列出3-5种服务，帮助读者克服问题。有说服力地解释每种服务。\n最后以强有力的行动号召结束。"
+}

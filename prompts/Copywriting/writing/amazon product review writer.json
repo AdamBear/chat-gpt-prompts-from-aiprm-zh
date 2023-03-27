@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SEO Youth",
+  "AuthorURL": "https://seoyouth.com/",
+  "Title": "亚马逊产品评论撰稿人",
+  "Category": "writing",
+  "Teaser": "阅读描述后撰写产品评论",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-27T11:16:00.914Z",
+  "Help": "",
+  "ID": "1784511880396791808",
+  "PromptHint": "请将以下句子翻译成[TARGETLANGUAGE]，不要翻译[]中的单词。\n",
+  "PromptPackageID": "0",
+  "Prompt": "请阅读以下产品描述，并在200个单词的三段内用[TARGETLANGUAGE]撰写一篇评论。要有信息量，并使用多样的句子。句子应该短小，并且有足够的转折词。请以第三人称写作。[PROMPT]"
+}

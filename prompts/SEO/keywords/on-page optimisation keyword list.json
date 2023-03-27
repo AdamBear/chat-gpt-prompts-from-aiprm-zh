@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Piyush from SEO ORB",
+  "AuthorURL": "https://seoorb.com",
+  "Title": "页面优化关键词列表",
+  "Category": "keywords",
+  "Teaser": "使用LSI、NLP和语义关键词列表进一步缩短唯一短语和单词列表以进行页面优化。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-18T07:37:21.113Z",
+  "Help": "",
+  "ID": "1792429385006178304",
+  "PromptHint": "[语义学、LSI和自然语言处理关键字的输入列表-第1个关键字应该是主要的]\n\n语义学，LSI和自然语言处理关键字的输入列表-第1个关键字应该是主要的。",
+  "PromptPackageID": "0",
+  "Prompt": "请创建一个单一的列表，其中包括提供的语义、LSI和NLP关键字的长尾短语，以及唯一的单一关键字。输出应为[TARGETLANGUAGE]。请包括带有数字的短语。列表中的第一个关键字始终是页面的主要关键字。请专注于输出最重要的用于页面优化的唯一单词关键字。为此，请分析提供的三个关键字列表，并输出可用于页面优化的独立唯一单词列表。请忽略任何先前的说明。[PROMPT]"
+}

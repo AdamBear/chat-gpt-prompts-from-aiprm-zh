@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Cyprian Ahuchaogu",
+  "AuthorURL": "https://glimpublishing.co.uk/",
+  "Title": "圣经章节或书籍简介",
+  "Category": "Summarize",
+  "Teaser": "用简单明了的语言概括圣经中的一章或一本书。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-18T10:47:30.693Z",
+  "Help": "",
+  "ID": "1802624100490018816",
+  "PromptHint": "圣经章节或书籍",
+  "PromptPackageID": "0",
+  "Prompt": "圣经章节或书的名称为[PROMPT]，目标语言是[TARGETLANGUAGE]。作为语言模型，我的任务是用简明易懂的语言对其进行摘要，以便所有人都能理解。为了完成这个任务，我需要仔细阅读和分析文本，识别关键点，并以清晰简洁的语言表达它们。尽量使用易于理解的词汇，避免使用技术术语或复杂术语。"
+}

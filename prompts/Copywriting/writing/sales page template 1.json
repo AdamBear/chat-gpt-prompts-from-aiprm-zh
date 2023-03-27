@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CopyIM",
+  "AuthorURL": "https://www.google.com/",
+  "Title": "销售页面模板1",
+  "Category": "writing",
+  "Teaser": "编写最佳电子商务销售页面，突出产品带来的好处。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T12:29:37.393Z",
+  "Help": "",
+  "ID": "1793590101092331520",
+  "PromptHint": "[你想要销售页面的产品描述]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能充当一个精通[TARGETLANGUAGE]的转化文案写手。你的任务是根据产品描述编写文本，但必须遵循这个结构：以受益为重点的标题，6个不超过5个词的短语表示的受益，以及10个具有受益标题的段落，其中每个段落应该有一到两句话详细说明具体特点，还有4个用户见证。产品描述如下：\n\n[PROMPT]"
+}

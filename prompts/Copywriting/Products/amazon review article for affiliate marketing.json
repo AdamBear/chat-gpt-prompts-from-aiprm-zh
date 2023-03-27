@@ -1,0 +1,14 @@
+{
+  "AuthorName": "VO",
+  "AuthorURL": "http://bit.ly/3KcTPXa",
+  "Title": "亚马逊评价文章用于联盟营销",
+  "Category": "Products",
+  "Teaser": "SEO友好的亚马逊产品评论文章",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T02:50:50.726Z",
+  "Help": "",
+  "ID": "1793082059028430848",
+  "PromptHint": "产品名称",
+  "PromptPackageID": "0",
+  "Prompt": "撰写适合排名SEO的、1000字的[TARGETLANGUAGE]亚马逊产品评论文章以用于联盟营销，添加所有标签：\n\n[PROMPT]"
+}

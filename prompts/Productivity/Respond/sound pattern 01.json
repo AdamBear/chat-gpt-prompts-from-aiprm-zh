@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Raposo, Gutemberg",
+  "AuthorURL": "https://lipeidiomas.com.br",
+  "Title": "声音模式#01",
+  "Category": "Respond",
+  "Teaser": "创建一个以[IE]音型为特征的单词列表。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-03-17T10:46:57.353Z",
+  "Help": "",
+  "ID": "1802261572782129152",
+  "PromptHint": "时间",
+  "PromptPackageID": "0",
+  "Prompt": "请用“辅音”，“i”，“辅音”和“e”构建一个[targetlanguage]单词列表。"
+}

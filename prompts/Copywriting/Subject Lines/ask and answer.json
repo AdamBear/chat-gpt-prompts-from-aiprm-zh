@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Naikys",
+  "AuthorURL": "https://twitter.com/Naik1s_",
+  "Title": "问与答",
+  "Category": "Subject Lines",
+  "Teaser": "问问题并回答它们。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T20:09:26.922Z",
+  "Help": "",
+  "ID": "1799504025813782528",
+  "PromptHint": "请将您的文本粘贴在这里。",
+  "PromptPackageID": "0",
+  "Prompt": "请向我提出15个关于这个文本的问题，并用[PROMPT]回答它们。将您的答案放入具有“问题”和“答案”的Excel表格中。<<<TARGETLANGUAGE>>>。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Habibur Rahman",
+  "AuthorURL": "https://www.linkedin.com/in/habibsoft/",
+  "Title": "域名生成器",
+  "Category": "marketing",
+  "Teaser": "为我的目标市场生成具有一定搜索量且可用于.com的100个域名创意。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-25T09:17:50.171Z",
+  "Help": "",
+  "ID": "1783757363933876224",
+  "PromptHint": "Topic:Translation\n\n将以下句子翻译成[TARGETLANGUAGE]：只翻译[]内的内容，不需要拼音。\n\nYouareahelpfulassistant.",
+  "PromptPackageID": "0",
+  "Prompt": "为[PROMPT]领域生成100个具有一定搜索量并可用于.com的域名想法。"
+}

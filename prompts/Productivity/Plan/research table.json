@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Marc Abromeit",
+  "AuthorURL": "https://www.linkedin.com/in/marcabromeit/",
+  "Title": "研究桌",
+  "Category": "Plan",
+  "Teaser": "用最合适的属性作为列，创建一个出色的研究数据表。",
+  "Community": "Productivity-b5a49cdd0796137a",
+  "CreationTime": "2023-01-21T11:29:15.962Z",
+  "Help": "",
+  "ID": "1782340887876206592",
+  "PromptHint": "电影明星",
+  "PromptPackageID": "0",
+  "Prompt": "请将以下内容列成格式良好的表格，在适当的顺序下，最少5行最多20行，给表格加上适当的标题。表格包含最少5列的德语及适当属性：\n[PROMPT]\n[输出语言：[TARGETLANGUAGE]]"
+}

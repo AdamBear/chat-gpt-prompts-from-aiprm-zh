@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tuhin Bairagi",
+  "AuthorURL": "https://shower-curtains.org/",
+  "Title": "产品评论生成器",
+  "Category": "Accounting",
+  "Teaser": "只需粘贴您的产品链接，即可为您的产品创建客户评论。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T05:37:58.481Z",
+  "Help": "",
+  "ID": "1797110385002930176",
+  "PromptHint": "请将产品网址粘贴。",
+  "PromptPackageID": "0",
+  "Prompt": "我会给您一个网站产品链接，您需要为该产品创建20个短客户评论。>>>"
+}

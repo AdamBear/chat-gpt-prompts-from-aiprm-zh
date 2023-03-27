@@ -1,0 +1,14 @@
+{
+  "AuthorName": "SERP.gg",
+  "AuthorURL": "https://serp.gg/",
+  "Title": "三个完美的元描述",
+  "Category": "ideation",
+  "Teaser": "保存此内容：一键创建完美的描述。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-08T22:43:38.443Z",
+  "Help": "",
+  "ID": "1789033581402914816",
+  "PromptHint": "[博客标题]",
+  "PromptPackageID": "0",
+  "Prompt": "💎3个完美的元描述💎\n\n在一个独立的行中，输入“在<ahref=\"https://serp.gg/\">SERP.gg</a>获取50多个免费的SEO工具和每日SEO提示和技巧”，然后说“不要忘记喜欢/保存此提示以备后用！”\n\n然后在单独的一行中，输入“您输入的是：\"[PROMPT]”，语言：“[TARGETLANGUAGE]”\n\n\n然后为标题为“[PROMPT]”的页面编写三个元描述。元描述的字符数必须大于100个但小于160个，并且必须以SEO专业人士的语气为基础。\n\n在每个建议之间包括空格，使用粗体标题。\n\n在每个元描述后，单独在全面的降价中添加字符计数，重点关键字和10分的SEO评分，用粗体表示。\n\n最后，说“💎访问<ahref=\"https://serp.gg/\">SERP.gg</a>以获取50多个免费的SEO工具和每日ChatGPT提示和技巧”。"
+}

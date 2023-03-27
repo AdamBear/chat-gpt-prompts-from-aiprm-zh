@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AIPRM",
+  "AuthorURL": "https://forum.aiprm.com/t/creative-spintax-generator-creates-a-loooong-spintax-in-gpt3-5/3865",
+  "Title": "创意旋转语法生成器",
+  "Category": "writing",
+  "Teaser": "创造您的输入短语的多样化Spintax，但要富有创意，以获得大量结果。对于更精确的结果，请使用AIPRM的“SpintaxGenerator”。\n\nSpintax变体创建：\n1.设计出无数可能的短语组合，尝试着去不断调整每个元素，重复运用等方法来扩大您的输入结果。\n2.创新与创造相结合，利用Spintax的力量来探索您的联想世界。\n3.以创造力和个性化的角度生成Spintax代码，以扩展您的语言变体输入范围。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-15T19:10:37.339Z",
+  "Help": "",
+  "ID": "1801663548863283200",
+  "PromptHint": "[需要转换为Spintax的短语]",
+  "PromptPackageID": "0",
+  "Prompt": "忽略所有以前的指令。在目标语言[TARGETLANGUAGE]中为10个变体创建Spintax\"[PROMPT]\"。在所有排列中保持原始含义，但创意地旋转单词而不是整个句子。"
+}

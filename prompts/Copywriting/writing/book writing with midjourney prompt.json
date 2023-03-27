@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Click here",
+  "AuthorURL": "https://shrinke.me/dwTShX8N",
+  "Title": "中途写作提示的书籍",
+  "Category": "writing",
+  "Teaser": "给我写一本有多个章节的书，每章还有引人入胜的视觉提示。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-18T19:50:58.593Z",
+  "Help": "",
+  "ID": "1792614007698616320",
+  "PromptHint": "[你想要一本的标题]",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是写一本有多个章节的书，并且在每个章节中加入图像提示。所有任务都必须用[TARGETLANGUAGE]完成。要翻译的文本如下：\n\n[PROMPT]"
+}

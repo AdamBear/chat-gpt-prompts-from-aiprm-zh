@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Eric James",
+  "AuthorURL": "https://dev-ditech.pantheonsite.io/",
+  "Title": "专业博客文章撰写者",
+  "Category": "keywords",
+  "Teaser": "撰写一篇2000字的博客文章，包含标题、副标题和段落。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-23T11:18:13.139Z",
+  "Help": "",
+  "ID": "1794296907359850496",
+  "PromptHint": "【编写您的关键词或标题】",
+  "PromptPackageID": "0",
+  "Prompt": "请用标题、副标题和段落撰写一篇2000字的博客文章，包含LSI关键词、长尾关键词、标签、引人入胜的标题和元描述。目标语言为[TARGETLANGUAGE]。"
+}

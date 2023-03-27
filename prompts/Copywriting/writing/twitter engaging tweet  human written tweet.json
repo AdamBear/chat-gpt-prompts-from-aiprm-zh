@@ -1,0 +1,14 @@
+{
+  "AuthorName": "APKWA",
+  "AuthorURL": "https://apkwa.net/",
+  "Title": "推特互动推文|人工撰写推文",
+  "Category": "writing",
+  "Teaser": "Twitter活跃推文|人工编写推文生成器",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T14:11:29.276Z",
+  "Help": "",
+  "ID": "1799413942037254144",
+  "PromptHint": "只翻译下面的句子到[TARGETLANGUAGE]，不要加入[括号中的]单词。不允许使用表情符号。",
+  "PromptPackageID": "0",
+  "Prompt": "像一位Twitter专家一样，在[PROMPT]上写一篇人类撰写的推文。推文应该引人入胜。使用[TARGETLANGUAGE]书写。"
+}

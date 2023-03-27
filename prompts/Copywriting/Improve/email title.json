@@ -1,0 +1,14 @@
+{
+  "AuthorName": "sirchutney",
+  "AuthorURL": "https://twitter.com/sirchutney",
+  "Title": "电子邮件标题",
+  "Category": "Improve",
+  "Teaser": "基于此输入创建简明、专业的电子邮件主题：[PROMPT]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T14:56:24.685Z",
+  "Help": "",
+  "ID": "1797975695939600384",
+  "PromptHint": "在这里添加你的电子邮件。",
+  "PromptPackageID": "0",
+  "Prompt": "基于这个输入[PROMPT]，在[TARGETLANGUAGE]中创建一个简洁、专业的电子邮件标题。"
+}

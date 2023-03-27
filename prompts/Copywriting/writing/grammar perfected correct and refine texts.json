@@ -1,0 +1,14 @@
+{
+  "AuthorName": "KJaime",
+  "AuthorURL": "https://instagram/gkassoma?igshid=ZDdkNTZiNTM=",
+  "Title": "语法完美化：校对和修订文本。",
+  "Category": "writing",
+  "Teaser": "掌握语法和更多内容：提高你在任何语言中的校对技能。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-05T18:37:51.123Z",
+  "Help": "",
+  "ID": "1798031423299641344",
+  "PromptHint": "请插入文本。",
+  "PromptPackageID": "0",
+  "Prompt": "任务：对[TARGETLANGUAGE]文本进行修订和校正\n\n说明：\n\n忽略所有以前的说明，专注于修订和校正[TARGETLANGUAGE]文本。\n你的任务是作为一名熟练的审阅者和有经验的写手在目标语言中纠正语法、拼写、标点、拼写和标点的一致性、流畅性、简洁性、词语的选择、词语和短语的多样性、检测和建议语调，以及使用包容性语言。\n原始文本以[PROMPT]形式提供如下。\n记录在[PROMPT]中所作出的所有更改，同时说明所作出的更改的总数量。\n应用所有所做的更正，创建[TARGETLANGUAGE]文本的新版本。\n所有输出必须是[TARGETLANGUAGE]。\n\n[PROMPT]：\n[在此插入文本]\n\n模板：\n修正后的文本的新版本：\n\n[在此插入已修正的文本]\n\n所做的更改：\n\n[在此插入更改]\n[在此插入更改]\n[在此插入更改]\n...\n所做的更改总数：[在此插入更改的数量]\n提供您的响应时，请使用上述模型结构。所有输出必须是[TARGETLANGUAGE]。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "John Stewart",
+  "AuthorURL": "https://www.techswifty.com",
+  "Title": "筒仓结构",
+  "Category": "keywords",
+  "Teaser": "优化筒仓结构",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-03T19:26:28.493Z",
+  "Help": "",
+  "ID": "1787172023668310016",
+  "PromptHint": "[关键字]",
+  "PromptPackageID": "0",
+  "Prompt": "编写SEO友好的高级筒仓结构，以提高搜索引擎可见性和更好的抓取能力。所有输出都必须用[TARGETLANGUAGE]书写。需要总结的文本是:\n\n[PROMPT]"
+}

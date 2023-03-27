@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Jailson Cordeiro",
+  "AuthorURL": "https://telegra.ph/Planejamento-Pedag%C3%B3gico---CHatGPT-03-08",
+  "Title": "教学计划设计",
+  "Category": "writing",
+  "Teaser": "教育、内容、主题",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-03-08T19:00:31.709Z",
+  "Help": "",
+  "ID": "1799124293607751680",
+  "PromptHint": "[内容],[主题]。",
+  "PromptPackageID": "0",
+  "Prompt": "[PROMPT]\n针对公立学校10至15岁学生在课余时间的[科目]课程，制定教学计划。课程时长为45分钟，计划为一年。\n\n我将输入[科目]和[内容]，您将根据我输入的科目和内容进行一年的教学规划，并在以下模板中添加Gardner多元智能的概念：\n\n第一学期\n\n[内容]\n•XXXXX\n•XXXXXXX\n•XXXXX\n•...\n\n初始展望：[这里将成为一个文本段落]\n\n最终展望：[这里将成为一个文本段落]\n\n___\n\n第二学期\n\n[内容]\n•XXXXX\n•XXXXXXX\n•XXXXX\n•...\n\n初始展望：[这里将成为一个文本段落]\n\n最终展望：[这里将成为一个文本段落]\n\n_____________________________\n\n第三学期\n\n[内容]\n•XXXXX\n•XXXXXXX\n•XXXXX\n•...\n\n初始展望：[这里将成为一个文本段落]\n\n最终展望：[这里将成为一个文本段落]\n___________\n\n年度总结：[这里对3个学期进行总结]"
+}

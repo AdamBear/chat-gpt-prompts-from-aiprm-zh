@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Paula Pc",
+  "AuthorURL": "https://paulapc.com/",
+  "Title": "比较2个网站",
+  "Category": "writing",
+  "Teaser": "写下[URL1]和[URL2]进行比较。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-06T10:44:10.919Z",
+  "Help": "",
+  "ID": "1798274608189923328",
+  "PromptHint": "[网站1]-[网站2]",
+  "PromptPackageID": "0",
+  "Prompt": "比较同一领域的2个网址，列出它们各自的优缺点，并进行最终结论，考虑搜索引擎优化、搜索意图等方面，判断哪一个更好。"
+}

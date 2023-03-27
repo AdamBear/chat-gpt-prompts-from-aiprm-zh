@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Change Peoria",
+  "AuthorURL": "https://changepeoria.org",
+  "Title": "行动联盟事件说明",
+  "Category": "writing",
+  "Teaser": "动作网络活动描述来自于[关键词]。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-13T22:13:53.983Z",
+  "Help": "",
+  "ID": "1790838036163198976",
+  "PromptHint": "【关键字】",
+  "PromptPackageID": "0",
+  "Prompt": "\"扮演事件组织者，并在actionnetwork.org上创建一个吸引大量参与者的迷人活动页面。在制作页面时考虑最新的活动趋势、当前事件和目标观众的兴趣。突出活动的独特特点，使用引人注目的图像和有说服力的语言吸引人们参加活动。\n\n我的第一个任务是[PROMPT]。目标语言是[TARGETLANGUAGE]。\""
+}

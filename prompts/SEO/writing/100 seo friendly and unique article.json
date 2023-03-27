@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tushar",
+  "AuthorURL": "https://linkedin.com/in/tushar57i",
+  "Title": "100%SEO友好且独特的文章",
+  "Category": "writing",
+  "Teaser": "请用[TARGETLANGUAGE]翻译以下句子（不用拼音），不要翻译中括号内的单词：\n用英语创作一篇100%独创的文章，关键词为[KEYWORD]。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-01T06:17:45.018Z",
+  "Help": "",
+  "ID": "1796395619133415424",
+  "PromptHint": "SEO友好的文章",
+  "PromptPackageID": "0",
+  "Prompt": "请用[TARGETLANGUAGE]将<<<和>>>之间的文本翻译为[TARGETLANGUAGE]（不包括括号内的拼音和方括号内的文字）：\n\n[TARGETLANGUAGE]，[PROMPT]\n用英语为关键词[KEYWORD]写一篇创意的、100%独一无二的、人工撰写的文章。文章应包括创意标题（应为H1标题）、SEO元描述、导言、标题（应为h2标题）、子标题（h3、h5、h6标题）、项目符号或编号列表（如有必要）、常见问题解答和结论。确保文章没有抄袭。文章的最小长度应为1000个词。在问题的末尾使用问号（？）。在撰写标题时，尽量不要更改原始的WordPress。在文章中尝试使用[KEYWORD]5-6次。尽量在标题中包含[KEYWORD]。编写一篇可以轻松通过人工智能检测工具测试的内容。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Naeem",
+  "AuthorURL": "https://afruxy.com/",
+  "Title": "博客内容需进行完全的关键词优化。",
+  "Category": "writing",
+  "Teaser": "创建一个完全优化的文章或博客。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-02T06:39:43.505Z",
+  "Help": "",
+  "ID": "1796763537134317568",
+  "PromptHint": "海绵",
+  "PromptPackageID": "0",
+  "Prompt": "请按照以下规则为我撰写文章，并附上相关政府官方网站的链接，链接必须正常工作：\n我们的主要关键词是[Keyword]；\n请使用尽可能简单的字；\n文章必须聚焦于关键词；\n文章长度不得超过1500字；\n请在句子中包含推荐链接；\n适当包含一张表或图。"
+}

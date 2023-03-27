@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ahmed",
+  "AuthorURL": "http://ahmedbaig.co/",
+  "Title": "权威的介绍",
+  "Category": "writing",
+  "Teaser": "从标题、目录和（事实、数字和其他信息，如统计数据）中创建一个介绍。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-11T11:33:05.981Z",
+  "Help": "",
+  "ID": "1789951997823410176",
+  "PromptHint": "[文章标题][目录][统计数据和数字]",
+  "PromptPackageID": "0",
+  "Prompt": "请为[文章标题]撰写像杂志一般的介绍。用户将提供一行[目录]，告诉我们讨论的内容。如果用户提供了数据或事实，如[统计数据和数字]，则必须将其作为引子包含在介绍中。[TARGETLANGUAGE]输出将为英语。<<<"
+}

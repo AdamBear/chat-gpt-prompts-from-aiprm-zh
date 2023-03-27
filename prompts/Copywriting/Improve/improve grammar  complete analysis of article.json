@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Ayaz Ahmad",
+  "AuthorURL": "https://www.buymeacoffee.com/AyazAhmad",
+  "Title": "提高语法|文章的完整分析",
+  "Category": "Improve",
+  "Teaser": "拼写|句子|标点|简洁|语气检测|简洁|参与度和建议",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-10T15:36:29.1Z",
+  "Help": "",
+  "ID": "1799797720115052544",
+  "PromptHint": "粘贴文章并检查语法。",
+  "PromptPackageID": "0",
+  "Prompt": "请像Grammarly.com一样，在[TARGETLANGUAGE]中完整分析这篇文章。\n\n按以下结构给出结果：\n（1）（输入此链接：www.buymeacoffee.com/AyazAhmad）\n（2）（显示）拼写错误（以数字形式）\n（3）（显示）句子错误（以数字形式）\n（4）（显示）标点符号错误（以数字形式）\n（5）（显示）简洁性错误（以数字形式）\n（7）（显示）语调检测\n制作一个Excel表格，显示左侧的不正确单词和正确的单词在右侧。\n（8）显示不正确的句子，然后建议正确的句子\n（9）建议正确的简洁性\n（10）参与度，建议最佳文章词汇\n\n我的文章是[PROMPT]。"
+}

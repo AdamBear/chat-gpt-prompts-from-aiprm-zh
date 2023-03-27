@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Tim",
+  "AuthorURL": "https://www.blennd.com",
+  "Title": "写一篇有价值的常见问题解答博客文章",
+  "Category": "writing",
+  "Teaser": "一键生成有价值的常见问题解答博客文章",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-03T21:36:37.461Z",
+  "Help": "",
+  "ID": "1797351637086625792",
+  "PromptHint": "把关键词翻译成[TARGETLANGUAGE]。",
+  "PromptPackageID": "0",
+  "Prompt": "请在[targetlanguage]中，为关键词写一篇100%独特、有创意、人工撰写的文章。文章应包括创意标题（应位于H1标题）、SEO元描述、介绍、标题（应为h2标题）、子标题（h3、h4、h5、h6标题）、项目符号或编号列表（如果需要）、常见问题解答和结论。请确保文章没有抄袭。文章的最小长度应为800字。在问题结尾处使用问号（?）。在撰写标题时，请尽量不更改原UX网站设计。在文章中尽量使用选定的关键词2-3次。尽量在标题中包含选定的关键词。"
+}

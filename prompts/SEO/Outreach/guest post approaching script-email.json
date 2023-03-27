@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hasnain",
+  "AuthorURL": "https://www.morninglazziness.com/author/hasnain-khokhawala/",
+  "Title": "嘉宾投稿-接近脚本电子邮件",
+  "Category": "Outreach",
+  "Teaser": "创建最佳的客座发帖或博客接近策略或脚本，以接近网站管理员、业主或博主为博客类别做出贡献，如建筑、动物和宠物、健康、科技、旅行、时尚、美容、金融、法律和秩序、教育、互联网与服务等，来发布高质量文章或帖子。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-16T10:25:30.384Z",
+  "Help": "",
+  "ID": "1801893786981498880",
+  "PromptHint": "你想要给博客类别写电子邮件，或者编写一个接近宠物网站管理员的电子邮件模板。",
+  "PromptPackageID": "0",
+  "Prompt": "您的任务是用150个字或最多500个字符总结我给您的文本。所有输出都必须使用[TARGETLANGUAGE]。要总结的文本是：<<<PROMPT>>>。"
+}

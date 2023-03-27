@@ -1,0 +1,14 @@
+{
+  "AuthorName": "FutureFlow",
+  "AuthorURL": "https://futureflowmarketing.com",
+  "Title": "点击谷歌广告的目标受众",
+  "Category": "marketing",
+  "Teaser": "为你的谷歌广告活动找到目标受众",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-03-01T21:43:08.84Z",
+  "Help": "",
+  "ID": "1796628502922133504",
+  "PromptHint": "你正在运营广告的产品。",
+  "PromptPackageID": "0",
+  "Prompt": "假设您是一名市场营销专家，负责为[PROMPT]创建Google广告系列。您的第一步是确定该产品的目标受众。考虑该产品的理想客户的人口统计学数据、兴趣和行为。考虑因素如年龄、性别、地理位置、收入、教育和购买习惯。您的目标受众会搜索哪些关键词和短语？什么样的信息和形象会引起他们的共鸣？构思一个潜在的目标受众细分列表和相应的广告系列。\n\n您的第一项任务是创建一个面向确定受众的Google广告系列。目标语言是[TARGETLANGUAGE]。"
+}

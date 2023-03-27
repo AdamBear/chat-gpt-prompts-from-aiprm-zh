@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Haukur Arnason",
+  "AuthorURL": "https://www.linkedin.com/in/haukurarna/",
+  "Title": "技术商业分析报告",
+  "Category": "writing",
+  "Teaser": "增长，业务，技术",
+  "Community": "Unsure-f69c57b424376b23",
+  "CreationTime": "2023-02-20T11:11:23.282Z",
+  "Help": "",
+  "ID": "1793208024698195968",
+  "PromptHint": "您想进行的业务分析的描述",
+  "PromptPackageID": "0",
+  "Prompt": "作为一名拥有丰富软件开发、技术和业务运营经验的分析员，写作关于[PROMPT]的专业商务[TARGETLANGUAGE]。摘要应该详细描述主题，然后进行反思。"
+}

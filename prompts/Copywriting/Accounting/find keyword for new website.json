@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Hassaan",
+  "AuthorURL": "https://hscoolinginfo.com/blogs/",
+  "Title": "找到新网站的关键词",
+  "Category": "Accounting",
+  "Teaser": "寻找适合新博客或新联盟博客的低关键词难度和低搜索量的关键词。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-18T08:34:14.258Z",
+  "Help": "",
+  "ID": "1802590561010708480",
+  "PromptHint": "输入您的网站领域。",
+  "PromptPackageID": "0",
+  "Prompt": "请给我一个低难度和低搜索量的[PROMPT]关键词，该关键词最适合新网站。[TARGETLANGUAGE]。"
+}

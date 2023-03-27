@@ -1,0 +1,14 @@
+{
+  "AuthorName": "TORDUP",
+  "AuthorURL": "https://streamlabs.com/tordup/tip",
+  "Title": "基于大纲写电子书。",
+  "Category": "writing",
+  "Teaser": "请把下面这句话翻译成[TARGETLANGUAGE]：[onlytranslatethefollowingsentencetoChinesewithoutpinyin,donottranslatewordsbetween[]。]",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-21T17:47:25.1Z",
+  "Help": "",
+  "ID": "1793670076852076544",
+  "PromptHint": "【提纲中的主题标题】",
+  "PromptPackageID": "0",
+  "Prompt": "请为我编写一篇主题为[PROMPT]的部分页面。所有输出请用[TARGETLANGUAGE]书写。"
+}

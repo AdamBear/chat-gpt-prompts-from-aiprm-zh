@@ -1,0 +1,14 @@
+{
+  "AuthorName": "1001prompts.com",
+  "AuthorURL": "https://1001prompts.com/",
+  "Title": "创建100%的SEO优化标题。",
+  "Category": "keywords",
+  "Teaser": "为您的关键词清单中的每个关键词创建100％的SEO优化标题。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-05T09:36:50.038Z",
+  "Help": "",
+  "ID": "1797895271640981504",
+  "PromptHint": "请将以下关键词列表翻译成[TARGETLANGUAGE]：[粘贴您的关键词列表]",
+  "PromptPackageID": "0",
+  "Prompt": "每个关键词给我一个吸引眼球的标题。每个标题必须以关键词开头。请不要使用引号或感叹号。<<<"
+}

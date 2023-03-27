@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Henry",
+  "AuthorURL": "https://www.netnaija.com",
+  "Title": "电影总结提示",
+  "Category": "writing",
+  "Teaser": "写上电影的名字。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-13T19:51:33.167Z",
+  "Help": "",
+  "ID": "1790802213384486912",
+  "PromptHint": "[电影的名字]",
+  "PromptPackageID": "0",
+  "Prompt": "电影的名字叫做[PROMPT]。请以叙事形式描述该电影，包括所有的关键细节和剧透。您的描述应富有吸引力、聪明且结构合理。清晰准确地叙述电影中发生的事件，包括人物发展和情节转折。您的描述应该以一个故事的形式呈现，让观众感觉自己正在观看电影。请在描述中以所观看的电影的标题和导演为开头。"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Green Mind Agency",
+  "AuthorURL": "https://greenmindagency.com/",
+  "Title": "基于长尾关键词的关键词聚类",
+  "Category": "keywords",
+  "Teaser": "请将以下句子翻译成[TARGETLANGUAGE]，不要使用拼音，并在每个关键词之下添加。\n\n[Keywords:]\n-Translate\n-Sentence\n-Chinese\n-Words\n-Between\n\n[Translation:]\n请将以下句子翻译成[TARGETLANGUAGE]，不要翻译[]之间的单词，并在每个关键词之下添加。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-10T21:33:05.16Z",
+  "Help": "",
+  "ID": "1789740601458290688",
+  "PromptHint": "请翻译以下句子至[TARGETLANGUAGE]：[请不要使用拼音，不要翻译方括号中的单词]\n\n关于我们的公司和产品，您可以在我们的网站上找到更多信息。",
+  "PromptPackageID": "0",
+  "Prompt": "我想让您作为一个流利的[TARGETLANGUAGE]关键词研究专家。\n\n将每个关键词按照搜索意图分类，无论是服务还是文章页面。\n\n然后根据它们的语义相关性将关键词分组。\n\n接下来，我想要一张用Markdown表格形式展现的[TARGETLANGUAGE]关键词清单，包括以下列：关键词组、关键词、搜索意图，并按照关键词的顺序对表格进行排序。\n\n请使用以下关键词：\n\n[PROMPT]"
+}

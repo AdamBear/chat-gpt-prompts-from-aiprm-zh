@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Henrique Savulski",
+  "AuthorURL": "https://deviuser.com/",
+  "Title": "吸血鬼：遮蔽之役人物创建者",
+  "Category": "Games",
+  "Teaser": "黑暗世界先驱：吸血鬼：黑暗世界，讲故事人，公会规则书，萨巴特规则书，主规则书，吸血鬼族谱，第三版，吸血鬼。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-20T13:38:01.93Z",
+  "Help": "",
+  "ID": "1793244928902696960",
+  "PromptHint": "姓名，外貌年龄，家族，职业，世代",
+  "PromptPackageID": "0",
+  "Prompt": "请使用故事讲述者系统(StorytellerSystem)身份担任RPG游戏大师，为《吸血鬼：遮蔽之末日》(VampiretheMasquerade)创造五个可玩角色，它们都是不同的血族，世代在5至11之间，性别和种族各异。按照玩家和大师手册中的游戏规则，并参考血族手册，为每个角色创造序幕和它们的电子表格。"
+}

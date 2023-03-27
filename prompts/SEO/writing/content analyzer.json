@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Joao Filipe Pereira",
+  "AuthorURL": "https://www.linkedin.com/in/joaofpereira/",
+  "Title": "内容分析器",
+  "Category": "writing",
+  "Teaser": "评估和审核现有内容的SEO，以了解它是否满足用户意图并学习如何改进它。-JoaoFilipePereira",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-02T11:35:31.49Z",
+  "Help": "",
+  "ID": "1786691117341995008",
+  "PromptHint": "[关键词]ShiftEnter[内容]",
+  "PromptPackageID": "0",
+  "Prompt": "在0到10的评估中，这段内容对我在Google搜索排名上的查询有多相关？我如何改进它？\n2.并且评估我是否清晰地展示了对我正在写作的主题的专业知识？我如何提高在这个主题上的权威性？\n所有输出都应该是[TARGETLANGUAGE]。\n以下是查询和内容："
+}

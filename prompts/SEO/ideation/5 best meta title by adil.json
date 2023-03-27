@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adil",
+  "AuthorURL": "https://www.linkedin.com/in/adil-memon/",
+  "Title": "阿迪尔的5个最佳元标题",
+  "Category": "ideation",
+  "Teaser": "为此[关键词]编写一个最多70个字符的元标题。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-02T18:38:28.569Z",
+  "Help": "",
+  "ID": "1796944416762748928",
+  "PromptHint": "请在此处写下您的关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是以[PROMPT]为开头，撰写五个最多70个字符的吸引人的元标题。所有输出都应为[TARGETLANGUAGE]。"
+}

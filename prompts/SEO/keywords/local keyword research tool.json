@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mahmud",
+  "AuthorURL": "https://www.linkedin.com/in/mahmudul-haque/",
+  "Title": "本地关键词研究工具",
+  "Category": "keywords",
+  "Teaser": "为您的网站或内容寻找最佳关键词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-09T13:47:47.069Z",
+  "Help": "",
+  "ID": "1789261116631937024",
+  "PromptHint": "[种子关键词，地点或输入关键词列表]",
+  "PromptPackageID": "0",
+  "Prompt": "请忽略先前的指示。\n\n##意图\n-关键词研究：通过生成包括搜索量、每次点击成本、位置、意图和SEO难度级别的关键词表，找到一个网站或内容的最佳20个关键词。\n\n##实体\n-关键词：与主题或行业相关的种子关键词\n-地点：您想要研究的地点。\n\n##意图示例\n-信息\n-导航\n-商业的\n-交易的\n\n##SEO难度的例子\n\n-高\n-中\n-低\n\n##提示\n我希望你像一个关键词研究工具一样，为一个网站或内容找到最佳关键词。我将输入一些与主题或行业相关的种子关键词和位置。我需要你生成一个包含搜索量、成本CPC、位置、意图和难度级别的关键词表格。\n\n首先，请输入一些种子关键词和位置：\n\n[TARGETLANGUAGE]\n[PROMPT]\n>>>"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Rohit Dubey",
+  "AuthorURL": "https://www.techcasm.com",
+  "Title": "网络故事创作者",
+  "Category": "writing",
+  "Teaser": "创建独家的WEBSTORY指针，基于主题帮助您的Web-story在Google排名。如果您喜欢，请点赞:)",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-25T15:29:40.459Z",
+  "Help": "",
+  "ID": "1795084963897663488",
+  "PromptHint": "【提及主题或关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "在[PROMPT]主题上表现得像专业人士，并创建15个独家的、不太知道的、隐藏的和令用户惊叹的事实，让他们在[TARGETLANGUAGE]中享受他们的惊奇之感。\n\n同时考虑以下因素：\n1.建议一个非常吸引人的网络故事标题，以便谷歌用户可以100%打开它。\n2.根据内容向用户建议关键字，以便网络故事在谷歌上排名第一。\n3.建议在Web故事描述下添加元描述，再次SEO友好，在谷歌排名靠前。"
+}

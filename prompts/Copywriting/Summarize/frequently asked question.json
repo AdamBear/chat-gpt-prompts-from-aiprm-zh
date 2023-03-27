@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gustavo French",
+  "AuthorURL": "https://blackcapseo.com/",
+  "Title": "常见问题",
+  "Category": "Summarize",
+  "Teaser": "常见问题生成器",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-11T13:49:29.422Z",
+  "Help": "",
+  "ID": "1800133181899534336",
+  "PromptHint": "抱歉，我不知道\"[keyword]\"是什么。请提供一个正确的句子。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是制作一个包含问题和答案的FAQ。所有文本都应该用[TARGETLANGUAGE]。主题是[PROMPT]。"
+}

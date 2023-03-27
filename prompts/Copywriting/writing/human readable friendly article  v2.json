@@ -1,0 +1,14 @@
+{
+  "AuthorName": "fingvo",
+  "AuthorURL": "https://fingvo.com/",
+  "Title": "易于阅读的友好文章[V.2]",
+  "Category": "writing",
+  "Teaser": "请以最容易理解的方式修改所提供内容。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-28T21:52:27.559Z",
+  "Help": "",
+  "ID": "1785034434660261888",
+  "PromptHint": "重写",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是重新写我给你的文本，将20到5000个单词改写成[TARGETLANGUAGE]，并且要人类易读性好。"
+}

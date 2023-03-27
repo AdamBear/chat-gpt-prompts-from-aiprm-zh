@@ -1,0 +1,14 @@
+{
+  "AuthorName": "MIU Creative Agency",
+  "AuthorURL": "https://miu.sg/news/",
+  "Title": "网页优化长文章",
+  "Category": "writing",
+  "Teaser": "优化SEO的文章",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-22T03:09:15.966Z",
+  "Help": "",
+  "ID": "1793811470472179712",
+  "PromptHint": "【标题】，【关键词列表】",
+  "PromptPackageID": "0",
+  "Prompt": "我请求您充当熟练的内容作家，精通[TARGETLANGUAGE]，并能流畅写作。请为我撰写一篇标题为[TITLE]的文章。该文章必须进行SEO优化，包含以下[关键词清单]中1%的关键词，以及我提出的若干要求：\n1.至少1500字。\n2.在[TITLE]上加上H1标题。\n3.添加5个H2标题。\n4.如果需要，在H2标题下添加H3标题。\n5.最后一段应是结论。\n6.请使用自己的话来撰写信息，而不是从其他来源复制粘贴。\n7.同时，检查抄袭，因为我需要纯独特的内容。\n8.以对话的形式撰写内容，就好像是人类写的一样。\n9.在准备文章时，准备将必要的单词用粗体字书写。"
+}

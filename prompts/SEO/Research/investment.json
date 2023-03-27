@@ -1,0 +1,14 @@
+{
+  "AuthorName": "dennis",
+  "AuthorURL": "https://www.patreon.com/Aireturn",
+  "Title": "投资",
+  "Category": "Research",
+  "Teaser": "记录我内容的最佳分析。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-08T05:34:01.424Z",
+  "Help": "",
+  "ID": "1798921330041806848",
+  "PromptHint": "投资",
+  "PromptPackageID": "0",
+  "Prompt": "把我給你的文章用五個詞或最多2000字總結。所有翻譯輸出都應該是[TARGETLANGUAGE]。要總結的文本是這樣的：<<<"
+}

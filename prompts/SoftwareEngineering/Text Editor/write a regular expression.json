@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Eugene Mironichev",
+  "AuthorURL": "https://www.linkedin.com/in/mironic/",
+  "Title": "写一个正则表达式。",
+  "Category": "Text Editor",
+  "Teaser": "为VisualStudio、Javascript、PHP、C#、Ruby和Java生成正则表达式。请通过LinkedIn分享建议-单击链接联系。",
+  "Community": "SoftwareEngineering-f1858b980c341d28",
+  "CreationTime": "2023-03-02T08:42:20.494Z",
+  "Help": "",
+  "ID": "1796794394582712320",
+  "PromptHint": "请用正则表达式创建以下文本：例如：超链接。或包含/kb/的超链接。请通过LinkedIn分享您的建议-使用链接查看我的个人资料。",
+  "PromptPackageID": "0",
+  "Prompt": "请为以下语言使用的VisualStudio/VisualStudioCode，Javascript，C#，PHP，Ruby，Java，Bash生成正则表达式。请以[TARGETLANGUAGE]形式回复，并将每个正则表达式分别附上简短的注释和解释。您需要为以下内容编写正则表达式：\n\n[PROMPT]\n>>>"
+}

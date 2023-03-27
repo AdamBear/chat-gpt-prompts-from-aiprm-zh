@@ -1,0 +1,14 @@
+{
+  "AuthorName": "AI Blogger",
+  "AuthorURL": "https://www.blogai.nl",
+  "Title": "关键词，短语和与您的主题相关的术语",
+  "Category": "keywords",
+  "Teaser": "从人群中脱颖而出的最好机会。包括围绕您的主题的短语和相关术语的高质量关键字研究。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-07T11:27:36.443Z",
+  "Help": "",
+  "ID": "1798647924415266816",
+  "PromptHint": "放入你想要进行关键词研究的主题。",
+  "PromptPackageID": "0",
+  "Prompt": "请为我列出与我所提供的主题相关的广泛话题清单（使用关键词排名的一般类别或“Bucket”创建电子表格）。将此列表保持简短和简单，最多只有5至10个主题。接下来，我希望您扩展每个主题，列出您认为客户会使用的短语列表。如果您已经拥有来自网站分析软件（如GoogleAnalytics或HubSpot的来源报告）的数据，请查看您的有机搜索流量“Bucket”，以确定消费者已经使用的关键字。之后，我希望您找到相关的搜索术语并分析每个关键字的强度。所有输出都应为[TARGETLANGUAGE]。要总结的文本是：<<>>。"
+}

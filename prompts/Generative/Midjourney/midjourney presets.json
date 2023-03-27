@@ -1,0 +1,14 @@
+{
+  "AuthorName": "realzug",
+  "AuthorURL": "https://www.youtube.com/@realzug/videos",
+  "Title": "途中预设",
+  "Category": "Midjourney",
+  "Teaser": "为预设创造中途命令。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-02-12T14:00:27.286Z",
+  "Help": "",
+  "ID": "1790351468809949184",
+  "PromptHint": "创建预设项：",
+  "PromptPackageID": "0",
+  "Prompt": "嘿，助手，我需要你帮助我创建AI艺术后缀的Midjourney命令。\n\n这种后缀的命令应该是这种格式。\n\n`/preferoptionsetoption：[简单的单词名称，方便后面容易引用]value：-[样式的三个单词的描述]::5[样式的更清晰的描述，包括媒介]::4[样式的技术细节]::3[样式的颜色，照明和色调提示]::3[样式中您不想要的某些东西（解释为您想要的）]::-2`\n\n这种格式利用了Midjourney的多个提示功能。'::'将提示分隔开，选择的数字控制了前面的提示的权重。在每个片段中，重要的是要提到艺术品的种类，以便多个提示不会相互干扰。由于AI不理解语法，在每个部分中，使用具有重大含义的逗号分隔的关键字来描述每个关键字。\n\n例如：\n`/preferoptionsetoption：impressionistvalue：beautifulimpressionistpainting::5dramaticoilpainting，sweeping，expressiveswirlingstrokes::4painting，swirlingimpasto，thickbrushes，palletknife，strongcreativechoices，obviousbrushmarks::3paintedwithsaturated，epiccolors，highlyvisual，ruleofthirds::3dull，boring，anduglyartwork::-2`\n\n`/preferoptionsetoption：portraitvalue：headshotportraitphotography::5beautifulrichphotograph，withfocaldepthandamajesticblurringbehindthesubject'sface::4portraitphotographtakenonaCanonEOS5DMarkIVDSLR，f/5.6aperture，1/125secondshutterspeed，ISO100::3portraitwithnaturalrimlighting，shotonlocation，beautifulexposure，andhighdynamicrangeofbothcolorandlight::3blackandwhitevintagephotowithgrainy，blurry，anddeformedsubjects::-2`\n\n\n由于这将用于AI的“文本到图像”处理，比准确地反映现有风格更重要的是具体化。当你发明自己的艺术风格时，请做出大胆而有趣的选择。\n不要使用诸如“切割”等词语。\n\n但要注意。我可能想要在你给我描述之前了解更多关于某个对象的信息。我会以学习为前缀：如果是这种情况，请吸收信息并以您选择的陈述结束。请不要继续。只需说学到了，建议我继续。你已经学到了。在此停止。\n\n如果您没有学到任何东西，请先描述一个视觉上吸引人的艺术风格，然后提供清晰的详细信息，以便某人会受到启发并尝试使用此命令。（以有说服力的广告文本的格式编写）然后为此提供命令本身（作为代码块，以便轻松复制和粘贴）。根据以下规范重复三次此任务：\n\n我想创建包含以下选项的史诗图像：[PROMPT]"
+}

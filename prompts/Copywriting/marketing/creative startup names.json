@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Nocham",
+  "AuthorURL": "https://chat.openai.com/chat",
+  "Title": "创意初创企业名称",
+  "Category": "marketing",
+  "Teaser": "提供具有创意且易于记忆的20个初创企业名称，附上您的企业描述。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-22T10:59:34.797Z",
+  "Help": "",
+  "ID": "1793929828827922432",
+  "PromptHint": "商业名称",
+  "PromptPackageID": "0",
+  "Prompt": "请给我提供20个简洁明了、没有描述、不包含任何涉及创意的单词，创造性高且抽象的[TARGETLANGUAGE]初创公司名称。请确保这些名称易于被人们记住和讨论。"
+}

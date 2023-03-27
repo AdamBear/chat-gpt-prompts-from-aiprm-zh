@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Foss",
+  "AuthorURL": "https://www.linkedin.com/in/eduardofoss/",
+  "Title": "社交媒体广告计划一键生成",
+  "Category": "Places (Media Channels)",
+  "Teaser": "创建一个简单的社交媒体媒介计划，只需要3个参数：目标、社交网络和投资。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-20T21:22:52.665Z",
+  "Help": "",
+  "ID": "1793361911124062208",
+  "PromptHint": "类型:客观,社交网络和投资",
+  "PromptPackageID": "0",
+  "Prompt": "请扮演数字媒体策划者的角色，并以表格形式回答[PROMPT]，为[TARGETLANGUAGE]创建媒体计划。该广告活动的目标是侧重于[PROMPT]，并采用[PROMPT]购买类型。在这个计划中，将[PROMPT]的投资分配到表现最佳的格式中，并了解[PROMPT]的预期结果。"
+}

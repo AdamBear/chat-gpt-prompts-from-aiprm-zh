@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Mersudin Forbes",
+  "AuthorURL": "https://www.mersudinforbes.com",
+  "Title": "寻找相关网站",
+  "Category": "ideation",
+  "Teaser": "寻找与你的目标主题或关键词相关的网站。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-23T16:22:33.92Z",
+  "Help": "",
+  "ID": "1783139474793033728",
+  "PromptHint": "[关键字]",
+  "PromptPackageID": "0",
+  "Prompt": "请给我相关于[PROMPT]的网站列表。"
+}

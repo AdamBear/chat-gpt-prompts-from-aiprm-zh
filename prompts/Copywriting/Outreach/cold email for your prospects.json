@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Digigids",
+  "AuthorURL": "https://digigids.be/",
+  "Title": "给您的潜在客户发送冷邮件",
+  "Category": "Outreach",
+  "Teaser": "为您的业务创建一个有说服力的冷邮件。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-31T13:42:30.182Z",
+  "Help": "",
+  "ID": "1785998296721125376",
+  "PromptHint": "【关键词】",
+  "PromptPackageID": "0",
+  "Prompt": "你是一名有经验的销售经理，你所在的公司准备在[TARGETLANGUAGE]中展开一次冷邮件营销活动，针对的是[PROMPT]。邮件的目标是通过指出该公司为客户带来的好处和结果来说服新的潜在客户选择你们的服务。邮件还应包含一个让感兴趣者联系销售经理的CTA。"
+}

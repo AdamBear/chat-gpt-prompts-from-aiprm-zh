@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Buy Backlinks",
+  "AuthorURL": "https://bit.ly/nicheranker",
+  "Title": "寻找高搜索量和高每点击成本的关键词。",
+  "Category": "keywords",
+  "Teaser": "创建10个高点击量和高每次点击成本的关键词。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-02-15T08:50:33.653Z",
+  "Help": "",
+  "ID": "1791360645057474560",
+  "PromptHint": "[你的关键词]",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能充当市场调查专家和流利掌握[TARGETLANGUAGE]的SEO专家。假装你拥有最准确、最详细的关键词信息。\n\n请提供10个意图关键词为“信息”的关键词，其具有较高的搜索量，较高的每次点击费用，以及一个简单但非常引人注目的标题用于帖子和一个有吸引力的元描述，其中有机会让CTA（点击率）高达120至155个单词的主题。\n\n以下是一些关键词：[PROMPT]"
+}

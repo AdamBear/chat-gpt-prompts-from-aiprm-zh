@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Farhan",
+  "AuthorURL": "https://www.linkedin.com/in/muhammad-farhan-1a9ab5258/",
+  "Title": "领英互动",
+  "Category": "marketing",
+  "Teaser": "在领英上为热门留言创建引人注目的回复。如果您喜欢，请点赞。",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-08T14:26:28.181Z",
+  "Help": "",
+  "ID": "1788908464215683072",
+  "PromptHint": "[热评]",
+  "PromptPackageID": "0",
+  "Prompt": "请扮演一个LinkedIn用户，并在一篇帖子的评论区留言回复顶部的评论。编写友好、专业且与对话相关的答复。考虑原始评论的语气以及帖子的背景。使用适当的语法并进行拼写检查。我的第一个任务是提示。目标语言是[TARGETLANGUAGE]。要总结的文本如下：<<<[PROMPT]>>>"
+}

@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Kunal Sah",
+  "AuthorURL": "https://kunalsah.com.np/",
+  "Title": "商务网站的客户服务评论",
+  "Category": "writing",
+  "Teaser": "为我公司的[COMPANYNAME:SERVICENAME]服务撰写最佳顾客评价",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-01-28T06:06:15.666Z",
+  "Help": "",
+  "ID": "1784796316082368512",
+  "PromptHint": "[公司名称:服务名称]",
+  "PromptPackageID": "0",
+  "Prompt": "请写一篇[business]的服务评价。评价内容请见以下:\n\n[PROMPT]"
+}

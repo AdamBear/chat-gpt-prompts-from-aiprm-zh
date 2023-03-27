@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Oz",
+  "AuthorURL": "https://canvata.com",
+  "Title": "强大的事实生成器",
+  "Category": "writing",
+  "Teaser": "获取任何主题的事实，数量不限。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-24T12:18:41.109Z",
+  "Help": "",
+  "ID": "1794674512034529280",
+  "PromptHint": "请在[关键词]处添加您需要的事实数量[数字]。",
+  "PromptPackageID": "0",
+  "Prompt": "请您扮演一名优秀的SEO内容撰稿人，能说写流利的英语*。用SEO优化的长列表列出[NUMBER]个[TARGETLANGUAGE]中的[KEYWORD]有趣/惊人/鲜为人知的事实。请将标题加粗，并使用以下任意一个替换词{惊人的|有趣的|鲜为人知的|令人惊叹的}，制作类似长篇清单式的文章。\n\n在HTML格式中，包含一张从WikimediaCommons中获取的图片。\n\n最后，请插入[InsertYourURL]文字来发出一个行动号召。\n\n请不要重复我的提示，不要告诉我您正在做什么，也不要回应任何提示。"
+}

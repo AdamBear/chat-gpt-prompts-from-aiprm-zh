@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Gyana Ranjan",
+  "AuthorURL": "https://instagram.com/mr.gyan_491",
+  "Title": "从内容中创建引人注目的新闻标题",
+  "Category": "writing",
+  "Teaser": "创造引人注目的新闻标题并从内容中摘录。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T06:35:56.965Z",
+  "Help": "",
+  "ID": "1800386465612685312",
+  "PromptHint": "请翻译以下句子到[TARGETLANGUAGE]：不要翻译方括号[]内的单词。\n\n[Note:AsanAIlanguagemodel,Iamcapableoftranslatingsentencesandprovidinglanguage-relatedassistance.However,myresponsesarenotperfectandmaycontainerrorsorinaccuracies.Pleaseusemyservicesforgeneralguidanceanddonotrelysolelyonthemforimportantmatters.]",
+  "PromptPackageID": "0",
+  "Prompt": "充当文案撰写人。\n-从内容中创建引人注目的点击率新闻标题\n-创建病毒式的推文\n-创建一个60字内的摘录\n-建议重要的元标签\n-建议特色图片的想法\n-建议让它更可视化的想法\n-语言[TARGETLANGUAGE]"
+}

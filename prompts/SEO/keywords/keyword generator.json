@@ -1,0 +1,14 @@
+{
+  "AuthorName": "WilliamCole",
+  "AuthorURL": "http://www.creaition.com/",
+  "Title": "关键词生成器",
+  "Category": "keywords",
+  "Teaser": "创建与您的提示相关的关键词列表。",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-01-22T00:57:48.384Z",
+  "Help": "",
+  "ID": "1782544363721854976",
+  "PromptHint": "咖啡，玩具，珠宝，鞋子，等等。",
+  "PromptPackageID": "0",
+  "Prompt": "生成与[PROMPT]密切相关的25个关键词列表，不重复任何单词。请以项目符号形式列出关键词，然后在其下方添加逗号分隔的列表。"
+}

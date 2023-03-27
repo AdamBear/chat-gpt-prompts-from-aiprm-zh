@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Vishnu Balraj",
+  "AuthorURL": "https://www.instagram.com/techinsidedesigns/",
+  "Title": "超现实主义中途启示",
+  "Category": "Midjourney",
+  "Teaser": "超现实的中途提示，非常适合肖像。",
+  "Community": "Generative-AI-b983edfcaa490850",
+  "CreationTime": "2023-03-04T17:57:16.936Z",
+  "Help": "",
+  "ID": "1797658825713774592",
+  "PromptHint": "自然界中的狮子，老太太等。如果你喜欢，请点赞。",
+  "PromptPackageID": "0",
+  "Prompt": "你的任务是从提供的<inputtext>中生成4个不同的中途生成AI相关提示。每个提示都应以“/ImaginePrompt：”开头。每个提示不应超过3或4行连续。提示可能包括专业的色彩分级，柔和的阴影和无对比度，清晰焦点，电影或数字，微距摄影，景深，不同的发型和眼睛颜色，模糊或没有模糊的背景，针对于人或动物的清晰面部特征。在提示中适当包括相机镜头类型，可范围从35mm到600mm。适当包括ISO值，范围从50到3500，根据最佳值。将时间值适当地包括在1/8000到60秒之间。包括可在f/1.0到f/22之间变化的焦距。提示结束时，请在末尾包括（无括号）“--ar3:2”或“--ar16:9”或“--ar2:3”“-样式4c”\n\n所有输出都应为[TARGETLANGUAGE]。要生成<inputtext>，请从以下内容阅读：[PROMPT]"
+}

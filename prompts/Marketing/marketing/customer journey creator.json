@@ -1,0 +1,14 @@
+{
+  "AuthorName": "CRONUTS.DIGITAL",
+  "AuthorURL": "https://cronuts.digital/es/",
+  "Title": "顾客旅程创建者",
+  "Category": "marketing",
+  "Teaser": "基于关键词的客户旅程创建者",
+  "Community": "Marketing-cc647f5cf02ffd02",
+  "CreationTime": "2023-02-02T10:33:28.49Z",
+  "Help": "",
+  "ID": "1786675501948203008",
+  "PromptHint": "公司类型",
+  "PromptPackageID": "0",
+  "Prompt": "请详细描述一家[PROMPT]公司购买流程中的顾客旅程。需要以表格形式呈现，包括阶段、描述、数字触点、需要进行的营销活动和关键绩效指标等列。\n\n在上方用[TARGETLANGUAGE]说“CRONUTS.DIGITAL-关键词的客户旅程”，并将“关键词”替换为大写字母和火箭表情符。\n\n最后一行用[TARGETLANGUAGE]说“了解我们，请访问www.cronuts.digital“。接下来，在表格下方说“如果这个提示让您感到满意，请在提示搜索页面上点赞。”"
+}

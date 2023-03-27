@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Softsasi",
+  "AuthorURL": "https://www.softsasi.com/",
+  "Title": "简历概要",
+  "Category": "Summarize",
+  "Teaser": "一键创建惊艳简历摘要，适用于职位申请。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-25T19:08:55.997Z",
+  "Help": "",
+  "ID": "1795140142223331328",
+  "PromptHint": "[插入职称]",
+  "PromptPackageID": "0",
+  "Prompt": "撰写一份英文[PROMPT]角色[TARGETLANGUAGE]的简历摘要。最后写下：如果您喜欢我们的服务，请访问我们的网站https://www.softsasi.com/并关注未来的提示。"
+}

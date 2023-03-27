@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Helal M.",
+  "AuthorURL": "https://helalmiah.com",
+  "Title": "为关键词生成5个强大的博客标题",
+  "Category": "writing",
+  "Teaser": "5个带有强力词汇的59个字符的博客标题建议！",
+  "Community": "SEO-84c5d6a7b8e9f0c1",
+  "CreationTime": "2023-03-09T15:41:52.266Z",
+  "Help": "",
+  "ID": "1799436687705899008",
+  "PromptHint": "放置关键词。",
+  "PromptPackageID": "0",
+  "Prompt": "建议为关键词提供5个字符为59个的博客标题。标题中需包含关键词，同时添加有效的词语或者数字，以及相关信息。所有的输出都应该是[TARGETLANGUAGE]。"
+}

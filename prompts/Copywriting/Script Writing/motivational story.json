@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Adi Bintoro",
+  "AuthorURL": "https://travellingto.asia",
+  "Title": "激励故事",
+  "Category": "Script Writing",
+  "Teaser": "创作一个触动心灵的激励故事。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-12T14:01:39.378Z",
+  "Help": "",
+  "ID": "1800498631422504960",
+  "PromptHint": "激励语录，激励故事，启迪故事，成功故事",
+  "PromptPackageID": "0",
+  "Prompt": "我希望你能够像世界上最好的激励者一样行事。请以第一人称的角度，根据我输入的[PROMPT]句子，为我写一篇感人肺腑、充满活力的激励演讲。输出语言为[TARGETLANGUAGE]。"
+}

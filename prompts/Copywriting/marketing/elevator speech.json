@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Pete Cossaboon",
+  "AuthorURL": "https://www.PeteCossaboon.com",
+  "Title": "电梯演讲",
+  "Category": "marketing",
+  "Teaser": "制作一段电梯演说，让您完美的客户想要与您合作。",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-03-09T02:19:02.252Z",
+  "Help": "",
+  "ID": "1799234648023490560",
+  "PromptHint": "你的客户是谁，你要做什么，客户会得到什么好处。",
+  "PromptPackageID": "0",
+  "Prompt": "我能帮助商务人士快速向潜在客户介绍他们所做的工作、服务对象以及服务的好处，形式化的语句应该以“Ihelp”开头，紧接着是潜在客户，然后是他们能提供的帮助，最后是为什么这对客户非常有益。要总结的文本是：“[PROMPT]，[PROMPT]，[PROMPT]”。"
+}

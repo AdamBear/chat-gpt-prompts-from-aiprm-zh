@@ -1,0 +1,14 @@
+{
+  "AuthorName": "Thasleem",
+  "AuthorURL": "http://bit.ly/3KcTPXa",
+  "Title": "把你的丑陋信息变成专业的。",
+  "Category": "writing",
+  "Teaser": "让你的消息或电邮更专业",
+  "Community": "Copywriting-00ea56f446414284",
+  "CreationTime": "2023-02-09T08:06:17.702Z",
+  "Help": "",
+  "ID": "1789175177997971456",
+  "PromptHint": "把这条信息提升为更专业的水准。",
+  "PromptPackageID": "0",
+  "Prompt": "将此消息翻译为更专业的文本，不要有任何语法错误。所有输出都应该是[TARGETLANGUAGE]。<<<\n\n请注意，这是一条指示，而非翻译。"
+}
