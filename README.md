@@ -4,7 +4,7 @@
 -  [all_prompts.csv](all_prompts.csv)文件包含了提示数据的重要字段
 -  [all_titles.txt](all_titles.txt)文件包含提示标题，方便快速查阅感兴趣的标题
 
-各位不用clone，只要star就好，接下来还会有更新
+各位不用Fork，只要Star就好，接下来还会有更新
 
 ## TODO:
 - [X] 上传提示数据
