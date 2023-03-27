@@ -1,4 +1,4 @@
-## 中文aiprm社区提示数据
+## aiprm社区提示的中文翻译数据
 - 来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译。希望大家用得上。
 - prompts目录下是各个提示的json数据
 -  [all_prompts.csv](all_prompts.csv)文件包含了提示数据的重要字段
